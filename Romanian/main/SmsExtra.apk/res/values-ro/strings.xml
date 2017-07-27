@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="activity_not_found">Nu a fost găsită nicio aplicație care să ruleze această acțiune</string>
+    <string name="back_to_message_list">Înapoi la lista de mesaje</string>
+    <string name="confirm_delete_all_conversations">Ștergeți toate conversațiile?</string>
+    <string name="confirm_delete_conversation">Ștergeți întregul subiect?</string>
+    <string name="confirm_delete_group_message">Ștergeți mesajele grupate?</string>
+    <string name="confirm_delete_locked_message">Ștergeți acest mesaj fixat?</string>
+    <string name="confirm_delete_message">Ștergeți acest mesaj?</string>
+    <string name="confirm_dialog_locked_title">Ștergeți mesajul fixat?</string>
+    <string name="confirm_dialog_title">Ștergeți?</string>
+    <string name="copy_message_text">Copiați</string>
+    <string name="copy_message_text_success">Copiat cu succes</string>
+    <string name="delete">Ștergeți</string>
+    <string name="delete_message">Ștergeți</string>
+    <string name="from_label">"De la: "</string>
+    <string name="menu_forward">Redirecționați</string>
+    <string name="menu_lock">Marcați cu steluță</string>
+    <string name="menu_unlock">Nu mai marcați cu steluță</string>
+    <string name="message_details_title">Detalii mesaj</string>
+    <string name="message_type_label">"Tip: "</string>
+    <string name="messaging">Mesagerie</string>
+    <string name="received_label">"Recepționat: "</string>
+    <string name="repayment_network_error">Ceva a mers prost cu rețeaua dumneavoastră</string>
+    <string name="repayment_title">Reluare plată</string>
+    <string name="repayment_way">Metoda de reluare plată</string>
+    <string name="sent_label">"Trimis: "</string>
+    <string name="smart_messages_network_allow_message">Mesagerie Mi trebuie să se conecteze la internet pentru ca serviciile sale să funcționeze în mod normal. Permiteți acum?</string>
+    <string name="smart_messages_network_allow_title">Este necesară conexiunea la rețea</string>
+    <string name="sms_card_partner_label">"Partener cartelă SMS: "</string>
+    <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+    <string name="text_message">Mesaj text</string>
+    <string name="view_message_details">Vizualizați detaliile</string>
+</resources>

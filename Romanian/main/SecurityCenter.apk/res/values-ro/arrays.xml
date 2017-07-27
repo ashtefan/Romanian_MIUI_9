@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Această săptămână "</item>
+        <item>"Astăzi "</item>
+        <item>"Această lună "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Ieri "</item>
+        <item>"Astăzi "</item>
+        <item>"Această lună "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Această săptămână: "</item>
+        <item>"Astăzi: "</item>
+        <item>"Această lună: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Ieri: "</item>
+        <item>"Astăzi: "</item>
+        <item>"Această lună: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Ieri (date)</item>
+        <item>Astăzi (date)</item>
+        <item>Această lună (date)</item>
+        <item>Ieri (Wi-Fi)</item>
+        <item>Astăzi (Wi-Fi)</item>
+        <item>Această lună (Wi-Fi)</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Utilizare date mobile "</item>
+        <item>"Utilizare Wi-Fi "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Utilizare date mobile "</item>
+        <item>"Utilizare Wi-Fi "</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Arată atenționare</item>
+        <item>Atenționează și oprește datele mobile</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Întotdeauna</item>
+        <item>Doar pentru excepții</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Când telefonul este inactiv</item>
+        <item>Când telefonul este blocat sau după ieșirea din aplicație</item>
+        <item>Când telefonul este blocat sau după un minut de la părăsirea aplicației</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>Stare</item>
+        <item>Numele aplicației</item>
+        <item>Frecvența utilizării</item>
+        <item>Spațiul utilizat</item>
+        <item>Utilizarea datelor</item>
+        <item>Utilizarea acumulatorului</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Sortare după stare</item>
+        <item>Sortare după numele aplicației</item>
+        <item>Sortare după frecvența utilizării</item>
+        <item>Sortare după spațiul utilizat</item>
+        <item>Sortare după utilizarea datelor</item>
+        <item>Sortare după utilizarea acumulatorului</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Utilizare date</item>
+        <item>Balanță telefon</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>Zile de lucru</item>
+        <item>Zilele săptămânii</item>
+        <item>Personalizat</item>
+     </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>Zilele săptămânii</item>
+        <item>Personalizat</item>
+     </string-array>
+</resources>

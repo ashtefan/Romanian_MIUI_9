@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="face_count">
+        <item quantity="other">%d fotografii în total</item>
+        <item quantity="one">%d fotografie în total</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">%d fotografii în total</item>
+        <item quantity="one">%d fotografie în total</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d ani</item>
+        <item quantity="one">%d an</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d luni</item>
+        <item quantity="one">%d lună</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d zile</item>
+        <item quantity="one">%d zi</item>
+     </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d fotografii din %2$s vor fi adăugate</item>
+        <item quantity="one">%1$d fotografie din %2$s va fi adăugată</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d fotografii din %2$s vor fi adăugate</item>
+        <item quantity="one">%1$d fotografie din %2$s va fi adăugată</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Partajat cu %d persoane</item>
+        <item quantity="one">Partajat cu %d persoană</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">"Fotografiile selectate nu sunt pe telefon; le descărcați utilizând datele mobile?"</item>
+        <item quantity="one">"Fotografia selectată nu este pe telefon; o descărcați utilizând datele mobile?"</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">"Fotografiile selectate (%dMB) nu sunt pe telefon; le descărcați utilizând datele mobile?"</item>
+        <item quantity="one">"Fotografia selectată (%dMB) nu este pe telefon; o descărcați utilizând datele mobile?"</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">"Fotografiile selectate nu sunt pe telefon. Acestea vor fi descărcate"</item>
+        <item quantity="one">"Fotografia selectată nu este pe telefon. Aceasta va fi descărcată"</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">"S-au omis %d fotografii care nu există pe telefon."</item>
+        <item quantity="one">"S-a omis o fotografie care nu există pe telefon."</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">"%1$d fotografii nu au putut fi descărcate; reîncercați?"</item>
+        <item quantity="one">"Fotografia nu a putut fi descărcată; reîncercați?"</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">"Nu s-au putut descărca %1$d fotografii, conectați-vă la rețea și reîncercați"</item>
+        <item quantity="one">"Nu s-a putut descărca fotografia, conectați-vă la rețea și reîncercați"</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">"%1$d fotografii (%2$dMB) nu au putut fi descărcate; reîncercați?"</item>
+        <item quantity="one">"o fotografie (%2$dMB) nu a putut fi descărcată; reîncercați?"</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">"Nu s-au putut descărca %1$d fotografii (%2$d MB), conectați-vă la rețea și reîncercați"</item>
+        <item quantity="one">"Nu s-a putut descărca fotografia (%2$d MB), conectați-vă la rețea și reîncercați"</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Renunțați la descărcarea celor %d fotografii rămase?</item>
+        <item quantity="one">Renunțați la descărcarea ultimei fotografii?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">S-au adăugat %d fotografii din Cloud, dezactivați \"Arată doar albumele locale\" pentru a le vedea.</item>
+        <item quantity="one">S-a adăugat %d fotografie din Cloud, dezactivați \"Arată doar albumele locale\" pentru a o vedea.</item>
+    </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">Ștergeți %1$d fotografii %2$s?</item>
+        <item quantity="one">Ștergeți această fotografie %2$s?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+         <item quantity="other">Ștergeți %1$d videoclipuri %2$s?</item>
+         <item quantity="one">Ștergeți acest videoclip %2$s?</item>
+     </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Ștergeți %1$d elemente %2$s?</item>
+        <item quantity="one">Ștergeți %1$d element %2$s?</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d elemente)</item>
+        <item quantity="one">(%d element)</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d fotografii</item>
+        <item quantity="one">%d fotografie</item>
+     </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d elemente | %2$s</item>
+        <item quantity="one">%1$d element | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d fotografii și videoclipuri</item>
+        <item quantity="one">%1$d fotografie sau videoclip</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d fotografii și videoclipuri | %2$s</item>
+        <item quantity="one">%1$d fotografie sau videoclip | %2$s</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Reluați sincronizarea în %d ore</item>
+        <item quantity="one">Reluați sincronizarea în %d oră</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d fotografii și videoclipuri | Oprită</item>
+        <item quantity="one">%d fotografie sau videoclip | Oprită</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">"Nu s-au sincronizat %d fotografii și videoclipuri"</item>
+        <item quantity="one">"Nu s-a sincronizat %d fotografie sau videoclip"</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d elemente</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d fotografii</item>
+        <item quantity="one">%d fotografie</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d videoclipuri</item>
+        <item quantity="one">%d videoclip</item>
+    </plurals>
+    <plurals name="add_to_secret_successful">
+        <item quantity="other">Au fost adăugate %1$d fotografii în albumul secret</item>
+        <item quantity="one">A fost adăugată o fotografie în albumul secret</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d fotografii</item>
+        <item quantity="one">1 fotografie</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d videoclipuri</item>
+        <item quantity="one">1 videoclip</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d imagini aşteaptă sincronizarea</item>
+        <item quantity="one">O imagine aşteaptă sincronizarea</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d videoclipuri aşteaptă sincronizarea</item>
+        <item quantity="one">Un videoclip aşteaptă sincronizarea</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d elemente aşteaptă sincronizarea</item>
+        <item quantity="one">Un element aşteaptă sincronizarea</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Se sincronizează %1$d imagini…</item>
+        <item quantity="one">Se sincronizează o imagine…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Se sincronizează %1$d videoclipuri…</item>
+        <item quantity="one">Se sincronizează un videoclip…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Se sincronizează %1$d videoclipuri şi imagini…</item>
+        <item quantity="one">Se sincronizează un videoclip şi o imagine…</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">"Nu s-au putut descărca %1$d fișiere"</item>
+        <item quantity="one">"Nu s-a putut descărca %1$d fișier</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">"Nu s-au putut descărca %1$d fișiere, verificați conexiunea la rețea și reîncercați"</item>
+        <item quantity="one">"Nu s-a putut descărca %1$d fișier, verificați conexiunea la rețea și reîncercați"</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">"S-au omis %1$d fotografii care nu au putut fi încărcate."</item>
+        <item quantity="one">"S-a omis o fotografie care nu a putut fi încărcată."</item>
+    </plurals>
+    <plurals name="file_count_format">
+        <item quantity="other">În total %1$d elemente</item>
+        <item quantity="one">În total %1$d element</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Au fost găsite %1$d fotografii noi</item>
+        <item quantity="one">A fost găsită o fotografie nouă</item>
+    </plurals>
+</resources>

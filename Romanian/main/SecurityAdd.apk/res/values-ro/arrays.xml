@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_start_setting">
+        <item>Permite doar auto de pornire listă albă</item>
+        <item>toate interzise</item>
+    </string-array>
+</resources>

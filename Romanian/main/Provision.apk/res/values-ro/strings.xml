@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="agree">De acord</string>
+    <string name="agree_terms">"Am citit și sunt de acord cu Termenii Serviciului și Politica de Confidențialitate."</string>
+    <string name="app_name">Provision</string>
+    <string name="back">Înapoi</string>
+    <string name="cm_terms_content">"Pentru a îmbunătăți serviciile oferite, operatorul de date mobile poate, dacă preferați, să încarce datele dvs. personale și informații despre acest dispozitiv pe serverele sale utilizând rețelele Wi-Fi sau conexiunea de date mobile. Aceste informații vor fi utilizate doar în scopuri statistice, pentru a îmbunătăți calitatea serviciilor și furnizarea unui conținut personalizat. Aceste informații nu vor fi folosite pentru a vă identifica și nu vor fi partajate altor entități."</string>
+    <string name="cm_terms_title">Acord Operator rețea mobilă</string>
+    <string name="congratulation_label">"Sunteți gata de start!​"</string>
+    <string name="congratulation_title">Configurare finalizată</string>
+    <string name="content_description_complete">Finalizat</string>
+    <string name="content_description_language_picker">Selectați limba</string>
+    <string name="content_description_miui_version">MIUI 8</string>
+    <string name="content_description_start">Start</string>
+    <string name="desc_extra_fingerprint"/>
+    <string name="desc_extra_international_fingerprint"/>
+    <string name="desc_fingerprint">Folosiți-vă amprenta pentru a debloca telefonul, pentru a verifica tranzacțiile MiPay sau pentru a vă autentifica în aplicații sau servicii.</string>
+    <string name="desc_international_fingerprint">Utilizați amprenta digitală pentru a debloca dispozitivul sau pentru a vă autentifica în aplicații ori servicii.</string>
+    <string name="disagree">Anulaţi</string>
+    <string name="enable_accessibility_dialog_message">Ați activat TalkBack atingând ecranul cu 2 degete pentru mai mult de 10 secunde. TalkBack oferă feedback vocal persoanelor cu probleme de vedere. Dacă ați activat acest serviciu accidental, apăsați butonul Renunțare și apoi atingeți de două ori ecranul.</string>
+    <string name="enable_accessibility_dialog_negative_btn">Renunțare</string>
+    <string name="enable_accessibility_dialog_positive_btn">OK</string>
+    <string name="ime_privacy_policy">Politica de confidențialitate pentru tastatura selectată</string>
+    <string name="ime_privacy_policy_no_network">Nu există conexiune de rețea. Vizualizaţi Politica de confidențialitate pentru această tastatură la %s.</string>
+    <string name="input_method_category">Selectați tastatura prestabilită pe care o veți utiliza pentru scriere e-mailuri, note, etc. Rețineți că puteți instala alte tastaturi mai târziu.</string>
+    <string name="input_method_setting">Selectați tastatura prestabilită</string>
+    <string name="install_preinstall_app">Încărcare aplicaţii…</string>
+    <string name="language_picker_other_languages_title">Mai multe limbi</string>
+    <string name="locale_picker_title">Selectaţi regiunea</string>
+    <string name="miui_privacy_policy_no_network">Nu aveți o conexiune la internet. Vizualizaţi Politica de confidențialitate la %s.</string>
+    <string name="miui_terms_no_network">Nu aveți conexiune la internet. Vizualizaţi Termenii și condițiile la %s.</string>
+    <string name="multisim_settings_category">Setări cartelă SIM</string>
+    <string name="multisim_settings_title">2 cartele SIM detectate</string>
+    <string name="next">Înainte</string>
+    <string name="next_fingerprint">Următoarea</string>
+    <string name="other_settings">Setări adiţionale</string>
+    <string name="other_settings_auto_update">Instalați în mod automat</string>
+    <string name="other_settings_auto_update_summary">MIUI va selecta ora cea mai potrivită pentru instalarea actualizărilor.</string>
+    <string name="other_settings_location">Locaţie</string>
+    <string name="other_settings_location_summary">Permiteți aplicațiilor să vă acceseze locația.</string>
+    <string name="other_settings_mifg_online_content">Carusel de imagini de fundal</string>
+    <string name="other_settings_mifg_online_content_summary">Permiteți conectarea Caruselului de imagini de fundal la internet pentru a obține imagini de fundal noi.</string>
+    <string name="other_settings_upload_debug_log_summary">Informațiile colectate vor fi utilizate pentru localizarea și analizarea problemelor de sistem și pot conține date personale. Aceste date nu vor fi folosite pentru a vă identifica.</string>
+    <string name="other_settings_upload_debug_log_title">Trimiteți date de diagnosticare în mod automat</string>
+    <string name="other_settings_user_experience">Programul Experiență Utilizator</string>
+    <string name="other_settings_user_experience_summary">Ajutați la îmbunătățirea produselor și a serviciilor pe care vi le oferim prin trimiterea datelor de utilizare anonime.</string>
+    <string name="pref_title_data_slot">Cartela SIM preferată pentru date</string>
+    <string name="pref_title_voice_slot">Cartela SIM preferată pentru voce</string>
+    <string name="privacy_policy">Politica de confidențialitate</string>
+    <string name="provision_inputmethod_policy_description">
+Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
+    <string name="provision_inputmethod_policy_description1">Politica de confidențialitate</string>
+    <string name="setting_locale">Setare regiune…</string>
+    <string name="shut_down">Închidere</string>
+    <string name="sim_card_detecting">Verificare cartelă SIM…</string>
+    <string name="sim_card_detecting_title">Verificaţi cartela SIM</string>
+    <string name="sim_card_detection">Introduceţi o cartelă SIM</string>
+    <string name="sim_card_detection_info"></string>
+    <string name="sim_dectection_next">Continuaţi</string>
+    <string name="sim_redetection">Verificaţi din nou</string>
+    <string name="skip_underline">Omiteţi acest pas</string>
+    <string name="summary_not_set">Nu este setat</string>
+    <string name="terms_of_use">Termeni și condiții</string>
+    <string name="terms_of_use_label">"Confidențialitatea datelor dvs. este foarte importantă pentru noi. Vă rugăm să citiți Termenii și condițiile precum și Politica de confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni sunt disponibile pentru dvs.
+    
+Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI. Pe durata activării, serviciile Mi, Serviciile Mi de activare SIM, Mi Cloud, Localizarea dispozitivului, modulele Ecranului principal, Serviciul Jocuri,  componentele de sistem MAB și MSA, DirectService, Quick Card și alte componente statistice și ale contului Mi se vor conecta la internet și vor obține locația dvs."</string>
+    <string name="title_fingerprint">Adăugați amprenta</string>
+    <string name="user_agreement">Termenii serviciului</string>
+    <string name="welcome">Bine aţi venit</string>
+</resources>

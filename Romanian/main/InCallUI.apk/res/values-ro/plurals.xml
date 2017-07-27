@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_recording_notification_complete">
+     <item quantity="other">%d apeluri înregistrate.</item>
+     <item quantity="one">Un apel înregistrat.</item>
+ </plurals>
+    <plurals name="livetalk_left_minute">
+        <item quantity="other">%d minute rămase</item>
+        <item quantity="one">%d minut rămas</item>
+    </plurals>
+</resources>

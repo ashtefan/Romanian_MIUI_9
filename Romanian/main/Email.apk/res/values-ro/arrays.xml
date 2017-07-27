@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>Ian</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mai</item>
+        <item>Iun</item>
+        <item>Iul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Noi</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>La noapte</item>
+        <item>Mâine</item>
+        <item>În weekend</item>
+        <item>Săptămâna viitoare</item>
+        <item>Luna viitoare</item>
+        <item>Alegeți o dată</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Răspundeţi</item>
+        <item>Răspundeţi la toate</item>
+        <item>Redirecţionaţi</item>
+     </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Text foarte mic</item>
+        <item>Text mic</item>
+        <item>Text de dimensiuni normale</item>
+        <item>Text mare</item>
+        <item>Text foarte mare</item>
+     </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Recent vizualizate</item>
+        <item>Format</item>
+        <item>Nume</item>
+        <item>Expeditor</item>
+        <item>Data recepţionării</item>
+     </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Utilizate frecvent</item>
+        <item>Toate dosarele</item>
+     </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Mesaje noi</item>
+        <item>Mesaje vechi</item>
+        <item>Inbox</item>
+     </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Site:</item>
+        <item>E-mail:</item>
+        <item>mobil:</item>
+        <item>Telefon:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+     </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresă:</item>
+        <item>Tel:</item>
+        <item>Nume:</item>
+        <item>E-mail:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Cod poştal:</item>
+     </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Act de renunțare:</item>
+        <item>Act de renunțare e-mail</item>
+        <item>Trimis prin WPSMail</item>
+        <item>Trimis de la</item>
+        <item>Trimis cu</item>
+        <item>Mulţumesc,</item>
+        <item>Salutări</item>
+     </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Mulţumesc,</item>
+        <item>Salutări</item>
+        <item>Trimis de la</item>
+        <item>E-mail original</item>
+        <item>Trimis de la</item>
+        <item>Trimis de la</item>
+        <item>De la</item>
+        <item>Acest e-mail</item>
+        <item>Act de renunțare</item>
+        <item>Act de renunțare e-mail</item>
+     </string-array>
+</resources>

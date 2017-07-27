@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="home_title_selected">
+        <item quantity="other">%1$d elemente selectate</item>
+        <item quantity="one">%1$d element selectat</item>
+    </plurals>
+    <plurals name="delete_confirm_text">
+        <item quantity="other">Ștergeți %1$d înregistrări de ecran?</item>
+        <item quantity="one">Ștergeți această înregistrare de ecran?</item>
+    </plurals>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="ad_service">Serviciul de reclame</string>
+    <string name="app_label">Ecran de vizualizare HTML</string>
+    <string name="app_name_which_call">Aplicația: %s</string>
+    <string name="app_version_which_call">Versiunea aplicației: %s</string>
+    <string name="ime_privacy_policy">Selectați tastatura</string>
+    <string name="license_host_unreachable">"Nu s-a putut conecta la rețea. Pentru a vedea informația acum, 
+accesați %s de pe alt dispozitiv conectat"</string>
+    <string name="loading">Doar o secundă…</string>
+    <string name="mibi_license">Acordul utilizatorului pentru serviciul Mi Credit</string>
+    <string name="open_wifi_connect_summary">Atingeți pentru a vedea detalii.</string>
+    <string name="open_wifi_connect_title">Conectat la %1$s</string>
+    <string name="permdesc_accessDrm">Permite aplicației să acceseze conținutul protejat DRM.</string>
+    <string name="policy_name">Protocolul: %s</string>
+    <string name="pre_installed_apps">Aplicații preinstalate</string>
+    <string name="settings_ad_loading">Doar o secundă…</string>
+    <string name="settings_ad_loading_unavailable">"Nu s-au putut încărca informațiile."</string>
+    <string name="settings_license_activity_loading">Doar o secundă…</string>
+    <string name="settings_license_activity_title">Licențe open-source</string>
+    <string name="settings_license_activity_unavailable">"Nu s-au putut încărca licențele."</string>
+    <string name="settings_safetylegal_activity_loading">Doar o secundă…</string>
+    <string name="settings_safetylegal_activity_title">Informații de securitate</string>
+    <string name="settings_safetylegal_activity_unreachable">"Nu s-a putut conecta la rețea. Pentru a vizualiza această informație acum, accesați %s de pe un computer conectat la internet."</string>
+    <string name="settings_safetylegal_title">Informații de securitate</string>
+</resources>

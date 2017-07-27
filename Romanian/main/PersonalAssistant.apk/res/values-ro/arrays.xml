@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="map_keyword">
+        <item>congestie</item>
+        <item>km congestie</item>
+        <item>km Amânată</item>
+        <item>drum în lucru</item>
+    </string-array>
+    <string-array name="map_title">
+        <item>evita-l</item>
+        <item>congestie severă</item>
+        <item>fluxul de trafic</item>
+        <item>Nici o congestie semnificativă</item>
+        <item>trafic anormal</item>
+    </string-array>
+    <string-array name="keyword_recommend_unit">
+        <item>dori</item>
+        <item>doar</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Miezul nopții</item>
+        <item>Înainte de zorii zilei</item>
+        <item>Dimineață</item>
+        <item>Amiază</item>
+        <item>După amiază</item>
+        <item>Seară</item>
+        <item>În timpul nopții</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>aer%1$s</item>
+        <item>aer%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$scontaminare</item>
+        <item>%1$scontaminare</item>
+        <item>%1$scontaminare</item>
+        <item>%1$scontaminare</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>excelent</item>
+        <item>bun</item>
+        <item>moale</item>
+        <item>moderat</item>
+        <item>sever</item>
+        <item>serios</item>
+    </string-array>
+    <string-array name="express_watched_app_filter">
+        <item>Curier:</item>
+        <item>Numărul AWB:</item>
+        <item>Sursa:</item>
+        <item>Informații de logistică:</item>
+    </string-array>
+</resources>

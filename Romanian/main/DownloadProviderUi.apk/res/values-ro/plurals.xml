@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">S-au găsit %d elemente</item>
+        <item quantity="one">S-a găsit 1 element</item>
+    </plurals>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Ștergeți %d elemente?</item>
+        <item quantity="one">Ștergeți acest element?</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">S-au găsit %d rezultate</item>
+        <item quantity="one">S-a găsit 1 rezultat</item>
+    </plurals>
+</resources>

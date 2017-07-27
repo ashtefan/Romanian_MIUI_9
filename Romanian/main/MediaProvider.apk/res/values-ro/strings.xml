@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="Add_More_Ringtones">Mai multe tonuri de apel…</string>
+    <string name="alarm_sound_default">Sunet de alarmă prestabilit</string>
+    <string name="app_label">Stocare multimedia</string>
+    <string name="artist_label">Artist</string>
+    <string name="notification_sound_default">Sunet de notificare prestabilit</string>
+    <string name="ringtone_default">Ton de apel prestabilit</string>
+    <string name="root_audio">Audio</string>
+    <string name="root_images">Imagini</string>
+    <string name="root_videos">Videoclipuri</string>
+    <string name="uid_label">Media</string>
+</resources>

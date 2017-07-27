@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Masculin</item>
+        <item>Feminin</item>
+    </string-array>
+    <string-array name="education">
+        <item>Gimnaziu</item>
+        <item>Școală pregătitoare</item>
+        <item>Liceu</item>
+        <item>Școală de meserii</item>
+        <item>"Licențiat"</item>
+        <item>"Masterat"</item>
+        <item>"Doctorat"</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 1 500</item>
+        <item>1 501~2 000</item>
+        <item>2 001~3 000</item>
+        <item>3 001~4 000</item>
+        <item>4 001~6 000</item>
+        <item>> 6 000(EȘTI BAZAT!)</item>
+    </string-array>
+</resources>

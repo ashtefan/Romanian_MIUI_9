@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="updated_contacts">
+        <item quantity="other">Au fost actualizate %s contacte</item>
+        <item quantity="one">A fost actualizat %s contact</item>
+    </plurals>
+    <plurals name="view_all_devices">
+        <item quantity="other">Vizualizați toate cele %d dispozitive</item>
+        <item quantity="one">Vizualizați %d dispozitiv</item>
+    </plurals>
+    <plurals name="view_all_apps">
+        <item quantity="other">Vizualizați toate cele %d aplicații</item>
+        <item quantity="one">Vizualizați %d aplicație</item>
+    </plurals>
+    <plurals name="view_all_browsers">
+        <item quantity="other">Vizualizați toate cele %d browsere</item>
+        <item quantity="one">Vizualizați %d browser-ul</item>
+    </plurals>
+</resources>

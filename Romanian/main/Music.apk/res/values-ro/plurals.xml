@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d melodii&lt;/font> descărcate</item>
+        <item quantity="one">&lt;font color==\"red\">%d melodie&lt;/font> descărcată</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d melodii&lt;/font> se descarcă</item>
+        <item quantity="one">&lt;font color==\"red\">%d melodie&lt;/font> se descarcă</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Ștergeți %d elemente?</item>
+        <item quantity="one">Ștergeți %d element?</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d descărcări eliminate</item>
+        <item quantity="one">%d descărcare eliminată</item>
+    </plurals>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d melodii găsite</item>
+        <item quantity="one">%d melodie găsită</item>
+     </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d zile rămase</item>
+        <item quantity="one">%d zi rămasă</item>
+     </plurals>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Ştergeţi %d liste de redare?</item>
+        <item quantity="one">Ştergeţi %d listă de redare?</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d noi</item>
+     </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d melodii</item>
+        <item quantity="one">%d melodie</item>
+     </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d melodii similare</item>
+        <item quantity="one">%d melodie similară</item>
+     </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d artişti</item>
+        <item quantity="one">%d artist</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d formaţii</item>
+        <item quantity="one">%d formaţie</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Ştergeţi %d melodii?</item>
+        <item quantity="one">Ştergeţi %d melodie?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Eliminaţi %d melodii?</item>
+        <item quantity="one">Eliminaţi %d melodie?</item>
+    </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Ștergeți %d melodii din Mi Cloud? Ele vor fi șterse de asemenea și din lista locală de redare</item>
+        <item quantity="one">Ștergeți %d melodie din Mi Cloud? Ea va fi ștearsă de asemenea și din lista locală de redare</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d melodii au fost adăugate în lista de redare</item>
+        <item quantity="one">%d melodie a fost adăugată în lista de redare</item>
+     </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d melodii au fost eliminate din lista de redare</item>
+        <item quantity="one">%d melodie a fost eliminată din lista de redare</item>
+     </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Redarea se va opri peste %d minute</item>
+        <item quantity="one">Redarea se va opri peste %d minut</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d melodii vor fi trimise</item>
+        <item quantity="one">%d melodie va fi trimisă</item>
+     </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d melodii</item>
+        <item quantity="one">%d melodie</item>
+     </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d melodii adăugate</item>
+        <item quantity="one">%d melodie adăugată</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">melodii au fost adăugate la favorite.</item>
+        <item quantity="one">melodie a fost adăugată la favorite.</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d comentarii</item>
+        <item quantity="one">%d comentariu</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d urmăritori</item>
+        <item quantity="one">%d urmăritor</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d melodii nu au fost sincronizate (%2$.1fMB)"</item>
+        <item quantity="one">"%1$d melodie nu a fost sincronizată (%2$.1fMB)"</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Sincronizați %1$d melodii (%2$.1fMB)</item>
+        <item quantity="one">Sincronizați %1$d melodie (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Sincronizare melodii, %1$d melodii rămase (%2$.1fMB)</item>
+        <item quantity="one">Sincronizare melodii, %1$d melodie rămasă (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d melodii nu s-au sincronizat în Mi Cloud. Opriți acum?"</item>
+        <item quantity="one">"%d melodie nu s-a sincronizat în Mi Cloud. Opriți acum?"</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Create pe %1$s | în total %2$d melodii</item>
+        <item quantity="zero">Create pe %1$s | în total %2$d melodii</item>
+        <item quantity="one">Create pe %1$s | în total %2$d melodie</item>
+    </plurals>
+</resources>

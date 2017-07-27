@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">cu %d zile înainte</item>
+        <item quantity="one">cu o zi înainte</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">În %1$d zile la %2$s</item>
+        <item quantity="one">În %1$d zi la %2$s</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">cu %1$d zile în urmă la %2$s</item>
+        <item quantity="one">cu %1$d zi în urmă la %2$s</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">cu %d ore înainte</item>
+        <item quantity="one">cu o oră înainte</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">cu %d minute înainte</item>
+        <item quantity="one">cu un minut înainte</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">cu %d săptămâni înainte</item>
+        <item quantity="one">cu o săptămână înainte</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">%1$s zile</item>
+        <item quantity="one">%1$s zi</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">Aniversare: %2$d ani de la %1$s în 3 zile</item>
+        <item quantity="one">Aniversare: %2$d an de la %1$s în 3 zile</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">Aniversare: %2$d ani de la %1$s</item>
+        <item quantity="one">Aniversare: %2$d an de la %1$s</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">%1$s ani</item>
+        <item quantity="one">%1$s an</item>
+    </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s ani</item>
+        <item quantity="one">%1$s an</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">%1$s zile rămase</item>
+        <item quantity="one">%1$s zi rămasă</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">peste %1$d zile</item>
+        <item quantity="one">peste %1$d zi</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">cu %1$d zile înainte</item>
+        <item quantity="one">cu %1$d zi înainte</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">%1$d zile după</item>
+        <item quantity="one">%1$d zi după</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">%1$d zile înainte</item>
+        <item quantity="one">%1$d zi înainte</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d zile</item>
+        <item quantity="one">%1$d zi</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$d luni</item>
+        <item quantity="one">%1$d lună</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d săptămâni</item>
+        <item quantity="one">%1$d săptămână</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$d ani</item>
+        <item quantity="one">%1$d an</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">SĂPTĂMÂNA %d</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">%d zile lucrătoare</item>
+        <item quantity="one">%d zi lucrătoare</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d天后</item>
+        <item quantity="one">%1$d天后</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">%1$d天前</item>
+        <item quantity="one">%1$d天前</item>
+    </plurals>
+</resources>

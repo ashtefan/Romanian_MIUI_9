@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Ștergeți %1$d fișiere</item>
+        <item quantity="zero">Ștergeți %1$d fișiere</item>
+        <item quantity="one">Ștergeți %1$d fișier</item>
+        <item quantity="two">Ștergeți %1$d fișiere</item>
+        <item quantity="few">Ștergeți %1$d fișiere</item>
+        <item quantity="many">Ștergeți %1$d fișiere</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" și %1$d dosare?"</item>
+        <item quantity="zero">" și %1$d dosare?"</item>
+        <item quantity="one">" și %1$d dosar?"</item>
+        <item quantity="two">" și %1$d dosare?"</item>
+        <item quantity="few">" și %1$d dosare?"</item>
+        <item quantity="many">" și %1$d dosare?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d elemente</item>
+        <item quantity="zero">%d elemente</item>
+        <item quantity="one">%d element</item>
+        <item quantity="two">%d elemente</item>
+        <item quantity="few">%d elemente</item>
+        <item quantity="many">%d elemente</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d fișiere rămase de descărcat</item>
+        <item quantity="zero">%1$d fișiere rămase de descărcat</item>
+        <item quantity="one">%1$d fișier rămas de descărcat</item>
+        <item quantity="two">%1$d fișiere rămase de descărcat</item>
+        <item quantity="few">%1$d fișiere rămase de descărcat</item>
+        <item quantity="many">%1$d fișiere rămase de descărcat</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d fișiere rămase de încărcat</item>
+        <item quantity="zero">%1$d fișiere rămase de încărcat</item>
+        <item quantity="one">%1$d fișier rămas de încărcat</item>
+        <item quantity="two">%1$d fișiere rămase de încărcat</item>
+        <item quantity="few">%1$d fișiere rămase de încărcat</item>
+        <item quantity="many">%1$d fișiere rămase de încărcat</item>
+    </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">%1$d fișiere rămase de transmis</item>
+        <item quantity="zero">%1$d fișiere rămase de transmis</item>
+        <item quantity="one">%1$d fișier rămas de transmis</item>
+        <item quantity="two">%1$d fișiere rămase de transmis</item>
+        <item quantity="few">%1$d fișiere rămase de transmis</item>
+        <item quantity="many">%1$d fișiere rămase de transmis</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="zero">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+        <item quantity="two">%1$d selectate</item>
+        <item quantity="few">%1$d selectate</item>
+        <item quantity="many">%1$d selectate</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d elemente)</item>
+        <item quantity="zero"> (%1$d elemente)</item>
+        <item quantity="one"> (%1$d element)</item>
+        <item quantity="two"> (%1$d elemente)</item>
+        <item quantity="few"> (%1$d elemente)</item>
+        <item quantity="many"> (%1$d elemente)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d elemente)</item>
+        <item quantity="zero"> (%1$d elemente)</item>
+        <item quantity="one"> (%1$d element)</item>
+        <item quantity="two"> (%1$d elemente)</item>
+        <item quantity="few"> (%1$d elemente)</item>
+        <item quantity="many"> (%1$d elemente)</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d elemente</item>
+        <item quantity="zero"> %1$d elemente</item>
+        <item quantity="one"> %1$d element</item>
+        <item quantity="two"> %1$d elemente</item>
+        <item quantity="few"> %1$d elemente</item>
+        <item quantity="many"> %1$d elemente</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">cu %1$d minute în urmă</item>
+        <item quantity="zero">cu %1$d minute în urmă</item>
+        <item quantity="one">cu %1$d minut în urmă</item>
+        <item quantity="two">cu %1$d minute în urmă</item>
+        <item quantity="few">cu %1$d minute în urmă</item>
+        <item quantity="many">cu %1$d minute în urmă</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">cu %1$d ore în urmă</item>
+        <item quantity="zero">cu %1$d ore în urmă</item>
+        <item quantity="one">cu %1$d oră în urmă</item>
+        <item quantity="two">cu %1$d ore în urmă</item>
+        <item quantity="few">cu %1$d ore în urmă</item>
+        <item quantity="many">cu %1$d ore în urmă</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">cu %1$d zile în urmă</item>
+        <item quantity="zero">cu %1$d zile în urmă</item>
+        <item quantity="one">cu %1$d zi în urmă</item>
+        <item quantity="two">cu %1$d zile în urmă</item>
+        <item quantity="few">cu %1$d zile în urmă</item>
+        <item quantity="many">cu %1$d zile în urmă</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d secunde</item>
+        <item quantity="zero">%1$d secunde</item>
+        <item quantity="one">%1$d secundă</item>
+        <item quantity="two">%1$d secunde</item>
+        <item quantity="few">%1$d secunde</item>
+        <item quantity="many">%1$d secunde</item>
+    </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d minute</item>
+        <item quantity="zero">%1$d minute</item>
+        <item quantity="one">%1$d minut</item>
+        <item quantity="two">%1$d minute</item>
+        <item quantity="few">%1$d minute</item>
+        <item quantity="many">%1$d minute</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d ore</item>
+        <item quantity="zero">%1$d ore</item>
+        <item quantity="one">%1$d oră</item>
+        <item quantity="two">%1$d ore</item>
+        <item quantity="few">%1$d ore</item>
+        <item quantity="many">%1$d ore</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d zile</item>
+        <item quantity="zero">%1$d zile</item>
+        <item quantity="one">%1$d zi</item>
+        <item quantity="two">%1$d zile</item>
+        <item quantity="few">%1$d zile</item>
+        <item quantity="many">%1$d zile</item>
+    </plurals>
+    <plurals name="des_running_trans">
+        <item quantity="other">"%1$d fișiere nu au fost transferate."</item>
+        <item quantity="one">"%1$d fișier nu a fost transferat."</item>
+    </plurals>
+</resources>

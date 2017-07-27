@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Răcire</item>
+        <item>Încălzire</item>
+        <item>Umidificare</item>
+        <item>Ventilator</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Dispozitivul dumneavoastră poate fi împerecheat cu Mi TV, Mi Box si cu o serie întreagă de alte device-uri care rulează Android, prin intermediul Wi-Fi.</item>
+        <item>"Asigurați-vă că ați selectat modelul potrivit de A/C în decursul procesului de împerechere. Urmăriți întocmai indicațiile până când împerecherea este realizată în totalitate."</item>
+        <item>Din păcate, doar Mi4, Mi 4c și Redmi Note 2 pot fi folosite ca telecomandă IR în acest moment.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mie</item>
+        <item>Joi</item>
+        <item>Vin</item>
+        <item>Sâm</item>
+        <item>Dum</item>
+    </string-array>
+    <string-array name="question">
+        <item>De ce telefonul meu caută în continuu dispozitive wireless?</item>
+        <item>"De ce pot porni A/C-ul dar nu îl pot opri?"</item>
+        <item>Pot folosi un telefon Mi3, Mi2 sau Redmi ca și telecomandă?</item>
+    </string-array>
+    <string-array name="assistant_tab">
+        <item>Videoclip</item>
+        <item>Capturi de ecran</item>
+        <item>Aplicație</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>Complet</item>
+        <item>Colectare</item>
+        <item>CCTV</item>
+        <item>Televizor</item>
+        <item>HD</item>
+        <item>Recent</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>Toate canalele</item>
+        <item>Canale preferate</item>
+        <item>Canal CCTV</item>
+        <item>Canal TV prin satelit</item>
+        <item>Canale HD</item>
+        <item>Recent vizionat</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+</resources>

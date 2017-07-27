@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="alarm_in_furture">
+        <item>Alarmă în mai puțin de un minut</item>
+        <item>Alarmă în %1$s</item>
+        <item>Alarmă în %2$s</item>
+        <item>Alarmă în %1$s și %2$s</item>
+        <item>Alarmă în %3$s</item>
+        <item>Alarmă în %1$s și %3$s</item>
+        <item>Alarmă în %2$s și %3$s</item>
+        <item>Alarmă în %1$s %2$s și %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Ieri</item>
+        <item>Astăzi</item>
+        <item>Mâine</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>O dată</item>
+        <item>Zilnic</item>
+        <item>În zilele lucrătoare</item>
+        <item>În zilele nelucrătoare</item>
+        <item>De Lu - Vi</item>
+        <item>Personalizată</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>Lu - Vi</item>
+        <item>Personalizat</item>
+    </string-array>
+   
+    <string-array name="alarm_set">
+        <item>Alarma va suna peste mai puțin de un minut.</item>
+        <item>Alarma va suna peste %1$s.</item>
+        <item>Alarma va suna peste %2$s.</item>
+        <item>Alarma va suna peste %1$s și %2$s.</item>
+        <item>Alarma va suna peste %3$s.</item>
+        <item>Alarma va suna peste %1$s și %3$s.</item>
+        <item>Alarma va suna peste %2$s și %3$s.</item>
+        <item>Alarma va suna peste %1$s, %2$s și %3$s.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minut</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 de minute</item>
+        <item>25 de minute</item>
+        <item>30 de minute</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Niciodată</item>
+        <item>1 minut</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>15 minute</item>
+        <item>20 de minute</item>
+        <item>25 de minute</item>
+        <item>30 de minute</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Nimic</item>
+        <item>Amână</item>
+        <item>Oprește</item>
+    </string-array>
+</resources>

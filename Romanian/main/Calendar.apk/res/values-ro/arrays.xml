@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aquarius_info">
+        <item>vărsător</item>
+        <item>Vărsător</item>
+        <item>20.01 - 18.02</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>berbec</item>
+        <item>Berbec</item>
+        <item>21.03 - 19.04</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>rac</item>
+        <item>Rac</item>
+        <item>22.06 - 22.07</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Capricorn</item>
+        <item>22.12 - 19.01</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Doar acest eveniment</item>
+        <item>Toate evenimentele din serie</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Înainte</item>
+        <item>Înapoi</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>La momentul evenimentului</item>
+        <item>Cu 5 minute înainte de eveniment</item>
+        <item>Cu 10 minute înainte de eveniment</item>
+        <item>Cu 15 minute înainte de eveniment</item>
+        <item>Cu 30 de minute înainte de eveniment</item>
+        <item>Cu o oră înainte de eveniment</item>
+        <item>Cu o zi înainte de eveniment</item>
+        <item>Cu 2 zile înainte de eveniment</item>
+        <item>Cu o săptămână înainte de eveniment</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Doar acest eveniment</item>
+        <item>Acest eveniment și cele următoare</item>
+        <item>Toate evenimentele</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemeni</item>
+        <item>Gemeni</item>
+        <item>21.05 - 21.06</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leu</item>
+        <item>Leu</item>
+        <item>23.07 - 22.08</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>balanță</item>
+        <item>Balanță</item>
+        <item>23.09 - 23.10</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>prima</item>
+        <item>a doua</item>
+        <item>a treia</item>
+        <item>a patra</item>
+        <item>ultima</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pești</item>
+        <item>Pești</item>
+        <item>19.02 - 20.03</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Întotdeauna</item>
+        <item>Doar când sunetul este oprit</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Codul prestabilit al regiunii</item>
+        <item>Sâmbătă</item>
+        <item>Duminică</item>
+        <item>Luni</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>pe întâi</item>
+        <item>pe doi</item>
+        <item>pe trei</item>
+        <item>pe patru</item>
+        <item>pe cinci</item>
+        <item>pe șase</item>
+        <item>pe șapte</item>
+        <item>pe opt</item>
+        <item>pe nouă</item>
+        <item>pe zece</item>
+        <item>pe unsprezece</item>
+        <item>pe doisprezece</item>
+        <item>pe treisprezece</item>
+        <item>pe paisprezece</item>
+        <item>pe cincisprezece</item>
+        <item>pe șaisprezece</item>
+        <item>pe șaptesprezece</item>
+        <item>pe optsprezece</item>
+        <item>pe nouăsprezece</item>
+        <item>pe douăzeci</item>
+        <item>pe douăzecișiunu</item>
+        <item>pe douăzecișidoi</item>
+        <item>pe douăzecișitrei</item>
+        <item>pe douăzecișipatru</item>
+        <item>pe douăzecișicinci</item>
+        <item>pe douăzecișișase</item>
+        <item>pe douăzecișișapte</item>
+        <item>pe douăzecișiopt</item>
+        <item>pe douăzecișinouă</item>
+        <item>pe treizeci</item>
+        <item>pe treizecișiunu</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Niciodată</item>
+        <item>Timp</item>
+        <item>Frecvenţă</item>
+     </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Ian</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mai</item>
+        <item>Iun</item>
+        <item>Iul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Noi</item>
+        <item>Dec</item>
+     </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>prima</item>
+        <item>a doua</item>
+        <item>a treia</item>
+        <item>a patra</item>
+        <item>ultima</item>
+     </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Lu - Vi</item>
+        <item>Weekend</item>
+        <item>Toată săptămâna</item>
+     </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mie</item>
+        <item>Joi</item>
+        <item>Vin</item>
+        <item>Sâm</item>
+        <item>Dum</item>
+     </string-array>
+    <string-array name="repeat_countdown">
+        <item>Niciodată</item>
+        <item>Lunar</item>
+        <item>Anual</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>zi</item>
+        <item>săptămână</item>
+        <item>lună</item>
+        <item>an</item>
+     </string-array>
+    <string-array name="response_labels1">
+        <item>Niciun răspuns</item>
+        <item>Da</item>
+        <item>Poate</item>
+        <item>Nu</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>săgetător</item>
+        <item>Săgetător</item>
+        <item>23.11 - 21.12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpion</item>
+        <item>Scorpion</item>
+        <item>24.10 - 22.11</item>
+	    </string-array>
+    <string-array name="taurus_info">
+        <item>taur</item>
+        <item>Taur</item>
+        <item>20.04 - 20.05</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Insulele Marshall</item>
+        <item>Insula Midway</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Ora coastei Pacificului</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Ora regiunii muntoase</item>
+        <item>America Centrală</item>
+        <item>Ora Regiunii centrale</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Ora regiunii estice</item>
+        <item>Venezuela</item>
+        <item>Ora Atlanticului (Barbados)</item>
+        <item>Ora Atlanticului (Canada)</item>
+        <item>Manau</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brazilia</item>
+        <item>Buenos Aires</item>
+        <item>Groenlanda</item>
+        <item>Montevideo</item>
+        <item>Atlanticul de Mijloc</item>
+        <item>Insulele Azore</item>
+        <item>Insula Capului Verde</item>
+        <item>Casablanca</item>
+        <item>Londra, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrad</item>
+        <item>Bruxelles</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Ora Africii de Vest</item>
+        <item>Amman, Iordania</item>
+        <item>Atena, Istanbul</item>
+        <item>Beirut, Liban</item>
+        <item>Cairo</item>
+        <item>Helsinki</item>
+        <item>Ierusalim</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moscova</item>
+        <item>Kuweit</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Erevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Ekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+     </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>cu 3 ore înainte</item>
+        <item>cu 4 ore înainte</item>
+        <item>cu 5 ore înainte</item>
+        <item>cu 6 ore înainte</item>
+        <item>cu o zi înainte</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>fecioară</item>
+        <item>Fecioară</item>
+        <item>23.08 - 22.09</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>DUM</item>
+        <item>LUN</item>
+        <item>MAR</item>
+        <item>MIE</item>
+        <item>JOI</item>
+        <item>VIN</item>
+        <item>SÂM</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Transparent</item>
+        <item>Fundal alb</item>
+     </string-array>
+    <string-array name="aqi_level_desc">
+        <item>空气优</item>
+        <item>空气良</item>
+        <item>轻度污染</item>
+        <item>中度污染</item>
+        <item>重度污染</item>
+        <item>严重污染</item>
+    </string-array>
+    <string-array name="aqi_level_simple_desc">
+        <item>优</item>
+        <item>良</item>
+        <item>轻度</item>
+        <item>中度</item>
+        <item>重度</item>
+        <item>严重</item>
+    </string-array>
+    <string-array name="fortune_gender">
+        <item>masculin</item>
+        <item>feminin</item>
+    </string-array>
+    <string-array name="fortune_random_birthday">
+        <item>01.01.1992</item>
+        <item>04.02.2013</item>
+        <item>05.04.1995</item>
+        <item>06.08.1999</item>
+        <item>21.06.1996</item>
+        <item>18.01.2014</item>
+        <item>23.01.2006</item>
+        <item>19.11.2014</item>
+        <item>17.01.1993</item>
+        <item>02.07.1977</item>
+        <item>10.01.1982</item>
+    </string-array>
+    <string-array name="global_criket_match">
+        <item>IPL</item>
+        <item>Internațional</item>
+        <item>Local</item>
+        <item>Liga T20</item>
+    </string-array>
+    
+    
+ </resources>

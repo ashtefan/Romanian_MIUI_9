@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Redenumiți</item>
+        <item>Ștergeți</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Cameră</item>
+        <item>Galerie</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>După data creării</item>
+        <item>După data ultimei modificări</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nume</item>
+        <item>Pseudonim</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Companie</item>
+        <item>IM</item>
+        <item>Telefon SIP</item>
+        <item>Zi de naştere</item>
+        <item>Site web</item>
+        <item>Adresă</item>
+        <item>Notă</item>
+     </string-array>
+    <string-array name="font_size_names">
+        <item>Mic</item>
+        <item>Mediu</item>
+        <item>Mare</item>
+        <item>Foarte mare</item>
+     </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Bine ați venit în aplicația Note
+"</item>
+        <item>"Creați o notiță
+Apăsați semnul plus pentru a crea o notiță."</item>
+        <item>"Alegeți șabloane
+Utilizați diverse șabloane pentru a modifica fundalul și stilul notițelor dumneavoastră.
+Atingeți butonul din dreapta jos în cadrul unei notițe pentru a selecta un șablon."</item>
+        <item>"Creați dosare
+Organizați-vă notele în dosare.
+Puteți crea un dosar în 2 moduri:
+1. Apăsați simbolul pentru dosar din colțul din stânga sus, apoi apăsați semnul plus.
+2. Apăsați și mențineți degetul apăsat pe o notiță până când apare un meniu pop-up, și alegeți \"Mutați în\" - \"Dosar nou\"."</item>
+        <item>"Ascundeți notițele
+Protejați-vă notițele private cu ajutorul unei parole.
+Puteți ascunde o notiță în 2 moduri:
+1. Apăsați butonul cu 3 puncte din colțul din dreapta sus în cadrul unei notițe și selectați \"Ascundeți\".
+2. Apăsați și mențineți degetul apăsat pe o notiță până când apare un meniu pop-up, și alegeți \"Ascundeți\"."</item>
+        <item>"Și multe alte caracteristici!
+  - Imagini, liste de bifat, memento-uri.
+
+Adăugarea imaginilor
+Apăsați simbolul imagine din partea de sus în cadrul unei notițe pentru a adăuga o imagine.
+Puteți face o fotografie sau puteți selecta una din Galerie.
+Atunci când o notiță conține o imagine, aceasta va fi utilizată ca miniatură a notiței dacă selectați vizualizarea de tip grilă.
+
+Creați liste de bifat
+Bifele sunt elemente esențiale ale unei liste de activități.
+Apăsați simbolul bifă din partea de jos în cadrul unei notițe pentru a adăuga un element de bifat unui paragraf din text.
+Bifați când ați încheiat sarcina.
+
+Setare memento
+Setați un memento direct din interiorul unei notițe.
+Apăsați butonul cu 3 puncte din colțul din dreapta sus în cadrul unei notițe și selectați \"Memento\", apoi setați data și ora.
+"</item>
+     </string-array>
+</resources>

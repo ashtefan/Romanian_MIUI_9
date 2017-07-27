@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">Prognoza pentru %1$s zile</item>
+        <item quantity="one">Prognoza pentru %1$s zi</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu %d minut în urmă</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">cu %d ore în urmă</item>
+        <item quantity="one">cu %d oră în urmă</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">cu %d zile în urmă</item>
+        <item quantity="one">cu %d zi în urmă</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Senin</item>
+        <item quantity="one">Senin</item>
+    </plurals>
+    <plurals name="total_voted_num_text">
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> persoane au votat"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> persoană a votat"</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s persoane</item>
+        <item quantity="one"> | %1$s persoană</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s persoane | </item>
+        <item quantity="one">%1$s persoană | </item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s secunde după feedback</item>
+        <item quantity="one">%1$s secundă după feedback</item>
+    </plurals>
+</resources>

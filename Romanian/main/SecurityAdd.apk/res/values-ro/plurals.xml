@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Au fost adăugate %d jocuri</item>
+        <item quantity="one">A fost adăugat %d joc</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">"Nu au fost adăugate %d jocuri"</item>
+        <item quantity="one">"Nu a fost adăugat %d joc"</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d aplicații găsite</item>
+        <item quantity="zero">0 aplicații găsite</item>
+        <item quantity="one">%d aplicație găsită</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Căutați printre %d aplicații</item>
+        <item quantity="one">Căutați %d aplicație</item>
+    </plurals>
+</resources>

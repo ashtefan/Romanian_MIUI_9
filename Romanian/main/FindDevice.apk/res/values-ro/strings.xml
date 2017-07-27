@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="activate_xiaomi_account">Activați dispozitivul</string>
+    <string name="adding_or_updating_account">Actualizare cont…</string>
+    <string name="app_name">Localizare dispozitiv</string>
+    <string name="captcha">Cod de verificare</string>
+    <string name="change_find_device_status_failed">"Nu s-a putut debloca. %s."</string>
+    <string name="default_debt_msg_words">"Acest telefon este blocat din cauza unei plăți neefectuate la timp. 
+Contactați agentul de vânzări pentru mai multe detalii."</string>
+    <string name="default_lock_msg_words">Acest telefon este asociat unui cont Mi existent. Din motive de siguranță, trebuie să introduceți parola pentru verificarea acestui dispozitiv.</string>
+    <string name="default_lock_msg_words_with_phone">Salut! Mi-am pierdut telefonul. Mă poți contacta tu? Mulțumesc!</string>
+    <string name="device_locked">Acest telefon este blocat</string>
+    <string name="device_lost">Acest dispozitiv este pierdut</string>
+    <string name="disable_find_device_error">"Nu se poate opri Localizare dispozitiv. %1$s"</string>
+    <string name="disable_find_device_success">Localizarea dispozitivului este oprită</string>
+    <string name="doing_extra_login_steps">Se verifică autentificarea…</string>
+    <string name="enable_find_device_error">"Nu s-a putut activa Localizarea dispozitivului. %1$s"</string>
+    <string name="enable_find_device_success">Localizarea dispozitivului este activă</string>
+    <string name="find_device">Localizare dispozitiv</string>
+    <string name="find_device_crash">Aplicația Localizare dispozitiv s-a închis în mod neașteptat.</string>
+    <string name="find_device_error_account_sys_timeout">"Nu s-a putut conecta la contul Mi. "</string>
+    <string name="find_device_error_account_unknown_error">Eroare Cont Mi (%s).</string>
+    <string name="find_device_error_network">Eroare de rețea.</string>
+    <string name="find_device_error_password_changed">Parola contului a fost schimbată recent.</string>
+    <string name="find_device_error_server">Eroare de server (%s).</string>
+    <string name="find_device_error_unknown">Eroare necunoscută (%s).</string>
+    <string name="find_device_noise_title">Alarmă pentru localizare dispozitiv</string>
+    <string name="find_device_notice_p1">Accesați</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
+    <string name="find_device_notice_p3">"pentru a localiza, bloca sau restaura telefonul.
+Dacă schimbați cartela SIM, un alt SMS va fi trimis în mod automat pentru a reactiva această caracteristică."</string>
+    <string name="find_device_stop_noise">Apăsați OK pentru a opri sunetul</string>
+    <string name="find_device_storage_corrupted">Stocarea Localizării dispozitivului este coruptă. Telefonul nu mai este în siguranță.</string>
+    <string name="find_device_success_title">Localizare dispozitiv</string>
+    <string name="find_device_telephony_fault">Localizare dispozitiv: Eroare rețea telefonie (%s).</string>
+    <string name="i_know">OK</string>
+    <string name="lock_msg_phone">Informații de contact: %s</string>
+    <string name="login_extra_steps">Verificarea autentificării</string>
+    <string name="login_failed">"Nu s-a putut autentifica. %s."</string>
+    <string name="passport_checking_vcode">Se verifică parola…</string>
+    <string name="passport_error_empty_vcode">Introduceți codul de verificare</string>
+    <string name="passport_notification_need_unlock_again">Reîncercați deblocarea</string>
+    <string name="passport_notification_processing">Procesare…</string>
+    <string name="passport_trust_device">Am încredere în acest dispozitiv</string>
+    <string name="passport_vcode_prompt_long">Introduceți codul de verificare</string>
+    <string name="passport_verify">Verificați</string>
+    <string name="password">Parola</string>
+    <string name="phone_locked">Acest dispozitiv poate fi asociat cu un cont Mi existent (%s). Autentificați-vă pentru a activa acest dispozitiv.</string>
+    <string name="phone_locked_account_email">, e-mail asociat: %s</string>
+    <string name="phone_locked_account_phone">, număr de telefon asociat: %s</string>
+    <string name="stop_on_empty_captcha">"Codul de verificare nu poate fi gol"</string>
+    <string name="stop_on_empty_password">"Câmpul Parolă nu poate fi gol"</string>
+    <string name="time_correction_failure">"Nu s-a putut corecta ora. %s"</string>
+    <string name="time_correction_success">Ora a fost corectată</string>
+    <string name="unlock">Activați</string>
+    <string name="unlock_access_denied">Acces refuzat</string>
+    <string name="unlock_bad_authentication">Nume utilizator sau parolă incorecte</string>
+    <string name="unlock_error_abort">Oprită de utilizator</string>
+    <string name="unlock_error_device_id">"Nu se poate obține ID-ul dispozitivului"</string>
+    <string name="unlock_error_interrupted">Întrerupt</string>
+    <string name="unlock_error_network">"Nu se poate conecta la rețea"</string>
+    <string name="unlock_error_passport_sdk_timeout">"Mi Account SDK nu răspunde"</string>
+    <string name="unlock_error_rpc">Eroare RPC</string>
+    <string name="unlock_error_server">Eroare de conectare la server</string>
+    <string name="unlock_error_ssl_hand_shake">"Nu s-a putut conecta la server. Încercați să reglați ora și data manual."</string>
+    <string name="unlock_error_unknown">"Nu se poate autentifica"</string>
+    <string name="unlock_error_user_name">Nume utilizator incorect</string>
+    <string name="unlock_error_wrong_vcode">Codul introdus este incorect</string>
+    <string name="unlock_help">"Rămâneți conectat la rețea
+Asigurați-vă că aveți o cartelă SIM validă introdusă și că telefonul este conectat la o rețea Wi-Fi activă
+
+Ați uitat parola?
+Mergeți la id.mi.com pentru a vă reseta parola
+
+Alte motive
+Autentificați-vă la i.mi.com și încercați să vă deblocați telefonul de acolo"</string>
+    <string name="unlock_help_title">Ajutor pentru deblocare:</string>
+    <string name="unlock_wrong_captcha">Codul introdus este incorect</string>
+    <string name="unlocking">Activare…</string>
+    <string name="verifing_account">Verificare parolă…</string>
+    <string name="verify_password_failed">"Nu s-a putut verifica ID-ul contului Mi. %s."</string>
+</resources>
