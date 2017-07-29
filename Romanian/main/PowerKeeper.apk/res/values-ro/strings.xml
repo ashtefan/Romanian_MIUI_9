@@ -174,14 +174,12 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="set_lcd_mode">Modul ecranului</string>
     <string name="settings_safetylegal_activity_loading">Doar o secundă…</string>
     <string name="show_system_app">Arată aplicațiile de sistem</string>
-    <string name="sleep_config_enhance_description">Va îmbunătăți durata acumulatorului seara</string>
+    <string name="sleep_config_enhance_description">intuiește ora la care adoarme utilizatorul prin învățare automatizată, se pot închide unele aplicații din fundal, restricționa NFC-ul, notificările din Blocarea ecranului, sincronizarea, bluetooth-ul, GPS-ul, datele mobile și Wi-Fi-ul, etc.</string>
     <string name="sleep_config_enhance_title">Moduri economisire seara</string>
     <string name="still">Imagine</string>
     <string name="ui">Standard</string>
     <string name="user_define_mode">Nume</string>
     <string name="vip_feedback">Feedback Vip</string>
-    <string name="vip_feedback_apply">Aplicați feedback Vip</string>
-    <string name="vip_feedback_apply_msg">Contactați vip-feedback-system@xiaomi.com pentru a aplica feedback Vip</string>
     <string name="vip_feedback_enable">Activați Feedback Vip automat</string>
     <string name="warm_configure">Configurare control temperatură</string>
 </resources>

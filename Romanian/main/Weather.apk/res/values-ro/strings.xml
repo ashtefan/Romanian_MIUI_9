@@ -80,6 +80,9 @@
     <string name="commercial">Reclamă</string>
     <string name="common_loading_text">Doar o secundă…</string>
     <string name="connect_fail">"Nu s-a putut conecta la rețea; încercați din nou"</string>
+  <string name="content_desc_activity_main_add_city">Adăugați orașul</string>
+  <string name="content_desc_activity_main_add_city_manage">Gestionare locații</string>
+  <string name="content_desc_activity_main_more_settings">Mai multe setări</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
     <string name="daily_forcast_no_stable_direction">Adiere</string>
     <string name="daily_forcast_no_wind">0</string>

@@ -2392,6 +2392,16 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_allow_vibrate">Vibrații</string>
     <string name="miui_data_usage_menu_metered">Hotspot-uri mobile</string>
     <string name="miui_experience_optimization">Activați optimizarea MIUI</string>
+  <string name="miui_lab_feature_applied">Aplicat</string>
+  <string name="miui_lab_feature_off">Oprit</string>
+  <string name="miui_lab_feature_on">Pornit</string>
+  <string name="miui_lab_features">Caracteristici laborator MIUI</string>
+  <string name="miui_lab_gallery_search_desc">Căutare îmbunătățită a imaginilor</string>
+  <string name="miui_lab_gallery_search_title">Găsire fotografii din Galerie</string>
+  <string name="miui_lab_settings">Laborator MIUI</string>
+  <string name="miui_lab_slogan">Învață. Explorează. Descoperă.</string>
+  <string name="miui_lab_taplus_desc">Apăsați și mențineți apăsat pentru a declanșa scurtăturile</string>
+  <string name="miui_lab_taplus_title">Declanșare aplicații</string>
     <string name="miui_screen_config_title">Setări Ecran principal</string>
     <string name="mms_breathing_light_color_title">Mesaje</string>
     <string name="mms_breathing_light_freq_title">Frecvenţă pulsare indicator luminos intermitent pentru mesaje</string>

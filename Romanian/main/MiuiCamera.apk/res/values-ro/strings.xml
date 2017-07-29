@@ -376,6 +376,8 @@ expresie facială de sintetizat într-o fotografie"</string>
     <string name="pref_video_time_lapse_frame_interval_title">Interval de timp</string>
     <string name="preparing_sd">Verificare stocare internă…</string>
     <string name="record_back_pressed_hint">Atingeţi din nou pentru a opri înregistrarea</string>
+  <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această caracteristică, apăsați simultan butoanele de creștere a volumului și Înapoi.</string>
+  <string name="screen_on_proximity_sensor_summary">"Nu acoperiți zona difuzorului"</string>
     <string name="search_settings">Setări cameră;Calitate;Calitatea imaginii;Localizare fotografie;Localizare imagine;Detectare față;Sunete cameră</string>
     <string name="see_qrcode_detals">Vizualizaţi detaliile codului QR</string>
     <string name="simple_mode_button_asd_flash">Dezactivaţi captarea cu bliţ</string>

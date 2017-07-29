@@ -50,7 +50,10 @@
     <string name="album_jump_failed">Așteptați sincronizarea albumelor în Mi Cloud și încercați din nou</string>
     <string name="album_member">Membri album %s</string>
     <string name="album_name">Nume album</string>
+  <string name="album_name_locations">Locații</string>
+  <string name="album_name_people">Persoane</string>
     <string name="album_name_recent_discovery">Recente</string>
+  <string name="album_name_tags">Etichete</string>
     <string name="album_others_share_baby_info_format">Albumul copilului din %s</string>
     <string name="album_others_share_info_format">Din %s</string>
     <string name="album_owner_share">Partajările mele</string>
@@ -314,6 +317,7 @@
     <string name="empty_recommend_back">Înapoi</string>
     <string name="empty_recommend_face_page_view">Nu mai există recomandări</string>
     <string name="empty_relation">"Numele grupului nu poate fi necompletat"</string>
+  <string name="empty_title_no_photos">Nicio fotografie sau videoclip</string>
     <string name="enable_auto_upload_tip">Activați sincronizarea cu MiCloud pentru acest album?</string>
     <string name="enable_auto_upload_title">Activați sincronizarea cu Mi Cloud</string>
     <string name="enable_cloud_for_sharing">Activați albumele Mi Cloud pentru a vedea fotografiile partajate.</string>
@@ -346,7 +350,7 @@
     <string name="face_album_empty">"Sunt prea puține fotografii pentru recunoașterea persoanelor.
 Faceți mai multe fotografii prietenilor!"</string>
     <string name="face_album_empty_syncing">Se sincronizează datele; reveniți mai târziu</string>
-    <string name="face_album_empty_syncing_when_connect_wifi">Conectați-vă la Wi-Fi pentru a sincroniza informațiile</string>
+    <string name="face_album_empty_syncing_when_connect_wifi">Conectați-vă la rețea pentru a sincroniza informațiile</string>
     <string name="face_album_long_tap_tip">Pentru a selecta mai multe persoane sau pentru a modifica setările de grup, apăsați și țineți apăsat pe o fotografie de profil</string>
     <string name="face_album_new_name_hint">Nume nou</string>
     <string name="face_album_not_named">Fără nume</string>
@@ -405,7 +409,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="has_invalid_recipient">Destinatari greşiţi: &lt;%1$s></string>
     <string name="have_known">Am înțeles</string>
     <string name="hidden_album_display_name">Album ascuns</string>
-    <string name="home_page_empty">Gol</string>
+    <string name="home_page_empty_action">Realizați o fotografie</string>
     <string name="home_page_label">Fotografii</string>
     <string name="how_to_set_relation">Apăsați și mențineți apăsat un album pentru a crea un grup</string>
     <string name="hybrid_check_network">Setări reţea</string>
@@ -559,9 +563,13 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="other_album">Alte albume</string>
     <string name="other_settings">Setări suplimentare</string>
     <string name="owner_album_subtitle">Distribuit către %1$s persoane</string>
+  <string name="people_album_empty_title">Fotografiile pot fi sortate după persoanele pe care le conțin</string>
     <string name="people_jump_failed">Așteptați până când fotografiile conținând persoane sunt sincronizate în Mi Cloud și încercați din nou</string>
+  <string name="people_mark_mode_title">Selectați \"%s\"</string>
+  <string name="people_mark_mode_title_no_mark_name">Selectați o persoană</string>
     <string name="people_page_label">Persoane</string>
     <string name="people_page_unname">Fără nume</string>
+  <string name="percent_sign">%</string>
     <string name="pet_album_display_name">Fotografiile animalelor de companie</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">Fotografii</string>
@@ -585,6 +593,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="picker_title_format">Puteți selecta %d fotografii</string>
     <string name="picker_title_selection_format">Au fost selectate %d fotografii</string>
     <string name="picker_title_unlimit">Selectați fotografiile</string>
+  <string name="places_album_empty_title">Fotografiile pot fi sortate după locație</string>
     <string name="preparing_data">Doar o secundă…</string>
     <string name="projection_checkbox_text">Reține acest ecran</string>
     <string name="projection_device_connection_failed">"Nu s-a putut conecta la proiector"</string>
@@ -600,6 +609,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="publish_succeeded">Album publicat</string>
     <string name="publishing">Publicare…</string>
     <string name="quotation">\"%s\"</string>
+  <string name="recent_album_empty_title">"Nu s-au adăugat recent fotografii noi"</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recommanded_face_abandon_tip">Eliminat din sugestii</string>
     <string name="recommanded_face_added_tip">Adăugat în \"%s\"</string>
@@ -647,7 +657,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="scan_barcode_guide">Pentru a obţine codul QR, atingeţi pictograma Distribuire.</string>
     <string name="scan_barcode_to_join">Scanaţi un cod QR pentru a adăuga un album</string>
     <string name="scan_qr_code_buttom_text">Scanaţi codul QR pentru a vizualiza acest album</string>
-    <string name="search_album_jump_failed">Așteptați până când albumele sunt sincronizate în Mi Cloud și reîncercați</string>
     <string name="search_backup_full_screen">Activați sincronizarea cu Mi Cloud pentru a găsi mai multe persoane și obiecte</string>
     <string name="search_backup_now">Activați</string>
     <string name="search_backup_sub_title">Activați pentru a găsi mai multe imagini</string>
@@ -663,15 +672,22 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="search_login_sub_title">Conectați-vă pentru a găsi mai multe fotografii</string>
     <string name="search_login_title">Cont Mi</string>
     <string name="search_login_title_full_screen">Conectați-vă la contul Mi pentru a găsi mai multe persoane și obiecte</string>
-    <string name="search_people_jump_failed">Așteptați până când fotografiile persoanelor sunt sincronizate în Mi Cloud și încercați din nou</string>
+  <string name="search_net_error">A apărut o eroare de rețea. Conectați-vă la altă rețea și încercați din nou.</string>
+  <string name="search_request_open">Alăturați-vă echipei de testare</string>
     <string name="search_result_empty">"Nu s-a găsit nimic"</string>
     <string name="search_retry">Încercați din nou</string>
+  <string name="search_select_network">Selectați rețeaua</string>
     <string name="search_set_network_connection">Setări de rețea</string>
+  <string name="search_setting_sub_title">Căutare îmbunătățită a imaginilor</string>
+  <string name="search_setting_sub_title_open">Aprobat. Așteptați puțin înainte de a începe.</string>
+  <string name="search_setting_title">Găsiți fotografii în Galerie</string>
+  <string name="search_title_album">Album</string>
     <string name="search_title_history">Căutați în istoric</string>
     <string name="search_title_location">Locații</string>
     <string name="search_title_others">Toate rezultatele</string>
     <string name="search_title_people">Persoane</string>
     <string name="search_title_recommend">Recomandate</string>
+  <string name="search_title_suggestion">Sugestii</string>
     <string name="search_title_tag">Obiecte</string>
     <string name="secret_album_card_description">Cel mai bun loc pentru toate micile dumneavoastră secrete</string>
     <string name="secret_album_card_title">Încercați albumele secrete</string>
@@ -705,6 +721,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="set_face_image">Setați o nouă fotografie de profil</string>
     <string name="set_group">Setați grupul</string>
     <string name="set_wallpaper_get_image_failed">"Nu s-a putut descărca imaginea; încercați din nou mai târziu"</string>
+  <string name="setup_network_connection">Setări de rețea</string>
     <string name="share">Partajați</string>
     <string name="share_album">Distribuiţi albumul</string>
     <string name="share_album_needs_auto_upload_tip">"Nu se poate dezactiva salvarea automată pentru albumele partajate"</string>
@@ -760,6 +777,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="text_append_hint">Introduceți textul</string>
     <string name="text_append_style">Bule</string>
     <string name="text_append_transparent">Opacitate</string>
+  <string name="things_album_empty_title">Fotografiile pot fi sortate după obiectele pe care le conțin</string>
     <string name="tip_capture_location">Locație:</string>
     <string name="tip_capture_params">Informații EXIF:</string>
     <string name="tip_capture_time">Captată pe:</string>
