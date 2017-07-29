@@ -1283,7 +1283,6 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="select_webview_provider_toast_text">Această opțiune nu mai este validă. Încercați din nou.</string>
     <string name="send_button">Trimiteţi</string>
     <string name="send_keepalive_title">Trimiteţi mesaje keep-alive</string>
-    <string name="set_primary">Setați ca principal</string>
     <string name="set_primary_title">Setaţi drept cont principal</string>
     <string name="set_smsc_address_error">Nu a reușit setarea numărului</string>
     <string name="set_smsc_address_timeout">Conexiune expirată</string>
