@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">"%s aplicații nu pot afișa notificări"</item>
-        <item quantity="one">"1 aplicație nu poate afișa notificări"</item>
+        <item quantity="other">"%d aplicații nu pot afișa notificări"</item>
+        <item quantity="one">"%d aplicație nu poate afișa notificări"</item>
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">%s aplicații pot afișa notificări</item>
-        <item quantity="one">1 aplicație poate afișa notificări</item>
+        <item quantity="other">%d aplicații pot afișa notificări</item>
+        <item quantity="one">%d aplicație poate afișa notificări</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d comutatoare de deasupra barei sunt active</item>
-        <item quantity="one">1 comutator de deasupra barei este activ</item>
+        <item quantity="one">%1$d comutator de deasupra barei este activ</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Mai aveți de parcurs %1$d pași pentru a deveni dezvoltator.</item>

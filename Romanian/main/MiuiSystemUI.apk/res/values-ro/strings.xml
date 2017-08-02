@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+	<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="accessibility_action_divider_bottom_full">Ecran complet jos</string>
     <string name="accessibility_action_divider_left_30">Stânga 30%</string>
@@ -217,6 +217,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="debug_monitoring_category">Monitorizare</string>
     <string name="debug_networking_category">Rețea</string>
     <string name="debug_view_attributes">Activați vizualizarea inspecției atributelor</string>
+    <string name="demo_mode">Mod Demo</string>
     <string name="description_direction_left">Glisaţi în stânga pt. %s</string>
     <string name="description_direction_up">Glisaţi în sus pt. %s</string>
     <string name="description_target_search">Căutaţi</string>
@@ -449,6 +450,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="screenshot_dlg_delete_button">Șterge</string>
     <string name="screenshot_edit">Editați</string>
     <string name="screenshot_failed_text">Captura de ecran nu a putut fi salvată. Este posibil să fie utilizată stocarea.</string>
+    <string name="screenshot_insert_failed">Încărcarea capturii a eșuat; faceți o nouă captură de ecran sau vedeți fotografia în album</string>
     <string name="screenshot_long_screenshot">Extindeți</string>
     <string name="screenshot_saved_text">Atingeţi pentru a vedea captura de ecran.</string>
     <string name="screenshot_saved_title">Captură de ecran realizată</string>
@@ -474,6 +476,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
   <string name="show_all_anrs_summary">Arată o fereastră de închidere forțață pentru aplicațiile din fundal</string>
   <string name="show_cpu_usage">Arată utilizarea procesorului</string>
   <string name="show_cpu_usage_summary">Afișează utilizarea curentă a procesorului</string>
+  <string name="show_demo_mode">Afișează modul Demo</string>
   <string name="show_hw_layers_updates">Arată actualizările straturilor hardware</string>
   <string name="show_hw_layers_updates_summary">Afișează straturile hardware în verde atunci când se actualizează</string>
   <string name="show_hw_screen_updates">Arată actualizările vizualizării GPU</string>

@@ -66,6 +66,12 @@
         <item>Sortare după utilizarea datelor</item>
         <item>Sortare după utilizarea acumulatorului</item>
     </string-array>
+    <string-array name="title_app_info">
+        <item>Sursa instalării</item>
+        <item>Ora instalării</item>
+        <item>Ultima sursă de actualizare</item>
+        <item>Ultima actualizare</item>
+    </string-array>
     <string-array name="sms_report_type">
         <item>Utilizare date</item>
         <item>Balanță telefon</item>

@@ -181,6 +181,11 @@
     <string name="michat_wait_for_a_moment">Doar o secundă, rezolvarea e pe drum!</string>
     <string name="michat_webview_title">Vizualizați detaliile</string>
     <string name="min_error">%1$s dvs ar trebui să fie mai lung.</string>
+    <string name="mobile_data_note_dialog_cancel">Așteaptă Wi-Fi</string>
+    <string name="mobile_data_note_dialog_confirm">Încarcă</string>
+    <string name="mobile_data_note_dialog_content">Uilizarea datelor mobile pentru încărcarea rapoartelor poate genera taxe suplimentare.</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">Încărcarea rapoartelor utilizând datele mobile va consuma %s MB de date.</string>
+    <string name="mobile_data_note_dialog_title">Avertisment utilizare date mobile</string>
     <string name="modem_tool_log">Înregistrare jurnale modem</string>
     <string name="modem_tool_log_start">Porniţi</string>
     <string name="modem_tool_log_start_toast">Se salvează jurnalul modemului în %s</string>

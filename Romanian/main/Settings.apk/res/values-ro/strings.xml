@@ -1239,6 +1239,7 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminați această amprentă?</string>
     <string name="delete_saved_network">Ștergeți rețelele salvate</string>
     <string name="demo_mode">Mod Demo</string>
+    <string name="demo_mode_summary">Afișează pictograme specifice în bara de stare pentru modul Demo</string>
     <string name="deny">Refuzaţi</string>
     <string name="details_subtitle">Detalii despre utilizare</string>
     <string name="details_title">Detalii despre utilizare</string>
@@ -2224,6 +2225,7 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="lockscreen_glogin_checking_password">Verificare…</string>
     <string name="lockscreen_glogin_password_hint">Parolă</string>
     <string name="lockscreen_glogin_submit_button">Conectare</string>
+    <string name="lockscreen_magazine_title">Caruselul de imagini de fundal</string>
     <string name="lockscreen_remote_input">Dacă dispozitivul este blocat, previne tastarea de răspunsuri sau alte texte în notificări</string>
     <string name="login_account_dialog_message">Conectați-vă la contul Mi și activați sincronizarea cu Mi Cloud.</string>
     <string name="login_account_dialog_title">Conectați-vă la contul Mi</string>
@@ -2466,6 +2468,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_dirac_mode_general_earbuds">General</string>
     <string name="music_dirac_mode_general_inear">General In-Ear</string>
     <string name="music_dirac_mode_headset">Căști Mi</string>
+    <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
     <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
     <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
     <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>

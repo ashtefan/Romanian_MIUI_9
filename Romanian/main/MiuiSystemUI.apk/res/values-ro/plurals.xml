@@ -2,19 +2,19 @@
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d aplicaţii recente</item>
-        <item quantity="one">1 aplicaţie recentă</item>
+        <item quantity="one">%d aplicaţie recentă</item>
     </plurals>
     <plurals name="accessibility_recent_task_enter">
         <item quantity="other">S-a deschis Recente, aplicații disponibile: %d.</item>
-        <item quantity="one">S-a deschis Recente, aplicații disponibile: 1.</item>
+        <item quantity="one">S-a deschis Recente, aplicații disponibile: %d.</item>
     </plurals>
     <plurals name="accessibility_recent_task_first_enter_tips">
         <item quantity="other">S-a deschis Recente, aplicații disponibile: %d. Glisați în sus pentru a elimina, glisați în jos pentru a bloca.</item>
-        <item quantity="one">S-a deschis Recente, aplicații disponibile: 1. Glisați în sus pentru a elimina, glisați în jos pentru a bloca.</item>
+        <item quantity="one">S-a deschis Recente, aplicații disponibile: %d. Glisați în sus pentru a elimina, glisați în jos pentru a bloca.</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d butoane de deasupra acestei bare sunt active</item>
-        <item quantity="one">1 buton de deasupra acestei bare este activ</item>
+        <item quantity="one">%1$d buton de deasupra acestei bare este activ</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">"Ascundeţi notificările de la %d aplicaţii?"</item>
@@ -22,7 +22,7 @@
     </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Se ascund notificările de la %1$s &amp; %2$d aplicații.</item>
-        <item quantity="one">Se ascund notificările de la %1$s &amp; 1 aplicație.</item>
+        <item quantity="one">Se ascund notificările de la %1$s &amp; %2$d aplicație.</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Senin</item>

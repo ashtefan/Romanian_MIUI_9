@@ -163,6 +163,10 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="app_install_tips_go_to">Deschideți</string>
     <string name="app_install_tips_install_success">%1$s instalate cu succes</string>
     <string name="app_maanger_app_uninstalled_toast">Această aplicație este dezinstalată</string>
+    <string name="app_manager_app_ifno_version">Versiunea aplicației</string>
+    <string name="app_manager_app_info_label">Informații despre aplicație</string>
+    <string name="app_manager_app_info_name">Numele aplicației</string>
+    <string name="app_manager_app_info_pkg">Numele pachetului</string>
     <string name="app_manager_app_lock">Blocarea aplicațiilor</string>
     <string name="app_manager_app_power">"Utilizare acumulator: "</string>
     <string name="app_manager_app_storage">"Stocare: "</string>
@@ -178,6 +182,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="app_manager_clear_data_dlg_title">Ștergeți datele aplicației?</string>
     <string name="app_manager_clear_failed_dlg_message">Nu s-au putut șterge datele aplicației.</string>
     <string name="app_manager_clear_failed_dlg_title">Ștergeți datele</string>
+    <string name="app_manager_copy_pkg_to_clip">Copiat în clipboard</string>
     <string name="app_manager_default_close_summary">Nicio valoare predefinită setată.</string>
     <string name="app_manager_default_open">Deschide cu aplicația implicită</string>
     <string name="app_manager_default_open_summary">Ați ales să lansați această aplicație în mod implicit pentru anumite acțiuni.</string>
@@ -195,6 +200,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="app_manager_force_stop_dlg_title">Opriți forțat?</string>
     <string name="app_manager_go_to_manger_app">Gestionați</string>
     <string name="app_manager_have_not_consume">Nimic</string>
+    <string name="app_manager_hide_system_server">Ascunde serviciile de sistem</string>
     <string name="app_manager_instruction">Instruire</string>
     <string name="app_manager_loading_data">Încărcare date…</string>
     <string name="app_manager_manage_space">Gestionare spațiu de lucru</string>
@@ -234,6 +240,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="app_manager_reduce_wakepath_dialog">Minimizați durata de pornire</string>
     <string name="app_manager_reduce_wakepath_summary">Restricționând pornirea automată se va minimiza durata de pornire. Restricționați pornirea automată pentru %s?</string>
     <string name="app_manager_reject_count_over">Blocată de peste 100.000 de ori</string>
+    <string name="app_manager_show_all_apps">Arată toate aplicațiile</string>
     <string name="app_manager_show_detail_infos">Vedeți tot</string>
     <string name="app_manager_sort">Sortați după</string>
     <string name="app_manager_start_by">Lansată de către %s</string>
