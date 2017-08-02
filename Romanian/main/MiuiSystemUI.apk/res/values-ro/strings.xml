@@ -1,4 +1,4 @@
-	<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="accessibility_action_divider_bottom_full">Ecran complet jos</string>
     <string name="accessibility_action_divider_left_30">Stânga 30%</string>
