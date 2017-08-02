@@ -1843,7 +1843,6 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_antispam_des_uesless">Oprit</string>
     <string name="st_antispam_mode_add_new">Adăugați reguli</string>
     <string name="st_antispam_mode_blacklist">Numere blocate</string>
-    <string name="st_antispam_mode_blacklist_state">11112121</string>
     <string name="st_antispam_mode_blacklist_sum">"Blocați apelurile și SMS-urile de la numerele adăugate manual în lista blocărilor"</string>
     <string name="st_antispam_mode_denyownself_sum">Reguli personalizate</string>
     <string name="st_antispam_mode_only_all_deny">Blocați tot</string>
@@ -1853,7 +1852,6 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_antispam_mode_only_whitelist">Permiteți doar de la excepții</string>
     <string name="st_antispam_mode_only_whitelist_sum">Permiteți doar apelurile și mesajele venite de la numerele din lista excepțiilor</string>
     <string name="st_antispam_mode_smart">Numere raportate</string>
-		<string name="st_antispam_mode_smart_state">11111111</string>
     <string name="st_antispam_mode_smart_sum">"Blocați numerele pe care le-ați adăugat manual și numerele raportate de către alți utilizatori"</string>
     <string name="st_antispam_notification_sum">Show notifications when call or message is blocked</string>
     <string name="st_antispam_title_anoy_incoming">Apeluri de la persoane necunoscute</string>
