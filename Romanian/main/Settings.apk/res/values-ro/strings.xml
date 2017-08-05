@@ -995,11 +995,11 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="controls_subtitle">Ajustaţi utilizarea energiei</string>
     <string name="convenience_key_category_title">Widgeturi</string>
     <string name="convert_to_fbe_warning">"Convertiți partiția de date la criptarea pe bază de fișier.
- !!ATENȚIE!! Acest lucru va șterge TOATE DATELE dumneavoastră.
- Această caracteristică este experimentală și s-ar putea să nu funcționeze corect.
+ ATENȚIE: Acest lucru va șterge TOATE DATELE dumneavoastră.
+ Această caracteristică este experimentală și este posibil să nu funcționeze corect.
  Apăsați butonul 'Ștergeți și convertiți…' pentru a continua."</string>
     <string name="convert_to_file_encryption">Convertiți la criptarea fișierelor</string>
-    <string name="convert_to_file_encryption_done">Fișier deja criptat</string>
+    <string name="convert_to_file_encryption_done">Fișierele sunt criptate</string>
     <string name="convert_to_file_encryption_enabled">Convertiți…</string>
     <string name="copyright_title">Drepturi de autor</string>
     <string name="country_name">%s (sistem)</string>
@@ -1210,8 +1210,8 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="debug_hw_overdraw">Depanați suprapunerea</string>
     <string name="debug_input_category">Intrare</string>
     <string name="debug_intent_sender_label">Depanare intenție expeditor</string>
-    <string name="debug_layout">Afişaţi limite aspect</string>
-    <string name="debug_layout_summary">Afişaţi limitele clipului, marginile, etc.</string>
+    <string name="debug_layout">Afișează limitele dispunerii</string>
+    <string name="debug_layout_summary">Arată limitele, marginile, etc. ale videoclipurilor.</string>
     <string name="debug_monitoring_category">Monitorizare</string>
     <string name="debug_networking_category">Rețea</string>
     <string name="debug_view_attributes">Activați vizualizarea atributelor</string>
@@ -1243,7 +1243,7 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="deny">Refuzaţi</string>
     <string name="details_subtitle">Detalii despre utilizare</string>
     <string name="details_title">Detalii despre utilizare</string>
-    <string name="dev_settings_warning_message">Aceste setări sunt destinate exclusiv utilizării pentru dezvoltare. Din cauza lor, este posibil ca dispozitivul dvs. şi aplicaţiile de pe acesta să nu mai funcţioneze sau să funcţioneze necorespunzător.</string>
+    <string name="dev_settings_warning_message">Aceste setări sunt destinate doar dezvoltatorilor. Activarea acestor caracterisitici poate cauza oprirea sau comportamentul anormal al aplicațiilor și al telefonului.</string>
     <string name="dev_settings_warning_title">Permiteţi setările pentru dezvoltare?</string>
     <string name="developer_build">" | Beta"</string>
     <string name="developer_density_summary">%d dp</string>
@@ -1307,8 +1307,8 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="dialog_title_login">Conectaţi-vă la contul dvs. Mi</string>
     <string name="dialog_yes">Da</string>
     <string name="disableNetwork">dezactivați rețeaua</string>
-    <string name="disable_overlays">Dezactivaţi suprapun. HW</string>
-    <string name="disable_overlays_summary">Utilizaţi mereu GPU pentru compunerea ecranului</string>
+    <string name="disable_overlays">Dezactivați suprascrierile HW</string>
+    <string name="disable_overlays_summary">Utilizați GPU întotdeauna pentru compunerea imaginii ecranului</string>
     <string name="disable_power_key_long_press_under_keyguard">Dezactivaţi meniul butonului de pornire</string>
     <string name="disable_service_message">Atingând OK veți opri %1$s.</string>
     <string name="disable_service_title">Opriți %1$s?</string>
@@ -1465,7 +1465,7 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="enable_freeform_support">Activați ferestrele cu formă liberă</string>
     <string name="enable_freeform_support_summary">Activați suportul pentru efectul experimental de ferestre cu formă liberă.</string>
     <string name="enable_mobile_data_when_opening_hotspot">Activaţi, de asemenea, conexiunea de date mobile?</string>
-    <string name="enable_opengl_traces_title">Monitorizări OpenGL</string>
+    <string name="enable_opengl_traces_title">Activați monitorizarea OpenGL</string>
     <string name="enable_quick_setting">Arată în Setările Rapide</string>
     <string name="enable_service_encryption_warning">Dacă activați %1$s, dispozitivul nu va folosi modalitatea dumneavoastră de blocare a ecranului pentru a cripta datele.</string>
     <string name="enable_service_password_reason">Deoarece activarea %1$s afectează criptarea datelor, va trebui să vă confirmați parola.</string>
@@ -1634,10 +1634,10 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="font_size_summary1">"Dacă textul sistemului dvs. este încă prea mic, încercați "</string>
     <string name="font_size_summary2">Modul \"Uşor\"</string>
     <string name="forbidden_switch_apn_string">"Setările APN selectat nu se potrivesc tipului de rețea curentă"</string>
-    <string name="force_allow_on_external">Permiteți forțat aplicațiile pe memoria externă</string>
+    <string name="force_allow_on_external">Forțați permisiunile aplicației de a scrie în memoria externă</string>
     <string name="force_allow_on_external_summary">Face posibilă scrierea oricărei aplicații în memoria externă, indiferent de valorile manifestate</string>
     <string name="force_hw_ui">Forţaţi redarea cu GPU</string>
-    <string name="force_hw_ui_summary">Forţaţi utilizarea GPU pentru desen în 2D</string>
+    <string name="force_hw_ui_summary">Forţaţi utilizarea GPU pentru desenarea 2D</string>
     <string name="force_msaa">Forţaţi MSAA 4x</string>
     <string name="force_msaa_summary">Activaţi MSAA 4x în aplicaţiile OpenGL ES 2.0</string>
     <string name="force_resizable_activities">Forțați redimensionarea aplicațiilor</string>
@@ -1823,7 +1823,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="imei_information_summary">Informații referitoare la IMEI</string>
     <string name="imei_information_title">Informații IMEI</string>
     <string name="immediately_destroy_activities">Nu păstraţi activităţile</string>
-    <string name="immediately_destroy_activities_summary">Opreşte orice activitate imediat ce utilizatorul o părăseşte</string>
+    <string name="immediately_destroy_activities_summary">Opreşte orice activitate de îndată ce utilizatorul o părăseşte</string>
     <string name="importance_reset">Resetați</string>
     <string name="inactive_app_active_summary">Activă. Atingeți pentru a comuta.</string>
     <string name="inactive_app_inactive_summary">Inactivă. Atingeți pentru a comuta.</string>
@@ -2010,9 +2010,9 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="local_backup_password_summary_change">Atingeţi pentru a modifica sau pentru a elimina parola pentru copiile de rezervă complete pe desktop</string>
     <string name="local_backup_password_summary_none">În prezent, copiile de rezervă complete pe desktop nu sunt protejate</string>
     <string name="local_backup_password_title">Parolă copie rezervă desktop</string>
-    <string name="local_backup_password_toast_confirmation_mismatch">Parola nouă şi confirmarea acesteia nu se potrivesc.</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">Parolele nu se potrivesc.</string>
     <string name="local_backup_password_toast_success">A fost setată o parolă de rezervă nouă</string>
-    <string name="local_backup_password_toast_validation_failure">Setarea parolei de rezervă a eşuat</string>
+    <string name="local_backup_password_toast_validation_failure">"Nu s-a putut seta parola de rezervă"</string>
     <string name="local_backup_section_summary">Creaţi o copie de rezervă pentru setările de sistem, cont şi aplicaţii</string>
     <string name="local_backup_section_title">Copii de rezervă locale</string>
     <string name="locale_default">Prestabilit</string>
@@ -3634,8 +3634,8 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="select_all">Selectaţi-le pe toate</string>
     <string name="select_application">Selectaţi o aplicaţie</string>
     <string name="select_device_admin_msg">Administratori de dispozitive</string>
-    <string name="select_logd_size_dialog_title">Selectați dimensiunea raportului per jurnal tampon</string>
-    <string name="select_logd_size_title">Dimensiunea jurnalului tampon</string>
+    <string name="select_logd_size_dialog_title">Selectați mărimea jurnalelor tampon</string>
+    <string name="select_logd_size_title">Mărimea jurnalului tampon</string>
     <string name="select_sim_card">Selectați cartela SIM</string>
     <string name="select_sim_for_calls">Apelați prin</string>
     <string name="select_sim_for_data">Selectați o cartelă SIM pentru date</string>
@@ -3701,20 +3701,20 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="sharing_remote_bugreport_dialog_message">Acest raport cu erori este partajat administorului IT. Contactați-l pentru a afla mai multe detalii.</string>
     <string name="short_summary_font_size">Măriți sau micșorați textul de pe ecran</string>
     <string name="show_all_anrs">Afişaţi toate elementele ANR</string>
-    <string name="show_all_anrs_summary">Afiş. dialog. Aplic. nu răsp. pt. aplic. de fundal</string>
+    <string name="show_all_anrs_summary">Arată o fereastră \"Aplicația nu răspunde\" pentru aplicațiile din fundal</string>
     <string name="show_background_processes">Procese memorie cache</string>
     <string name="show_connected_devices_summary">Vizualizați dispozitivele conectate</string>
     <string name="show_connected_devices_title">Dispozitive conectate</string>
     <string name="show_cpu_usage">Afişaţi utilizarea procesorului.</string>
-    <string name="show_cpu_usage_summary">Suprap. pe ecran indic. util. curentă a procesor.</string>
+    <string name="show_cpu_usage_summary">Afișează utilizarea curentă a procesorului</string>
     <string name="show_dev_already">Nu mai este nevoie, sunteţi deja dezvoltator.</string>
     <string name="show_dev_on">Aţi devenit dezvoltator!</string>
     <string name="show_fc">Afişarea închiderilor forţate</string>
     <string name="show_fc_summary">Afişaţi aplicaţiile închise forţat</string>
-    <string name="show_hw_layers_updates">Actualiz. strat. hardware</string>
-    <string name="show_hw_layers_updates_summary">Straturile hardware clipesc în verde la actualizare</string>
-    <string name="show_hw_screen_updates">Afiş. actualiz. ecran GPU</string>
-    <string name="show_hw_screen_updates_summary">Iluminare ecrane din ferestre la desenarea cu GPU</string>
+    <string name="show_hw_layers_updates">Arată actualizările nivelurilor hardware</string>
+    <string name="show_hw_layers_updates_summary">Elementele hardware clipesc în verde la actualizare</string>
+    <string name="show_hw_screen_updates">Vizualizează randările GPU</string>
+    <string name="show_hw_screen_updates_summary">Afișează intermitent ferestrele atunci când videoclipurile sunt randate de către GPU</string>
     <string name="show_ime">Afișează tastatura virtuală</string>
     <string name="show_ime_summary">Păstrează pe ecran cât timp tastatura fizică este activă</string>
     <string name="show_magnifier_when_input">Afişaţi lupa</string>
@@ -4190,7 +4190,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="timer_switch_settings_title">Pornire sau oprire programată</string>
     <string name="timezone_settings">Fus orar</string>
     <string name="title_color_calibration">Presetare corecţie de culoare</string>
-    <string name="title_convert_fbe">Convertire la criptarea pe bază de fișier</string>
+    <string name="title_convert_fbe">Convertire la criptarea pe bază de fișier…</string>
     <string name="title_font">Font</string>
     <string name="title_font2">Font</string>
     <string name="title_font_current">Fontul sistemului</string>
@@ -4234,7 +4234,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="trusted_credentials_system_tab">Sistem</string>
     <string name="trusted_credentials_trust_label">De încredere</string>
     <string name="trusted_credentials_user_tab">Utilizator</string>
-    <string name="tts_default_lang_summary">Setează vocea caracteristică limbii pentru textul rostit</string>
+    <string name="tts_default_lang_summary">Setează limba implicită pentru rostirea textului</string>
     <string name="tts_default_lang_title">Limbă</string>
     <string name="tts_default_pitch_summary">Modifică tonul textului vorbit</string>
     <string name="tts_default_pitch_title">Înălţime</string>
@@ -4243,7 +4243,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tts_default_sample_string">Acesta este un exemplu de sintetizare a vorbirii</string>
     <string name="tts_engine_network_required">Pentru rezultatul transformării textului în vorbire pentru această limbă este necesară o conexiune de reţea funcţională.</string>
     <string name="tts_engine_preference_section_title">Motor preferat</string>
-    <string name="tts_engine_security_warning">Acest motor de sintetizare a vorbirii poate culege în întregime textul vorbit, inclusiv datele personale cum ar fi parolele şi numerele cărţilor de credit. Acesta provine de la motorul %s. Permiteţi utilizarea acestui motor de sintetizare a vorbirii?</string>
+    <string name="tts_engine_security_warning">Acest motor de rostire sintetizată poate înregistra și colecta tot ceea ce rostiți, inclusiv date personale precum parolele și detaliile cardurilor bancare. Acest motor de sintetizare vocală este furnizat de %s. Activați utilizarea acestui motor de rostire sintetizată?</string>
     <string name="tts_engine_settings_button">Lansaţi setările motorului</string>
     <string name="tts_engine_settings_title">Setări pentru %s</string>
     <string name="tts_general_section_title">Preferinţe generale</string>
@@ -4260,7 +4260,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tts_settings">Setări text în vorbire</string>
     <string name="tts_settings_title">Rezultatul transformării textului în vorbire</string>
     <string name="tts_status_checking">Se verifică...</string>
-    <string name="tts_status_not_supported">%1$s nu este acceptată</string>
+    <string name="tts_status_not_supported">"%1$s nu este suportat"</string>
     <string name="tts_status_ok">%1$s este acceptată integral</string>
     <string name="tts_status_requires_network">%1$s necesită conexiune la rețea</string>
     <string name="tts_status_title">Starea limbii prestabilite</string>
@@ -4731,10 +4731,10 @@ Atingeți butonul (+) pentru a adăuga cuvinte."</string>
     <string name="wifi_advanced_not_available">Setările avansate Wi-Fi nu sunt disponibile pentru acest utilizator</string>
     <string name="wifi_advanced_settings_label">Setări IP</string>
     <string name="wifi_advanced_titlebar">Setări Wi-Fi avansate</string>
-    <string name="wifi_aggressive_handover">Mod agresiv de comutare de la Wi-Fi la date mobile</string>
-    <string name="wifi_aggressive_handover_summary">Atunci când este activat, Wi-Fi va fi mult mai agresiv în comutarea la date mobile, dacă semnalul Wi-Fi va fi slab</string>
-    <string name="wifi_allow_scan_with_traffic">Permiteți întotdeauna scanarea rețelelor Wi-Fi</string>
-    <string name="wifi_allow_scan_with_traffic_summary">Permiteți/Refuzați scanarea rețelelor Wi-Fi bazată pe traficul de date din interfață</string>
+    <string name="wifi_aggressive_handover">Comutare automată de la Wi-Fi la date mobile</string>
+    <string name="wifi_aggressive_handover_summary">Când este activată, se va comuta la conexiunea de date mobile mai activ, atunci când semnalul Wi-Fi este slab</string>
+    <string name="wifi_allow_scan_with_traffic">Permite întotdeauna scanarea rețelelor Wi-Fi</string>
+    <string name="wifi_allow_scan_with_traffic_summary">Permite/Refuză scanarea rețelelor Wi-Fi bazat pe traficul de date prezent în interfață</string>
     <string name="wifi_and_mobile_skipped_message">Telefonul nu va putea verifica dacă versiunea software este la zi</string>
     <string name="wifi_ap_band_config">Selectați banda AP</string>
     <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
@@ -5092,7 +5092,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_update">Actualizare statistici</string>
     <string name="wifi_use_system_certs">Utilizați certificatele de sistem</string>
     <string name="wifi_verbose_logging">Activați Wi-Fi Verbose Logging</string>
-    <string name="wifi_verbose_logging_summary">Afișați informații detaliate despre conectarea la Wi-Fi, ca SSID RSSI în selectorul Wi-Fi</string>
+    <string name="wifi_verbose_logging_summary">Crește nivelul Wi-Fi logging level, arată RSSI-ul pentru fiecare SSID din lista rețelelor Wi-Fi</string>
     <string name="wifi_wapi_as_cert">Certificat AS</string>
     <string name="wifi_wapi_cert_cancel_button">Anulaţi</string>
     <string name="wifi_wapi_cert_create_subdir">Creaţi un dosar</string>

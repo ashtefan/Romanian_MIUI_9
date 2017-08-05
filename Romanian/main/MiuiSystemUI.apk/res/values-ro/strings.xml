@@ -111,7 +111,7 @@
     <string name="bluetooth_connected_no_map">Conectat (fără acces la mesaje)</string>
     <string name="bluetooth_connecting">Conectare…</string>
     <string name="bluetooth_disable_absolute_volume">Dezactivați volumul absolut</string>
-    <string name="bluetooth_disable_absolute_volume_summary">Dezcativează caracteristica de volum absolut Bluetooth în cazul unor probleme cu dispozitivele de la distanță cum ar fi sunet inacceptabil de tare sau pierderea controlului.</string>
+    <string name="bluetooth_disable_absolute_volume_summary">Dezactivează caracteristica de volum absolut Bluetooth în cazul unor probleme cu dispozitivele de la distanță cum ar fi sunet inacceptabil de tare sau pierderea controlului.</string>
     <string name="bluetooth_disconnected">Deconectat</string>
     <string name="bluetooth_disconnecting">Deconectare…</string>
     <string name="bluetooth_dun_profile_summary_connected">Conectat la serverul DUN</string>
@@ -181,11 +181,11 @@
     <string name="connected_via_passpoint">Conectat via %1$s</string>
     <string name="connected_via_wfa">Conectat via asistent Wi‑Fi</string>
     <string name="convert_to_fbe_warning">"Convertește partiția de date la criptarea pe baza fișierului.
- !!ATENȚIE!! Acest lucru va șterge toate datele.
+ ATENȚIE: Acest lucru va șterge toate datele.
  Această caracteristică este experimentală și poate funcționa necorespunzător.
  Atingeți 'Ștergeți și convertiți…' pentru a continua."</string>
     <string name="convert_to_file_encryption">Convertiți la criptarea pe baza fișierului</string>
-    <string name="convert_to_file_encryption_done">Fișier deja criptat</string>
+    <string name="convert_to_file_encryption_done">Fișierele sunt criptate</string>
     <string name="convert_to_file_encryption_enabled">Convertire…</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalie (roșu-verde)</string>
     <string name="daltonizer_mode_disabled">Dezactivat</string>
@@ -216,12 +216,12 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="debug_layout_summary">Arată limitele, marginile, etc. ale videoclipurilor.</string>
     <string name="debug_monitoring_category">Monitorizare</string>
     <string name="debug_networking_category">Rețea</string>
-    <string name="debug_view_attributes">Activați vizualizarea inspecției atributelor</string>
+    <string name="debug_view_attributes">Activați vizualizarea atributelor</string>
     <string name="demo_mode">Mod Demo</string>
     <string name="description_direction_left">Glisaţi în stânga pt. %s</string>
     <string name="description_direction_up">Glisaţi în sus pt. %s</string>
     <string name="description_target_search">Căutaţi</string>
-    <string name="dev_settings_warning_message">Aceste setări sunt destinate doar scopurilor de dezvoltare. Ele pot cauza oprirea sau comportamentul anormal al aplicațiilor.</string>
+    <string name="dev_settings_warning_message">Aceste setări sunt destinate doar dezvoltatorilor. Activarea acestor caracterisitici poate cauza oprirea sau comportamentul anormal al aplicațiilor și al telefonului.</string>
     <string name="dev_settings_warning_title">Permiteți setările de dezvoltare?</string>
     <string name="development_settings_enable">Activați opțiunile dezvoltator</string>
     <string name="development_settings_not_available">Opțiunile Dezvoltator nu sunt diponibile acestui utilizator</string>
@@ -248,7 +248,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="enable_adb_summary">Mod depanare la conectare USB</string>
     <string name="enable_freeform_support">Activați ferestre cu formă liberă</string>
     <string name="enable_freeform_support_summary">Activați suportul pentru ferestrele cu formă liberă.</string>
-    <string name="enable_opengl_traces_title">Activați urmele OpenGL</string>
+    <string name="enable_opengl_traces_title">Activați monitorizarea OpenGL</string>
     <string name="enable_power_save_mode">Activați Economisire acumulator</string>
   <string name="enable_terminal_summary">Activați aplicația terminal ce oferă acces local</string>
   <string name="enable_terminal_title">Terminal local</string>
@@ -274,10 +274,10 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="ext_media_unmountable_notification_title">Stocare USB deteriorată</string>
     <string name="float_incall_ignore">Ignorați</string>
     <string name="float_incall_message">Mesaj</string>
-  <string name="force_allow_on_external">Forțați permisiunile aplicației externe</string>
+  <string name="force_allow_on_external">Forțați permisiunile aplicației de a scrie în memoria externă</string>
   <string name="force_allow_on_external_summary">Permite oricărei aplicații să fie scrisă în memoria externă, fără a se ține cont de valorile atribuite</string>
   <string name="force_hw_ui">Forțați randarea GPU</string>
-  <string name="force_hw_ui_summary">Forțați utilizarea GPU pentru desenare 2d</string>
+  <string name="force_hw_ui_summary">Forțați utilizarea GPU pentru desenare 2D</string>
   <string name="force_msaa">Forțează 4x MSAA</string>
   <string name="force_msaa_summary">Activează 4x MSAA în aplicațiile OpenGL ES 2.0</string>
   <string name="force_resizable_activities">Forțați redimensionarea activităților</string>
@@ -292,7 +292,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="home">Setări ecran principal</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="immediately_destroy_activities">Nu păstra activitățile</string>
-    <string name="immediately_destroy_activities_summary">Închide orice activitate de îndată ce utilizatorul o închide</string>
+    <string name="immediately_destroy_activities_summary">Închide orice activitate de îndată ce utilizatorul o părăsește</string>
     <string name="inactive_app_active_summary">Activă. Atingeți pentru a comuta.</string>
     <string name="inactive_app_inactive_summary">Inactivă. Atingeți pentru a comuta.</string>
     <string name="inactive_apps_title">Aplicații inactive</string>
@@ -311,9 +311,9 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="local_backup_password_summary_change">Atingeți pentru a modifica sau elimina parola pentru copiile complete de rezervă</string>
     <string name="local_backup_password_summary_none">Copiile de rezervă complete nu sunt protejate în prezent</string>
     <string name="local_backup_password_title">Parolă copie de rezervă completă</string>
-    <string name="local_backup_password_toast_confirmation_mismatch">Noua parolă și cea de confirmare nu se potrivesc</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">Parolele nu se potrivesc</string>
     <string name="local_backup_password_toast_success">Noua parolă pentru copia de rezervă a fost setată</string>
-    <string name="local_backup_password_toast_validation_failure">Setarea parolei pentru copia de rezervă a eșuat</string>
+    <string name="local_backup_password_toast_validation_failure">"Nu s-a putut seta parola de rezervă"</string>
     <string name="lockscreen_carrier_default">Niciun serviciu</string>
     <string name="long_screenshot_not_support_msg">"Aplicația curentă nu suportă captura de ecran extinsă"</string>
     <string name="long_screenshot_out_of_memory_error">Dimensiunea imaginii este prea mare</string>
@@ -473,14 +473,14 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="settings_toggle_position_reset">Resetaţi comutatoarele</string>
     <string name="share">Partajaţi</string>
   <string name="show_all_anrs">Arată toate închiderile forțate</string>
-  <string name="show_all_anrs_summary">Arată o fereastră de închidere forțață pentru aplicațiile din fundal</string>
+  <string name="show_all_anrs_summary">Arată o fereastră \"Aplicația nu răspunde\" pentru aplicațiile din fundal</string>
   <string name="show_cpu_usage">Arată utilizarea procesorului</string>
   <string name="show_cpu_usage_summary">Afișează utilizarea curentă a procesorului</string>
   <string name="show_demo_mode">Afișează modul Demo</string>
-  <string name="show_hw_layers_updates">Arată actualizările straturilor hardware</string>
-  <string name="show_hw_layers_updates_summary">Afișează straturile hardware în verde atunci când se actualizează</string>
-  <string name="show_hw_screen_updates">Arată actualizările vizualizării GPU</string>
-  <string name="show_hw_screen_updates_summary">Afișează Flash views inside windows when drawn with the GPU</string>
+  <string name="show_hw_layers_updates">Arată actualizările nivelurilor hardware</string>
+  <string name="show_hw_layers_updates_summary">Elementele hardware actualizate vor clipi în verde</string>
+  <string name="show_hw_screen_updates">Vizualizează randările GPU</string>
+  <string name="show_hw_screen_updates_summary">Afișează intermitent ferestrele atunci când videoclipurile sunt randate de către GPU</string>
   <string name="show_non_rect_clip">Depanează decupările non-rectangulare</string>
   <string name="show_screen_updates">Show surface updates</string>
   <string name="show_screen_updates_summary">Flash entire window surfaces when they update</string>
@@ -529,7 +529,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="tether_settings_title_usb_bluetooth">Tethering</string>
     <string name="tether_settings_title_wifi">Hotspot portabil</string>
     <string name="tethering_settings_not_available">Setările pentru tethering nu sunt disponibile pentru acest utilizator</string>
-    <string name="title_convert_fbe">Convertire la criptarea pe bază de fișier</string>
+    <string name="title_convert_fbe">Convertire la criptarea pe bază de fișier…</string>
     <string name="title_usb_accessory">Accesoriu USB</string>
     <string name="torch_activity_hint">Ţineţi apăsată [iconița] pentru a activa lanterna în blocarea ecranului</string>
     <string name="torch_activity_name">Lanternă</string>
@@ -537,7 +537,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="torch_opened">Lanternă conectată</string>
     <string name="track_frame_time">Profil randare GPU</string>
     <string name="transition_animation_scale_title">Scală animație de tranziție</string>
-    <string name="tts_default_lang_summary">Setează vocea în funcție de configurarea regională pentru textul rostit</string>
+    <string name="tts_default_lang_summary">Setează limba implicită pentru rostirea textului</string>
     <string name="tts_default_lang_title">Limbă</string>
     <string name="tts_default_pitch_summary">Afectează tonul vocii sintetizate</string>
     <string name="tts_default_pitch_title">Pas</string>
@@ -546,7 +546,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="tts_default_sample_string">Acesta este un exemplu de rostire sintetizată</string>
     <string name="tts_engine_network_required">Această limbă necesită o conexiune la rețea pentru rostirea textului.</string>
     <string name="tts_engine_preference_section_title">Motor rostire preferat</string>
-    <string name="tts_engine_security_warning">Acest motor de rostire sintetizată poate colecta textele de rostit, inclusiv date personale precum parolele și detaliile cardurilor bancare. Acest lucru provine de la motorul %s. Activați utilizarea acestui motor de rostire sintetizată?</string>
+    <string name="tts_engine_security_warning">Acest motor de rostire sintetizată poate înregistra și colecta tot ceea ce rostiți, inclusiv date personale precum parolele și detaliile cardurilor bancare. Acest motor de sintetizare vocală este furnizat de %s. Activați utilizarea acestui motor de rostire sintetizată?</string>
     <string name="tts_engine_settings_button">Setări motor rostire</string>
     <string name="tts_engine_settings_title">Setări pentru %s</string>
     <string name="tts_general_section_title">General</string>
@@ -561,7 +561,7 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="tts_settings">Setări rostire text</string>
     <string name="tts_settings_title">Ieșire rostire text</string>
     <string name="tts_status_checking">Verificare…</string>
-    <string name="tts_status_not_supported">%1$s nu este suportat</string>
+    <string name="tts_status_not_supported">"%1$s nu este suportat"</string>
     <string name="tts_status_ok">%1$s este complet suportat</string>
     <string name="tts_status_requires_network">%1$s necesită conexiune la rețea</string>
     <string name="tts_status_title">Stare limbă implicită</string>
@@ -614,8 +614,8 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="wait_for_debugger_summary">Se așteaptă modulul de depanare înainte de lansarea aplicației</string>
     <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Actualizat la %1$s</string>
-    <string name="wifi_aggressive_handover">Comutare agresivă Wi-Fi la date mobile</string>
-    <string name="wifi_aggressive_handover_summary">Când este activată, Wi-Fi va fi mai agresiv în comutarea către conexiunea de date mobile, dacă semnalul Wi-Fi este slab</string>
+    <string name="wifi_aggressive_handover">Comutare automată de la Wi-Fi la date mobile</string>
+    <string name="wifi_aggressive_handover_summary">Când este activată, se va comuta la conexiunea de date mobile mai activ, atunci când semnalul Wi-Fi este slab</string>
     <string name="wifi_allow_scan_with_traffic">Permite întotdeauna scanarea rețelelor Wi-Fi</string>
     <string name="wifi_allow_scan_with_traffic_summary">Permite/Refuză scanarea rețelelor Wi-Fi bazat pe traficul de date prezent în interfață</string>
     <string name="wifi_connected_no_internet">Conectat, fără Internet</string>
@@ -651,6 +651,6 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_verbose_logging">Activați Wi-Fi Verbose Logging</string>
-    <string name="wifi_verbose_logging_summary">Crește nivelul Wi-Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
+    <string name="wifi_verbose_logging_summary">Crește nivelul Wi-Fi logging level, arată RSSI-ul pentru fiecare SSID din lista rețelelor Wi-Fi</string>
     <string name="window_animation_scale_title">Scală fereastră animație</string>
 </resources>

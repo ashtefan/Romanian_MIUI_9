@@ -32,6 +32,7 @@
 Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="config_suggest_suffix_title">Economisire acumulator MIUI(recomandat)</string>
     <string name="config_suggest_title">Economisire acumulator MIUI</string>
+    <string name="confirm">Confirmați</string>
     <string name="disable_hide_mode">Dezactivați Economisirea acumulatorului MIUI</string>
     <string name="disable_hide_mode_warning">Dezactivarea Economisirii acumulatorului MIUI poate cauza un consum crescut de energie</string>
     <string name="disabled">Dezactivat</string>
@@ -50,6 +51,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="hide_system_app">Ascunde aplicațiile de sistem</string>
     <string name="high">Performanţă</string>
     <string name="hints_loading_text">Doar o secundă…</string>
+    <string name="important_warning">Avertisment</string>
     <string name="invalid_size_value">"Nu s-a putut obține dimensiunea pachetului."</string>
     <string name="location_disable_description">Se interzice utilizarea locației</string>
     <string name="location_disable_title">Interzis</string>
@@ -182,4 +184,5 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="vip_feedback">Feedback Vip</string>
     <string name="vip_feedback_enable">Activați Feedback Vip automat</string>
     <string name="warm_configure">Configurare control temperatură</string>
+    <string name="warm_performance_tip">În cazul utilizării intense, temperatura telefonului este mai mare decât în modul implicit</string>
 </resources>

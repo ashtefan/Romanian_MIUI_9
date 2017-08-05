@@ -88,7 +88,7 @@
         <item>Mod prioritate performanță</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>În modul curent de control al temperaturii, se preferă o temperatură joasă a telefonului</item>
-        <item>În modul curent de prioritate pentru performanță, temperatura poate atinge valori ridicate</item>
+        <item>Modul curent implicit</item>
+        <item>Modul curent cu prioritate pentru performanță</item>
     </string-array>
 </resources>

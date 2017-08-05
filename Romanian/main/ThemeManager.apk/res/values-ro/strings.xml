@@ -117,6 +117,8 @@
     <string name="my_gifts_received">Primit</string>
     <string name="no_data">"Nu se poate conecta la rețea"</string>
     <string name="online_no_network">Imposibil de conectat la reţea</string>
+    <string name="online_precust_dreams">Vise</string>
+    <string name="online_precust_midnight">Miezul nopții</string>
     <string name="online_search_hint">Căutaţi resurse online</string>
     <string name="present_local_themes">Descărcate</string>
     <string name="present_online_themes">Obțineți mai multe teme gratuit</string>
