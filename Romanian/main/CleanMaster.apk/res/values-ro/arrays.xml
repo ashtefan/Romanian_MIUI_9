@@ -16,6 +16,7 @@
         <item>În fiecare zi</item>
         <item>La fiecare 3 zile</item>
         <item>La fiecare 7 zile</item>
+        <item>La fiecare 15 zile</item>
      </string-array>
     <string-array name="auto_clean_size">
         <item>100 MB</item>
@@ -24,56 +25,8 @@
         <item>1 GB</item>
      </string-array>
     <string-array name="auto_process_mode">
-         <item>Doar notificare</item>
-         <item>Curățare automată</item>
-         <item>Curățare și notificare</item>
-     </string-array>
-    <string-array name="cache_clean_menu">
-        <item>Curăţare fișier</item>
-        <item>Vizualizare locație fişier</item>
-    </string-array>
-     <string-array name="trash_clean_menu">
-        <item>Curățare fișier</item>
-        <item>"Vizualizare locație fișier"</item>
-    </string-array>
-    <string-array name="video_clean_menu">
-        <item>Curățați fișierul</item>
-        <item>Deschideți</item>
-    </string-array>
-    <string-array name="empty_floder_clean_menu">
-        <item>Curăţare</item>
-    </string-array>
-    <string-array name="apk_clean_menu">
-        <item>Curăţați</item>
-        <item>Instalați aplicația</item>
-        <item>Vizualizați dosarul conținător</item>
-    </string-array>
-    <string-array name="long_add_menu">
-        <item>Adăugare la excepții</item>
-    </string-array>
-    <string-array name="long_add_app_menu">
-        <item>Adăugare aplicație la excepții</item>
-    </string-array>
-    <string-array name="app_clean_menu">
-        <item>Dezinstalare</item>
-    </string-array>
-    <string-array name="auto_alert_apps_time">
-        <item>La fiecare 7 zile</item>
-        <item>La fiecare 15 zile</item>
-        <item>La fiecare 30 zile</item>
-    </string-array>   
-    <string-array name="scan_engine">
-        <item>Clean Master</item>
-        <item>Tencent</item>
-    </string-array>
-    <string-array name="wechat_menu_delete">
-        <item>Goliți</item>
-    </string-array>
-    <string-array name="wechat_menu_delete_whitelist">
-        <item>Goliți</item>
-    </string-array>
-    <string-array name="wechat_menu_delete_whitelist_view">
-        <item>Goliți</item>
-        <item>Vizualizați</item>
+        <item>Afișează o notificare</item>
+        <item>Curăță în fundal</item>
+        <item>Afișează o notificare după curățare</item>
     </string-array>
 </resources>

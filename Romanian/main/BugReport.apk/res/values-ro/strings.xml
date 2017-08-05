@@ -8,7 +8,7 @@
     <string name="app_name">Raportare probleme</string>
     <string name="btn_send">Trimiteţi</string>
     <string name="bugreport_dialog_not_show_again">"Nu arăta din nou"</string>
-    <string name="bugreport_dialog_submit_content">Comentariul poate conține informații personale.</string>
+    <string name="bugreport_dialog_submit_content">Comentariul poate conține informații personale și date despre locație.</string>
     <string name="bugreport_dump_complete_notification_summary">Apăsaţi pentru a vizualiza.</string>
     <string name="bugreport_dump_complete_notification_title">Raport de probleme creat</string>
     <string name="bugreport_dump_start_notification_summary">Durează câteva minute.</string>
@@ -254,7 +254,7 @@
     <string name="section_screenshot">Captură de ecran</string>
     <string name="submit_dialog_cancel">Anulaţi</string>
     <string name="submit_dialog_confirm">Trimiteţi</string>
-    <string name="submit_dialog_content">Feedback-ul dvs., împreună cu jurnalurile erorilor și imagini atașate, vor fi trimise la serverele MIUI. Acesta poate conține informații personale.</string>
+    <string name="submit_dialog_content">"Feedback-ul dvs., împreună cu jurnalele cu erori și imagini atașate, vor fi încărcate pe serverele MIUI. Acestea pot conține informații personale și date despre locația dumneavoastră."</string>
     <string name="submit_dialog_title">Trimiteţi raportul cu probleme</string>
     <string name="submit_feedback_info_failed">"Nu s-a putut trimite raportul"</string>
     <string name="suggestion_description">Adăugaţi descrierea aici</string>

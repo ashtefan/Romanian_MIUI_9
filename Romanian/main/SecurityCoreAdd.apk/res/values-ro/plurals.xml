@@ -12,4 +12,8 @@
         <item quantity="other">%d notificări în spațiul secundar</item>
         <item quantity="one">%d notificare în spațiul secundar</item>
     </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Căutați %d aplicații</item>
+        <item quantity="one">Căutați %d aplicație</item>
+    </plurals>
 </resources>

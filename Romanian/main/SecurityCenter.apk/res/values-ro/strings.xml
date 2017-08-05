@@ -29,10 +29,10 @@
     <string name="ac_firstUseApplock_title">Setați o parolă pentru a vă proteja aplicațiile</string>
     <string name="ac_summaryOff">Dacă este dezactivată nu este necesară parola pentru accesarea aplicațiilor</string>
     <string name="ac_summaryOn">Dacă este activată se va solicita parola de deblocare pentru accesarea aplicațiilor</string>
+    <string name="access_control_failed_need_to_unlock_nofingerprint">Este necesară parola pentru lansarea aplicațiilor</string>
+    <string name="access_control_fingerprint_not_identified_msg">"Nu s-a putut citi amprenta."</string>
     <string name="access_control_need_password">"%s adăugată cu succes
 "</string>
-    <string name="access_control_need_to_unlock">"Scanați amprenta
-sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="access_control_need_to_unlock_nofingerprint">Introduceţi parola pentru blocarea aplicațiilor</string>
     <string name="access_control_recording_intro_header">Desenaţi un model propriu pentru blocarea aplicaţiilor</string>
     <string name="access_control_reset_by_account">Conectaţi-vă la contul dvs. Mi pentru a reseta parola de blocare a aplicațiilor</string>
@@ -42,8 +42,6 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="action_button_text_60_80">Reparați</string>
     <string name="action_button_text_80_100">Optimizați</string>
     <string name="action_source_sms_title">SMS-uri blocate</string>
-    <string name="activate_fingerprint_dialog_message">"Această amprentă nu este activă. Introduceți parola pentru a o activa."</string>
-    <string name="activate_fingerprint_dialog_title">Introduceți parola</string>
     <string name="activity_title_antispam">Listă blocări</string>
     <string name="activity_title_antivirus">Scanare de securitate</string>
     <string name="activity_title_apps_manager">Aplicaţii</string>
@@ -100,7 +98,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="adjust_traffic_carrier_summary_two_day_before">Actualizată cu 2 zile în urmă</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Actualizată ieri la %s</string>
     <string name="adjust_traffic_data">Setaţi utilizarea datelor</string>
-    <string name="after_the_lock_screen">"Aplicația este blocată odată ce ecranul telefonului este inactiv. Puteți modifica această acțiune din Setările pentru blocarea aplicațiilor."</string>
+    <string name="after_the_lock_screen">Aplicația este blocată odată ce ecranul telefonului devine inactiv.</string>
     <string name="all_address_choose_hint">Toate numerele din acest județ</string>
     <string name="anim_gamebooster_text">Doar o secundă…</string>
     <string name="anti_disturb_msg_detail">Dezactivați toate notificările cu excepția apelurilor primite</string>
@@ -278,14 +276,15 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="application_item_already_permission">Acordate</string>
     <string name="application_item_disable">Restricționate</string>
     <string name="applock_add_account">Adăugați</string>
-    <string name="applock_add_account_info">"Adăugați contul Mi pentru a vă putea reseta parola
-în caz că o veți uita"</string>
+    <string name="applock_add_account_info">Adăugați contul Mi pentru a vă putea reseta parola în caz că o veți uita.</string>
     <string name="applock_add_account_setting">Cont și confidențialitate</string>
+    <string name="applock_bind_account_title">Resetarea parolei</string>
     <string name="applock_close_dialog_summary">Aplicațiile nu vor mai fi protejate iar parola va fi ștearsă după ce veți dezactiva Blocarea aplicațiilor.</string>
     <string name="applock_close_dialog_title">Dezactivați Blocarea aplicațiilor?</string>
     <string name="applock_exit_account_info">Contul va fi eliminat în mod automat când vă veți deconecta</string>
+    <string name="applock_header_text_less_than_half">Prea puțin spațiu disponibil pentru această aplicație. Trageți separatorul mai departe.</string>
     <string name="applock_login_and_add_account">Conectați-vă și adăugați</string>
-    <string name="applock_not_add_account">Nu acum</string>
+    <string name="applock_not_add_account">&lt;u&gt;Not now&lt;/u&gt;</string>
     <string name="applock_not_login_account">"Nu sunteți conectat"</string>
     <string name="apps_item_sign_dialog_content">"Semnătura %s este diferită de cea din versiunea App Store. Ștergeți această aplicație și instalați versiunea oficială? Notă: instalarea unei aplicații care prezintă un conflict de semnătură poate duce la pierderea datelor aplicației."</string>
     <string name="apps_item_sign_dialog_title">Instalați versiunea oficială a aplicației</string>
@@ -550,8 +549,6 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="card_main_private_space_summary">Utilizând Spațiul Secundar e ca și cum ați avea 2 telefoane</string>
     <string name="card_main_private_space_title">Spațiu Secundar</string>
     <string name="card_main_sectool_title">Unelte</string>
-    <string name="card_main_speeddetail_title">Viteza de conectare</string>
-    <string name="card_main_speeddetailt_summary">Vedeți viteza de conectare pentru fiecare aplicație</string>
     <string name="card_main_xspace_action">Creați</string>
     <string name="card_main_xspace_summary">Creați clone pentru orice aplicații</string>
     <string name="card_main_xspace_title">Aplicații clonate</string>
@@ -583,7 +580,7 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="cmcc_app_check_dialog_title">Sistem reparat</string>
     <string name="confirmSecondSpacePassword">Confirmați parola pentru Spațiul Secundar</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Se adaugă contul Mi</string>
-    <string name="confirm_fingerprint_msg">Puneți degetul pe senzor</string>
+    <string name="confirm_fingerprint_msg">Verificați-vă amprenta</string>
     <string name="confirm_prompt_all_permission">Cereți permisiunea pentru toate aplicațiile?</string>
     <string name="confirm_reject_all_permission">Împiedicați toate aplicațiile să utilizeze această caracteristică?</string>
     <string name="connect_internet_by_mobiledata">Conexiune de date mobile</string>
@@ -749,8 +746,8 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="examination_score_80_60">Unele elemente pot fi optimizate</string>
     <string name="examination_score_has_virus">Au fost detectate unele aplicații suspecte.</string>
     <string name="exit">Ieșiți</string>
-    <string name="finger_remind_message">Puteți utiliza și amprenta pentru blocarea aplicațiilor.</string>
-    <string name="fingerprint_identify_msg">Scanați amprenta</string>
+    <string name="finger_remind_message">Adăugați mai întâi amprenta. Atingeți pentru a merge la Setări.</string>
+    <string name="fingerprint_identify_msg">Activați Deblocarea cu amprentă</string>
     <string name="fingerprint_not_identified_msg">Pentru a debloca dispozitivul, introduceți parola.</string>
     <string name="fingerprint_not_remind">"Nu arăta din nou"</string>
     <string name="fingerprint_remind_dialog_title">Deblocare cu amprentă</string>
@@ -790,7 +787,8 @@ sau introduceţi parola pentru blocarea aplicațiilor"</string>
     <string name="flow_rank_title">Utilizare date mobile</string>
     <string name="foreground_traffic">În prim plan: %s</string>
     <string name="forget_password_button_text"><u>Am uitat parola</u></string>
-    <string name="forget_pattern"><u>Ați uitat modelul de deblocare?</u></string>
+    <string name="forget_password_button_text_normal">Am uitat parola</string>
+    <string name="forget_pattern"><u>Am uitat parola</u></string>
     <string name="free_time_traffic">Limită de date în afara orelor de vârf</string>
     <string name="free_time_traffic_hint">Introduceţi limita de date în afara orelor de vârf</string>
     <string name="free_time_traffic_settings">Limita de date în afara orelor de vârf</string>
@@ -986,14 +984,13 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="lock_screen_warning_switch_summary">Se afişează un avertisment la blocarea ecranului, atunci când utilizarea datelor depășește o anumită valoare</string>
     <string name="lock_screen_warning_switch_title">Se afişează un avertisment la blocarea ecranului</string>
     <string name="lock_screen_warning_value">Avertizare utilizare date mobile</string>
-    <string name="lock_settings_title">Blocare ecran și parolă</string>
-    <string name="lockpassword_confirm_your_password_header">Confirmați parola</string>
-    <string name="lockpassword_confirm_your_pattern_header">Confirmați modelul propriu</string>
+    <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">"Nu s-a putut recunoaște parola; încercați din nou."</string>
+    <string name="lockpattern_access_need_to_unlock_wrong_pattern">Parola este incorectă; încercați din nou.</string>
     <string name="lockpattern_confirm_button_text">OK</string>
     <string name="lockpattern_continue_button_text">Următorul</string>
     <string name="lockpattern_need_to_confirm">Desenați modelul propriu din nou pentru confirmare</string>
     <string name="lockpattern_need_to_unlock">Confirmați modelul propriu salvat</string>
-    <string name="lockpattern_need_to_unlock_wrong">Încercați din nou</string>
+    <string name="lockpattern_need_to_unlock_wrong">"Parolele nu se potrivesc; încercați din nou"</string>
     <string name="lockpattern_pattern_confirmed_header">Noul model de deblocare</string>
     <string name="lockpattern_pattern_entered_header">Model propriu adăugat</string>
     <string name="lockpattern_recording_incorrect_too_short">Conectați cel puțin %d puncte</string>
@@ -1167,6 +1164,7 @@ răspunsul operatorului"</string>
     <string name="mi_service_framework">Mi Service Framework</string>
     <string name="mi_service_traffic_detail">Detalii Framework</string>
     <string name="mian_page_primary_txt">Roaming internaţional</string>
+    <string name="modify_password_mode">&lt;u&gt;Modificați tipul parolei&lt;/u&gt;</string>
     <string name="modifypassword">Modificați parola</string>
     <string name="monitor_app_add">Adăugați</string>
     <string name="monitor_app_more">Mai multe</string>
@@ -1373,11 +1371,11 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="package_setted_error_notification_titile">Nu s-a putut seta planul de date</string>
     <string name="packages_subtitle">Pachete incluse</string>
     <string name="passwordIncorrect">Numele de utilizator sau parola sunt incorecte</string>
-    <string name="password_forget_pattern_confirm">Salvați-vă datele</string>
-    <string name="password_forget_pattern_message">"Salvați datele local și apoi reveniți la setările din fabrică. După aceasta, vă veți putea schimba parola."</string>
-    <string name="password_forget_pattern_title">Salvați-vă datele</string>
-    <string name="password_promotion_button_text">Adăugați contul Mi</string>
-    <string name="password_promotion_message">Adăugați contul Mi (%s) pentru a vă putea reseta parola în caz că o uitați.</string>
+    <string name="password_forget_pattern_confirm">Am înțeles</string>
+    <string name="password_forget_pattern_message">Din motive de siguranță, vă puteți reseta parola doar după o revenire la setările din fabrică. Atingeți pentru a continua.</string>
+    <string name="password_forget_pattern_message_none">"Aplicațiile nu sunt blocate. Vă puteți reseta parola."</string>
+    <string name="password_forget_pattern_reset">Resetați</string>
+    <string name="password_forget_pattern_title">Atenție</string>
     <string name="password_promotion_not_login_xiaomi_account_message">Adăugați contul dvs. Mi pentru a vă putea reseta parola în caz că o uitați.</string>
     <string name="password_promotion_postbutton_text">Adăugați</string>
     <string name="password_promotion_title">Adăugați contul Mi</string>
@@ -1742,7 +1740,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="select_pattern">Selectați modelul propriu</string>
     <string name="set_applock_password">Setați parola</string>
     <string name="setting">Setări</string>
-    <string name="setting_privacy_password">Setați parola de blocare a aplicațiilor</string>
+    <string name="setting_privacy_password">Adăugați un model de deblocare</string>
     <string name="settings">Setări utilizare date</string>
     <string name="settings_battery_consume_abnormal_summary">Primiți notificări atunci când acumulatorul se descarcă foarte rapid</string>
     <string name="settings_battery_consume_abnormal_title">Notificări descărcare acumulator</string>
@@ -2239,6 +2237,8 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="uninstall_app_dialog_title">Dezinstalați acum?</string>
     <string name="uninstall_app_done">Dezinstalare finalizată</string>
     <string name="unlike">Nu, mulțumesc</string>
+    <string name="unlock_pattern">&lt;u&gt;Model de deblocare&lt;/u&gt;</string>
+    <string name="unlock_pattern_to_bind_fingerprint">Introduceți parola pentru a activa amprenta</string>
     <string name="updating_diagnostic_botton">Se analizează datele…</string>
     <string name="usage_sorted_activity_lable">Utilizare date</string>
     <string name="usage_sorted_empty_text">Gol</string>

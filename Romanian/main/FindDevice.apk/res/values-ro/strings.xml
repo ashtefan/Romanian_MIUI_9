@@ -18,6 +18,7 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="enable_find_device_success">Localizarea dispozitivului este activă</string>
     <string name="find_device">Localizare dispozitiv</string>
     <string name="find_device_crash">Aplicația Localizare dispozitiv s-a închis în mod neașteptat.</string>
+    <string name="find_device_error_access_denied">Acces refuzat.</string>
     <string name="find_device_error_account_sys_timeout">"Nu s-a putut conecta la contul Mi. "</string>
     <string name="find_device_error_account_unknown_error">Eroare Cont Mi (%s).</string>
     <string name="find_device_error_network">Eroare de rețea.</string>
@@ -50,6 +51,10 @@ Dacă schimbați cartela SIM, un alt SMS va fi trimis în mod automat pentru a r
     <string name="phone_locked_account_phone">, număr de telefon asociat: %s</string>
     <string name="stop_on_empty_captcha">"Codul de verificare nu poate fi gol"</string>
     <string name="stop_on_empty_password">"Câmpul Parolă nu poate fi gol"</string>
+    <string name="sys_notification_async_open_failed_content">Atingeți pentru a încerca din nou sau renunțați.</string>
+    <string name="sys_notification_async_open_failed_title">"Nu s-a putut activa Localizarea dispozitivului"</string>
+    <string name="sys_notification_async_verify_content">Politica noastră de securitate actualizată necesită reactivarea Localizării dispozitivului.</string>
+    <string name="sys_notification_async_verify_title">Reactivați Localizarea dispozitivului</string>
     <string name="time_correction_failure">"Nu s-a putut corecta ora. %s"</string>
     <string name="time_correction_success">Ora a fost corectată</string>
     <string name="unlock">Activați</string>

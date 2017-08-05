@@ -1471,7 +1471,7 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="enable_service_password_reason">Deoarece activarea %1$s afectează criptarea datelor, va trebui să vă confirmați parola.</string>
     <string name="enable_service_pattern_reason">Deoarece activarea %1$s afectează criptarea datelor, va trebui să vă confirmați modelul de deblocare.</string>
     <string name="enable_service_pin_reason">Deoarece activarea %1$s afectează criptarea datelor, va trebui să vă confirmați codul PIN.</string>
-    <string name="enable_service_title">Utilizați %1$s?</string>
+    <string name="enable_service_title">Serviciul va realiza următoarele acțiuni:</string>
     <string name="enable_snapshot_screenlock">Apăsați lung butonul Înapoi pentru a realiza o fotografie</string>
     <string name="enable_terminal_summary">Activați aplicația terminal care oferă acces la shell local</string>
     <string name="enable_terminal_title">Aplicație terminal locală</string>
@@ -2692,9 +2692,9 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="open_miui_optimization_warning_message">Telefonul va reporni pentru a se aplica modificarea</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Renunțați</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Închideți</string>
-    <string name="open_personal_assistant_dialog_desc">"Nu veți mai putea utiliza Asistentul inteligent și nici primi actualizări pentru acesta. Îl dezactivați acum?"</string>
-    <string name="open_personal_assistant_dialog_title">Dezactivați Asistentul inteligent</string>
-    <string name="open_personal_assistant_title">Activați Asistentul inteligent</string>
+    <string name="open_personal_assistant_dialog_desc">"Nu veți mai putea utiliza QuickCard și nici primi actualizări pentru acesta. Îl dezactivați acum?"</string>
+    <string name="open_personal_assistant_dialog_title">Dezactivați QuickCard</string>
+    <string name="open_personal_assistant_title">Activați QuickCard</string>
     <string name="open_wifi_connect_summary">Atingeţi pentru a vizualiza detalii</string>
     <string name="open_wifi_connect_title">Conectat la %1$s</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Acest profil de Servici este gestionat de către:</string>

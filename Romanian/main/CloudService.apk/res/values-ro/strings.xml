@@ -4,6 +4,7 @@
     <string name="account">Cont</string>
     <string name="account_related">Dispozitivul dumneavoastră este asociat cu un cont Mi existent(%s). Conectați-vă la rețea pentru a verifica dispozitivul.</string>
     <string name="activate">Activare</string>
+    <string name="activate_find_device_success">Localizarea dispozitivului a fost activată.</string>
     <string name="activate_finddevice">Conectați-vă la rețea pentru a activa dispozitivul</string>
     <string name="activate_number_change_dialog_message">Selectați numărul de telefon care va fi vizibil pentru alte dispozitive atunci când utilizați VoIP</string>
     <string name="activating">Activare…</string>
@@ -46,6 +47,8 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="cloud_back_up_title">Creare copie de rezervă pentru aplicaţii</string>
     <string name="cloud_backup_dialog_title">Creaţi copia de rezervă în Mi Cloud</string>
     <string name="cloud_find_device">Localizare dispozitiv</string>
+    <string name="cloud_find_device_off">Oprită</string>
+    <string name="cloud_find_device_on">Pornită</string>
     <string name="cloud_restore_title">Restabilire din copie de rezervă</string>
     <string name="cloud_space_upgrade_message">Apăsați pentru a adăuga %s GB în contul dvs. de Cloud</string>
     <string name="cloud_space_upgrade_no_quota_info">Nu s-au putut obține informații despre stocare</string>
@@ -97,6 +100,12 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"pentru a localiza, bloca, sau restabili telefonul dvs.
 Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reactiva această funcție."</string>
+    <string name="find_device_operation_failure_rpc">"Nu s-a putut realiza operațiunea datorită unei erori RPC."</string>
+    <string name="find_device_pref_alert_content">"Localizarea dispozitivului este asociată contului dumneavoastră Mi. Trebuie să stabiliți o parolă sau să o utilizați pe cea deja setată. Asigurați-vă că nu uitați parola și numele de utilizator Mi. Poate fi necesară trimiterea unui mesaj SMS pentru activarea acestui serviciu. Operatorul dvs. vă va taxa pentru acest mesaj. Când veți schimba cartele SIM, se va trimite în mod automat un mesaj pentru reactivarea acestei opțiuni."</string>
+    <string name="find_device_pref_alert_negtive">Nu, mulțumesc</string>
+    <string name="find_device_pref_alert_positive">OK</string>
+    <string name="find_device_pref_alert_title">Rețineți numele de utilizator și parola contului Mi</string>
+    <string name="find_device_pref_initializing">Inițializare…</string>
     <string name="find_device_reading_status">Actualizare stare…</string>
     <string name="find_device_reading_status_failure">"Nu s-a putut actualiza starea."</string>
     <string name="find_device_send_sms_alert">Dacă veţi schimba cartela SIM, un alt mesaj SMS va fi trimis automat pentru a reactiva această funcție.</string>
@@ -206,10 +215,21 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_dialog_sync_now_title">Conectați-vă la Wi-Fi pentru a sincroniza datele</string>
     <string name="micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul,</string>
     <string name="micloud_dspt_provision">Utilizaţi Mi Cloud pentru a sincroniza datele, localiza dispozitivul și pentru a partaja lucruri prietenilor.</string>
+    <string name="micloud_find_device_close_alert_content">"Dacă dezactivați această caracteristică, nu veți mai putea localiza telefonul în cazul în care îl veți pierde."</string>
+    <string name="micloud_find_device_close_alert_negtive">Dezactivați oricum</string>
+    <string name="micloud_find_device_close_alert_positive">Păstrați activă</string>
+    <string name="micloud_find_device_close_alert_title">Dezactivați Localizarea telefonului?</string>
+    <string name="micloud_find_device_close_fail">"Nu s-a putut dezactiva Localizarea telefonului"</string>
+    <string name="micloud_find_device_close_progress">Se dezactivează Localizarea telefonului…</string>
     <string name="micloud_find_device_finish">Realizat</string>
+    <string name="micloud_find_device_guide_alert_content">"Localizarea dispozitivului este asociată contului dumneavoastră Mi. Trebuie să stabiliți o parolă sau să o utilizați pe cea deja setată. Asigurați-vă că nu uitați parola și numele de utilizator Mi."</string>
+    <string name="micloud_find_device_guide_alert_negtive">Nu, mulțumesc</string>
+    <string name="micloud_find_device_guide_alert_negtive_activate">Nu, mulțumesc</string>
+    <string name="micloud_find_device_guide_alert_positive">OK</string>
+    <string name="micloud_find_device_guide_alert_title">Rețineți numele de utilizator și parola contului Mi</string>
     <string name="micloud_find_device_guide_button">Activați localizarea dispozitivului pe telefon</string>
     <string name="micloud_find_device_guide_content">"Când schimbați cartela SIM, un mesaj SMS va fi trimis în mod automat pentru reactivarea acestei caracteristici!"</string>
-    <string name="micloud_find_device_guide_fail_reopen">Activați localizarea dispozitivului în Mi Cloud</string>
+    <string name="micloud_find_device_guide_fail_reopen">Puteți activa Localizarea dispozitivului în Contul Mi - Mi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Verificați conexiunea la rețea și reîncercați.</string>
     <string name="micloud_find_device_guide_fail_sub_timeout">Conexiunea a expirat. Încercați din nou mai târziu.</string>
     <string name="micloud_find_device_guide_micloud">Porniți sincronizarea cu Mi Cloud</string>
@@ -223,12 +243,16 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat vă recomandă să activați Localizarea telefonului</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay vă recomandă să activați Localizarea telefonului</string>
     <string name="micloud_find_device_guide_progress">Se pornește localizarea dispozitivului…</string>
-    <string name="micloud_find_device_guide_title">"Conectați-vă la %s pentru a localiza, bloca sau șterge datele de pe telefonul dumneavoastră."</string>
+    <string name="micloud_find_device_guide_title">"Conectați-vă la &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; pentru a localiza, bloca sau șterge datele de pe telefonul dumneavoastră. Acest lucru vă poate ajuta să vă recuperați telefonul în caz că îl pierdeți.&lt;br /&gt;Dacă pierdeți telefonul, puteți contacta serviciul de securitate al aplicațiilor utilizate frecvent( de ex. Alipay, WeChat, QQ) pentru a vă proteja conturile de pe &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;."</string>
     <string name="micloud_find_device_open_fail">"Nu s-a putut activa localizarea dispozitivului"</string>
     <string name="micloud_find_device_opened">Localizarea dispozitivului este pornită</string>
     <string name="micloud_find_device_opened_content">Localizați dispozitivul accesând %s</string>
     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
+    <string name="micloud_find_device_verify_button">Reactivați Localizarea dispozitivului</string>
+    <string name="micloud_find_device_verify_close">Dezactivați Localizarea dispozitivului</string>
+    <string name="micloud_find_device_verify_fail">"Nu s-a putut reactiva Localizarea dispozitivului"</string>
+    <string name="micloud_find_device_verify_progress">Se reactivează Localizarea dispozitivului…</string>
     <string name="micloud_first_login_summary" />
     <string name="micloud_first_login_title" />
     <string name="micloud_full_influence_dspt">"Toate fotografiile, videoclipurile, notele și aplicațiile vor rămâne rezervate în Cloud.
