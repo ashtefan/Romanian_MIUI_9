@@ -107,9 +107,9 @@
     <string name="go_on_download">Descărcaţi</string>
     <string name="important_suggestion">Politica de confidențialitate a fost modificată</string>
     <string name="install">Instalaţi</string>
-  <string name="install_desc">"Device will reboot to recovery and install chosen file: %1$s
-Data will not be wiped."</string>
-  <string name="install_title">Are you sure to continue?</string>
+  <string name="install_desc">"Telefonul va reporni în modul Recuperare și va instala fișierul selectat: %1$s
+Partiția de date nu va fi ștearsă."</string>
+  <string name="install_title">Sunteți sigur că doriți să continuați?</string>
     <string name="install_failed">Actualizare eşuată</string>
     <string name="install_file_explorer">Instalaţi mai întâi un Explorer de Fişiere</string>
     <string name="install_local">Instalaţi fişier local</string>
@@ -238,7 +238,6 @@ http://zhushou.xiaomi.com"</string>
     <string name="set_network_title">Conectați-vă la Wi-Fi</string>
     <string name="set_only_wifi">Utilizaţi doar Wi-Fi</string>
     <string name="share">Distribuiţi</string>
-  <string name="share_desc">Versiunea MIUI a fost actualizată la %1$s, verificați secțiunea Ce este nou la: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
     <string name="share_qq">Postaţi pe Tencent Weibo</string>
     <string name="share_sina">Postaţi pe Sina Weibo</string>
   <string name="share_title">Partajați cu</string>
@@ -267,7 +266,6 @@ http://zhushou.xiaomi.com"</string>
     <string name="toast_delay_update_tonight">Telefonul va aplica actualizările între 2:00 AM și 5:00 AM</string>
     <string name="top_secret_build">Top-secret</string>
     <string name="uncrypt_title">Decriptare (%s)</string>
-  <string name="unit" formatted="false">%1$s %</string>
     <string name="unkown_error_title">Nu se poate descărca</string>
     <string name="unstable_build">Instabil</string>
   <string name="update_comment_hint"/>
@@ -301,15 +299,12 @@ Participaţi la sondaj lunea viitoare"</string>
     <string name="upgrade_kernel">Nucleu învechit</string>
     <string name="upgrade_kernel_msg">"Versiunea actuală a nucleului nu se potriveşte cu cea a celei mai recente versiuni MIUI. Trebuie să actualizaţi manual nucleul. Consultaţi tutorialul:
 "</string>
-  <string name="url_down">https://miuipolska.pl/d/xiaomi.eu/xiaomi.eu_multi_%2$s_%1$s_v9-%3$s.zip</string>
-  <string name="url_down_bak">https://netcologne.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/%1$s/xiaomi.eu_multi_%2$s_%1$s_v9-%3$s.zip</string>
     <string name="user_begin">Descărcare</string>
     <string name="user_intertup_download_msg">Descărcările au fost întrerupte. Le puteți relua în orice moment în aplicația Actualizare.</string>
     <string name="user_intertup_download_title">Descărcare în pauză</string>
     <string name="validate_pkg_failed_msg">Nu s-a putut verifica sursa acestei actualizări. Încercați să descărcați din nou.</string>
     <string name="validate_pkg_failed_title">Nu se poate verifica actualizarea</string>
   <string name="version">Versiunea curentă:</string>
-  <string name="version_type">MIUI 9 | %1$s | (%2$s)</string>
     <string name="view_upgrade_tutorial">Vizualizaţi tutorialul</string>
     <string name="vote_beta">Programul Feedback Beta</string>
     <string name="vote_error1">"Se pare că nu sunteți un membru
