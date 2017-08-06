@@ -25,8 +25,17 @@
     <string name="auto_update">Actualizare automată</string>
     <string name="auto_update_sum">Se utilizează algoritmul inteligent pentru a determina ora de actualizare</string>
     <string name="autosetmode">Setări</string>
+  <string name="battery_islow">&lt;font color=#f37981&gt;Conectați încărcătorul&lt;/font&gt;</string>
+  <string name="battery_islow_desc">Nivelul acumulatorului este prea scăzut pentru a instala în siguranță fișierul .zip; conectați încărcătorul și încercați din nou mai târziu!</string>
     <string name="best_update">Cea mai bună actualizare dintotdeauna</string>
     <string name="boot_recovery">Reporniţi în modul Recuperare</string>
+  <string name="btn_changelog">Ce este nou</string>
+  <string name="btn_download">Descărcați</string>
+  <string name="btn_install">Instalați</string>
+  <string name="btn_no">Renunțați</string>
+  <string name="btn_ok">OK</string>
+  <string name="btn_share">Partajați</string>
+  <string name="btn_yes">Da</string>
     <string name="button_delay_update_reboot">Reporniți și aplicați actualizarea</string>
     <string name="button_text_check">Căutați actualizări disponibile</string>
     <string name="button_text_later_reboot">Mai târziu</string>
@@ -69,6 +78,11 @@
     <string name="download_again">Încercaţi</string>
     <string name="download_cancel">Anulaţi</string>
     <string name="download_current_rom">Vizualizaţi actualizările disponibile</string>
+  <string name="download_done">Descărcat cu succes!</string>
+  <string name="download_fail">Eroare survenită în timpul descărcării!</string>
+  <string name="download_fail_desc">Codul MD5 Sum nu se potrivește…</string>
+  <string name="downloading">Se descarcă…</string>
+  <string name="downloading_desc">Descărcare în curs; verificați starea în bara de notificări.</string>
     <string name="download_diff">Descărcare diferenţă (diff)</string>
     <string name="download_error">Ceva a mers prost. Așteptați un minut sau două și încercați din nou.</string>
     <string name="download_failed">Descărcarea a eșuat</string>
@@ -93,6 +107,9 @@
     <string name="go_on_download">Descărcaţi</string>
     <string name="important_suggestion">Politica de confidențialitate a fost modificată</string>
     <string name="install">Instalaţi</string>
+  <string name="install_desc">"Device will reboot to recovery and install chosen file: %1$s
+Data will not be wiped."</string>
+  <string name="install_title">Are you sure to continue?</string>
     <string name="install_failed">Actualizare eşuată</string>
     <string name="install_file_explorer">Instalaţi mai întâi un Explorer de Fişiere</string>
     <string name="install_local">Instalaţi fişier local</string>
@@ -121,11 +138,18 @@
     <string name="my_worst_update">Cea mai rea actualizare</string>
     <string name="network_error">A apărut o eroare de rețea</string>
     <string name="new_updates_found_notification_title">Este disponibilă o actualizare</string>
+  <string name="new_version">A fost găsită o nouă versiune!</string>
     <string name="next">Înainte</string>
     <string name="no_log">Niciun rezumat disponibil</string>
+  <string name="no_network">Fără acces la rețea.</string>
+  <string name="no_update">Aveți deja cea mai recentă versiune!</string>
     <string name="no_wifi_msg">Utilizarea conexiunii de date mobile va creşte traficul de date mobile. Conectați-vă la Wi-Fi pentru a descărca actualizările.</string>
     <string name="no_wifi_title">Conectați-vă la Wi-Fi</string>
     <string name="not_open">Nu</string>
+  <string name="notif_cancel">Renunțați</string>
+  <string name="notif_install">Instalați</string>
+  <string name="notif_new_summary">Atingeți pentru detalii</string>
+  <string name="notif_new_title">Este disponibilă o nouă versiune!</string>
     <string name="notification_auto_reboot_seccess_title">Dispozitiv actualizat automat</string>
     <string name="notification_delay_update_button">Actualizează peste 2 ore</string>
     <string name="notification_delay_update_cancel">"Nu actualiza la noapte"</string>
@@ -157,6 +181,12 @@
     <string name="open_now">Da</string>
     <string name="particular_build">Particular</string>
     <string name="pause">Pauză</string>
+  <string name="permdesc_cache_filesystem">Permite aplicației să scrie fișiere în /cache.</string>
+  <string name="permdesc_reboot">Permite aplicației să repornească telefonul.</string>
+  <string name="permlab_cache_filesystem">Acces la Cache</string>
+  <string name="permlab_reboot">Acces Repornire</string>
+  <string name="pick_not_found">Nu s-a găsit niciun manager de fișiere corespunzător.</string>
+  <string name="pick_title">Pick utilizând:</string>
     <string name="pm_root_acquired_button">Acces root</string>
     <string name="pm_root_acquired_notification_title">Obținere acces root</string>
     <string name="pm_root_acquired_rooting">Obținere acces root %s</string>
@@ -181,6 +211,7 @@
     <string name="provision_toast_server_error">Nu s-a putut conecta la server. Așteptați un minut sau două și reîncercați.</string>
     <string name="provision_toast_timeout">Timpul de conectare a expirat. Verificați setările de rețea.</string>
     <string name="reboot">Reporniţi</string>
+  <string name="recovery_desc">Telefonul va reporni în modul Recuperare. Dacă nu vă este familiar acest mod, NU continuați. Continuați?</string>
     <string name="recovery_failed_button">OK</string>
     <string name="recovery_failed_msg">"Dispozitivul nu are suficientă memorie pentru a intra în modul Recuperare și pentru a actualiza sistemul dvs. Încercați să folosiți Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
@@ -194,6 +225,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="root_acquired">Permiteți acces root</string>
     <string name="root_agree_check_box_title">Înțeleg riscurile accesului root</string>
     <string name="root_dangerous_msg">Permisiunea de acces root este extrem de riscantă și vă poate expune dispozitivul și datele personale atacurilor provenite de la aplicațiile rău-intenționate. Acceptați că sunteți singurul responsabil pentru orice daune aduse dispozitivului sau pentru pierderea datelor ca urmare a permisiunii acces root.</string>
+  <string name="server_error">Serverul nu răspunde; este posibil ca aplicația să nu funcționeze corespunzător!</string>
     <string name="set_auto">Se verifică pentru actualizări în mod automat</string>
     <string name="set_auto_msg">Descărcați actualizările când sunteți conectat la Wi-Fi și le instalați peste noapte?</string>
     <string name="set_auto_update_title">Activați actualizarea automată?</string>
@@ -206,8 +238,10 @@ http://zhushou.xiaomi.com"</string>
     <string name="set_network_title">Conectați-vă la Wi-Fi</string>
     <string name="set_only_wifi">Utilizaţi doar Wi-Fi</string>
     <string name="share">Distribuiţi</string>
+  <string name="share_desc">Versiunea MIUI a fost actualizată la %1$s, verificați secțiunea Ce este nou la: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
     <string name="share_qq">Postaţi pe Tencent Weibo</string>
     <string name="share_sina">Postaţi pe Sina Weibo</string>
+  <string name="share_title">Partajați cu</string>
     <string name="share_update">Distribuiţi informaţia despre actualizare</string>
     <string name="share_update_content_sign">Am actualizat MIUI la %1$s! Starea actualizărilor mele este %2$s. Pentru jurnalul detaliat al schimbărilor, accesaţi %3$s</string>
     <string name="share_update_content_unsign">Am actualizat MIUI la %1$s! Pentru jurnalul detaliat al schimbărilor, accesaţi %2$s</string>
@@ -233,6 +267,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="toast_delay_update_tonight">Telefonul va aplica actualizările între 2:00 AM și 5:00 AM</string>
     <string name="top_secret_build">Top-secret</string>
     <string name="uncrypt_title">Decriptare (%s)</string>
+  <string name="unit" formatted="false">%1$s %</string>
     <string name="unkown_error_title">Nu se poate descărca</string>
     <string name="unstable_build">Instabil</string>
   <string name="update_comment_hint"/>
@@ -266,11 +301,15 @@ Participaţi la sondaj lunea viitoare"</string>
     <string name="upgrade_kernel">Nucleu învechit</string>
     <string name="upgrade_kernel_msg">"Versiunea actuală a nucleului nu se potriveşte cu cea a celei mai recente versiuni MIUI. Trebuie să actualizaţi manual nucleul. Consultaţi tutorialul:
 "</string>
+  <string name="url_down">https://miuipolska.pl/d/xiaomi.eu/xiaomi.eu_multi_%2$s_%1$s_v9-%3$s.zip</string>
+  <string name="url_down_bak">https://netcologne.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/%1$s/xiaomi.eu_multi_%2$s_%1$s_v9-%3$s.zip</string>
     <string name="user_begin">Descărcare</string>
     <string name="user_intertup_download_msg">Descărcările au fost întrerupte. Le puteți relua în orice moment în aplicația Actualizare.</string>
     <string name="user_intertup_download_title">Descărcare în pauză</string>
     <string name="validate_pkg_failed_msg">Nu s-a putut verifica sursa acestei actualizări. Încercați să descărcați din nou.</string>
     <string name="validate_pkg_failed_title">Nu se poate verifica actualizarea</string>
+  <string name="version">Versiunea curentă:</string>
+  <string name="version_type">MIUI 9 | %1$s | (%2$s)</string>
     <string name="view_upgrade_tutorial">Vizualizaţi tutorialul</string>
     <string name="vote_beta">Programul Feedback Beta</string>
     <string name="vote_error1">"Se pare că nu sunteți un membru
