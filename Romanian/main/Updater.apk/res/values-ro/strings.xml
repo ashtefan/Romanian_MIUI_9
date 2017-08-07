@@ -255,6 +255,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="sogou_uninstall_positive_button">Alegeți altă tastatură</string>
     <string name="sogou_uninstall_title">Compatibilitatea tastaturii</string>
     <string name="space_not_enough_msg">Nu există spaţiu pe dispozitivul dvs. pentru a descărca această actualizare. Verificați stocarea dispozitivului și încercați din nou.</string>
+  <string name="stable">stabil</string>
     <string name="space_not_enough_title">Nu există suficient spațiu de stocare</string>
     <string name="stable_build">Stabil</string>
     <string name="submit">Trimiteţi</string>
@@ -323,6 +324,7 @@ Nu se poate trimite feedback-ul"</string>
     <string name="vote_not_recommend">Nu se recomandă</string>
     <string name="vote_recommend">Se recomandă această actualizare</string>
     <string name="vote_submit">Trimiteţi</string>
+  <string name="weekly">săptămânală</string>
     <string name="weekly_build">Săptămânal</string>
     <string name="welcom_button">OK</string>
     <string name="welcom_message">Sunteţi pregătit de petrecere</string>
