@@ -358,12 +358,25 @@
     <string name="privacy_search_desc">Istoric căutare</string>
     <string name="privacy_search_type">Căutare Google</string>
     <string name="promotion">Reclame</string>
+    <string name="qq_cache_files">Cache QQ</string>
+    <string name="qq_clean">Curățare QQ</string>
+    <string name="qq_clean_exit_confirm_msg">Opriți scanarea și ieșiți acum?</string>
+    <string name="qq_data_type_cache">Cache QQ</string>
+    <string name="qq_data_type_cache_desc">"Veți putea restaura aceste fișiere după ce vă veți conecta la internet."</string>
+    <string name="qq_data_type_chat">Istoric chat</string>
+    <string name="qq_data_type_chat_desc">"Nu veți putea restaura istoricul chat-ului."</string>
+    <string name="qq_data_type_normal">Gunoi</string>
+    <string name="qq_data_type_normal_clean_tips">"Acestea sunt fișiere tehnice. Ștergerea lor nu va afecta utilizarea."</string>
+    <string name="qq_data_type_normal_desc">"Ștergerea lor nu va afecta utilizarea."</string>
+    <string name="qq_data_type_other">Altele</string>
+    <string name="qq_data_type_other_desc">Fiți atent, este posibil să nu mai puteți restura aceste fișiere după ce le veți șterge.</string>
     <string name="recommend_news">Primiți recomandări</string>
     <string name="recommend_the_following">Efectuați următoarele pentru a obține mai multe de la telefonul dvs.</string>
     <string name="recommended">Recomandate</string>
     <string name="remain_item_name_n7p"/>
     <string name="remain_item_name_pamp"/>
     <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; mai multe fișiere pot fi curățate. Eliberați mai mult spațiu.&lt;/Data&gt;" "</string>
+    <string name="resutl_function_qq_clean_summary">" "&lt;Date&gt;Puteți goli &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; din memoria cache generate de QQ&lt;/Date&gt;" "</string>
     <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; din cache-ul WeChat. Eliberați mai mult spațiu.&lt;/Data&gt;" "</string>
     <string name="sc_allow_network_dialog_button">Permiteţi</string>
     <string name="sc_allow_network_dialog_message">Permiteți ca această aplicație să se conecteze la internet pentru a primi actualizări?</string>
@@ -454,10 +467,7 @@
     <string name="wechat_chat_data_type_normal_desc">"Eliminarea lor nu va afecta modul dvs. de utilizare."</string>
     <string name="wechat_chat_data_type_other">Altele</string>
     <string name="wechat_chat_data_type_other_desc">Atenție, nu veți mai putea restaura aceste fișiere după ce le veți elimina.</string>
-    <string name="wechat_chat_files">Istoric chat</string>
     <string name="wechat_clean">Curățare WeChat</string>
-    <string name="wechat_clean_downloads">Fișiere primite</string>
-    <string name="wechat_clean_downloads_desc">Fișiere primite prin WeChat</string>
     <string name="wechat_clean_exit_confirm">Ieșiți?</string>
     <string name="wechat_clean_exit_confirm_msg">Opriți scanarea și ieșiți acum?</string>
     <string name="wechat_clean_stop_confirm">Opriți scanarea?</string>
@@ -472,7 +482,8 @@
     <string name="wechat_copying_video_dialog_title">Exportați în Galerie</string>
     <string name="wechat_copying_video_empty">Niciun videoclip de exportat</string>
     <string name="wechat_copying_video_success">Exportat cu succes</string>
-    <string name="wechat_normal_files">Gunoi</string>
+    <string name="wechat_qq_chat_files">Istoric chat</string>
+    <string name="wechat_qq_normal_files">Gunoi</string>
     <string name="white_list_ad_header">Fișiere inutile: %d</string>
     <string name="white_list_apk_header">Pachete de instalare: %d</string>
     <string name="white_list_cache_header">Fişiere cache: %d</string>

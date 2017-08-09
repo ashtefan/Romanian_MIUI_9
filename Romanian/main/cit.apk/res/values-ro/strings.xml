@@ -8,6 +8,8 @@
     <string name="SD_SDCard_total_size">Dimensiune totală</string>
     <string name="SD_SDCard_unmounted">SDCard indisponibil</string>
   <string name="button_cancel">Renunțați</string>
+  <string name="audio_spk_cal_wait">Calibrare, vă rog...</string>
+  <string name="audio_spk_def">Calibrați difuzoarele, vă rog</string>
   <string name="button_ok">OK</string>
   <string name="camerainfo">Informații despre cameră</string>
   <string name="cit_OTG_plugin_check_summary">Când este conectat dispozitivul OTG, ar trebui să apară mai jos textul \"Disspozitiv USB OTG detectat\".</string>
