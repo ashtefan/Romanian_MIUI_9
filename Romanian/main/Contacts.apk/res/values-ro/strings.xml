@@ -88,6 +88,7 @@
     <string name="call_radio">Apelaţi un număr radio</string>
     <string name="call_record_setting_miui">Setări înregistrare</string>
     <string name="call_settings">Setări</string>
+    <string name="call_settings_primary_user_only">Setările pentru apeluri pot fi modificate doar de către utilizatorul principal.</string>
     <string name="call_sim1_description">SIM 1</string>
     <string name="call_sim1_menu_title">Apelaţi prin SIM1</string>
     <string name="call_sim2_description">SIM 2</string>
@@ -1199,10 +1200,12 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="type_outgoing">Apel</string>
     <string name="type_voicemail">Mesaj vocal</string>
     <string name="unable_get_device_id">Nu s-a putut obține IMEI-ul</string>
+    <string name="unfold_all">extindeți tot</string>
     <string name="unknow_phone_number_call_failed">Nu se poate apela un număr necunoscut</string>
     <string name="unknow_phone_number_mms_failed">Nu se poate trimite mesaj la un număr necunoscut</string>
     <string name="unknown">Necunoscut</string>
     <string name="unknown_contact_name">Contact necunoscut</string>
+    <string name="unknown_details_new_contact">Contact nou</string>
     <string name="update_sim_contact_photo_toast">"Nu s-au putut seta fotografiile pentru contactele SIM"</string>
     <string name="upgrade_in_progress">Se actualizează lista contactelor din agendă.</string>
     <string name="upgrade_out_of_memory">"Agenda este în proces de trecere la o versiune superioară.

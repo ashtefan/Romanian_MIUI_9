@@ -145,6 +145,9 @@ Partiția de date nu va fi ștearsă."</string>
   <string name="no_update">Aveți deja cea mai recentă versiune!</string>
     <string name="no_wifi_msg">Utilizarea conexiunii de date mobile va creşte traficul de date mobile. Conectați-vă la Wi-Fi pentru a descărca actualizările.</string>
     <string name="no_wifi_title">Conectați-vă la Wi-Fi</string>
+    <string name="no_xioamieu">"Nu utilizați un ROM MIUI creat de către echipa Xiaomi.eu!
+Nu sunt disponibile actualizări pentru dumneavoastră!"</string>
+
     <string name="not_open">Nu</string>
   <string name="notif_cancel">Renunțați</string>
   <string name="notif_install">Instalați</string>
