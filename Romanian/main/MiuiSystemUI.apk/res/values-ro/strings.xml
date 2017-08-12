@@ -30,6 +30,7 @@
     <string name="accessibility_data_signal_full">Semnal pentru date: complet.</string>
     <string name="accessibility_data_three_bars">Semnal pentru date: trei bare.</string>
     <string name="accessibility_data_two_bars">Semnal pentru date: două bare.</string>
+    <string name="accessibility_desc_recent_apps">Prezentare generală.</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Această caracteristică este experimentală și poate afecta performanța.</string>
     <string name="accessibility_display_daltonizer_preference_title">Corecție de culoare</string>
     <string name="accessibility_divider">Împărțire ecran scindat</string>
@@ -51,6 +52,11 @@
     <string name="accessibility_recent_task_locked">Blocată în memorie, glisați în jos pentru a debloca.</string>
     <string name="accessibility_recent_task_memory_info">Total RAM: %2$s | Memorie RAM disponibilă: %1$s. Apăsați de 2 ori pentru a goli.</string>
     <string name="accessibility_recent_task_unlocked">Deblocată</string>
+    <string name="accessibility_recents_all_items_dismissed">Toate aplicațiile recente respinse.</string>
+    <string name="accessibility_recents_item_dismissed">%s respinsă.</string>
+    <string name="accessibility_recents_item_launched">Pornire %s.</string>
+    <string name="accessibility_recents_item_open_app_info">Vedeți informațiile despre aplicația %s.</string>
+    <string name="accessibility_recents_item_will_be_dismissed">Respingeți %s.</string>
     <string name="accessibility_recents_task_header">%1$s %2$s</string>
     <string name="accessibility_remove_notification">Ştergeţi notificarea</string>
     <string name="accessibility_ringer_silent">Sonerie silenţioasă</string>
@@ -80,6 +86,8 @@
     <string name="apn_settings_not_available">Setările Numelui Punctului de Acces nu sunt disponibile pentru acest utilizator</string>
     <string name="app_label">Sistem UI</string>
     <string name="app_process_limit_title">Limitare procese de sistem</string>
+    <string name="as_important">Important</string>
+    <string name="as_unimportant">Neimportant</string>
     <string name="audio_effect_custom">Configuraţi</string>
     <string name="audio_effect_info">Optimizaţi sunetul</string>
     <string name="audio_effect_settings">Selectaţi tipul căştilor</string>
@@ -169,6 +177,7 @@
     <string name="camera_key_action_shortcut_title">Comandă rapidă</string>
     <string name="camera_key_action_shortcut_wake">Blocaţi/Deblocaţi dispozitivul</string>
     <string name="camera_key_action_toggle_title">Comutator declanşare</string>
+    <string name="cancel">Renunțați</string>
     <string name="category_personal">Personal</string>
     <string name="category_work">Servici</string>
     <string name="certinstaller_package">com.android.certinstaller</string>
@@ -176,6 +185,7 @@
     <string name="chooseUsbActivity">Selectaţi o aplicaţie pentru dispozitivul USB</string>
     <string name="choose_profile">Selectați profilul</string>
     <string name="clear_adb_keys">Revocați autorizările de depanare prin USB</string>
+    <string name="click_to_return_multi_window">Atingeți pentru a reveni la modul Multi Window</string>
     <string name="confirm_enable_oem_unlock_text">AVERTISMENT: Caracteristicile de protecție a dispozitivului nu vor funcționa pe acest telefon atât timp cât această setare este activă.</string>
     <string name="confirm_enable_oem_unlock_title">Permiteți deblocarea OEM?</string>
     <string name="connected_via_passpoint">Conectat via %1$s</string>
@@ -242,7 +252,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="dlg_error_title">Operaţiune USB nereuşită</string>
     <string name="dlg_ok">OK</string>
     <string name="dock_forced_resizable">Este posibil ca aplicația să nu funcționeze pe ecran scindat.</string>
-    <string name="dock_non_resizeble_failed_to_dock_text">Aplicația nu suportă ecrane scindate.</string>
+    <string name="dock_non_resizeble_failed_to_dock_text">Aplicația nu suportă ecrane scindate</string>
     <string name="drive_mode_tip">Modul Automobil activat</string>
     <string name="enable_adb">Depanare USB</string>
     <string name="enable_adb_summary">Mod depanare la conectare USB</string>
@@ -293,6 +303,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="immediately_destroy_activities">Nu păstra activitățile</string>
     <string name="immediately_destroy_activities_summary">Închide orice activitate de îndată ce utilizatorul o părăsește</string>
+    <string name="important_desc">Toate notificările importante vor fi afișate în bara de notificări.</string>
     <string name="inactive_app_active_summary">Activă. Atingeți pentru a comuta.</string>
     <string name="inactive_app_inactive_summary">Inactivă. Atingeți pentru a comuta.</string>
     <string name="inactive_apps_title">Aplicații inactive</string>
@@ -300,6 +311,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
 Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="keep_screen_on">Ecran activ la încărcare</string>
     <string name="keep_screen_on_summary">Ecranul va rămâne activ pe durata încărcării</string>
+    <string name="keyboard_shortcut_group_system_recents">Recente</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="label_view">Afişaţi</string>
     <string name="launch_defaults_none">Nicio aplicație implicită setată</string>
@@ -417,11 +429,28 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="quick_settings_wifi_detail_empty_text">Nicio rețea Wi-Fi disponibilă</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Selectați o rețea din apropiere</string>
+    <string name="recent_dock_tip">Atingeți pentru a selecta aplicația</string>
     <string name="recent_task_app_info_text">Informații</string>
     <string name="recent_task_cleaning">Eliminare aplicații…</string>
     <string name="recent_task_lock_text">Blocați</string>
     <string name="recent_task_unlock_text">Deblocați</string>
+    <string name="recents_app_info_button_label">Informații despre aplicație</string>
+    <string name="recents_caption_resize">Selectați dispunerea noii sarcini</string>
+    <string name="recents_drag_hint_message">Trageți aici pentru a utiliza modul Ecrane scindate</string>
+    <string name="recents_empty_message">Nu sunt elemente recente</string>
+    <string name="recents_empty_message_dismissed_all">"Ați golit tot"</string>
+    <string name="recents_empty_message_multi_window">Mergeți la ecranul principal pentru a lansa o aplicație</string>
+    <string name="recents_exit_multi_window_mode">Părăsiți modul Ecrane scindate</string>
+    <string name="recents_incompatible_app_message">"Aplicația nu suportă modul Ecran scindat"</string>
+    <string name="recents_launch_disabled_message">%s este dezactivată în modul sigur.</string>
     <string name="recents_launch_error_message">Nu s-a putut lansa %s.</string>
+    <string name="recents_lock_to_app_button_label">ciupirea ecranului</string>
+    <string name="recents_multi_window_mode">Mod Ecran scindat</string>
+    <string name="recents_multistack_add_stack_dialog_split_custom">Scindare personalizată</string>
+    <string name="recents_multistack_add_stack_dialog_split_horizontal">Scindare pe orizontală</string>
+    <string name="recents_multistack_add_stack_dialog_split_vertical">Scindare pe verticală</string>
+    <string name="recents_search_bar_label">căutați</string>
+    <string name="recents_stack_action_button_label">Goliți tot</string>
     <string name="reject_call">Respingere apel</string>
     <string name="remaining_length_format">%1$s rămas</string>
     <string name="return_to_incall_screen">Reveniţi la apel</string>
@@ -482,12 +511,13 @@ Utilizați doar încărcătorul furnizat de producător."</string>
   <string name="show_hw_screen_updates">Vizualizează randările GPU</string>
   <string name="show_hw_screen_updates_summary">Afișează intermitent ferestrele atunci când videoclipurile sunt randate de către GPU</string>
   <string name="show_non_rect_clip">Depanează decupările non-rectangulare</string>
-  <string name="show_screen_updates">Show surface updates</string>
-  <string name="show_screen_updates_summary">Flash entire window surfaces when they update</string>
+  <string name="show_screen_updates">Arată actualizările suprafețelor</string>
+  <string name="show_screen_updates_summary">Întreaga fereastră clipește când se actualizează suprafețele</string>
   <string name="show_touches">Afișează atingerile</string>
   <string name="show_touches_summary">Arată atingerile ecranului</string>
   <string name="simulate_color_space">Simulează spațiul de culoare</string>
     <string name="stat_sys_data_connected_1x_half">1X</string>
+    <string name="status_bar_accessibility_dismiss_recents">Golește aplicațiile recente</string>
     <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
     <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
@@ -506,8 +536,10 @@ d MMMM"</string>
 Glisaţi în jos pentru a bloca"</string>
     <string name="status_bar_recent_guide_bottom">Glisaţi în jos pt. a bloca</string>
     <string name="status_bar_recent_guide_top">Glisaţi în sus pt. a închide</string>
+    <string name="status_bar_recent_inspect_item_title">Informații despre aplicație</string>
     <string name="status_bar_recent_memory_info1">Disponibil: %1$sB din %2$sB</string>
     <string name="status_bar_recent_memory_info2" />
+    <string name="status_bar_recent_remove_item_title">Eliminați din listă</string>
     <string name="status_bar_recording_back">Reveniţi la înregistrare</string>
     <string name="status_bar_recording_pause">Înregistrare întreruptă</string>
     <string name="status_bar_safepay_risk">Plată riscantă</string>
@@ -565,6 +597,9 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="tts_status_ok">%1$s este complet suportat</string>
     <string name="tts_status_requires_network">%1$s necesită conexiune la rețea</string>
     <string name="tts_status_title">Stare limbă implicită</string>
+    <string name="un_important_notifications">Notificări neimportante</string>
+    <string name="unimportant_desc">Toate notificările neimportante vor fi afișate într-un dosar separat.</string>
+    <string name="unimportant_title">Neimportante</string>
     <string name="unknown">Necunoscut</string>
     <string name="usb_accessory_confirm_prompt">Deschideţi %1$s la conectarea acestui accesoriu USB?</string>
     <string name="usb_accessory_permission_prompt">Permiteţi aplicaţiei %1$s să acceseze dispozitivul USB?</string>

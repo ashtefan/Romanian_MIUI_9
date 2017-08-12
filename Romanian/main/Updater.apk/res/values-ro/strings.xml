@@ -332,5 +332,6 @@ Nu se poate trimite feedback-ul"</string>
     <string name="welcom_button">OK</string>
     <string name="welcom_message">Sunteţi pregătit de petrecere</string>
     <string name="welcom_title">Bun venit la MIUI 8</string>
+    <string name="wifi_recommended">Nu există nicio conexiune Wi-Fi pentru a porni descărcarea în siguranță!</string>
     <string name="worst_update">Cea mai rea actualizare dintotdeauna</string>
 </resources>

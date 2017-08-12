@@ -1939,6 +1939,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="start_downloading_app">A început descărcarea: %1$s</string>
     <string name="start_game">Start</string>
     <string name="start_tc_button">Calibrați</string>
+    <string name="still_retain_btn">Păstrați</string>
     <string name="suffix_pay_risk_count_bottom">riscuri</string>
     <string name="suffix_pay_risk_count_top">plăți</string>
     <string name="suffix_virus_count_bottom">total</string>
@@ -2236,6 +2237,10 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="uninstall_app_dialog_msg">Dezinstalarea va șterge toate datele aplicației.</string>
     <string name="uninstall_app_dialog_title">Dezinstalați acum?</string>
     <string name="uninstall_app_done">Dezinstalare finalizată</string>
+    <string name="uninstall_danagerous_btn">Dezinstalați</string>
+    <string name="uninstall_danagerous_desc">\"%s\" vă poate distruge telefonul</string>
+    <string name="uninstall_danagerous_msg">\"%s\" vă poate distruge telefonul, reduce performanța sau poate duce la repornirea acestuia.</string>
+    <string name="uninstall_danagerous_title">Dezinstalați aplicațiile dăunătoare</string>
     <string name="unlike">Nu, mulțumesc</string>
     <string name="unlock_pattern">&lt;u&gt;Model de deblocare&lt;/u&gt;</string>
     <string name="unlock_pattern_to_bind_fingerprint">Introduceți parola pentru a activa amprenta</string>

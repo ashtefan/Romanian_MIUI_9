@@ -201,8 +201,7 @@
     <string name="current_version_pad">Tabletă</string>
     <string name="current_version_pc">Desktop</string>
     <string name="current_version_phone">Telefon</string>
-    <string name="custom_head_card_text">"Crede întotdeauna că ceva minunat
-trebuie să se întâmple"</string>
+    <string name="custom_head_card_text">Crede întotdeauna că ceva minunat urmează să se întâmple</string>
     <string name="custom_head_card_text_incognito">"Navigați incognito!
 Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</string>
     <string name="data_traffic_prompt_change">Utilizarea conexiunii de date mobile pentru a viziona videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>

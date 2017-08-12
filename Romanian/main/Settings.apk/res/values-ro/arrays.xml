@@ -1519,6 +1519,13 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>America/Paramaribo</item>
         <item>America/Panama</item>
     </string-array>
+    <string-array name="silent_mode_duration_text">
+        <item>Întotdeauna</item>
+        <item>30 de minute</item>
+        <item>1 oră</item>
+        <item>2 ore</item>
+        <item>8 ore</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>În fiecare zi</item>
         <item>În zilele săptămânii</item>
