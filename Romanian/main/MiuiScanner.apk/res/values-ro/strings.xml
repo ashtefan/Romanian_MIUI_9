@@ -230,6 +230,7 @@
     <string name="document_ocr_result_title">Document fotografiat</string>
     <string name="document_ocr_tip_msg">Citire…</string>
     <string name="document_recognize_fail_tip">"Nu s-a putut citi documentul"</string>
+    <string name="document_recognize_null_tip">Rezultat nul</string>
     <string name="document_rectify">Ajustați</string>
     <string name="document_rectify_tip_msg">Ajustare…</string>
     <string name="document_save_succeed_tip">Document salvat în %1$s</string>

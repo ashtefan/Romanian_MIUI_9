@@ -3,6 +3,7 @@
     <string name="agree">De acord</string>
     <string name="agree_terms">"Am citit și sunt de acord cu Termenii Serviciului și Politica de Confidențialitate."</string>
     <string name="app_name">Provision</string>
+    <string name="application_permissions">Permisiunile aplicației</string>
     <string name="back">Înapoi</string>
     <string name="cm_terms_content">"Pentru a îmbunătăți serviciile oferite, operatorul de date mobile poate, dacă preferați, să încarce datele dvs. personale și informații despre acest dispozitiv pe serverele sale utilizând rețelele Wi-Fi sau conexiunea de date mobile. Aceste informații vor fi utilizate doar în scopuri statistice, pentru a îmbunătăți calitatea serviciilor și furnizarea unui conținut personalizat. Aceste informații nu vor fi folosite pentru a vă identifica și nu vor fi partajate altor entități."</string>
     <string name="cm_terms_title">Acord Operator rețea mobilă</string>

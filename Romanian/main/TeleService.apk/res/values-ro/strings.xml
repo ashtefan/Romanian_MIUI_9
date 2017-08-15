@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name=" hide_error_from_network_text">Nu s-a putut procesa solicitarea</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">Deblocare PIN RUIM corporate</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Solicitare deblocare RUIM corporate…</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ERROR">Deblocare PUK fără succes.</string>
@@ -30,22 +31,22 @@
     <string name="PERSOSUBSTATE_RUIM_RUIM_PUK_SUCCESS">Deblocare PUK cu succes.</string>
     <string name="PERSOSUBSTATE_RUIM_RUIM_SUCCESS">Deblocare RUIM cu succes.</string>
     <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_ENTRY">Deblocare PIN furnizor de servicii RUIM</string>
-  <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_ERROR">RUIM Service Provider unlock request unsuccessful.</string>
-  <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_IN_PROGRESS">Requesting RUIM service provider unlock…</string>
-  <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_PUK_ERROR">PUK unlock unsuccessful.</string>
-  <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_PUK_SUCCESS">PUK unlock successful.</string>
-  <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_SUCCESS">RUIM Service Provider unlock successful.</string>
-  <string name="PERSOSUBSTATE_SIM_CORPORATE_ENTRY">SIM corporate unlock PIN</string>
-  <string name="PERSOSUBSTATE_SIM_CORPORATE_ERROR">SIM Corporate unlock request unsuccessful.</string>
-  <string name="PERSOSUBSTATE_SIM_CORPORATE_IN_PROGRESS">Requesting SIM corporate unlock…</string>
-  <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_ERROR">PUK unlock unsuccessful.</string>
-  <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_SUCCESS">PUK unlock successful.</string>
-  <string name="PERSOSUBSTATE_SIM_CORPORATE_SUCCESS">SIM Corporate unlock successful.</string>
-  <string name="PERSOSUBSTATE_SIM_NETWORK_ENTRY">SIM network unlock PIN</string>
-  <string name="PERSOSUBSTATE_SIM_NETWORK_ERROR">SIM Network unlock request unsuccessful.</string>
-  <string name="PERSOSUBSTATE_SIM_NETWORK_IN_PROGRESS">Requesting SIM network unlock…</string>
-  <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_ERROR">PUK unlock unsuccessful.</string>
-  <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_SUCCESS">PUK unlock successful.</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_ERROR">Solicitare de deblocare furnizor serviciu RUIM fără succes.</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_IN_PROGRESS">Solicitare deblocare furnizor serviciu RUIM…</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_PUK_ERROR">Deblocare cod PUK fără succes.</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_PUK_SUCCESS">Deblocare cod PUK cu succes.</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_SUCCESS">Deblocare furnizor serviciu RUIM cu succes.</string>
+    <string name="PERSOSUBSTATE_SIM_CORPORATE_ENTRY">Cod PIN de deblocare SIM corporate</string>
+    <string name="PERSOSUBSTATE_SIM_CORPORATE_ERROR">Solicitare deblocare SIM corporate fără succes.</string>
+    <string name="PERSOSUBSTATE_SIM_CORPORATE_IN_PROGRESS">Solicitare deblocare SIM corporate…</string>
+    <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_ERROR">Deblocare PUK fără succes.</string>
+    <string name="PERSOSUBSTATE_SIM_CORPORATE_PUK_SUCCESS">PUK deblocat cu succes.</string>
+    <string name="PERSOSUBSTATE_SIM_CORPORATE_SUCCESS">SIM Corporate deblocat cu succes.</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_ENTRY">Cod PIN deblocare rețea SIM</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_ERROR">Solicitare de deblocare rețea SIM fără succes.</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_IN_PROGRESS">Solicitare de deblocare rețea SIM…</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_ERROR">Deblocare PUK fără succes.</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_PUK_SUCCESS">PUK deblocat cu succes.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ENTRY">SIM network subset unlock PIN</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ERROR">SIM Network Subset unlock request unsuccessful.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_IN_PROGRESS">Requesting SIM network subset unlock…</string>
@@ -388,6 +389,7 @@
     <string name="card_title_outgoing_barred">Apelurile efectuate sunt restricționate</string>
     <string name="card_title_redialing">Se încearcă din nou</string>
     <string name="card_title_unconditionalCF">Redirecționarea necondiționată a apelurilor este activată</string>
+    <string name="carrier_info">Informații operator</string>
     <string name="carrier_settings" />
     <string name="carrier_settings_menu" />
     <string name="carrier_settings_title">Setările operatorului</string>
@@ -1270,7 +1272,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="search_antispam_setting">Listă blocări</string>
     <string name="search_app_name">Telefon;Înregistrarea apelurilor;Redirecționarea apelurilor;redirecționare;Apel în așteptare;Lista blocărilor;Codul țării;Codul ariei;Codurile țării;Codurile ariei;Înregistrare apeluri;Înregistrare apel;Tastatură numerică;Apel;Apeluri;Telefonie;VoIP;VoLTE;Apel pierdut;Apeluri pierdute;SIP;T9;Apelare IP;FDN</string>
     <string name="search_networks">Căutaţi reţele</string>
-    <string name="selectContact">selectarea unei persoane din agendă</string>
+    <string name="selectContact">selectați o persoană din agendă</string>
     <string name="select_application">Selectați aplicația</string>
     <string name="select_automatically">Selectaţi în mod automat</string>
     <string name="select_logd_size_dialog_title">Selectați dimensiunea jurnalelor tampon</string>
@@ -1417,6 +1419,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="telocation_number_type_mob">Telefon mobil</string>
     <string name="telocation_number_type_tel">Telefon fix</string>
     <string name="telocation_setting">Setări locaţie</string>
+    <string name="telocation_show_settings">Setări afișare</string>
     <string name="tether_settings_title_all">Tethering și hotspot portabil</string>
     <string name="tether_settings_title_bluetooth">Tethering prin Bluetooth</string>
     <string name="tether_settings_title_usb">Tethering prin USB</string>

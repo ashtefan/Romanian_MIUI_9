@@ -2245,6 +2245,7 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="man_add_application">Adăugaţi manual aplicaţii la pornire</string>
     <string name="manage_device_admin">Administratori dispozitiv</string>
     <string name="manage_device_admin_summary">Afişaţi sau dezactivaţi administratorii dispozitivului</string>
+    <string name="manage_fakecell_settings">Protecție față de stațiile de bază false</string>
     <string name="manage_fingerprint_text">Gestionați amprentele</string>
     <string name="manage_mobile_plan_title">Plan de date mobile</string>
     <string name="manage_notification_access_summary_zero">Aplicațiile nu pot citi notificările</string>
@@ -3933,6 +3934,8 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_settings_style">Afișarea notificărilor și a comutatoarelor</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Se restrânge după atingere</string>
     <string name="status_bar_settings_toggle_position">Poziţia comutatoarelor</string>
+    <string name="status_bar_settings_user_fold">Dosar notificări</string>
+    <string name="status_bar_settings_user_fold_summary">Toate notificările neimportante vor fi afișate într-un dosar separat</string>
     <string name="status_bar_style_list">Combinate</string>
     <string name="status_bar_style_page">Separate</string>
     <string name="status_bt_address">Adresă Bluetooth</string>
@@ -4302,6 +4305,13 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"După ce veți dezactiva parola de blocare a ecranului, amprentele înregistrate vor fi șterse. Nu veți mai putea debloca telefonul utilizând amprenta."</string>
     <string name="turn_off_security_lock">Dezactivaţi blocarea</string>
     <string name="turn_on_keyguard_password">Activați parola pentru Blocarea ecranului</string>
+    <string name="turn_on_keyguard_password_alert">"Rețineți parola. Dacă o veți uita, nu o veți putea recupera."</string>
+    <string name="turn_on_keyguard_password_alert_choose">"Rețineți parola. Dacă o veți uita, va trebui să ștergeți toate datele din telefon pentru a seta o nouă parolă."</string>
+    <string name="turn_on_keyguard_password_alert_foget_cacel">Nu acum</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok">Am înțeles</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok_time">Am înțeles(%dsecundă)</string>
+    <string name="turn_on_keyguard_password_alert_forget_content">"Rețineți parola de deblocare a ecranului. Dacă o veți uita, va trebui să ștergeți toate datele din telefon, inclusiv fotografiile și agenda, iar apoi să setați o nouă parolă."</string>
+    <string name="turn_on_keyguard_password_alert_forget_title">"Dacă o veți uita, nu o veți putea recupera."</string>
     <string name="turn_on_security_lock">Selectați metoda de deblocare a ecranului</string>
     <string name="turn_on_wifi_dialog_text">Wi-Fi-ul este oprit cât timp HotSpot-ul mobil este pornit. Pentru a activa Wi-Fi-ul, opriți HotSpot-ul mobil.</string>
     <string name="turn_on_wifi_dialog_title">Activați Wi-Fi-ul</string>

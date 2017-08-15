@@ -63,10 +63,13 @@
     <string name="keyguard_charging_info_tip_text4">"Nu utilizați telefonul în timpul încărcării pentru a evita supraîncălzirea."</string>
     <string name="keyguard_charging_info_tip_text5">Acumulatorii se încarcă mai greu atunci când se încălzesc mai mult decât de obicei.</string>
     <string name="keyguard_charging_info_tip_text6">Închideți ecranul și lăsați telefonul din mână pentru a se putea răci.</string>
+    <string name="keyguard_left_bankcard">Plăți Mi</string>
+    <string name="keyguard_left_buscard">Card transport</string>
+    <string name="keyguard_left_remotecentral">Telecomandă Mi</string>
+    <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Încărcare rapidă. Atingeți pentru a vedea detaliile.</string>
     <string name="keyguard_quickly_charging_info_charging_text">Încărcare rapidă…</string>
     <string name="keyguard_torch_cover_text">Pentru a păstra lanterna pornită, țineți apăsat butonul de alimentare</string>
-    <string name="left_action_default_hint_text">Telecomandă Mi</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
     <string name="lock_wallpaper_enter">Accesați</string>
@@ -85,13 +88,14 @@
     <string name="open_camera_hint_text">Glisaţi spre stânga pentru a deschide %s</string>
     <string name="open_remote_center_hint_text">Glisaţi spre dreapta pentru a deschide %s</string>
     <string name="phone_locked_foget_password">Ați uitat parola?</string>
-    <string name="phone_locked_foget_password_content">"Vă puteți conecta la i.mi.com utilizând contul Mi asociat acestui telefon, și să ștergeți toate datele. Acest lucru va duce la ștergerea datelor personale stocate pe acest telefon. După aceea, puteți reporni telefonul și restaura contactele, mesajele și celelalte elemente din Mi Cloud. 
-
-Nu veți putea face acest lucru dacă nu sunteți conectat la contul Mi de pe acest dispozitiv. Altfel, va trebui să reinstalați sistemul de operare."</string>
-    <string name="phone_locked_foget_password_footer">"Pași:
-Conectați-vă la i.mi.com, mergeți la “Găsire dispozitiv”, selectați dispozitivul și atingeți Șterge dispozitiv."</string>
-    <string name="phone_locked_foget_password_header">Ce trebuie să fac dacă uit parola?</string>
+    <string name="phone_locked_foget_password_mehod_back">Înapoi</string>
+    <string name="phone_locked_foget_password_method">Ați uitat parola?</string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Trebuie să &amp;lt;font color=#a5220e&amp;gt;ștergeți toate datele &amp;lt;/font&amp;gt; din telefon, inclusiv fotografiile și agenda, iar apoi trebuie să setați o nouă parolă de deblocare a ecranului.&lt;/Data&gt;</string>
+    <string name="phone_locked_foget_password_method_next">Următorul</string>
     <string name="phone_locked_foget_password_ok">Am înțeles</string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Închideți telefonul, apăsați și mențineți apăsat &amp;lt;font color=#a5220e&amp;gt;butonul de pornire &amp;lt;/font&amp;gt; și &amp;lt;font color=#a5220e&amp;gt;butonul de Volum+ &amp;lt;/font&amp;gt;simultan până veți vedea ml.&lt;/Data&gt;</string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selectați &amp;lt;font color=#a5220e&amp;gt;\"Ștergeți &amp;amp;amp; Resetare\"&amp;lt;/font&amp;gt; și așteptați până ce telefonul repornește.&lt;/Data&gt;</string>
+    <string name="phone_locked_forget_password_suggesstions_title">Cum să ștergeți datele?</string>
     <string name="phone_locked_string">Telefonul a fost blocat</string>
     <string name="phone_locked_timeout_minutes_string">Încercaţi din nou peste %d minute</string>
     <string name="phone_locked_timeout_seconds_string">Încercaţi din nou peste %d secunde</string>

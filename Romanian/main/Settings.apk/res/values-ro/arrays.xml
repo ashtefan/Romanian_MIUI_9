@@ -1548,7 +1548,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Fișiere</item>
         <item>Notițe</item>
     </string-array>
-    <array name="app_permission" />
     <string-array name="standard_configuration_version">
         <item>3 GB</item>
         <item>32 GB</item>

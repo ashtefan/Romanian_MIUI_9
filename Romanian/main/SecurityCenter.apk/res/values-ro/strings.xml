@@ -1242,8 +1242,6 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="notification_quick_charging_title">Încărcare rapidă</string>
     <string name="notification_subtitle">Apăsați pentru a activa</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
-    <string name="notification_sysapp_cracked_text">Versiunea curentă MIUI a fost modificată</string>
-    <string name="notification_sysapp_cracked_title">Este detectat un risc de securitate</string>
     <string name="notification_title_firewall_blocked">Blocat</string>
     <string name="notify_daily_data_usage_body">Pentru a limita în mod automat utilizarea datelor, configuraţi planul lunar de date.</string>
     <string name="notify_daily_limit_body">Apăsați pentru a seta limita datelor.</string>
@@ -1800,8 +1798,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sp_empty_title_sign_exception">Apăsați lung pe numele aplicației din pagina rezultatelor pentru a o adăuga în lista de excepții</string>
     <string name="sp_monitored_apps_count_zero">Nicio aplicație de plăți nu este protejată</string>
     <string name="sp_monitored_apps_list_title">Setări monitorizare</string>
-    <string name="sp_network_privacy_dialog_message">"Aplicația de Securitate nu poate verifica plățile deoarece i-ați restricționat accesul la internet. Permiteți accesul la internet pentru aplicația de Securitate?"</string>
-    <string name="sp_network_privacy_dialog_title">"Nu s-au putut verifica plățile"</string>
+    <string name="sp_network_privacy_dialog_message">"Aplicația de Securitate nu poate funcționa în mod corect deoarece i-ați restricționat accesul la internet. Permiteți accesul la internet pentru aplicația de Securitate?"</string>
+    <string name="sp_network_privacy_dialog_title">"Nu s-a putut utiliza scanarea de securitate"</string>
     <string name="sp_safe_score_text">Plată sigură</string>
     <string name="sp_scan_item_monitor">Monitorizare plăți</string>
     <string name="sp_scan_item_url_antispam">Protecție împotriva URL-urilor frauduloase</string>
@@ -1826,6 +1824,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="special_number_group">Blocați numerele raportate</string>
     <string name="sponsored">Sponsorizat</string>
     <string name="sponsored_sec_fb">Sponsorizat</string>
+    <string name="ss_activity_main_support_text">Susținut de %s</string>
     <string name="st_advanced_setting_group">Avansat</string>
     <string name="st_antispam_black_adress_add">Adăugați locații</string>
     <string name="st_antispam_bw_adress_add">Adăugați locații</string>
@@ -1985,14 +1984,6 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="summary_xiaomi_roaming">0.01 RON/MB pentru traficul de date în roaming.</string>
     <string name="support_game_booster_tips">Creștere viteză de reacție și îmbunătățire experiență în jocuri</string>
     <string name="sys_app_prot_cracked_confirm">Am înțeles</string>
-    <string name="sys_app_prot_cracked_login">Conectați-vă utilizând contul Mi</string>
-    <string name="sys_app_prot_cracked_text_login">"Versiunea curentă MIUI a fost modificată, fapt ce supune telefonul unor riscuri privind securitatea.
-
-Asigurați-vă că știți de unde provine acest telefon și contactați centrul de service autorizat Xiaomi din zona dumneavoastră pentru a obține ajutor."</string>
-    <string name="sys_app_prot_cracked_text_unlogin">"Versiunea curentă MIUI a fost modificată, fapt ce supune telefonul unor riscuri privind securitatea. Conectați-vă utilizând contul Mi pentru a dezactiva acest avertisment.
-
-Dacă nu dumneavoastră ați modificat versiunea MIUI în vreun fel, asigurați-vă că știți de unde provine acest telefon și contactați centrul de service autorizat Xiaomi din zona dumneavoastră."</string>
-    <string name="sys_app_prot_cracked_title">Risc de securitate</string>
     <string name="sys_cpu_title">Utilizare procesor</string>
     <string name="sys_freememory_title">Disponibil</string>
     <string name="sys_title_gamebooster_unit_gb">Gb</string>

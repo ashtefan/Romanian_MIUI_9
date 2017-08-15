@@ -140,6 +140,7 @@ Partiția de date nu va fi ștearsă."</string>
     <string name="new_updates_found_notification_title">Este disponibilă o actualizare</string>
   <string name="new_version">A fost găsită o nouă versiune!</string>
     <string name="next">Înainte</string>
+    <string name="no_info">Nicio informație disponibilă.</string>
     <string name="no_log">Niciun rezumat disponibil</string>
   <string name="no_network">Fără acces la rețea.</string>
   <string name="no_update">Aveți deja cea mai recentă versiune!</string>

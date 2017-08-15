@@ -9,6 +9,7 @@
     <string name="activate_feature_default_name">Servicii Mi</string>
     <string name="activate_feature_find_device">Localizare dispozitiv</string>
     <string name="activate_feature_live_talk">Pachet de suplimentare credit</string>
+    <string name="activate_feature_mi_roaming">Roaming Mi</string>
     <string name="activate_feature_mms_sync">Sincronizare mesaje</string>
     <string name="activate_feature_mx">Mesagerie în Cloud</string>
     <string name="activate_feature_mx_and_voip">Mesaj şi Video Mi</string>
