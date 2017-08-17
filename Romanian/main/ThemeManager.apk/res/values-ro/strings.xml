@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="account_info">Contul meu</string>
+    <string name="account_info">Eu</string>
     <string name="account_name_not_login">Conectaţi-vă</string>
     <string name="account_unactivated">Contul nu este activat</string>
     <string name="ad_app_download_start">Pornire descărcare…</string>
@@ -24,6 +24,11 @@
     <string name="both_all_apply_failured">"Nu se poate aplica imaginea de fundal"</string>
     <string name="both_all_apply_success">Imagine de fundal aplicată</string>
     <string name="browser_local_resource">Resurse locale</string>
+    <string name="can_not_apply">Nu se poate aplica</string>
+    <string name="card_data_request_error">Excepție solicitare date; reîncercați mai târziu~</string>
+    <string name="card_loading">Încărcare...</string>
+    <string name="card_no_network">Nicio rețea acum, vă rugăm să vă conectați și să încercați din nou~</string>
+    <string name="card_retry">Reîncercați</string>
     <string name="change_host_hint">Modificare gazdă</string>
     <string name="change_wallpaper">Imagine de fundal</string>
     <string name="close">Închideţi</string>
@@ -52,6 +57,7 @@
     <string name="fail_to_add_account">Nu s-a putut adăuga contul</string>
     <string name="favorite_list">Favorite</string>
     <string name="favorite_list_format">Favorit %1$s</string>
+    <string name="find_more_wallpapers">Descoperiți mai multe</string>
     <string name="gift_anonymous">Anonim</string>
     <string name="gift_count_format">%1$s+</string>
     <string name="gift_operation_fail_dlg_abandon">Anulaţi</string>
@@ -87,14 +93,21 @@
     <string name="gift_used">Trimis</string>
     <string name="home_apply_failured">"Nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
     <string name="home_apply_success">Imagine de fundal pentru Ecranul principal aplicată</string>
+    <string name="in_the_end">Nimic mai mult</string>
     <string name="incompatible_dialog_message">Această temă nu este compatibilă în întregime cu MIUI 8. Unele elemente pot fi afișate incorect.</string>
     <string name="incompatible_dialog_ok">Am înțeles</string>
     <string name="incompatible_dialog_title">Probleme de compatibilitate</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
+    <string name="item_resource_audio_divider">│</string>
+    <string name="item_resource_audio_optional_alarm_ring">sunet alarmă</string>
+    <string name="item_resource_audio_optional_color_ring">culoare led notificare</string>
+    <string name="item_resource_audio_optional_notification_ring">sunet notificare</string>
+    <string name="item_resource_audio_optional_phone_ring">sunet telefon</string>
     <string name="live_wallpaper">Imagini de fundal live</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_resource_detail_fail">Nu a reuşit încărcarea resursei</string>
     <string name="loading_resource_detail_info">Doar o secundă…</string>
+    <string name="local_photos">Fotografii locale</string>
     <string name="local_resouce_creator_name">Dezvoltator: %1$s</string>
     <string name="lockscreen_apply_failured">"Nu se poate aplica imaginea de fundal pentru Blocarea ecranului"</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">"Imaginea de fundal pentru Ecranul principal a fost aplicată. Nu se poate aplica imaginea de fundal pentru Blocarea ecranului"</string>
@@ -129,6 +142,7 @@
     <string name="purchased_list">Teme achiziționate</string>
     <string name="purchased_list_current">MIUI 8</string>
     <string name="purchased_list_legacy">Teme achiziționate</string>
+    <string name="recently_used">Utilizate recent</string>
     <string name="reload">Încercați din nou</string>
     <string name="resource_account_abnormal_state">Eroare de cont. Aşteptaţi un minut sau două şi încercaţi din nou.</string>
     <string name="resource_account_fail_to_add">Adăugarea contului a eşuat</string>
@@ -268,6 +282,10 @@
     <string name="resource_ranking">Populare</string>
     <string name="resource_ranking_free">Gratuite</string>
     <string name="resource_ranking_purchase">Cu plată</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Tonuri de apel</string>
     <string name="resource_ringtone_playing_error">Eroare de redare</string>
     <string name="resource_ringtone_volume_mute">Modul Silenţios este activat</string>
@@ -323,12 +341,14 @@
     <string name="resource_user_know">OK</string>
     <string name="resource_waiting_download">Aşteptare…</string>
     <string name="resource_waiting_pause">Pauză</string>
+    <string name="ringtone_set_success">Setat cu succes</string>
     <string name="sdcard_not_mounted_dialog_message">"Introduceţi cardul SD acum
 "</string>
     <string name="sdcard_not_mounted_dialog_title">Cardul SD nu a fost detectat</string>
     <string name="search_hint_header_text">Expresii frecvente</string>
     <string name="selected_resource_file_invalid">Imposibil de utilizat fişierul selectat</string>
     <string name="settings">Setări</string>
+  <string name="system_precust">System precust</string>
     <string name="the_picture_is_not_support">"Imaginea nu este suportată"</string>
     <string name="the_picture_is_too_small">Imaginea este prea mică</string>
     <string name="theme_apply_audio_dialog_item_alarm">Alarmă</string>
@@ -401,7 +421,7 @@
     <string name="theme_user_agreement_content3">" şi "</string>
     <string name="theme_user_agreement_content4">Politica de confidențialitate</string>
     <string name="theme_user_agreement_content5">.</string>
-    <string name="theme_user_agreement_exit">Ieşire</string>
+    <string name="theme_user_agreement_exit">Nu sunt de acord</string>
     <string name="theme_user_agreement_remind_again">Afişare Condiții de utilizare</string>
     <string name="theme_user_agreement_remind_never">Nu se afişează din nou</string>
     <string name="theme_user_agreement_remind_summary">Se afişează Condițiile de utilizare de fiecare dată când se deschide aplicația Teme. Această setare va avea efect după ce reporniți dispozitivul.</string>
@@ -418,7 +438,7 @@
     <string name="uid_change_dialog_message">"Ați eliminat actualizările. Reporniți telefonul pentru a putea utiliza temele."</string>
     <string name="uid_change_dialog_ok">Am înțeles</string>
     <string name="uid_change_dialog_title">Reporniți telefonul</string>
-    <string name="wallpaper_auto_change_title">Blocarea ecranului</string>
+    <string name="wallpaper_apply">Aplicați</string>
     <string name="wallpaper_crop">Decupaţi</string>
     <string name="wallpaper_decoded_error">Imposibil de încărcat imaginea de fundal</string>
     <string name="wallpaper_scroll_type_tips">Derulare imagini de fundal</string>
@@ -426,8 +446,8 @@
     <string name="wallpaper_set_as_destop">Setaţi ca imagine de fundal</string>
     <string name="wallpaper_set_as_lockscreen">Setaţi ca fundal de blocare a ecranului</string>
     <string name="wallpaper_settings">Setări imagine de fundal</string>
-    <string name="wallpaper_settings_change_wallpaper">Modificați</string>
-    <string name="wallpaper_settings_desktop_text">Ecranul principal</string>
-    <string name="wallpaper_settings_lockscreen_text">Blocarea ecranului</string>
+    <string name="wallpaper_settings_loading_text">Încărcare</string>
+    <string name="wallpaper_settings_no_history">Nu există istoric</string>
+    <string name="wallpaper_settings_pad_more_page_title">Mai multe imagini de fundal</string>
     <string name="wallpaper_settings_page_title">Imagine de fundal</string>
 </resources>

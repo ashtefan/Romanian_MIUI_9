@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpaper_settings_precust_cover_name">
+        <item>Distracție</item>
+        <item>Peisaj</item>
+        <item>Cer înstelat</item>
+        <item>Botanică</item>
+        <item>Animale</item>
+    </string-array>
+    <string-array name="disable_package_replacement">
+        <item>dezactivează numele pachetelor</item>
+    </string-array>
+</resources>
