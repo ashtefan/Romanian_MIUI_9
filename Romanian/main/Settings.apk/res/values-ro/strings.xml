@@ -2949,6 +2949,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="privacy_factory_reset_dlg_title">Salvați-vă datele</string>
     <string name="privacy_file">Fișiere</string>
     <string name="privacy_gallery">Fotografii</string>
+    <string name="privacy_header_text_less_than_half">Prea puțin spațiu pentru această aplicație. Mutați separatorul mai departe.</string>
     <string name="privacy_mms">Mesaje</string>
     <string name="privacy_mode_dialog_message">Ascundeţi mesajele, notele, fotografiile, setările şi apelurile primite?</string>
     <string name="privacy_mode_dialog_title">Modul Vizitator</string>

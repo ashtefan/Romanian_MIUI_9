@@ -37,7 +37,7 @@
     <string name="error_filename_too_long">Numele fişierului este prea lung</string>
     <string name="error_sdcard_access">Imposibil de accesat stocarea internă sau externă</string>
     <string name="error_sdcard_unmounted">Introduceţi cardul SD</string>
-    <string name="export_to_note">Exportați în Note</string>
+    <string name="export_to_note">Exportați</string>
     <string name="head_set_tip_dialog_msg">Deconectați căștile pentru a putea înregistra sunetul cu presetările specifice (de ex. Muzică, Voce).</string>
     <string name="head_set_tip_dialog_ok">Am înțeles</string>
     <string name="head_set_tip_dialog_title">Utilizați microfonul intern</string>

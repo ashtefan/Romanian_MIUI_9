@@ -519,6 +519,7 @@ Motivul: „%s”"</string>
     <string name="hybrid_network_unavaliable">"Nu s-a putut conecta la rețea"</string>
     <string name="hybrid_service_unavailiable">Serviciu indisponibil</string>
     <string name="hybrid_try_again">Încercați din nou</string>
+    <string name="hybrid_webpage_not_available">Pagină indisponibilă</string>
     <string name="ic_menu_back">Înapoi</string>
     <string name="ic_menu_done">Finalizat</string>
     <string name="imLabelsGroup">IM</string>
@@ -835,7 +836,6 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="no_contacts_dialog_title">Nu s-au găsit contacte</string>
     <string name="no_contacts_selected">Nu aţi selectat niciun contact din agendă.</string>
     <string name="no_sdcard_message">Nu s-a găsit cardul SD.</string>
-    <string name="no_voip_contacts">Nu s-au găsit contacte Mi Voice</string>
     <string name="non_phone_add_to_contacts">Adăugaţi la un contact existent</string>
     <string name="non_phone_caption">Număr de telefon</string>
     <string name="non_phone_close">Închideţi</string>
@@ -1169,6 +1169,10 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="strequentList">Favorite</string>
     <string name="success_message_import_from_account">Import finalizat</string>
     <string name="summary_kind_title">Rezumat</string>
+    <string name="t9_search_empty_create_contact">Contact nou</string>
+    <string name="t9_search_empty_edit_contact">Adăugați la contacte</string>
+    <string name="t9_search_empty_send_sms">Trimiteți un mesaj</string>
+    <string name="t9_search_empty_video_call">Apel video</string>
     <string name="t9_search_guide_pinyin_title1">Căutați rapid contactele introducând literele de început</string>
     <string name="t9_search_guide_pinyin_title2">Tastați 9 și 4 pentru a căuta Zaharia George</string>
     <string name="t9_search_guide_zhuyin_title1">Căutați rapid contactele introducând literele de început</string>

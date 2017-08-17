@@ -298,6 +298,22 @@
         <item>Transparent</item>
         <item>Fundal alb</item>
      </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>Bundesliga</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>La Liga</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>Ligue 1</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>Serie A</item>
+    </string-array>
     <string-array name="aqi_level_desc">
         <item>空气优</item>
         <item>空气良</item>

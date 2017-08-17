@@ -128,10 +128,6 @@
         <item quantity="other">%d videoclipuri</item>
         <item quantity="one">%d videoclip</item>
     </plurals>
-    <plurals name="add_to_secret_successful">
-        <item quantity="other">Au fost adăugate %1$d fotografii în albumul secret</item>
-        <item quantity="one">A fost adăugată o fotografie în albumul secret</item>
-    </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d fotografii</item>
         <item quantity="one">1 fotografie</item>

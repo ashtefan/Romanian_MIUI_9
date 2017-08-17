@@ -45,8 +45,6 @@
     <string name="birthday_event_description_a_week_later">Peste o săptămână</string>
     <string name="birthday_event_description_day_after_tomorrow">Poimâine este </string>
     <string name="birthday_event_description_day_before_yesterday">Alaltăieri a fost</string>
-    <string name="birthday_event_description_days_ago">%1$d zile de la</string>
-    <string name="birthday_event_description_days_later">peste %1$d zile</string>
     <string name="birthday_event_description_default">"%2$s %3$s %4$s a lui %1$s"</string>
     <string name="birthday_event_description_special">"%1$s a lui %2$s %3$s %4$s %5$s"</string>
     <string name="birthday_event_description_today">Astăzi este</string>
@@ -149,7 +147,6 @@
   <string name="downloading_wallpaper">Imagine de fundal</string>
     <string name="edit_date_calculate_days_backward_error_hint">"Nu se poate calcula înainte"</string>
     <string name="edit_date_calculate_days_empty_hint">Introduceți numărul de zile</string>
-    <string name="edit_date_calculate_days_error_hint">Puteți introduce până la %1$d zile</string>
     <string name="edit_date_calculate_days_forward_error_hint">"Nu se poate calcula înapoi"</string>
     <string name="edit_event_all_day_label">Toată ziua</string>
     <string name="edit_event_anniversary_name_empty_hint">Introduceți numele evenimentului</string>
@@ -183,6 +180,7 @@
     <string name="email_picker_label">E-mail cu</string>
     <string name="email_subject_prefix">"Re: "</string>
     <string name="empty_event">Evenimentul gol nu a fost creat</string>
+    <string name="english_premium_league">English Premium League</string>
     <string name="event_account">Cont</string>
     <string name="event_action_delete">Ştergeţi</string>
     <string name="event_action_edit">Editaţi</string>
@@ -228,6 +226,8 @@
     <string name="gadget_title">Calendar</string>
     <string name="global_action_text_card_manager">Mai multe categorii</string>
     <string name="global_cricket_no_match">Nu există nicio competiție de cricket astăzi. Vedeți celelalte zile.</string>
+    <string name="global_football_final">FINAL</string>
+    <string name="global_football_no_match">Niciun meci de fotbal programat pentru astăzi.</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="guide_card_hint_text">Importați zilele de naștere din Agendă</string>
     <string name="hint_attendees">Invitaţi</string>

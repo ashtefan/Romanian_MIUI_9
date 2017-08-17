@@ -51,7 +51,7 @@
     <string name="currency_character">RMB</string>
     <string name="custom_mark_category">Personalizat</string>
     <string name="data_error">A apărut o eroare</string>
-    <string name="data_error_show">A apărut o eroare</string>
+    <string name="data_error_w">A apărut o eroare</string>
     <string name="delete">Ștergeți</string>
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
     <string name="dont_enable">Dezactivați</string>

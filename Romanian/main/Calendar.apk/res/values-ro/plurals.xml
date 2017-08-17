@@ -91,6 +91,18 @@
         <item quantity="other">%d zile lucrătoare</item>
         <item quantity="one">%d zi lucrătoare</item>
     </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d zile de la</item>
+        <item quantity="one">%1$d zi de la</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d zile până la</item>
+        <item quantity="one">%1$d zi până la</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">Puteți introduce până la %1$d zile</item>
+        <item quantity="one">Puteți introduce până la %1$d zi</item>
+    </plurals>
     <plurals name="Ndays_after">
         <item quantity="other">%1$d天后</item>
         <item quantity="one">%1$d天后</item>

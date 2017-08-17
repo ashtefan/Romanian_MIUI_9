@@ -181,6 +181,7 @@ Nu sunt disponibile actualizări pentru dumneavoastră!"</string>
     <string name="notification_update_new_version">Actualizare disponibilă</string>
     <string name="notification_update_now">Actualizați acum</string>
     <string name="notification_updating">Actualizare…</string>
+    <string name="notifications_switch">Afișează notificări</string>
     <string name="on_checking">Verificare…</string>
     <string name="open_now">Da</string>
     <string name="particular_build">Particular</string>

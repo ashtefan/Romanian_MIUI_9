@@ -484,6 +484,8 @@ Părăsiţi această pagină?"</string>
     <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Verificați setările %s1proxy %s2.</string>
     <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Goliți memoria cache (%s1Setări%s2 - Ștergeți datele).</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Goliți memoria cache și cookie-urile (%s1Setări%s2 - Ștergeți datele, informațiile contului pot fi pierdute).</string>
+    <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Goliți memoria cache și cookie-urile (informațiile despre contul dvs. pot fi pierdute).</string>
+    <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Goliți memoria cache.</string>
     <string name="miuichromium_error_page_suggestion_connect_and_retry">Reîncărcați după conectarea la Internet</string>
     <string name="miuichromium_error_page_suggestion_contact_admin">Contactați administratorul de sistem.</string>
     <string name="miuichromium_error_page_suggestion_correct_url">"Verificați adresa introdusă și încercați din nou utilizând URL-ul corect."</string>
@@ -663,6 +665,7 @@ Părăsiţi această pagină?"</string>
     <string name="pull_to_refresh_pull_label">Trageți în jos pentru actualizare</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a merge la Recomandate și actualizare</string>
     <string name="qr_code_title">Cod QR</string>
+    <string name="qr_description">Scanați codul QR</string>
     <string name="quicklink_bookmark_save">Salvați la</string>
     <string name="quicklink_cannot_save_url">"Nu se poate adăuga acest URL."</string>
     <string name="quicklink_folder_text">Aplicații de top</string>
@@ -762,8 +765,8 @@ Părăsiţi această pagină?"</string>
     <string name="send_comment_title">Comentariu</string>
     <string name="senddesktop">Ecranul principal</string>
     <string name="sendstartpage">Pagina de pornire</string>
-    <string name="share_image_text">Uite ce am găsit!</string>
-    <string name="share_page_text">Uite ce am găsit: %1$s | %2$s</string>
+    <string name="share_image_text">Uite ce am partajat! @MIUI</string>
+    <string name="share_page_text">Uite ce am partajat: %1$s @MIUI| %2$s</string>
     <string name="show_check_security_url_check_tip_dialog_description">Browser-ul trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a îmbunătăți securitatea și pentru a primi recomandări mai relevante, permiteți Browser-ului să obțină URL-urile site-urilor pe care le vizitați și accesul la locație.</string>
     <string name="show_check_security_url_check_tip_dialog_description_international">Browser-ul trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a primi recomandări mai relevante, permiteți Browser-ului să obțină URL-urile site-urilor pe care le vizitați și accesul la locație.</string>
     <string name="show_security_tip_dialog_title">Termenii serviciului</string>
@@ -773,12 +776,13 @@ Părăsiţi această pagină?"</string>
     <string name="skip_current_version">Omiteţi această versiune</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Nu s-a putut salva pagina"</string>
-    <string name="snapshot_successed">Pagină salvată cu succes</string>
+    <string name="snapshot_successed">Deschideți Semne de carte/Istoric-&gt;LOCAL pentru a vedea pagina</string>
     <string name="ssl_bad_clock_date_settings">Setați data</string>
     <string name="ssl_bad_clock_warning" formatted="false">"Nu se poate stabili o conexiune privată cu %s1 deoarece data și ora sistemului dumneavoastră (%s2) sunt incorecte."</string>
     <string name="ssl_certificate">Certificat de securitate</string>
     <string name="ssl_certificate_is_valid">Acest certificat este valabil.</string>
     <string name="ssl_continue">Continuaţi</string>
+    <string name="ssl_date_error_warnings_header">"Certificatul acestui site a expirat sau nu este încă valid. Vă sfătuim să părăsiți această pagină."</string>
     <string name="ssl_date_invalid">Acest certificat are o dată nevalidă</string>
     <string name="ssl_expired">Acest certificat a expirat</string>
     <string name="ssl_go_back">Înapoi</string>
@@ -915,6 +919,7 @@ Părăsiţi această pagină?"</string>
     <string name="view_document_downloaded_files">Vizualizați fișierele descărcate în Descărcări</string>
     <string name="voice_check_network">Verificați setările de rețea și încercați din nou.</string>
     <string name="voice_connect_network">"Nu s-a putut conecta la rețea."</string>
+    <string name="voice_description">Căutare vocală</string>
     <string name="voice_network_connection">Căutarea vocală trebuie să se conecteze la internet pentru a funcționa în mod normal.</string>
     <string name="voice_search_permission">Căutarea vocală trebuie să acceseze microfonul pentru a funcționa în mod normal.</string>
     <string name="voice_semantic_analysis">Browser-ul va putea analiza semantica după ce îi veți permite conectarea.</string>
