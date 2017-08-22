@@ -30,7 +30,7 @@
     <string name="best_update">Cea mai bună actualizare dintotdeauna</string>
     <string name="boot_recovery">Reporniţi în modul Recuperare</string>
   <string name="btn_changelog">Ce este nou</string>
-  <string name="btn_download">Descărcați</string>
+  <string name="btn_download">Descărcați (%1$s)</string>
   <string name="btn_install">Instalați</string>
   <string name="btn_no">Renunțați</string>
   <string name="btn_ok">OK</string>
