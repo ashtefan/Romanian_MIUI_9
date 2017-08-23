@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<strings>
-    <string name="date_time" value="EEEE, d MMMM"/>
-    <string name="language" value="ro"/>
-    <string name="desc_date_format" value="EEEE, dd MMMM"/>
-    <string name="desc_time" value="'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', apăsare dublă pentru a intra în aplicaţia Ceas'"/>
-</strings>
+<resources>
+    <string name="date_time">EEE, dd MMMM</string>
+    <string name="date_time_12">EEE, dd MMMM</string>
+    <string name="desc_date_format">EEEE, MMM dd</string>
+    <string name="desc_date_format_12">EEEE, MMM dd</string>
+	<string name="weather_type_0">Senin</string>
+    <string name="weather_type_1">Noros</string>
+    <string name="weather_type_2">Ceaţă</string>
+    <string name="weather_type_3">Ceţos</string>
+    <string name="weather_type_4">Furtună puternică</string>
+    <string name="weather_type_5">Furtună</string>
+    <string name="weather_type_6">Furtună foarte puternică</string>
+    <string name="weather_type_7">Tunete și fulgere</string>
+    <string name="weather_type_8">Averse</string>
+    <string name="weather_type_9">Ploaie puternică</string>
+    <string name="weather_type_10">Ploaie</string>
+    <string name="weather_type_11">Burniță</string>
+    <string name="weather_type_12">Lapoviță</string>
+    <string name="weather_type_13">Furtună de zăpadă</string>
+    <string name="weather_type_14">Ploi cu zăpadă</string>
+    <string name="weather_type_15">Ninsoare puternică</string>
+    <string name="weather_type_16">Ninsoare</string>
+    <string name="weather_type_17">Ninsoare slabă</string>
+    <string name="weather_type_18">Furtună de nisip puternică</string>
+    <string name="weather_type_19">Furtună de nisip</string>
+    <string name="weather_type_20">Furtună ușoară de nisip</string>
+    <string name="weather_type_21">Furtună de nisip</string>
+    <string name="weather_type_22">Grindină</string>
+    <string name="weather_type_23">Pete de ceață</string>
+    <string name="weather_type_24">Ceaţă</string>
+</resources>
