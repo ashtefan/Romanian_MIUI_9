@@ -54,6 +54,7 @@
     <string name="feedback_choose_module">Selectați elementul</string>
     <string name="feedback_choose_module_hint">Necesar</string>
     <string name="feedback_collect_log_failed">"Nu s-au putut obține rapoartele de eroare"</string>
+    <string name="feedback_contact_info_hint">Număr de telefon/E-mail</string>
     <string name="feedback_continue">Continuați expunerea problemei</string>
     <string name="feedback_description">Descriere</string>
     <string name="feedback_description_bugreport_hint">În unele situații (…) telefonul meu se comportă anormal (…).</string>
@@ -195,6 +196,7 @@
     <string name="module_data">Stocare și aplicații clonate</string>
     <string name="module_desktop">Ecranul principal și setări</string>
     <string name="module_finance">Finanțe și Portofel Mi</string>
+    <string name="module_google_apps">Aplicații Google</string>
     <string name="module_item_less">Ascundeți</string>
     <string name="module_item_more">Mai multe</string>
     <string name="module_medias">Media</string>

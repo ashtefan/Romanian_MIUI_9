@@ -97,6 +97,7 @@
     <string name="bugreport_in_power">Scurtătură raportare erori</string>
     <string name="bugreport_in_power_summary">Afișează un buton în meniul de Pornire pentru extragerea unui raport cu erori</string>
     <string name="button_convert_fbe">Ștergeți și convertiți…</string>
+    <string name="callFailed_simError">Eroare cartelă SIM</string>
     <string name="can_not_dial_vt_while_voice_prompt">"Nu se poate efectua un apel video cât timp un apel vocal este în curs"</string>
     <string name="can_not_dial_while_vt_prompt">"Nu se poate apela cât timp un apel video este în curs"</string>
     <string name="category_personal">Personal</string>
@@ -108,6 +109,7 @@
     <string name="charge_length_format">%1$s în urmă</string>
     <string name="choose_profile">Selectați profilul</string>
     <string name="clear_adb_keys">Revocați autorizările de depanare prin USB</string>
+    <string name="close">Închideți</string>
     <string name="confirm_enable_oem_unlock_text">AVERTISMENT: Caracteristicile de protecție a dispozitivului nu vor funcționa pe acest telefon atât timp cât această setare este activă.</string>
     <string name="confirm_enable_oem_unlock_title">Permiteți deblocarea OEM?</string>
     <string name="connected_via_passpoint">Conectat via %1$s</string>
@@ -189,6 +191,8 @@
     <string name="inactive_app_inactive_summary">Inactivă. Atingeți pentru a comuta.</string>
     <string name="inactive_apps_title">Aplicații inactive</string>
     <string name="incall_error_call_failed">"Nu s-a putut efectua apelul."</string>
+    <string name="incall_error_power_off">Dezactivați modul Avion pentru a apela.</string>
+    <string name="incall_error_supp_service_unknown">"Acest serviciu nu este suportat."</string>
     <string name="incoming_call_failed_low_battery">Apelul primit a eșuat datorită nivelului redus al acumulatorului.</string>
     <string name="keep_screen_on">Ecran activ la încărcare</string>
     <string name="keep_screen_on_summary">Ecranul va rămâne activ pe durata încărcării</string>

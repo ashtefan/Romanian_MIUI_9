@@ -36,7 +36,7 @@
     <string name="function_close">Opriți</string>
     <string name="game_booster">Creștere viteză în jocuri</string>
     <string name="game_booster_intro">Despre creșterea vitezei în jocuri</string>
-  <string name="game_booster_title">Boost</string>
+    <string name="game_booster_title">Accelerare</string>
     <string name="game_improve_text1">Curățați cache-ul din fundal pentru a crește memoria alocată pentru jocuri</string>
     <string name="game_improve_text2">Curățați cache-ul din fundal pentru a crește memoria alocată pentru jocuri și pentru a îmbunătăți performanța procesorului</string>
     <string name="game_improve_title">Optimizați performanța sistemului</string>
@@ -47,6 +47,8 @@
     <string name="game_setting">Setări jocuri</string>
     <string name="gamebooster_network_dialog_message">Permiteți aplicației de Securitate să se conecteze la rețea pentru a utiliza toate caracteristicile de Creștere a vitezei în jocuri?</string>
     <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
+    <string name="gb_alipays_can_not_complete">"Nu s-a putut finaliza plata. Instalați pentru a continua."</string>
+    <string name="gb_weixinpay_can_not_complete">"Nu s-a putut finaliza plata. Instalați pentru a continua."</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gs_anto_clean_memory_whitelist">Excepții</string>
     <string name="gs_app_back_self_start">Economisire acumulator</string>

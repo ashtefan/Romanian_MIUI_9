@@ -909,7 +909,6 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="clear_failed_dlg_title">Ştergeţi datele</string>
     <string name="clear_uri_btn_text">Revocați accesul</string>
     <string name="clear_user_data_text">Ștergeți datele</string>
-    <string name="close_gesture">Închideți utilizând gesturi</string>
     <string name="close_miui_optimization_title">Dezactivați optimizarea MIUI</string>
     <string name="close_miui_optimization_warning_message">Telefonul va reporni pentru aplicarea modificării. Notă: dezactivarea acestei caracteristici va produce modificări majore dispunerii și altor elemente ale sistemului.</string>
     <string name="cloud_backup_section_title">Copie de rezervă Mi Cloud</string>
@@ -1719,7 +1718,6 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="google_backup_enable">Activați crearea copiilor de rezervă</string>
     <string name="google_backup_section_title">Copii de rezervă şi restabilire Google</string>
     <string name="google_title">Google</string>
-    <string name="got_it">Am înțeles</string>
     <string name="gsm_to_wifi_connect_type_title">Celular -> Wi-Fi</string>
     <string name="handy_mode">Modul Operare cu o mână</string>
     <string name="handy_mode_enable">Mod Operare cu o mână</string>
@@ -1790,8 +1788,6 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="help_url_vpn" />
     <string name="help_url_wifi" />
     <string name="hidden_ssid_label">SSID ascuns:</string>
-    <string name="hide">Ascundeți</string>
-    <string name="hide_screen_button">Ascundeți butoanele de pe ecran</string>
     <string name="high_performance_notif_summary">Modul Performanță dezactivează controalele de temperatură și limitele de consum ale acumulatorului, ceea ce permite dispozitivului să ruleze la capacitate maximă. Acest lucru poate cauza încălzirea dispozitivului și să reducă durata de viață a acumulatorului.</string>
     <string name="high_performance_notif_title">Utilizare acumulator</string>
     <string name="high_performance_title">Se pare că rulează un test de evaluare. Setaţi gestionarea energiei la \"Performanţă\" pentru rezultate optime.</string>
@@ -2176,7 +2172,7 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="lockpassword_pin_no_sequential_digits">O secvență de cifre crescătoare, descrescătoare sau repetitivă este interzisă</string>
     <string name="lockpassword_pin_recently_used">Administr. dispoz. nu permite deblocarea cu PIN.</string>
     <string name="lockpassword_pin_set_toast">PIN setat</string>
-    <string name="lockpassword_pin_too_long">Codul PIN poate conține cel mult %d cifre.</string>
+    <string name="lockpassword_pin_too_long">Codul PIN trebuie să conțină cel mult %d cifre.</string>
     <string name="lockpassword_pin_too_short">Parola numerică trebuie să aibă minimum %d caractere</string>
     <string name="lockpassword_strong_auth_required_reason_restart_device_password">Introduceți parola dispozitivului pentru a continua. E necesară după repornirea dispozitivului.</string>
     <string name="lockpassword_strong_auth_required_reason_restart_device_pattern">Utilizați modelul dispozitivului pentru a continua. E necesar după repornirea dispozitivului.</string>
@@ -2217,7 +2213,6 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="lockpattern_settings_require_pattern_before_startup_summary">"Solicită modelul pentru a porni dispozitivul. Cât timp este oprit, nu se pot primi apeluri, mesaje, notificări și nici alarma nu va suna."</string>
     <string name="lockpattern_settings_require_pin_before_startup_summary">"Solicită codul PIN pentru a porni dispozitivul. Cât timp este oprit, nu se pot primi apeluri, mesaje, notificări și nici alarma nu va suna."</string>
     <string name="lockpattern_settings_title">Model pentru deblocare</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts">Prea multe încercări eșuate. Încercați din nou în %d secunde.</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Așteptați %d secunde și încercați din nou.</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Prea multe încercări nereușite</string>
     <string name="lockpattern_tutorial_cancel_label">Anulaţi</string>
@@ -2306,6 +2301,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="master_clear_progress_title">Ștergere</string>
     <string name="master_clear_summary">Şterge toate datele de pe telefon</string>
     <string name="master_clear_title">Resetarea la configurarea din fabrică</string>
+    <string name="max_aspect_settings_all_app_display_loading">Doar o secundă…</string>
     <string name="max_cpu10_info">"Deca-core Max "</string>
     <string name="max_cpu2_info">Dual-core Max</string>
     <string name="max_cpu4_info">"Quad-core Max "</string>
@@ -3180,6 +3176,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="restore_default_apn_completed">Resetarea setărilor APN prestabilite a fost finalizată.</string>
     <string name="restr_pin_enter_admin_pin">Introduceți codul PIN al administratorului</string>
     <string name="restrict_background_blacklisted">Utilizarea datelor în fundal este dezactivată</string>
+    <string name="restrict_max_aspect_ratio_title">Sugestie de dezactivare rată maximă a aspectului</string>
     <string name="restriction_bluetooth_config_summary">Permiteți modificarea împerecherilor și setărilor Bluetooth</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
     <string name="restriction_location_enable_summary">Permiteți ca aplicațiile să utilizeze informațiile despre locație</string>
@@ -3242,8 +3239,6 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="saved_wifi_delete">Ștergeți</string>
     <string name="scan_list_label">Rezultate scanare:</string>
     <string name="screen">Ecran</string>
-    <string name="screen_button">Butoane ecran</string>
-    <string name="screen_button_tips">Glisați în jos pentru a ascunde butoanele de pe ecran</string>
     <string name="screen_cells_config_title">Dispunerea Ecranului principal</string>
     <string name="screen_color_and_optimize">Culori şi contrast</string>
     <string name="screen_color_and_optimize_disabled">"Nu se poate ajusta temperatura de culoare în modul Lectură"</string>
@@ -3259,6 +3254,8 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="screen_key_press">Apăsarea butoanelor de navigare</string>
     <string name="screen_key_press_action">Funcția de declanșare</string>
     <string name="screen_locking_sounds_title">Sunete de blocare a ecranului</string>
+    <string name="screen_max_aspect_ratio_desc">Aplicația Meteo poate fi utilizată în modul Ecran complet</string>
+    <string name="screen_max_aspect_ratio_title">Setări rată maximă aspect</string>
     <string name="screen_monochrome_mode_apps_loading">Doar o secundă…</string>
     <string name="screen_monochrome_mode_apps_title">Utilizați modul Monocrom</string>
     <string name="screen_monochrome_mode_global_summary">Utilizați modul Monocrom pentru toate aplicațiile</string>
@@ -3895,9 +3892,9 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_app_enable_message">Insigne pictograme</string>
     <string name="status_bar_key_position_custom">Modificați pozițiile butoanelor</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="status_bar_screen_button_desc">Glisați în jos pentru a ascunde butoanele de pe ecran</string>
+    <string name="status_bar_screen_button_force_immersive_desc">Glisați în sus de la marginea de jos a ecranului pentru a afișa butoanele virtuale</string>
     <string name="status_bar_screen_button_key">Butoane virtuale</string>
-    <string name="status_bar_screen_button_key_can_hide">Butoanele de pe ecran pot fi ascunse</string>
+    <string name="status_bar_screen_button_key_force_immersive">Ascundeți butoanele virtuale</string>
     <string name="status_bar_screen_key_back">Butonul Înapoi</string>
     <string name="status_bar_screen_key_home">Butonul Acasă</string>
     <string name="status_bar_screen_key_menu">Butonul Meniu</string>
@@ -4107,6 +4104,7 @@ Luați în calcul utilizarea unui ^1 mai rapid pentru o mai bună performanță.
     <string name="storageuse_settings_title">Utilizare stocare</string>
     <string name="strict_mode">Modul Strict activat</string>
     <string name="strict_mode_summary">Ilum. intermit. la operaţiuni lungi pe firul princ.</string>
+    <string name="suggest_unrestrict_max_aspect_ratio_title">Sugestie de activare a ratei maxime a aspectului</string>
     <string name="suggested_fingerprint_lock_settings_summary">Deblocați utilizând amprenta</string>
     <string name="suggested_lock_settings_summary">Protejați-vă dispozitivul</string>
     <string name="suggested_lock_settings_title">Blocare ecran</string>
@@ -4123,8 +4121,6 @@ Luați în calcul utilizarea unui ^1 mai rapid pentru o mai bună performanță.
     <string name="supplicant_state_label">Stare supplicant:</string>
     <string name="sure_sync_now">Sincronizați elementele acum?</string>
     <string name="suspend_gesture_enabled">Răsturnați telefonul pentru a închide ecranul</string>
-    <string name="suspension_ball_enable">Scurtătură asistent ecran</string>
-    <string name="suspension_ball_enable_desc">Activați/dezactivați Asistentul de ecran utilizând scurtătura</string>
     <string name="suw_back_button_label">Înapoi</string>
     <string name="suw_more_button_label">Mai multe</string>
     <string name="suw_next_button_label">Următorul</string>
@@ -4400,6 +4396,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="unlock_set_unlock_summary">Setaţi o blocare pentru ecran</string>
     <string name="unlock_setup_wizard_fingerprint_details">Odată ce ați setat o metodă de blocare a ecranului, puteți seta și amprenta în Setări &gt; Securitate.</string>
     <string name="unmount_inform_text">Stocarea USB va fi demontată.</string>
+    <string name="unrestrict_max_aspect_ratio_title">Suportă rata maximă a aspectului</string>
     <string name="unrestricted_app_summary">Permiteți accesul nerestricționat la date când Economisirea datelor este activă</string>
     <string name="unrestricted_app_title">Utilizare nerestricționată a datelor</string>
     <string name="unrestricted_data_saver">Acces nerestricționat la date</string>

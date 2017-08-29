@@ -479,7 +479,6 @@ Motivul: „%s”"</string>
     <string name="force_touch_miprofile">Carte de vizită</string>
     <string name="force_touch_new_contact">Contact nou</string>
     <string name="foundTooManyContacts">S-au găsit peste %d contacte</string>
-    <string name="fraud_more_indemnity">Mai multe</string>
     <string name="frequentList">Frecvent</string>
     <string name="from_account_format">%1$s</string>
     <string name="full_name">Nume</string>
@@ -1067,7 +1066,8 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="search_wipe_data">Organizare;Contacte</string>
     <string name="searching_vcard_message">Se caută date vCard pe cardul SD…</string>
     <string name="select_all">Selectaţi toate</string>
-    <string name="select_done">Nu mai este nimic de selectat</string>
+    <string name="select_all_exceed">"Selectați nu mai mult de %1$d, nu se pot selecta toate"</string>
+    <string name="select_exceed">Selectați nu mai mult de %1$d</string>
     <string name="select_groups">Selectaţi grupurile</string>
     <string name="select_none">Nimic selectat</string>
     <string name="select_show_contacts">Listă contacte</string>
@@ -1100,8 +1100,6 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="sim_capacity_content" formatted="false">Capacitate %d, utilizat %d</string>
     <string name="sim_card_no_free_space_message">Spaţiu insuficient</string>
     <string name="sim_card_no_free_space_title">Cartelă SIM plină</string>
-    <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselectați tot</string>
-    <string name="sim_contact_dropdown_menu_select_all_miui">Selectați tot</string>
     <string name="sim_contact_existing">Contact existent deja</string>
     <string name="sim_contact_invalid">Contact SIM greşit</string>
     <string name="sim_contact_search_error">A apărut o eroare</string>
@@ -1179,8 +1177,6 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="t9_search_guide_zhuyin_title2">Tastați 8 și 2 pentru a căuta &lt;font fgcolor=""&gt;T&lt;/font&gt;atiana &lt;font fgcolor=""&gt;C&lt;/font&gt;azacu</string>
     <string name="take_new_photo">Creaţi o fotografie nouă</string>
     <string name="take_photo">Fotografiaţi</string>
-    <string name="telecom_fraud_insurance">Asigurare Telecom împotriva fraudelor</string>
-    <string name="telecom_fraud_insurance_description">Asigurare de 10,000 CNY | Ofertă specială Xiaomi | Doar 9,9 CNY/an</string>
     <string name="titleJoinContactDataWith">Asociaţi intrările din agendă</string>
     <string name="title_other_devices">Alte dispozitive disponibile</string>
     <string name="title_paired_devices">Dispozitive asociate</string>

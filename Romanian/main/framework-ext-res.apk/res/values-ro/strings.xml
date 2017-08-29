@@ -73,6 +73,11 @@
     <string name="memory_clear_nothing_result">Nimic de curăţat în memoria cache</string>
     <string name="memory_clear_result">%1$sB goliţi</string>
     <string name="miui">MIUI</string>
+    <string name="miui_screen_ratio_hint">Probleme aspect ecran</string>
+    <string name="miui_screen_ratio_hint_dont_show_again">"Nu arăta din nou"</string>
+    <string name="miui_screen_ratio_hint_go_to_settings">Mergeți la Setări</string>
+    <string name="miui_screen_ratio_hint_message">Această aplicație este lăsată să funcționeze în modul Ecran complet ceea ce poate cauza afișarea incorectă. Puteți schimba asta din Setări &gt; Setări avansate &gt; Butoane.</string>
+    <string name="miui_screen_ratio_hint_ok">OK</string>
     <string name="miui_upgrading_notification_title">Se încarcă sistemul, unele caracteristici pot fi limitate</string>
     <string name="package_delete_confirm_step_1">Ștergeți %s?</string>
     <string name="package_delete_confirm_step_2">Eliminarea aceastei aplicații poate face sistemul instabil.</string>

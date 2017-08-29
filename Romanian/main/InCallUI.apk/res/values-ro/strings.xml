@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="accept_modify_call_request_prompt">Acceptați modificarea solicitării de apel?</string>
-    <string name="add_vm_number_str">Adăugaţi numărul</string>
     <string name="antispam_local_marked">Marcat local</string>
     <string name="antispam_marked_count">Etichetat de %1$d utilizatori MIUI</string>
     <string name="antispam_marked_title">%1$s</string>
@@ -184,8 +183,6 @@
     <string name="no_balance_title">Fonduri insuficiente</string>
     <string name="no_call_back_message">Conectarea durează prea mult. Efectuați un apel obișnuit(veți fi taxat de către operator).</string>
     <string name="no_call_back_title">Atenție</string>
-    <string name="no_vm_number">Lipseşte numărul mesageriei vocale</string>
-    <string name="no_vm_number_msg">Niciun număr de mesagerie vocală nu este stocat pe cartela SIM.</string>
     <string name="non_ivr_menu_collapse_menu">Restrângere meniu</string>
     <string name="non_ivr_menu_view_menu">Vizualizare meniu</string>
     <string name="not_activate_sim_card_content">Verificați-vă numărul de telefon pentru a putea utiliza Pachetul de suplinire. Puteți efectua în continuare apeluri obișnuite, pentru care veți fi taxat de către operator.</string>

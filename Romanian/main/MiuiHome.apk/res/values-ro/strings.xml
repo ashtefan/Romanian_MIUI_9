@@ -81,7 +81,6 @@
     <string name="failed_to_delete_temporary">"Nu s-a putut elimina"</string>
     <string name="failed_to_drop">"Mutare eşuată"</string>
     <string name="failed_to_drop_widget_invalid">Obiect widget nevalid</string>
-    <string name="failed_to_drop_widget_nospace">Nu mai este loc pe acest ecran</string>
     <string name="failed_to_load_image">"Nu s-a putut încărca imaginea"</string>
     <string name="folder_name">Dosar</string>
     <string name="frame_load_failed">"Încărcarea cadrului a eşuat"</string>
@@ -171,6 +170,7 @@
     <string name="mtzgadget_missing_text">"Obiectul widget nu este disponibil"</string>
     <string name="multi_selecting_tips">Pentru a selecta o aplicaţie, atingeţi pictograma corespunzătoare și mutați-o aici</string>
     <string name="no_detail_page">Nicio pagină cu detalii</string>
+    <string name="no_space_toast">Nu mai există spațiu</string>
     <string name="normal_wallpaper">Imagine de fundal</string>
     <string name="notification_installed">Instalat cu succes</string>
     <string name="notification_open_button">Deschideți</string>

@@ -304,6 +304,7 @@
     <string name="apps_list_header_title_sms_access">Restricționați accesul la codurile de verificare</string>
     <string name="auto_atsk_condition_battery_level_text_down">Când nivelul acumulatorului atinge %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Când acumulatorul este încărcat până la %s</string>
+    <string name="auto_clean_close">Curățarea automată este oprită</string>
     <string name="auto_handle_title">GENERAL</string>
     <string name="auto_import_games">Adăugați toate jocurile într-un singur loc</string>
     <string name="auto_task_condition_choose_battery_level_down">Când acumulatorul se descarcă până la un anumit nivel</string>
@@ -415,6 +416,7 @@
     <string name="battery_status_unknown">Eroare necunoscută</string>
     <string name="battery_temperature_title">Temperatură</string>
     <string name="begin_date">Data de resetare a utilizării</string>
+    <string name="best_booster_status">Viteza în jocuri este cea mai bună disponibilă acum.</string>
     <string name="bind_xiaomi_account_cancel">Renunțați</string>
     <string name="bind_xiaomi_account_confirm">Adăugați</string>
     <string name="bind_xiaomi_account_dialog_summery">"Sunteți pe cale să adăugați contul Mi %s. Dacă uitați parola, puteți utiliza acest cont pentru a o reseta. Contul va fi eliminat în mod automat dacă vă deconectați."</string>
@@ -523,6 +525,7 @@
     <string name="card_main_datasave_summary">Comprimați datele pentru a economisi până la 20%</string>
     <string name="card_main_datasave_title">Economisire date</string>
     <string name="card_main_deepclean_action">Goliți</string>
+    <string name="card_main_deepclean_qq_title">Curățare QQ</string>
     <string name="card_main_deepclean_summary">Ștergeți fișierele inutile</string>
     <string name="card_main_deepclean_title">Curățare profundă</string>
     <string name="card_main_deepclean_wechat_action">Goliți</string>
@@ -717,6 +720,7 @@
     <string name="dlg_white_antispam_message">Adăugați acest număr în lista excepțiilor?</string>
     <string name="dns_exception_summary">Verificaţi setările DNS ale router-ului.</string>
     <string name="dns_exception_title">Verificare setări DNS</string>
+    <string name="do_clean">Golire…</string>
     <string name="domestic_roaming_setting">Roaming național</string>
     <string name="dont_bore">"Nu lăsați butoanele și notificările să vă distragă atenția"</string>
     <string name="dont_bore_text">Reduceți la tăcere notificările și dezactivați butoanele pentru a nu vă distrage atenția</string>
@@ -789,6 +793,8 @@
     <string name="forget_password_button_text"><u>Am uitat parola</u></string>
     <string name="forget_password_button_text_normal">Am uitat parola</string>
     <string name="forget_pattern"><u>Am uitat parola</u></string>
+    <string name="free_send_net_booster">Creștere gratuită a vitezei rețelei</string>
+    <string name="free_send_net_booster_tip">Bucurați-vă de o experiență fluidă în jocuri cu Creșterea gratuită a vitezei rețelei.</string>
     <string name="free_time_traffic">Limită de date în afara orelor de vârf</string>
     <string name="free_time_traffic_hint">Introduceţi limita de date în afara orelor de vârf</string>
     <string name="free_time_traffic_settings">Limita de date în afara orelor de vârf</string>
@@ -937,6 +943,7 @@
     <string name="item_install_monitor">Monitorizare instalare</string>
     <string name="item_mms">Filtru mesaje nedorite</string>
     <string name="item_usb_debug">Depanare USB</string>
+    <string name="item_system_auto_download">Descărcați actualizările în mod automat</string>
     <string name="item_virus">Virus</string>
     <string name="item_virus_lib">Actualizare automată a definițiilor de viruși</string>
     <string name="keywords_antispam">Listă blocări;Blocare;Lista blocărilor;Listă blocări inteligentă;Fraudă;Vânzări;Agenți</string>
@@ -1105,6 +1112,7 @@ răspunsul operatorului"</string>
     <string name="memory_clean_running_process_title">Monitorizare aplicații (%d)</string>
     <string name="memory_cleaned_memory_info">Memorie disponibilă</string>
     <string name="memory_cleaned_memory_up">A fost crescută viteza de reacție</string>
+    <string name="memory_clear_unused">Goliți memoria cache (%s)</string>
     <string name="menu_add">Adăugați</string>
     <string name="menu_add_into_contact">Adăugați la un contact existent</string>
     <string name="menu_add_new_contact">Contact nou</string>
@@ -1156,6 +1164,7 @@ răspunsul operatorului"</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
+    <string name="menu_text_optimize_manage">Creștere viteză</string>
     <string name="menu_text_power_manager">Utilizare acumulator</string>
     <string name="menu_text_power_percent">%s</string>
     <string name="menu_text_power_percent_title">Acumulator %s</string>
@@ -1172,7 +1181,16 @@ răspunsul operatorului"</string>
     <string name="monitor_requests_from_pc">Administrați instalarea aplicațiilor prin USB</string>
     <string name="more_game">Mai multe jocuri</string>
     <string name="name">Nume</string>
+    <string name="net_booster">Creșterea vitezei rețelei</string>
+    <string name="net_booster_expire_notification">Sesiunea de creștere a vitezei rețelei este pe cale să se încheie</string>
+    <string name="net_booster_expire_notification_tip">%d zile rămase până la încheierea sesiunii de creștere a vitezei. Reînnoiți sesiunea pentru a evita problemele de viteză a rețelei.</string>
+    <string name="net_booster_overdue_notification">Sesiunea de creștere a vitezei rețelei este pe cale să se încheie</string>
+    <string name="net_booster_overdue_notification_tip">Sesiunea de creștere a vitezei rețelei se va încheia în curând. Reînnoiți sesiunea?</string>
+    <string name="net_booster_tip">Activați Creșterea vitezei rețelei pentru a face conexiunea Wi-Fi mai stabilă și pentru a reduce încetinirea traficului.</string>
+    <string name="net_booster_title">Creșterea vitezei rețelei</string>
+    <string name="net_boosting">Creșterea vitezei…</string>
     <string name="net_delay_title">Întârziere</string>
+    <string name="net_overdue">Sesiunea s-a încheiat</string>
     <string name="network_blocked_connected_open_wifi">Conectat la rețea publică</string>
     <string name="network_blocked_notification_summary">Testare reţea</string>
     <string name="network_blocked_switch_wifi">Comutare reţele</string>
@@ -1626,6 +1644,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="reach_daily_limit_value_body">Reduceți utilizarea datelor mobile.</string>
     <string name="reach_daily_limit_value_title">S-a atins limita zilnică de utilizare a datelor</string>
     <string name="read_all_sms">Citiți-le pe toate</string>
+    <string name="receive_now">Recepționați</string>
     <string name="recently_reject_message">Instalarea %1$s și a altor %2$d aplicații a fost respinsă</string>
     <string name="recently_reject_message_one">Solicitarea de instalare a %1$s a fost respinsă</string>
     <string name="recommend_app">Aplicații recomandate</string>
@@ -1634,8 +1653,10 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="reject_all">Restricționați tot</string>
     <string name="reject_countdown">Refuzați (%d)</string>
     <string name="reject_usb_install">A fost respinsă instalarea prin USB a următoarelor aplicații</string>
+    <string name="release_meminfo">Eliberați %d MB</string>
     <string name="release_memory">Goliți memoria cache</string>
     <string name="renew_ip">Reîncercaţi</string>
+    <string name="renew_now">Reînnoiți</string>
     <string name="repair">Reparare</string>
     <string name="repair_loading_text">Doar o secundă…</string>
     <string name="repeated_marked_number_summary">"Nu bloca un al doilea apel de la același număr raportat care vine în mai puțin de 3 minute"</string>
@@ -1996,6 +2017,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="tab_blacklist">Lista neagră</string>
     <string name="tab_block_log_unKnowNumber">Număr privat</string>
     <string name="tab_call">Apeluri</string>
+    <string name="tab_gift">Cadouri</string>
+    <string name="tab_guide">Ghid</string>
     <string name="tab_sms">SMS</string>
     <string name="tab_title">Lista neagră</string>
     <string name="tc_diagnostic_all_error_notification_summary">Apăsați pentru a raporta o problemă</string>
@@ -2095,6 +2118,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="title_app_lock_disable">Blocați aplicații</string>
     <string name="title_app_update">Actualizări disponibile</string>
     <string name="title_auto_update">Actualizare automată</string>
+    <string name="title_chain_start">Restricționați bucla de start</string>
     <string name="title_cleaner_cloudscan">Scanare coș de gunoi din Cloud</string>
     <string name="title_cloud_account">Cont Mi</string>
     <string name="title_cloud_service">Mi Cloud</string>
@@ -2103,9 +2127,12 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="title_cmcc_app_check">Verificarea nu este completă</string>
     <string name="title_consume_power_rank">Utilizarea acumulatorului</string>
     <string name="title_data_flow">Controlați utilizarea datelor mobile</string>
+    <string name="title_data_flow_monitor">Monitorizarea utilizării datelor este activă</string>
+    <string name="title_dev_model_off">"Opțiunile dezvoltator sunt oprite"</string>
     <string name="title_default_app">"%s MIUI nu este setată ca aplicaţie prestabilită"</string>
     <string name="title_dev_no">Opţiuni dezvoltator activate</string>
     <string name="title_dev_yes">Opţiuni dezvoltator dezactivate</string>
+    <string name="title_device_not_root">"Accesul la Root nu a fost permis"</string>
     <string name="title_find_device">Localizarea dispozitivului</string>
     <string name="title_flow_notification">Notificare utilizare a datelor</string>
     <string name="title_flow_purchase">Suplimentați datele mobile</string>
@@ -2113,12 +2140,14 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="title_flow_verify">Comparare contabilizare</string>
     <string name="title_flow_verify_failed">"Nu s-a putut ajusta 5 zile la rând"</string>
     <string name="title_garbage_clean">Dimensiunea memoriei cache a aplicațiilor a atins %s</string>
+    <string name="title_garbage_less">Memoria cache a aplicației este redusă</string>
     <string name="title_garbage_lib">Actualizați definițiile pentru gunoi</string>
     <string name="title_install_virus_no">Monitorizare instalare dezactivată</string>
     <string name="title_install_virus_yes">Monitorizare instalare activată</string>
     <string name="title_limit_traffic_per_day">Limita de utilizare zilnică a datelor</string>
     <string name="title_mifi_insurance">Garanție extinsă</string>
     <string name="title_miui_update">Actualizare disponibilă</string>
+    <string name="title_miui_update_latest">MIUI este actualizat</string>
     <string name="title_mms_no">Filtrare mesaje dezactivată</string>
     <string name="title_mms_yes">Filtrare mesaje activată</string>
     <string name="title_network_switch">Conexiunea la rețea</string>
@@ -2126,6 +2155,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="title_of_auto_launch_manage">Pornire automată</string>
     <string name="title_of_operators_set">Setări operator</string>
     <string name="title_of_package_set">Setări plan de date</string>
+    <string name="title_payment_protection">Plățile sunt securizate</string>
     <string name="title_payment_risk">Au fost găsite riscuri pentru plăți</string>
     <string name="title_permission_no">Gestionare permisiuni dezactivată</string>
     <string name="title_permission_root">Acces root</string>
@@ -2134,6 +2164,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="title_realname_verify">Verificare ID</string>
     <string name="title_share_link">Partajați URL-ul</string>
     <string name="title_show_notification">Widget panou notificări</string>
+    <string name="title_system_auto_download">Actualizările vor fi descărcate în mod automat</string>
     <string name="title_telecom_operator">Ajustare automată</string>
     <string name="title_usb_no">Depanare USB activată</string>
     <string name="title_usb_yes">Depanare USB dezactivată</string>
@@ -2288,7 +2319,12 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="wifi_item_title_encryption">Criptare Wi-Fi</string>
     <string name="wifi_item_title_fake">Detectare Wi-Fi fals</string>
     <string name="wifi_network_blocked_notification_title">Nicio conexiune la internet</string>
+    <string name="wifi_optizition_loading">Activare creștere viteză Xunyou…</string>
+    <string name="wifi_optizition_tip">Activați creșterea vitezei Wi-Fi pentru a face conexiunea Wi-Fi mai stabilă. Va fi folosită o cantitate mică de date mobile.</string>
+    <string name="wifi_optizition_title">Creșterea vitezei Wi-Fi</string>
     <string name="wl_no_whitelist">Nicio excepție.</string>
+    <string name="wlan_booster">Optimizare Wi-Fi</string>
     <string name="wlan_change_protection_detail">"Nu comuta în mod automat la Wi-Fi când este conectat la rețeaua de date mobile"</string>
     <string name="wlan_change_protection_title">Preveniți comutarea rețelelor</string>
+    <string name="xunyou_pay_webview">Servicii Xunyou</string>
 </resources>

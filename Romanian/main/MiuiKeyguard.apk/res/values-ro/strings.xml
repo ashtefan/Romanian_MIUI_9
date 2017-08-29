@@ -19,9 +19,7 @@
     <string name="fingerprint_try_again_text">Încercați din nou</string>
     <string name="forget_password_string">Am uitat parola</string>
     <string name="incorrect_pincode">Cod PIN incorect</string>
-    <string name="incorrect_pincode_remaining_attempts">Cod PIN incorect, au rămas %d încercări</string>
     <string name="incorrect_pukcode">Cod PUK incorect</string>
-    <string name="incorrect_pukcode_remaining_attempts">Cod PUK incorect, au rămas %d încercări</string>
     <string name="input_password_after_boot_msg">Pentru a debloca telefonul introduceți parola</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Nu se poate comuta între Spațiile de lucru în timpul unui apel"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Trebuie să accesați Spațiul Principal după ce telefonul repornește</string>
@@ -34,24 +32,15 @@
     <string name="invalid_sim_puk_hint">Codul PUK trebuie să conțină cel puțin 8 cifre</string>
     <string name="keyguard_charging_info_battery_temperature_text">Temperatura acumulatorului</string>
     <string name="keyguard_charging_info_battery_used_time_text">Pe acumulator</string>
-    <string name="keyguard_charging_info_charging_full_need_hour_time__text">Aproximativ %d ore până la încărcarea completă</string>
-    <string name="keyguard_charging_info_charging_full_need_min_time__text">Aproximativ  %d minute până la încărcarea completă​</string>
-    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Aproximativ %d ore și %d min până la încărcarea completă</string>
     <string name="keyguard_charging_info_charging_text">Încărcare</string>
     <string name="keyguard_charging_info_charging_voltage_text">Voltaj</string>
     <string name="keyguard_charging_info_click_to_detail">Vizualizați detaliile</string>
-    <string name="keyguard_charging_info_could_use_hour_time_text">Aproximativ %d ore rămase</string>
-    <string name="keyguard_charging_info_could_use_min_time_text">Aproximativ %d min rămase</string>
-    <string name="keyguard_charging_info_could_use_time_text" formatted="false">Aproximativ %d hr și %d min rămase</string>
     <string name="keyguard_charging_info_current_now_text">Monitorizare în timp real</string>
     <string name="keyguard_charging_info_data_c">%s℃</string>
     <string name="keyguard_charging_info_data_ma">%smA</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
     <string name="keyguard_charging_info_data_v">%sV</string>
-    <string name="keyguard_charging_info_drained_hour_time_format">%d ore</string>
-    <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Descărcat</string>
-    <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr și %d min</string>
     <string name="keyguard_charging_info_finished_charging_text">Încărcat complet</string>
     <string name="keyguard_charging_info_last_charge_time">dd/MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Astăzi %s</string>
@@ -97,8 +86,6 @@
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selectați &amp;lt;font color=#a5220e&amp;gt;\"Ștergeți &amp;amp;amp; Resetare\"&amp;lt;/font&amp;gt; și așteptați până ce telefonul repornește.&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">Cum să ștergeți datele?</string>
     <string name="phone_locked_string">Telefonul a fost blocat</string>
-    <string name="phone_locked_timeout_minutes_string">Încercaţi din nou peste %d minute</string>
-    <string name="phone_locked_timeout_seconds_string">Încercaţi din nou peste %d secunde</string>
     <string name="symbol_colon">:</string>
     <string name="unlock_string">OK</string>
     <string name="unlocking_sim_card">Deblocare cartelă SIM</string>

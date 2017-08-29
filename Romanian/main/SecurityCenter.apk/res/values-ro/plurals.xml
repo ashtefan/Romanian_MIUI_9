@@ -142,6 +142,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">Sunt protejate %d aplicații</item>
         <item quantity="one">Este protejată %d aplicație</item>
     </plurals>
+    <plurals name="title_virus_clean">
+        <item quantity="other">S-au eliminat %d viruși</item>
+        <item quantity="one">S-a eliminat %d virus</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d aplicații pot să pornească automat</item>
         <item quantity="one">%d aplicație poate să pornească automat</item>

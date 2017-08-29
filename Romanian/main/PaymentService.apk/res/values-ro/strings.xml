@@ -38,6 +38,7 @@
     <string name="mibi_button_retry">Reîncercați</string>
     <string name="mibi_cancel">Renunțați</string>
     <string name="mibi_change_security_lock">Mai multe metode de blocare a ecranului</string>
+    <string name="mibi_click_retry">%1$s, atingeți pentru a reîncerca</string>
     <string name="mibi_colon">": "</string>
     <string name="mibi_deduct_goods_name">Produs</string>
     <string name="mibi_deduct_open_prompt">%1$s va putea să vă taxeze în mod automat utilizând %2$s fără verificare. Puteți dezactiva această opțiune în %1$s</string>
@@ -128,6 +129,7 @@ Contactați Serviciul Clienți Xiaomi."</string>
     <string name="mibi_giftcard_title">Card cadou Mi Credit</string>
     <string name="mibi_giftcard_will_expire">Expiră pe %1$s</string>
     <string name="mibi_giftcard_with_num">%1$s cupon Mi Credit disponibil</string>
+    <string name="mibi_header_network_error">"Nu s-a putut conecta la rețea."</string>
     <string name="mibi_illegal_intent">Solicitare de intenție ilegală</string>
     <string name="mibi_is_what">Ce puteți cumpăra cu Creditele Mi?</string>
     <string name="mibi_label_balance">Balanță</string>

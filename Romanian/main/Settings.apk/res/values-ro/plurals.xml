@@ -193,4 +193,24 @@ Pentru mai multe informații despre acest certificat, contactați administratoru
         <item quantity="other">Nu dezactiva niciodată pentru %d aplicații</item>
         <item quantity="one">Nu dezactiva niciodată pentru o aplicație</item>
     </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">Codul PIN trebuie să conțină %d cifre</item>
+        <item quantity="one">Codul PIN trebuie să conțină %d cifră</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">Codul PIN poate conține până la %d cifre</item>
+        <item quantity="one">Codul PIN poate conține până la %d cifră</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Conectați cel puțin %d puncte. Încercați din nou.</item>
+        <item quantity="one"> Conectați cel puțin %d punct. Încercați din nou.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Prea multe încercări incorecte. Încercați din nou în %d secunde.</item>
+        <item quantity="one">Prea multe încercări incorecte. Încercați din nou într-o secundă.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Așteptați %d secunde și încercați din nou.</item>
+        <item quantity="one">Așteptați o secundă și încercați din nou.</item>
+    </plurals>
 </resources>
