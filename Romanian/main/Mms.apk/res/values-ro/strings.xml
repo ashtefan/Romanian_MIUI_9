@@ -572,6 +572,8 @@
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">Notificări</string>
     <string name="sp_mark_as_read_menu_title">Marcare ca citite</string>
+    <string name="sqlite_disk_full">Baza de date sau discul este plin</string>
+    <string name="sqlite_low_memory">Memorie insuficientă</string>
     <string name="status_failed">Nereuşit</string>
     <string name="status_label">"Stare: "</string>
     <string name="status_pending">În aşteptare</string>
@@ -644,11 +646,6 @@
     <string name="url_fraud_visit"><u>ACCESEZ ORICUM</u></string>
     <string name="url_result_safe">Site-ul este sigur</string>
     <string name="url_scanning">Verificare URL…</string>
-    <string name="user_agreement1">Citiți termenii aplicabili cu atenție înainte de a instala un software suplimentar sau de a folosi acest produs.</string>
-    <string name="user_agreement2">Condiţii de utilizare</string>
-    <string name="user_agreement3">" şi "</string>
-    <string name="user_agreement4">Politica de confidențialitate</string>
-    <string name="user_agreement5">Prin atingerea butonului OK, sunteți de acord cu Termenii de utilizare și Politica de confidențialitate.</string>
     <string name="verification_code_icon_name">V</string>
     <string name="verification_code_list_title">Coduri de verificare</string>
     <string name="view">Vizualizaţi</string>

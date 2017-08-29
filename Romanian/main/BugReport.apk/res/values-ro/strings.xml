@@ -74,6 +74,7 @@
     <string name="feedback_report_remind_login_desc2">"Puteți vedea, de asemenea, progresul raportului în \"Rapoartele mele\"."</string>
     <string name="feedback_retest_label">Pașii pentru reproducerea problemei</string>
     <string name="feedback_select_images">Adăugați imagini</string>
+    <string name="feedback_select_modem_log">Adăugați rapoartele modem-ului</string>
     <string name="feedback_select_problem">Probleme</string>
     <string name="feedback_select_suggestion">Sugestii</string>
     <string name="feedback_select_upload_log">Adăugați rapoarte de eroare</string>

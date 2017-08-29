@@ -107,7 +107,7 @@
     <string name="go_on_download">Descărcaţi</string>
     <string name="important_suggestion">Politica de confidențialitate a fost modificată</string>
     <string name="install">Instalaţi</string>
-  <string name="install_desc">"Telefonul va reporni în modul Recuperare și va instala fișierul selectat: %1$s
+  <string name="install_desc">Telefonul va reporni în modul Recuperare și va instala fișierul selectat: &lt;b&gt;%1$s&lt;/b&gt;"
 Partiția de date nu va fi ștearsă."</string>
   <string name="install_title">Sunteți sigur că doriți să continuați?</string>
     <string name="install_failed">Actualizare eşuată</string>
