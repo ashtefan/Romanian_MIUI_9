@@ -10,6 +10,10 @@
         <item>Berbec</item>
         <item>21.03 - 19.04</item>
     </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>Bundesliga</item>
+    </string-array>
     <string-array name="cancer_info">
         <item>rac</item>
         <item>Rac</item>
@@ -49,6 +53,10 @@
         <item>Gemeni</item>
         <item>21.05 - 21.06</item>
     </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>La Liga</item>
+    </string-array>
     <string-array name="leo_info">
         <item>leu</item>
         <item>Leu</item>
@@ -58,6 +66,10 @@
         <item>balanță</item>
         <item>Balanță</item>
         <item>23.09 - 23.10</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>Ligue 1</item>
     </string-array>
     <string-array name="ordinal_labels">
         <item>prima</item>
@@ -182,6 +194,10 @@
         <item>Scorpion</item>
         <item>24.10 - 22.11</item>
 	    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>Serie A</item>
+    </string-array>
     <string-array name="taurus_info">
         <item>taur</item>
         <item>Taur</item>
@@ -298,22 +314,6 @@
         <item>Transparent</item>
         <item>Fundal alb</item>
      </string-array>
-    <string-array name="bundesliga">
-        <item>2</item>
-        <item>Bundesliga</item>
-    </string-array>
-    <string-array name="la_liga">
-        <item>3</item>
-        <item>La Liga</item>
-    </string-array>
-    <string-array name="ligue_1">
-        <item>5</item>
-        <item>Ligue 1</item>
-    </string-array>
-    <string-array name="serie_a">
-        <item>1</item>
-        <item>Serie A</item>
-    </string-array>
     <string-array name="aqi_level_desc">
         <item>空气优</item>
         <item>空气良</item>

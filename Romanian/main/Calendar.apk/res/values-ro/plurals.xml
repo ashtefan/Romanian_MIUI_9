@@ -40,6 +40,14 @@
         <item quantity="other">%1$s ani</item>
         <item quantity="one">%1$s an</item>
     </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d zile de la</item>
+        <item quantity="one">%1$d zi de la</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d zile până la</item>
+        <item quantity="one">%1$d zile până la</item>
+    </plurals>
     <plurals name="birthday_notification_age_term">
         <item quantity="other">%1$s ani</item>
         <item quantity="one">%1$s an</item>
@@ -63,6 +71,10 @@
     <plurals name="date_calculate_direction_forward">
         <item quantity="other">%1$d zile înainte</item>
         <item quantity="one">%1$d zi înainte</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">Puteți introduce maxim %1$d zile</item>
+        <item quantity="one">Puteți introduce maxim %1$d zi</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
@@ -90,18 +102,6 @@
     <plurals name="work_days">
         <item quantity="other">%d zile lucrătoare</item>
         <item quantity="one">%d zi lucrătoare</item>
-    </plurals>
-    <plurals name="birthday_event_description_days_ago">
-        <item quantity="other">%1$d zile de la</item>
-        <item quantity="one">%1$d zi de la</item>
-    </plurals>
-    <plurals name="birthday_event_description_days_later">
-        <item quantity="other">%1$d zile până la</item>
-        <item quantity="one">%1$d zi până la</item>
-    </plurals>
-    <plurals name="edit_date_calculate_days_error_hint">
-        <item quantity="other">Puteți introduce până la %1$d zile</item>
-        <item quantity="one">Puteți introduce până la %1$d zi</item>
     </plurals>
     <plurals name="Ndays_after">
         <item quantity="other">%1$d天后</item>

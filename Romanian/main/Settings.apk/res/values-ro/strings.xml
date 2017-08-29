@@ -2825,6 +2825,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="pointer_location_summary">Suprap. pe ecran indic. coordonatele curente pt. atingeri</string>
     <string name="pointer_settings_category">Mouse/trackpad</string>
     <string name="pointer_speed">Viteza indicatorului</string>
+    <string name="popup_window">permite afișarea ferestrelor popup</string>
     <string name="power_autorun_apps_empty">Nicio aplicaţie la pornire</string>
     <string name="power_autorun_empty">Nu poate fi adăugată nicio aplicaţie</string>
     <string name="power_bluetooth">Bluetooth</string>

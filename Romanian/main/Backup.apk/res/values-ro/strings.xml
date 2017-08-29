@@ -41,8 +41,11 @@
     <string name="backup_new">Nouă:</string>
     <string name="backup_progress">Creare copie de rezervă…</string>
     <string name="backup_report">Vizualizaţi detalii despre copia de rezervă</string>
+    <string name="backup_security_tips_message">Este posibil ca unele aplicații să nu poată fi rezervate sau restaurate.</string>
+    <string name="backup_security_tips_title">Crearea copiilor de rezervă poate să nu funcționeze</string>
     <string name="backup_update">Actualizare</string>
     <string name="batch_delete_backup_confirm">Ştergeți copiile de rezervă selectate?</string>
+    <string name="btn_got_it">Am înțeles</string>
     <string name="button_backup">Creaţi o copie de rezervă</string>
     <string name="button_cancel">Anulaţi</string>
     <string name="button_continue">Continuaţi</string>
@@ -303,6 +306,8 @@ Mențineți telefoanele apropiate unul de celălalt."</string>
     <string name="trans_retry">Reîncercați</string>
     <string name="trans_scan_invalid_qrcode">Cod QR incorect</string>
     <string name="trans_scan_qr_code_tips">Scanați codul QR utilizând noul dispozitiv</string>
+    <string name="trans_security_tips_message">"Este posibil ca unele aplicații să nu fie suportate de către Mi Mover."</string>
+    <string name="trans_security_tips_title">Compatibilitate Mi Mover</string>
     <string name="trans_select_data">Selectați datele de transferat</string>
     <string name="trans_select_data_no_space">"Nu există spațiu de stocare suficient pe noul dispozitiv
 Modificați fișierele selectate sau eliberați %s spațiu de stocare"</string>
