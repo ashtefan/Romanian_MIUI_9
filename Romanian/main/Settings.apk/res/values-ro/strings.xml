@@ -1547,7 +1547,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="external_data_size_label">Date stocate pe USB</string>
     <string name="extreme_threats_summary">Primiți alerte pentru amenințări grave privind viața și proprietatea</string>
     <string name="extreme_threats_title">Amenințări grave</string>
-    <string name="factory_reset_summary">Puteţi alege să ştergeţi datele personale prin resetarea telefonului, sau să ştergeţi programele instalate şi cardul SD pentru a restabili setările din fabrică. Confirmaţi ştergerea?</string>
+    <string name="face_unlock_disable">Deblocara facială este dezactivată</string>
     <string name="face_unlock_enable">Deblocarea facială este activă</string>
     <string name="factory_reset_summary">"Ștergeți toate datele din memoria internă a telefonului"</string>
     <string name="failed_to_check_find_device_status_content">Nu s-a putut stabili starea serviciului Localizare dispozitiv. Reîncercați peste un minut sau două.</string>
