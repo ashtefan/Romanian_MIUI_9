@@ -56,9 +56,4 @@
         <item>Mesaj Mi</item>
         <item>CMCC Smart SMS</item>
     </string-array>
-    <string-array name="prefValues_vibrateWhen">
-        <item>întotdeauna</item>
-        <item>silenţios</item>
-        <item>niciodată</item>
-     </string-array>
 </resources>
