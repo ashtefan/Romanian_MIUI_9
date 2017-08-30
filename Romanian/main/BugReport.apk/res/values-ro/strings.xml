@@ -293,6 +293,7 @@
     <string name="toast_report_copied_to_clipboard">Raportul a fost copiat în clipboard</string>
     <string name="toast_report_sent_failed">"Imposibil de trimis raportul"</string>
     <string name="toast_report_sent_succeed">Raportul a fost trimis</string>
+    <string name="toast_screenshot_too_large">"Nu se pot încărca fișiere mai mari decât 10 MB."</string>
     <string name="toast_third_packagename_required">Introduceți numele aplicației</string>
     <string name="toast_title_required">Descrieți problema</string>
     <string name="topic_author">1#</string>

@@ -68,6 +68,7 @@ pentru a le putea vedea în orice moment"</string>
     <string name="delete_src_photo">Ștergeți fotografiile</string>
     <string name="dir_switch_out_all_photos">Galeria din Spațiul Secundar</string>
     <string name="disable">Dezactivați</string>
+    <string name="do_not_ask">"Nu întreba din nou"</string>
     <string name="dont_import">Nu acum</string>
     <string name="downloading_space">Se descarcă…</string>
     <string name="enable">Activați</string>
@@ -89,8 +90,13 @@ pentru a le putea vedea în orice moment"</string>
     <string name="finger_print_of_use">Utilizați amprenta</string>
     <string name="fingerprint_removal_failed">"Nu s-a putut elimina amprenta"</string>
     <string name="function_not_support">Nesuportată pe acest dispozitiv</string>
+    <string name="gms_message">Crearea aplicațiilor duale necesită serviciile Google. Creați o dublură pentru serviciile Google?</string>
+    <string name="gms_open_button">Activați</string>
+    <string name="gms_title">Activați serviciile Google</string>
     <string name="goToSecondSpacce">Mergeți în Spațiul Secundar</string>
     <string name="go_on_import">Importați</string>
+    <string name="gpg_message">Crearea aplicațiilor duale necesită serviciile Google Play. Creați o dublură pentru serviciile Google Play?</string>
+    <string name="gpg_title">Aplicație dublată pentru Google Play</string>
     <string name="guide_contact_sub_title_desc">"Contactele adăugate în Spațiul Secundar vor fi private.
 Mesajele vor fi vizibile doar în Spațiul Secundar."</string>
     <string name="guide_contact_suc_sub_title_desc">Doar contactele și mesajele private vor fi vizibile în Spațiul Secundar</string>
@@ -179,6 +185,7 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="scanner_fingerprint_tips_desc">"Selectați amprenta pentru accesarea Spațiului secundar. Nu o veți putea utiliza pentru Spațiul principal."</string>
     <string name="scanner_fingerprint_tips_title">Accesați Spațiul secundar utilizând amprenta existentă</string>
     <string name="scanner_second_space_fingerprint">Scanați amprenta pentru Spațiul secundar</string>
+    <string name="sdcardfs_dialog_message">Dezactivați \"Optimizarea fictivă a cardului SD\" din Opțiunile dezvoltator înainte de a accesa Spațiul Secundar.</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_result_text">"Nu s-a găsit nicio aplicație"</string>
     <string name="secondSpace">Spațiul Secundar</string>

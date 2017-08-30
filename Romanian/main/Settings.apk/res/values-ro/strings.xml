@@ -147,6 +147,7 @@ Notă: atingerea triplă pentru mărire funcţionează peste tot, cu excepţia t
     <string name="add_auto_startup_application">Adăugaţi aplicaţii cu pornire automată</string>
     <string name="add_device_admin">Activaţi</string>
     <string name="add_device_admin_msg">Activaţi administratorul de dispozitive?</string>
+    <string name="add_facerecoginition_text">Adăugați datele faciale</string>
     <string name="add_fingerprint_done_msg">Acum puteți debloca acest telefon utilizând amprenta digitală.</string>
     <string name="add_fingerprint_done_title">Realizat!</string>
     <string name="add_fingerprint_failed_retry_text">"Nu s-a putut adăuga amprenta; încercați din nou"</string>
@@ -376,7 +377,6 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="auto_restore_summary">La reinstalarea unei aplicaţii, restabiliţi setările şi datele pentru care aţi creat o copie de rezervă</string>
     <string name="auto_restore_title">Restabilire automată</string>
     <string name="auto_startup_application_manage">Pornire</string>
-    <string name="auto_startup_count">%d aplicaţii pornesc automat</string>
     <string name="automatic_brightness">Luminozitate automată</string>
     <string name="available_size">%s disponibil</string>
     <string name="available_via_passpoint">Disponibil prin %1$s</string>
@@ -459,7 +459,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="battery_info_power_usb">USB</string>
     <string name="battery_info_power_wireless">Wireless</string>
     <string name="battery_info_scale_label">Scară acumulator:</string>
-    <string name="battery_info_screen_on">Durata pentru care ecranul este activ:</string>
+    <string name="battery_info_screen_on">Durată ecran activ:</string>
     <string name="battery_info_status_charging">Se încarcă</string>
     <string name="battery_info_status_charging_ac">Se încarcă de la CA</string>
     <string name="battery_info_status_charging_ac_short">Se încarcă</string>
@@ -533,7 +533,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="block_list_no_device">Niciun dispozitiv conectat în lista blocărilor</string>
     <string name="block_list_remove_dialog_content">Acest dispozitiv “%s” se va putea conecta la acest hotspot</string>
     <string name="block_list_remove_dialog_title">Eliminați “%s” din lista blocărilor</string>
-    <string name="block_list_summary">"Vizualizați dispozitivele care nu au permisiunea de a se conecta la acest hotspot"</string>
+    <string name="block_list_summary">Vizualizați dispozitivele care nu au permisiunea de a se conecta la acest hotspot</string>
     <string name="block_list_title">Lista blocărilor</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Conectat la profilul pentru conţinut media audio</string>
@@ -581,6 +581,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bluetooth_device_context_pair_connect">Asociaţi şi conectaţi</string>
     <string name="bluetooth_device_context_unpair">Anulaţi împerecherea</string>
     <string name="bluetooth_device_details">Setări dispozitiv</string>
+    <string name="bluetooth_device_misc_title">Dispozitive bluetooth rar utilizate</string>
     <string name="bluetooth_device_name">Nume dispozitiv</string>
     <string name="bluetooth_device_searchable">Detectare activată</string>
     <string name="bluetooth_devices">Dispozitive Bluetooth</string>
@@ -785,6 +786,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bssid_label">BSSID:</string>
     <string name="bt_hci_snoop_log">Activaţi jurnalul Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Captarea tuturor pachetelor Bluetooth HCI într-un fişier</string>
+    <string name="bt_rarely_used_device_title">Dispozitive rar utilizate (%d)</string>
     <string name="bt_trace_log">Activaţi jurnalul Bluetooth Trace</string>
     <string name="bt_trace_log_summary">Activaţi jurnalul Bluetooth Trace</string>
     <string name="bugreport_in_power">Rapoarte despre erori în meniul de pornire</string>
@@ -909,6 +911,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="clear_failed_dlg_title">Ştergeţi datele</string>
     <string name="clear_uri_btn_text">Revocați accesul</string>
     <string name="clear_user_data_text">Ștergeți datele</string>
+    <string name="close_gesture">Închidere utilizând gesturi</string>
     <string name="close_miui_optimization_title">Dezactivați optimizarea MIUI</string>
     <string name="close_miui_optimization_warning_message">Telefonul va reporni pentru aplicarea modificării. Notă: dezactivarea acestei caracteristici va produce modificări majore dispunerii și altor elemente ale sistemului.</string>
     <string name="cloud_backup_section_title">Copie de rezervă Mi Cloud</string>
@@ -1545,6 +1548,8 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="extreme_threats_summary">Primiți alerte pentru amenințări grave privind viața și proprietatea</string>
     <string name="extreme_threats_title">Amenințări grave</string>
     <string name="factory_reset_summary">Puteţi alege să ştergeţi datele personale prin resetarea telefonului, sau să ştergeţi programele instalate şi cardul SD pentru a restabili setările din fabrică. Confirmaţi ştergerea?</string>
+    <string name="face_unlock_enable">Deblocarea facială este activă</string>
+    <string name="factory_reset_summary">"Ștergeți toate datele din memoria internă a telefonului"</string>
     <string name="failed_to_check_find_device_status_content">Nu s-a putut stabili starea serviciului Localizare dispozitiv. Reîncercați peste un minut sau două.</string>
     <string name="failed_to_check_find_device_status_title">"Nu s-a putut stabili starea serviciului Localizare dispozitiv"</string>
     <string name="failed_to_open_app_settings_toast">Deschiderea setărilor pentru %1$s a eşuat</string>
@@ -1580,6 +1585,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="fingerprint_enable_keyguard_toggle_title">blocare ecran</string>
     <string name="fingerprint_enroll_button_add">Adăugați altă amprentă</string>
     <string name="fingerprint_enroll_button_next">Următorul</string>
+    <string name="fingerprint_first_open_screen_password_face_tittle">Biometric（setați parola de blocare a ecranului înainte de a o utiliza）</string>
     <string name="fingerprint_first_open_screen_password_tittle">Amprentă (setați parola pentru Blocarea ecranului înainte de a o utiliza)</string>
     <string name="fingerprint_for_keyguard_disabled">Amprenta a fost dezactivată din setările de securitate.</string>
     <string name="fingerprint_identify_input_password_msg">Introduceți parola</string>
@@ -1594,6 +1600,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="fingerprint_lock_second">Deblocați Spațiul secundar</string>
     <string name="fingerprint_manage">Gestionați amprentele</string>
     <string name="fingerprint_manage_category_title">Gestionați amprentele</string>
+    <string name="fingerprint_manage_tittle">Amprentă</string>
     <string name="fingerprint_not_identified_msg">"Nu s-a putut citi amprenta. Introduceți parola"</string>
     <string name="fingerprint_not_recognized">Nerecunoscută</string>
     <string name="fingerprint_removal_failed">"Nu s-a putut elimina amprenta; încercați din nou mai târziu"</string>
@@ -1637,6 +1644,10 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="force_allow_on_external_summary">Face posibilă scrierea oricărei aplicații în memoria externă, indiferent de valorile manifestate</string>
     <string name="force_hw_ui">Forţaţi redarea cu GPU</string>
     <string name="force_hw_ui_summary">Forţaţi utilizarea GPU pentru desenarea 2D</string>
+    <string name="force_immersive_compatibility_dont_hide">"Nu ascunde"</string>
+    <string name="force_immersive_compatibility_hide">Ascunde</string>
+    <string name="force_immersive_compatibility_hint_message">Unele aplicații pot funcționa incorect dacă alegeți să ascundeți butoanele virtuale.</string>
+    <string name="force_immersive_compatibility_hint_title">Probleme de compatibilitate</string>
     <string name="force_msaa">Forţaţi MSAA 4x</string>
     <string name="force_msaa_summary">Activaţi MSAA 4x în aplicaţiile OpenGL ES 2.0</string>
     <string name="force_resizable_activities">Forțați redimensionarea aplicațiilor</string>
@@ -1669,7 +1680,6 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="free_wifi_connect_summary">Atingeţi pentru a vă conecta la %1$s</string>
     <string name="free_wifi_connect_title">Wi-Fi disponibil</string>
     <string name="free_wifi_connected">Conectat la Wi-Fi gratuit</string>
-    <string name="free_wifi_connected_count">%1$s utilizatori conectaţi</string>
     <string name="free_wifi_connected_time">Durată: %1$s</string>
     <string name="free_wifi_connecting">Conectare…</string>
     <string name="free_wifi_login_again">Conectaţi-vă din nou</string>
@@ -1718,6 +1728,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="google_backup_enable">Activați crearea copiilor de rezervă</string>
     <string name="google_backup_section_title">Copii de rezervă şi restabilire Google</string>
     <string name="google_title">Google</string>
+    <string name="got_it">Am înțeles</string>
     <string name="gsm_to_wifi_connect_type_title">Celular -> Wi-Fi</string>
     <string name="handy_mode">Modul Operare cu o mână</string>
     <string name="handy_mode_enable">Mod Operare cu o mână</string>
@@ -1788,6 +1799,8 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="help_url_vpn" />
     <string name="help_url_wifi" />
     <string name="hidden_ssid_label">SSID ascuns:</string>
+    <string name="hide">Ascundeți</string>
+    <string name="hide_screen_button">Ascundeți butoanele de pe ecran</string>
     <string name="high_performance_notif_summary">Modul Performanță dezactivează controalele de temperatură și limitele de consum ale acumulatorului, ceea ce permite dispozitivului să ruleze la capacitate maximă. Acest lucru poate cauza încălzirea dispozitivului și să reducă durata de viață a acumulatorului.</string>
     <string name="high_performance_notif_title">Utilizare acumulator</string>
     <string name="high_performance_title">Se pare că rulează un test de evaluare. Setaţi gestionarea energiei la \"Performanţă\" pentru rezultate optime.</string>
@@ -2030,8 +2043,8 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="location_agps_pref_si_title">Mod preferat</string>
     <string name="location_agps_register_network_type">Tip accesare reţea</string>
     <string name="location_agps_register_network_type_dialog_summary">Selectați o rețea</string>
-    <string name="location_agps_register_network_type_dialog_title">Selectaţi reţeaua</string>
-    <string name="location_agps_register_network_type_summary">Selectaţi reţeaua pentru utilizare A-GPS</string>
+    <string name="location_agps_register_network_type_dialog_title">Utilizați GPS Asistat</string>
+    <string name="location_agps_register_network_type_summary">Selectaţi o reţea</string>
     <string name="location_agps_reset_type">Tipuri resetare</string>
     <string name="location_agps_reset_type_choose_dialog_title">Tipuri resetare</string>
     <string name="location_agps_reset_type_summary">Selectaţi tipul de resetare preferat</string>
@@ -2168,7 +2181,6 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="lockpassword_password_too_short">Parola trebuie să conţină minimum %d caractere</string>
     <string name="lockpassword_pattern_set_toast">Modelul a fost setat</string>
     <string name="lockpassword_pin_contains_non_digits">Parola numerică trebuie să conţină numai cifre.</string>
-    <string name="lockpassword_pin_fixed_length">Codul PIN trebuie să aibă %d cifre</string>
     <string name="lockpassword_pin_no_sequential_digits">O secvență de cifre crescătoare, descrescătoare sau repetitivă este interzisă</string>
     <string name="lockpassword_pin_recently_used">Administr. dispoz. nu permite deblocarea cu PIN.</string>
     <string name="lockpassword_pin_set_toast">PIN setat</string>
@@ -2240,6 +2252,7 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="man_add_application">Adăugaţi manual aplicaţii la pornire</string>
     <string name="manage_device_admin">Administratori dispozitiv</string>
     <string name="manage_device_admin_summary">Afişaţi sau dezactivaţi administratorii dispozitivului</string>
+    <string name="manage_facerecoginition_text">Gestionați datele faciale</string>
     <string name="manage_fakecell_settings">Protecție față de stațiile de bază false</string>
     <string name="manage_fingerprint_text">Gestionați amprentele</string>
     <string name="manage_mobile_plan_title">Plan de date mobile</string>
@@ -2930,7 +2943,6 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="print_searching_for_printers">Căutare imprimante</string>
     <string name="print_service_disabled">Serviciu dezactivat</string>
     <string name="print_settings">Printare</string>
-    <string name="print_settings_title">Servicii de imprimare</string>
     <string name="printer_info_desc">Mai multe informații despre această imprimantă</string>
     <string name="priority_storage_app_settings">Datele de utilizator %1$s vor fi salvate în</string>
     <string name="priority_storage_settings_summary">Dacă nu este detectat niciun card SD, datele de utilizator vor fi salvate în memoria internă a dispozitivului</string>
@@ -3240,6 +3252,8 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="saved_wifi_delete">Ștergeți</string>
     <string name="scan_list_label">Rezultate scanare:</string>
     <string name="screen">Ecran</string>
+    <string name="screen_button">Butoane ecran</string>
+    <string name="screen_button_tips">Glisați în jos pentru a ascunde butoanele de pe ecran</string>
     <string name="screen_cells_config_title">Dispunerea Ecranului principal</string>
     <string name="screen_color_and_optimize">Culori şi contrast</string>
     <string name="screen_color_and_optimize_disabled">"Nu se poate ajusta temperatura de culoare în modul Lectură"</string>
@@ -3537,7 +3551,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_status_bar_settings_style">Panoul notificărilor și bara de stare;dispunerea comutatoarelor;comutatoare;dispunere butoane;butoane separat;separate;combinat</string>
     <string name="search_status_bar_settings_toggle_collapse_after_clicked">Se restrânge după atingere</string>
     <string name="search_status_bar_settings_toggle_position">Poziția comutatoarelor;Comutatoare;comutator;Editați poziția comutatoarelor</string>
-    <string name="search_storage_settings">Curățare</string>
+    <string name="search_storage_settings">Stocare;Memorie</string>
     <string name="search_sync_settings">Sincronizare;Auto;Doar în Wi-Fi</string>
     <string name="search_system_app_settings">Aplicații de sistem</string>
     <string name="search_theme_settings_title">Teme;Temă;Personalizare;Personalizată</string>
@@ -4610,7 +4624,6 @@ Atingeți butonul (+) pentru a adăuga cuvinte."</string>
     <string name="virtual_sim_title">Rețea de date în roaming</string>
     <string name="virus_scan">Antivirus</string>
     <string name="virus_scan_app_continue">Continuaţi scanarea</string>
-    <string name="virus_scan_app_find_risk">%d riscuri găsite</string>
     <string name="virus_scan_app_finish">Finalizaţi</string>
     <string name="virus_scan_app_force_stop">Scanare oprită</string>
     <string name="virus_scan_app_is_stop_scan">Opriţi scanarea?</string>
@@ -5072,7 +5085,6 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_share_connect">Conectaţi-vă</string>
     <string name="wifi_share_connected_summary">"Sunteţi conectat la o reţea Wi-Fi publică care a fost partajată de un alt utilizator."</string>
     <string name="wifi_share_connected_title">Reţea conectată prin Wi-Fi partajat de MIUI</string>
-    <string name="wifi_share_count">Aţi partajat %d reţele</string>
     <string name="wifi_share_current_network">Reţea actuală</string>
     <string name="wifi_share_know">OK</string>
     <string name="wifi_share_list_empty">Imposibil de găsit Wi-Fi public</string>

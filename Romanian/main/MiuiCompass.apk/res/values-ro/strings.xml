@@ -6,7 +6,7 @@
     <string name="altitude_uncalibrate_cancel">Anulaţi</string>
     <string name="altitude_uncalibrate_msg">Nu se poate calibra altitudinea cu exactitate fără GPS sau conexiune de date mobile.</string>
     <string name="altitude_uncalibrate_refresh">Încercaţi din nou</string>
-    <string name="altitude_uncalibrate_tip">Nu se poate calibra altitudinea</string>
+    <string name="altitude_uncalibrate_tip">"Nu se poate calibra altitudinea"</string>
     <string name="altitude_unit">m</string>
     <string name="angle">%.0f</string>
     <string name="app_description_content">Aplicația Busolă este utilizată pentru navigație și orientare și vă arată direcția. Asigurați-vă că vă puteți descurca fără aceste caracteristici înainte de a dezinstala această aplicație.</string>

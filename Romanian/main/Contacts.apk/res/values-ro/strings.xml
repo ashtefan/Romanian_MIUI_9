@@ -23,6 +23,7 @@
     <string name="add_contact_dlg_message_fmt">Adăugaţi \"%s\" la contacte?</string>
     <string name="add_display_photo_entry">Adăugaţi fotografia de profil</string>
     <string name="add_field">Adăugaţi alt câmp</string>
+    <string name="add_field_toast">Nu mai există câmpuri de adăugat.</string>
     <string name="add_incall_show_entry">Adăugaţi un videoclip</string>
     <string name="add_new_account">Adăugaţi un cont nou</string>
     <string name="add_new_entry_for_section">Adăugaţi o intrare nouă</string>
@@ -736,7 +737,6 @@ Motivul: „%s”"</string>
     <string name="multi_number_menu_message">Mesaj</string>
     <string name="multi_number_title">Apel în conferință</string>
     <string name="multipleContactDeleteConfirmation">Ştergerea acestui contact din agendă va elimina informaţii din mai multe conturi.</string>
-    <string name="multipleContactDeleteConfirmationDetail">Ştergerea \"%s\" implică ştergerea informaţiei din conturile multiple.</string>
     <string name="my_phone_not_provider_bluetooth">Nu</string>
     <string name="my_phone_provider_bluetooth">Da</string>
     <string name="nameLabelsGroup">Nume</string>
@@ -991,7 +991,6 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="quit_dialog_confirm_message">Nu aţi îmbinat niciun contact</string>
     <string name="quit_dialog_confirm_title">Anulaţi îmbinarea contactelor</string>
     <string name="readOnlyContactDeleteConfirmation">Informaţiile despre acest contact din agendă provin din mai multe conturi. Orice informaţii ce nu pot fi şterse vor fi ascunse în lista contactelor.</string>
-    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" conţine informaţii din conturi multiple. Informaţiile provenite din conturile \"doar în citire\" vor fi ascunse în lista contactelor.</string>
     <string name="readOnlyContactWarning">Nu puteţi şterge contacte din agendă, din conturi cu permisiuni doar de citire, însă puteţi să le ascundeţi în lista dvs. de contacte.</string>
     <string name="readingSimContacts">Citire cartelă SIM…</string>
     <string name="reading_vcard_canceled_title">Citirea datelor vCard a fost anulată</string>

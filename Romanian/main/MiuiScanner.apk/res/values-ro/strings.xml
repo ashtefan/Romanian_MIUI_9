@@ -179,7 +179,7 @@
   <string name="alisdk_message_952_name">JS_BRIDGE_ANNOTATION_NOT_PRESENT</string>
   <string name="alisdk_message_952_type">E</string>
     <string name="allow_check_website_security">Arată notificări despre verificarea securității site-urilor</string>
-    <string name="app_description_content">Aplicația Scaner poate scana coduri QR, cărți de vizită și documente. Asigurați-vă că puteți trăi fără aceste caracteristici înainte de a șterge aplicația.</string>
+    <string name="app_description_content">Aplicația Scaner poate scana coduri QR, scana și traduce, scana și rezolva ecuații, recunoaște cărți de vizită. Asigurați-vă că sunteți conștient de capabilitățile aplicației.</string>
     <string name="app_description_title">Despre aplicația Scaner</string>
     <string name="app_details">Aplicația:</string>
     <string name="app_name">Scaner</string>

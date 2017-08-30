@@ -335,7 +335,7 @@
     <string name="mx_reactivate">Reactivaţi Mesagerie Mi</string>
     <string name="mx_recommend_msg">Atingeţi pentru a activa Mesageria Mi</string>
     <string name="mx_stranger_recommend_msg">Atingeți pentru a bloca mesajele Mi provenite de la numere necunoscute</string>
-    <string name="mx_type_guide">Mesagerie Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără a suporta cheltuieli pentru SMS</string>
+    <string name="mx_type_guide">Mesagerie Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără a suporta cheltuieli</string>
     <string name="need_download">Sincronizare…</string>
     <string name="networking_allow_continue">OK</string>
     <string name="networking_allow_desc">"Mesageria inteligentă vă permite să trimiteți gratuit mesaje text și vocale, să identificați numerele necunoscute, să filtrați mesajele nedorite, etc. Utilizând acest serviciu, sunteți de acord cu %1$s și %2$s Xiaomi. Trebuie să porniți serviciul Pagini Galbene și să vă conectați la internet pentru a utiliza acest serviciu."</string>
@@ -381,7 +381,7 @@
     <string name="pref_hide_verification_code_summary">Ascunde în mod automat notificările mesajelor ce conțin parole de unică utilizare în Blocarea ecranului</string>
     <string name="pref_messages_to_save">Setaţi numărul de mesaje pentru salvare</string>
     <string name="pref_mms_settings_title">Mesaje multimedia (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Mesaje șterse recent</string>
+    <string name="pref_msg_trash_bin_title">Mesaje șterse</string>
     <string name="pref_notification_settings_title">Notificări</string>
     <string name="pref_other_title">Setări suplimentare</string>
     <string name="pref_show_blocked_messages_summary">Afişare SMS blocate în lista de conversaţii</string>

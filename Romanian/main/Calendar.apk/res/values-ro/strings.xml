@@ -40,7 +40,7 @@
     <string name="app_label">Calendar</string>
     <string name="birthday_calendar_display_name">Memento zi de naştere</string>
     <string name="birthday_card_other_day_title">Zi de naștere</string>
-    <string name="birthday_card_title">"Zi de naștere azi"</string>
+    <string name="birthday_card_title">"Zilele de naștere de azi"</string>
     <string name="birthday_event_description_a_week_ago">Cu o săptămână în urmă</string>
     <string name="birthday_event_description_a_week_later">Peste o săptămână</string>
     <string name="birthday_event_description_day_after_tomorrow">Poimâine este </string>

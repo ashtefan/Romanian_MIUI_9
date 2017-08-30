@@ -14,50 +14,51 @@
         <item>Notă</item>
         <item>Relație</item>
      </string-array> 
-    <string-array name="resent_via_entries_sms">
-        <item>SMS</item>
-        <item>Mesaj Mi</item>
-       </string-array>
-    <string-array name="resent_via_entries_mms">
-        <item>SMS</item>
-        <item>Mesaj Mi</item>
-     </string-array> 
+    <string-array name="entries_mms_validity_period">
+        <item>Maximă</item>
+        <item>2 zile</item>
+    </string-array>
     <string-array name="entries_sms_validity_period">
-        <item>Nu este setat</item>
+        <item>Nesetată</item>
         <item>1 oră</item>
         <item>6 ore</item>
         <item>12 ore</item>
         <item>1 zi</item>
         <item>Maxim</item>
-    </string-array>	
-    <string-array name="entries_mms_validity_period">
-        <item>Maxim</item>
-        <item>2 zile</item>
-    </string-array>	
-    <string-array name="wild_msg_sync_options">
-        <item>Sincronizați toate mesajele</item>
-        <item>Sincronizați mesajele de pe cartela SIM selectată</item>
     </string-array>
-    <string-array name="switch_sdk">
-        <item>Mesagerie Mi</item>
-        <item>Serviciul de mesagerie inteligentă CMCC</item>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Întotdeauna</item>
+        <item>Doar în modul silențios</item>
+        <item>Niciodată</item>
     </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mesaj Mi</item>
+       </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mesaj Mi</item>
+     </string-array> 
     <string-array name="select_dialog_items">
         <item>1 secundă</item>
-        <item>2 secunde</item>
-        <item>3 secunde</item>
-        <item>4 secunde</item>
-        <item>5 secunde</item>
-        <item>6 secunde</item>
-        <item>7 secunde</item>
-        <item>8 secunde</item>
-        <item>9 secunde</item>
-        <item>10 secunde</item>
-        <item>Altele</item>
-     </string-array>
-    <string-array name="prefEntries_vibrateWhen">
-        <item>Mereu</item>
-        <item>Doar în profilul Silenţios</item>
-        <item>Niciodată</item>
+        <item>2 seconde</item>
+        <item>3 seconde</item>
+        <item>4 seconde</item>
+        <item>5 seconde</item>
+        <item>6 seconde</item>
+        <item>7 seconde</item>
+        <item>8 seconde</item>
+        <item>9 seconde</item>
+        <item>10 seconde</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="switch_sdk">
+        <item>Mesaj Mi</item>
+        <item>CMCC Smart SMS</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>întotdeauna</item>
+        <item>silenţios</item>
+        <item>niciodată</item>
      </string-array>
 </resources>

@@ -459,10 +459,10 @@
     <string name="connected_via_passpoint">Conectat via %1$s</string>
     <string name="connected_via_wfa">Conectat via asistent Wi‑Fi</string>
     <string name="connection_service_default_label">Serviciu de conectare încorporat</string>
-    <string name="contactAddFailed">Nu se poate adăuga persoana de contact pe SIM</string>
+    <string name="contactAddFailed">"Nu se poate adăuga persoana de contact pe SIM."</string>
     <string name="contactAddSuccess">Contact adăugat pe SIM</string>
     <string name="contactPhoto">Fotografie persoană din agendă</string>
-    <string name="contactUpdateFailed">Contact de pe SIM neactualizat</string>
+    <string name="contactUpdateFailed">"Nu s-a putut actualiza contactul de pe cartela SIM."</string>
     <string name="contactUpdateSuccess">Contact de pe SIM actualizat</string>
     <string name="contactdeleteFailed">Nu se poate şterge persoana de contact de pe SIM</string>
     <string name="contactdeleteSuccess">Contact şters de pe SIM</string>

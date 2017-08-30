@@ -29,6 +29,7 @@
     <string name="ac_firstUseApplock_title">Setați o parolă pentru a vă proteja aplicațiile</string>
     <string name="ac_summaryOff">Dacă este dezactivată nu este necesară parola pentru accesarea aplicațiilor</string>
     <string name="ac_summaryOn">Dacă este activată se va solicita parola de deblocare pentru accesarea aplicațiilor</string>
+    <string name="access_control_app_is_launching">Aplicația pornește</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">Este necesară parola pentru lansarea aplicațiilor</string>
     <string name="access_control_fingerprint_not_identified_msg">"Nu s-a putut citi amprenta."</string>
     <string name="access_control_need_password">"%s adăugată cu succes
@@ -174,6 +175,7 @@
     <string name="app_manager_apps_generatioin">Actualizări</string>
     <string name="app_manager_apps_generation_summary">Actualizați pentru a utiliza cele mai recente caracteristici</string>
     <string name="app_manager_appupdate_remind">Notificare despre actualizări</string>
+    <string name="app_manager_back">Înapoi</string>
     <string name="app_manager_bipartition">Aplicații clonate</string>
     <string name="app_manager_card_permission_title">Permisiuni</string>
     <string name="app_manager_clear_data_dlg_message">Toate datele acestei aplicații vor fi șterse permanent. Acest lucru include toate fișierele, setările, conturile, bazele de date, etc.</string>
@@ -372,6 +374,7 @@
     <string name="auto_task_operation_vibration">Vibrații</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
     <string name="back">Înapoi</string>
+    <string name="background_restrict_app_dialog_message">Restricționarea accesului la rețea în fundal pentru această aplicație poate împiedica funcționarea corectă a acesteia, primirea mesajelor, descărcarea conținutului, etc. Restricționați oricum?</string>
     <string name="background_traffic">În fundal: %s</string>
     <string name="backsound_set_hint">Setați mesajul pentru perioada cât sunteți plecat ca %s?</string>
     <string name="battery_capacity_title">Capacitatea acumulatorului</string>
@@ -749,6 +752,10 @@
     <string name="examination_score_80_100">Câteva elemente pot fi optimizate</string>
     <string name="examination_score_80_60">Unele elemente pot fi optimizate</string>
     <string name="examination_score_has_virus">Au fost detectate unele aplicații suspecte.</string>
+    <string name="exception_dialog_message">"Utilizarea datelor nu a putut fi calculată datorită unei erori. Fără statistici corecte aplicația de Securitate nu va putea să monitorizeze utilizarea datelor. Reporniți pentru a restaura această caracteristică?"</string>
+    <string name="exception_dialog_ok_button">Reporniți</string>
+    <string name="exception_notify_message">"Nu s-au putut calcula statisticile datelor datorită unei erori. Reporniți pentru a restaura."</string>
+    <string name="exception_titile">A apărut o eroare</string>
     <string name="exit">Ieșiți</string>
     <string name="finger_remind_message">Adăugați mai întâi amprenta. Atingeți pentru a merge la Setări.</string>
     <string name="fingerprint_identify_msg">Activați Deblocarea cu amprentă</string>
@@ -1120,6 +1127,8 @@ răspunsul operatorului"</string>
     <string name="menu_bl_remove">Deblocați</string>
     <string name="menu_bl_sms_log">Vedeți mesajele blocate</string>
     <string name="menu_call">Formați</string>
+    <string name="menu_charge_bill">Balanță reîncărcare</string>
+    <string name="menu_charge_traffic">Achiziționați date</string>
     <string name="menu_clear_all_call">Goliți apelurile blocate</string>
     <string name="menu_clear_all_sms">Ștergeți mesajele blocate</string>
     <string name="menu_clear_current_call">Goliți toate apelurile de la acest număr</string>
@@ -1149,6 +1158,7 @@ răspunsul operatorului"</string>
     <string name="menu_item_virus_lib_auto_update_summary">Actualizat pe %s</string>
     <string name="menu_mark">Raportați numărul</string>
     <string name="menu_remove">Ștergeți</string>
+    <string name="menu_report">Raportați eroarea</string>
     <string name="menu_restore">Restaurați în căsuța de mesaje</string>
     <string name="menu_sms">Trimiteți mesaj</string>
     <string name="menu_text_antispam">Listă blocări</string>
@@ -1616,6 +1626,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="preferred_app_entries_messaging">Mesagerie</string>
     <string name="preferred_app_entries_music">Muzică</string>
     <string name="privacy_declare_dialog_title">Condiții de utilizare</string>
+    <string name="privacy_dialog_message">"Când vă conectați la internet, acest mesaj împreună cu informațiile despre operator vor fi criptate și încărcate pe serverele Mi pentru a ne ajuta să îmbunătățim monitorizarea utilizării datelor."</string>
     <string name="privacy_mode_dialog_title">Modul Vizitator</string>
     <string name="privacy_prompt_tc_sms_report_message">"Numărul dvs. de telefon și detaliile operatorului vor fi criptate şi încărcate pe serverele Mi, cu scopul de a actualiza informaţiile despre utilizarea datelor."</string>
     <string name="privacy_prompt_traffic_adjust_message">"După ce veți începe calibrarea, MIUI se va conecta la rețea, criptează informațiile despre operator, număr de telefon, IMEI şi contul Mi și le va încărca pe serverele Mi. Acest lucru este necesar pentru obținerea șablonului de calibrare a operatorului și afla dacă se pot achiziționa pachete de date din locația în care vă aflați
@@ -1800,6 +1811,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="skin_change_close_toast">Modificările vor intra în vigoare la următoarea accesare a aplicației Securitate</string>
     <string name="sms_delete_hint">Ștergeți toate mesajele blocate provenite de la acest număr?</string>
     <string name="sms_delete_title">Ștergeți mesajele</string>
+    <string name="sms_detail_fragment_title_bill">Credit telefon</string>
+    <string name="sms_detail_fragment_title_traffic">Date rămase</string>
     <string name="sms_filter">Filtru inteligent</string>
     <string name="sms_keywords">Blocare după cuvinte cheie</string>
     <string name="sms_malicious_url">Blocare SMS-uri cu URL-uri periculoase</string>

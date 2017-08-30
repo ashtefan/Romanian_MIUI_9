@@ -58,6 +58,7 @@
     <string name="default_folder_title_recommend">Alte aplicații</string>
     <string name="default_folder_title_security">Sistem</string>
     <string name="default_folder_title_tools">Unelte</string>
+    <string name="default_screen_preview_title">Setare ecran implicit</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_screen">Eliminați ecranul</string>
     <string name="delete_wallpaper_message">Ştergeţi %1$d imagine de fundal?</string>
@@ -155,6 +156,7 @@
     <string name="menu_add">Adăugaţi</string>
     <string name="menu_back_desktop">Înapoi la ecranul de pornire</string>
     <string name="menu_customize">Setări</string>
+    <string name="menu_default_screen_preview">Setare ecran implicit</string>
     <string name="menu_edit">Editați Ecranul principal</string>
     <string name="menu_exit_scene">Ieşire din Mi Space</string>
     <string name="menu_item_add_item">Plasaţi pe ecranul de pornire</string>

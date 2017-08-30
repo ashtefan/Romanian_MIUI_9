@@ -176,6 +176,11 @@
         <item>Combinate</item>
         <item>Separate</item>
     </string-array>
+    <string-array name="status_bar_show_carrier_entries">
+        <item>Arată doar în blocarea ecranului și în panoul de notificări</item>
+        <item>Arată întotdeauna numele operatorului</item>
+        <item>Nu arăta niciodată numele operatorului</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
         <item>Europa</item>
@@ -621,7 +626,7 @@
     </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>De preferat Wi-Fi</item>
-        <item>De preferat Wi-Fi</item>
+        <item>De preferat celular</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Oprită</item>
@@ -1552,16 +1557,6 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>3 GB</item>
         <item>32 GB</item>
         <item>Quad-core Max de 2,15 GHz</item>
-    </string-array>
-    <string-array name="high_configuration_version">
-        <item>3 GB</item>
-        <item>64 GB</item>
-        <item>Quad-core 2,15 GHz</item>
-    </string-array>
-    <string-array name="enjoy_version">
-        <item>3 GB</item>
-        <item>32 GB</item>
-        <item>Quad-core 2,15 GHz</item>
     </string-array>
     <string-array name="standard_configuration_version_description_primary">
         <item>Procesor</item>

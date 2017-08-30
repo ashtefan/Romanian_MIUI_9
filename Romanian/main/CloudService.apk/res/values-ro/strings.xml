@@ -134,7 +134,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="license_host_unreachable">Nu se poate conecta la rețea. Pentru a vedea aceste informații acum, mergeţi la %s.</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_hint">Încărcare</string>
-    <string name="master_alert_notif_content">"Nu s-a putut efectua sincronizarea"</string>
+    <string name="master_alert_notif_content">"Nu s-a putut sincroniza"</string>
     <string name="master_alert_notif_dspt_add">Elemente care așteaptã sincronizarea: %s</string>
     <string name="master_alert_notif_dspt_no">Sincronizat</string>
     <string name="master_alert_notif_title">Activați sincronizarea cu Mi Cloud</string>

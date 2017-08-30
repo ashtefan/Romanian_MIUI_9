@@ -7,7 +7,7 @@
     <string name="alert_message_delete_note">Ştergeţi această notă?</string>
     <string name="alert_message_edit_anyway">Dacă editați această notă, o parte din conținutul său poate fi pierdut.</string>
     <string name="alert_message_restore">"Nu s-a putut deschide această notiță. Restaurați-o pentru a edita conținutul."</string>
-    <string name="alert_title_delete">Ştergeți notă?</string>
+    <string name="alert_title_delete">Ştergeți nota</string>
     <string name="alert_title_edit_anyway">Această notă include conținut neacceptat</string>
     <string name="alert_title_hidden_note">Ați primit un memento pentru o notiță ascunsă</string>
     <string name="alert_title_restore">Restaurați notița</string>
@@ -174,6 +174,7 @@
     <string name="toast_notes_unhidden">Eliminată din ascunse cu succes</string>
     <string name="toast_notes_unhidden_count">%1$s nu mai sunt ascunse</string>
     <string name="toast_reach_text_limit_attachment">Nu puteţi adăuga atașamente noi pentru că nota este prea lungă</string>
+    <string name="toast_reach_text_limit_checkbox">"Nu se poate adăuga căsuța de bifare deoarece notița este prea lungă"</string>
     <string name="toast_reach_text_limit_truncate">Această nota este prea lungă. A fost tăiat o parte din textul de la sfârșit.</string>
     <string name="toolbar_check_description">Adăugați o căsuță de verificare</string>
     <string name="toolbar_delete_description">Ștergeți această notiță</string>

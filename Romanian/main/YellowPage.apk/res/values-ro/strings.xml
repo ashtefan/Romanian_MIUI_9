@@ -444,13 +444,15 @@ Total: %3$s RMB"</string>
     <string name="turn_off_hint_title">Dezactivați identificarea numerelor necunoscute?</string>
     <string name="turn_off_phone_event_hint">"Dacă dezactivați această caracteristică, nu veți mai primi rapoarte despre numerele necunoscute."</string>
     <string name="turn_off_smart_antispam_hint">Dezactivați protecția împotriva apelurilor de la persoane necunoscute?</string>
+    <string name="turn_on_online_antispam_enable">Activați</string>
+    <string name="turn_on_online_antispam_summary">Activați identificarea apelantului pentru a identifica numerele necunoscute.</string>
+    <string name="turn_on_online_antispam_title">Activați identificarea apelantului</string>
     <string name="turn_on_phone_event_dialog_title">Actualizați baza de date pentru identificarea numerelor</string>
     <string name="turn_on_phone_event_summary">Permiteți aplicației Pagini Aurii să primească și să încarce informațiile serviciului operatorilor de servicii verificați</string>
     <string name="turn_on_phone_event_title">Primiți informații despre serviciu</string>
     <string name="turn_on_smart_antispam_hint">Identificați apelurile provenite de la persoane necunoscute</string>
     <string name="turn_on_smart_antispam_summary_off">Caută doar numerele salvate pe acest telefon</string>
-    <string name="turn_on_smart_antispam_summary_on">Încărcați și identificați numerele necunoscute din apeluri și mesajele text</string>
-    <string name="turn_on_smart_antispam_title">Identificare numere necunoscute</string>
+    <string name="turn_on_smart_antispam_title">Identificare apelant</string>
     <string name="turn_on_yellowpage_service_title">Utilizați Pagini Aurii</string>
     <string name="uploads_disabled">Încărcarea fișierelor este dezactivată</string>
     <string name="user_agreement2">" Termenii serviciului"</string>

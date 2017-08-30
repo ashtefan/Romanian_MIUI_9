@@ -30,7 +30,24 @@
         <item>Lu - Vi</item>
         <item>Personalizat</item>
     </string-array>
-   
+    <string-array name="aqi_value">
+        <item>Bună</item>
+        <item>Satisfactory</item>
+        <item>Moderately polluted</item>
+        <item>Poor</item>
+        <item>Very poor</item>
+        <item>Severe</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Reduceți activitățile în exterior</item>
+        <item>The roads are slippery</item>
+        <item>The weather is stormy, be careful!</item>
+        <item>The air is polluted, wear a mask!</item>
+        <item>Take an umbrella when you go out</item>
+        <item>Be careful on the road</item>
+        <item>Sandstorm is coming, wear a mask!</item>
+        <item>Have a nice day!</item>
+    </string-array>
     <string-array name="alarm_set">
         <item>Alarma va suna peste mai puțin de un minut.</item>
         <item>Alarma va suna peste %1$s.</item>

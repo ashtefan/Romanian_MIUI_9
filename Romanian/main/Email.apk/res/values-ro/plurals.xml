@@ -16,6 +16,9 @@
         <item quantity="other">Aceste conversații conţin elemente fuzionate, sunteţi sigur că doriţi să le ștergeţi?</item>
         <item quantity="one">Această conversație conţine elemente fuzionate, sunteţi sigur că doriţi să o ștergeţi?</item>
      </plurals>
+    <plurals name="confirm_delete_draft">
+        <item quantity="other">Ștergeți %1$d ciornă？</item>
+    </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d selectate</item>
         <item quantity="one">%d selectat</item>
@@ -32,6 +35,10 @@
         <item quantity="other">Dosare modificate.</item>
         <item quantity="one">Dosar modificat.</item>
      </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">… %1$d persoane</item>
+        <item quantity="one">… %1$d persoană</item>
+    </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">%1$d conversații ignorate.</item>
         <item quantity="one">%1$d conversație ignorată.</item>

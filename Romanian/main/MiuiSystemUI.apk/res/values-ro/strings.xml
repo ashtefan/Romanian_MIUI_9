@@ -164,6 +164,7 @@
     <string name="bugreport_in_power_summary">Afișează un buton în meniul de Pornire pentru extragerea unui raport cu erori</string>
     <string name="button_convert_fbe">Ștergeți și convertiți…</string>
     <string name="call_status_dialing">Apelare</string>
+    <string name="call_status_holding">Menținere</string>
     <string name="call_status_ringing">Sunet</string>
     <string name="camera_key_action_app_title">Deschideţi aplicaţia</string>
     <string name="camera_key_action_category_title">Utilizaţi dacă aplicaţia Cameră foto nu este pornită</string>
@@ -307,7 +308,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="inactive_app_active_summary">Activă. Atingeți pentru a comuta.</string>
     <string name="inactive_app_inactive_summary">Inactivă. Atingeți pentru a comuta.</string>
     <string name="inactive_apps_title">Aplicații inactive</string>
-    <string name="invalid_charger">"Încărcarea USB nu este acceptată.
+    <string name="invalid_charger">"Încărcarea USB nu este suportată.
 Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="keep_screen_on">Ecran activ la încărcare</string>
     <string name="keep_screen_on_summary">Ecranul va rămâne activ pe durata încărcării</string>
@@ -473,7 +474,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="screen_zoom_summary_small">Mic</string>
     <string name="screen_zoom_summary_very_large">Mai mare</string>
     <string name="screenshot_delete">Ștergeți</string>
-    <string name="screenshot_delete_dlg_msg">Sunteți sigur că doriți să ștergeți această captură de ecran?</string>
+    <string name="screenshot_delete_dlg_msg">Ștergeți această captură de ecran?</string>
     <string name="screenshot_delete_dlg_title">Ștergere</string>
     <string name="screenshot_dlg_cancel">Renunță</string>
     <string name="screenshot_dlg_delete_button">Șterge</string>

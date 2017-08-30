@@ -1385,7 +1385,7 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="volume_alarm">Volum alarmă</string>
      <string name="volume_bluetooth_call">Volum apel Bluetooth</string>
      <string name="volume_call">Volum apel de intrare</string>
-     <string name="volume_icon_description_bluetooth">Volumul Bluetooth</string>
+     <string name="volume_icon_description_bluetooth">Bluetooth</string>
      <string name="volume_icon_description_incall">Apel</string>
      <string name="volume_icon_description_media">Media</string>
      <string name="volume_icon_description_notification">Notificare</string>
