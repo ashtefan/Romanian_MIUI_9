@@ -49,8 +49,8 @@ Actualizaţi acum?"</string>
     <string name="account_settings_param">Setări cont</string>
     <string name="account_settings_policies">Politici de securitate</string>
     <string name="account_settings_preference_add_account">Adăugați un cont de e-mail</string>
-  <string name="account_settings_preference_head_icon">Comutator cap portret</string>
-  <string name="account_settings_preference_notify">Notiță</string>
+    <string name="account_settings_preference_head_icon">Comutator afișare imagine expeditor</string>
+    <string name="account_settings_preference_notify">Notificare</string>
     <string name="account_settings_retry_label">Încercare de sincronizare</string>
     <string name="account_settings_retry_summary">Apăsați aici pentru a sincroniza acest cont</string>
     <string name="account_settings_ringtone">Sunet de notificare</string>
@@ -1085,7 +1085,7 @@ Opriți acum?"</string>
     <string name="unsent_messages_in_outbox">%1$s netrimise în %2$s</string>
     <string name="unzip_file_failed">Nu s-a putut dezarhiva fişierul</string>
     <string name="update_date_format_templete">HH:mm, dd MMMM</string>
-    <string name="update_to_wps_mail">Mai multe caracteristici avansate, actualizați la WPS-mail</string>
+    <string name="update_to_wps_mail">Pentru mai multe caracteristici avansate, instalați WPS-mail</string>
     <string name="updated_at">Actualizat la %1$s</string>
     <string name="upload_log">Încărcare jurnale</string>
     <string name="upload_log_failed">"Trimiterea jurnalelor a eşuat"</string>

@@ -474,7 +474,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="screen_zoom_summary_small">Mic</string>
     <string name="screen_zoom_summary_very_large">Mai mare</string>
     <string name="screenshot_delete">Ștergeți</string>
-    <string name="screenshot_delete_dlg_msg">Ștergeți această captură de ecran?</string>
+    <string name="screenshot_delete_dlg_msg">Sunteți sigur că doriți să ștergeți această captură de ecran?</string>
     <string name="screenshot_delete_dlg_title">Ștergere</string>
     <string name="screenshot_dlg_cancel">Renunță</string>
     <string name="screenshot_dlg_delete_button">Șterge</string>

@@ -240,7 +240,6 @@
   <string name="horoscope_card_comprehensive">Complet:</string>
   <string name="horoscope_card_financial">Bani:</string>
   <string name="horoscope_card_love">Dragoste:</string>
-  <string name="horoscope_card_set_bazi">点击设置星座运势</string>
   <string name="horoscope_card_working">Carieră:</string>
     <string name="horoscope_select_activity_label">Selectați semnul zodiacal</string>
   <string name="huangli_bad_type">Evitaţi</string>
@@ -254,8 +253,6 @@
     <string name="insert_event_dialog_title">Atenție</string>
     <string name="insert_event_toast_add_failed">"Nu s-a putut adăuga"</string>
     <string name="insert_event_toast_add_success">Eveniment creat</string>
-  <string name="install_weather_app_error">应用加载失败.</string>
-  <string name="install_weather_app_loading">加载中...</string>
     <string name="item_num_selected">%1$d selectate</string>
   <string name="joke_card_click_toast">Apăsați lung pentru a copia bancuri</string>
   <string name="joke_card_icon_text">clovn %1$s</string> 
@@ -453,8 +450,8 @@ Verificați setările de rețea și încercați din nou."</string>
   <string name="setting_title_yiji_display">Almanac spectacol Taboo</string>
   <string name="setting_toast_dump_mylog_done">Construi reușește, jurnal în managerul de fișiere\"telefon/MIUI/debug_log/com.android.calendar/dump\"Dosar</string>
     <string name="show_day_view">Afişaţi ziua</string>
-    <string name="show_newer_events">Atingeţi pentru a vedea evenimente după %1$s</string>
-    <string name="show_older_events">Atingeţi pentru a vedea evenimente dinainte de %1$s</string>
+    <string name="show_newer_events">Atingeţi pentru a vedea evenimentele de după %1$s</string>
+    <string name="show_older_events">Atingeţi pentru a vedea evenimentele dinainte de %1$s</string>
   <string name="sms_import_description">O mai bună gestionare a mesajelor de evenimente legate de timp</string>
     <string name="solar_lunar_convert_date"/>
     <string name="solar_lunar_convert_description"/>

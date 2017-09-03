@@ -276,7 +276,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_error_permission_limit">Vă rugăm să acordați permisiunea de accesare a bazei de date pentru MiCloud.</string>
     <string name="micloud_main_last_sync_time">Ultima sincronizare: %s</string>
     <string name="micloud_main_master_sync_on">Sincronizare pornită</string>
-    <string name="micloud_main_memory_low_message">"Pentru a realiza sincronizarea, ștergeți din datele inutile stocate."</string>
+    <string name="micloud_main_memory_low_message">"Pentru a realiza sincronizarea, ștergeți din datele inutile stocate în Mi Cloud."</string>
     <string name="micloud_main_memory_low_title">"Spațiul de stocare internă este insuficient"</string>
     <string name="micloud_main_message_master_sync_off">Setarea pentru sincronizarea automată se află în bara de notificări.</string>
     <string name="micloud_main_message_not_synced">%s date nesincronizate</string>
@@ -287,10 +287,10 @@ Utilizați alt cont"</string>
     <string name="micloud_main_network_error">Nu se poate conecta la rețea</string>
     <string name="micloud_main_query_again">Solicitare</string>
     <string name="micloud_main_query_error_message">"Nu se poate verifica dacă sincronizarea tuturor serviciilor s-a finalizat"</string>
-    <string name="micloud_main_query_error_title">"Nu s-au putut obține informații despre starea sincronizării"</string>
+    <string name="micloud_main_query_error_title">"Nu s-au putut obține informații despre progresul sincronizării"</string>
     <string name="micloud_main_resume_sync_soon">Reia sincronizarea în curând</string>
     <string name="micloud_main_set_internet">Reţea</string>
-    <string name="micloud_main_space_full">Spațiu de stocare insuficient.</string>
+    <string name="micloud_main_space_full">Spațiul de stocare din cloud este epuizat.</string>
     <string name="micloud_main_space_full_message">Obținerea titlului de membru permite obținerea de spațiu de stocare suplimentar</string>
     <string name="micloud_main_space_full_title">Spaţiul de stocare este insuficient; sincronizarea s-a oprit</string>
     <string name="micloud_main_space_low">Spaţiu aproape epuizat</string>
@@ -489,7 +489,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="soundrecorder_sync_records">Sincronizare cu Mi Cloud</string>
     <string name="start_micloud">Porniţi</string>
     <string name="storage">Stocare</string>
-    <string name="sub_alert_notif_content">Porniți sincronizarea cu Mi Cloud pentru a putea face o copie de siguranță pentru datele dumneavoastră</string>
+    <string name="sub_alert_notif_content">Activați sincronizarea cu Mi Cloud pentru a putea face o copie de siguranță a datelor dumneavoastră</string>
     <string name="sub_alert_notif_dspt_add">Elemente care aşteaptă sincronizarea: %s</string>
     <string name="sub_alert_notif_dspt_no">Sincronizat</string>
     <string name="sub_alert_notif_title">Sincronizați cu Mi Cloud</string>

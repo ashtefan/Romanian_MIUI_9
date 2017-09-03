@@ -121,6 +121,7 @@
     <string name="sim_added_reboot_title">Cartela SIM se va activa după ce reporniți dispozitivul.</string>
     <string name="softap_notifif_summary">%d conectat</string>
     <string name="softap_notifif_title">Hotspot-ul \"%s\" este pornit</string>
+    <string name="standard_title">Silențios..</string>
     <string name="start_security_permission_verify_text">Verificați permisiunile cu ajutorul contului Mi</string>
     <string name="status_bar_toggle_auto_brightness">Luminozitate</string>
     <string name="status_bar_toggle_battery_saver">Economisire acumulator</string>
@@ -147,6 +148,10 @@
     <string name="status_bar_toggle_vibrate">Vibrare</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+    <string name="switch_brand_desc_tv">Servicii de securitate furnizate de către Graphite</string>
+    <string name="switch_desc_tv">Două spații de lucru. Un singur telefon.</string>
+    <string name="switching_tv">Comutare…</string>
+    <string name="total_title">DND..</string>
     <string name="translation_more">Mai multe</string>
     <string name="translation_query_error">"Nu s-a găsit niciun rezultat"</string>
     <string name="translation_query_error_network">"Nu s-au putut obține informațiile. Verificați conexiunea la rețea și încercați din nou"</string>

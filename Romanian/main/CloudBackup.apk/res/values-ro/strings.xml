@@ -8,7 +8,7 @@
     <string name="back_up_task_in_process">Creare copie de rezervă…</string>
     <string name="back_up_task_unfinished">Rezervare nefinalizată</string>
     <string name="backing_up_to_micloud">Creare copie de rezervă…</string>
-    <string name="backup_fail">Crearea copiei de rezervă pentru setările ecranului de pornire a eşuat</string>
+    <string name="backup_fail">"Nu s-a putut crea copia de rezervă"</string>
     <string name="backup_finished_notification_content">S-au salvat aplicațiile de pe ecranul principal, setările sistemului, etc.</string>
     <string name="backup_now">Faceți o copie de rezervă acum</string>
     <string name="backup_size">Dimensiune: %s</string>

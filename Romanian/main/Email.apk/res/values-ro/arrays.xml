@@ -28,11 +28,11 @@
         <item>Redirecţionaţi</item>
      </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Text foarte mic</item>
-        <item>Text mic</item>
-        <item>Text de dimensiuni normale</item>
-        <item>Text mare</item>
-        <item>Text foarte mare</item>
+        <item>Foarte mic</item>
+        <item>Mic</item>
+        <item>Normal</item>
+        <item>Mare</item>
+        <item>Foarte mare</item>
      </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Recent vizualizate</item>

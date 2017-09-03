@@ -128,7 +128,7 @@ Contactați Serviciul Clienți Xiaomi."</string>
     <string name="mibi_giftcard_record">Cardurile mele cadou</string>
     <string name="mibi_giftcard_title">Card cadou Mi Credit</string>
     <string name="mibi_giftcard_will_expire">Expiră pe %1$s</string>
-    <string name="mibi_giftcard_with_num">%1$s cupon Mi Credit disponibil</string>
+    <string name="mibi_giftcard_with_num">Un cupon cu %1$s credite Mi disponibil</string>
     <string name="mibi_header_network_error">"Nu s-a putut conecta la rețea."</string>
     <string name="mibi_illegal_intent">Solicitare de intenție ilegală</string>
     <string name="mibi_is_what">Ce puteți cumpăra cu Creditele Mi?</string>

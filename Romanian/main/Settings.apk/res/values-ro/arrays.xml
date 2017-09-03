@@ -104,12 +104,12 @@
     <string-array name="enable_opengl_traces_entries">
         <item>Niciuna</item>
         <item>Logcat</item>
-        <item>Systrace (Grafică)</item>
+        <item>Systrace (Grafic)</item>
         <item>Apelați stiva pentru glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Oprit</item>
-        <item>Desenează decupările nerectangulare în albastru</item>
+        <item>Evidențiază decupările nerectangulare în albastru</item>
         <item>Evidențiază comenzile de desenare în verde</item>
     </string-array>
     <string-array name="track_frame_time_entries">
@@ -242,7 +242,7 @@
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
-        <item>Buton WPS</item>
+        <item>Buton push</item>
         <item>Codul PIN de la dispozitivul asociat</item>
         <item>Codul PIN de la acest dispozitiv</item>
      </string-array>
@@ -573,7 +573,7 @@
         <item>Maimuță</item>
      </string-array>
     <string-array name="security_settings_premium_sms_values">
-        <item>Întrebaţi</item>
+        <item>Întreabă</item>
         <item>Nu permiteţi niciodată</item>
         <item>Permiteţi întotdeauna</item>
      </string-array>
@@ -621,7 +621,7 @@
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>De preferat Wi-Fi</item>
-        <item>c</item>
+        <item>De preferat celular</item>
         <item>Doar Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
@@ -828,9 +828,9 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>mod agresiv</item>
     </string-array>
     <string-array name="traffic_balance_entries">
-        <item>închis</item>
-        <item>modul normal</item>
-        <item>modul extrem</item>
+        <item>oprit</item>
+        <item>mod normal</item>
+        <item>mod extrem</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Lansator de sistem</item>
@@ -1539,7 +1539,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>În fiecare zi</item>
         <item>În zilele săptămânii</item>
-        <item>Personalizată</item>
+        <item>Personalizat</item>
     </string-array>
 
 

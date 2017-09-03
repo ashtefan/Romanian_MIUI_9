@@ -23,11 +23,11 @@
     <string name="activate_history_success_overview">Cartela SIM a fost activată cu succes. Activarea este declanșată de către \"%1$s\".</string>
     <string name="activate_history_title">Activare cartelă SIM</string>
     <string name="activate_phone_cancel_notif_title">Activarea cartelei SIM a fost oprită</string>
-    <string name="activate_phone_cancel_notif_title_msim">Activarea cartelei SIM %s a fost oprită</string>
+    <string name="activate_phone_cancel_notif_title_msim">Activarea cartelei SIM %d a fost oprită</string>
     <string name="activate_phone_failed_notif_title">"Imposibil de activat cartela SIM"</string>
-    <string name="activate_phone_failed_notif_title_msim">"Imposibil de activat cartela SIM %s"</string>
+    <string name="activate_phone_failed_notif_title_msim">"Imposibil de activat cartela SIM %d"</string>
     <string name="activate_phone_success_notif_title">Cartelă SIM activată</string>
-    <string name="activate_phone_success_notif_title_msim">Cartela SIM %s a fost activată</string>
+    <string name="activate_phone_success_notif_title_msim">Cartela SIM %d a fost activată</string>
     <string name="activate_popup_confirm_all_gateway_failed_query_info">Încercați din nou</string>
     <string name="activate_popup_confirm_all_gateway_failed_send_sms">Încercați din nou</string>
     <string name="activate_popup_confirm_error_device_id">Încercați din nou</string>
@@ -103,7 +103,7 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="activate_status_desc_wait_for_sms_fail">"Nu s-a primit mesajul de activare de la server"</string>
     <string name="activate_status_desc_wait_for_sms_success">SMS de activare primit de la server</string>
     <string name="activate_status_title_activating">Activare cartelă SIM…</string>
-    <string name="activate_status_title_activating_msim">Activare cartelă SIM %s…</string>
+    <string name="activate_status_title_activating_msim">Activare cartelă SIM %d…</string>
     <string name="app_name">Serviciul de activare SIM al Xiaomi</string>
     <string name="explain_send_sms_permission_button">Verificați</string>
     <string name="explain_send_sms_permission_msg">Pentru a activa %s, Xiaomi Service Framework va trimite un SMS pentru a verifica numărul dumneavoastră de telefon. Veți fi taxat de către operator pentru un mesaj SMS obișnuit.</string>

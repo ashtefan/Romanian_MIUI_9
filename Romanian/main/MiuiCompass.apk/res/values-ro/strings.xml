@@ -4,7 +4,7 @@
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">Altitudine</string>
     <string name="altitude_uncalibrate_cancel">Anulaţi</string>
-    <string name="altitude_uncalibrate_msg">Nu se poate calibra altitudinea cu exactitate fără GPS sau conexiune de date mobile.</string>
+    <string name="altitude_uncalibrate_msg">"Nu se poate calibra altitudinea cu exactitate fără GPS sau conexiune de date mobile active."</string>
     <string name="altitude_uncalibrate_refresh">Încercaţi din nou</string>
     <string name="altitude_uncalibrate_tip">"Nu se poate calibra altitudinea"</string>
     <string name="altitude_unit">m</string>

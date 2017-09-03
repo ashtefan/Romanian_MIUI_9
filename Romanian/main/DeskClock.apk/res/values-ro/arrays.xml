@@ -9,7 +9,7 @@
         <item>Alarmă în %3$s</item>
         <item>Alarmă în %1$s și %3$s</item>
         <item>Alarmă în %2$s și %3$s</item>
-        <item>Alarmă în %1$s %2$s și %3$s</item>
+        <item>Alarmă în %1$s, %2$s și %3$s</item>
     </string-array>
     <string-array name="days">
         <item>Ieri</item>
@@ -22,7 +22,7 @@
         <item>În zilele lucrătoare</item>
         <item>În zilele nelucrătoare</item>
         <item>De Lu - Vi</item>
-        <item>Personalizată</item>
+        <item>Personalizat</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>O dată</item>
@@ -32,11 +32,21 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Bună</item>
-        <item>Satisfactory</item>
-        <item>Moderately polluted</item>
-        <item>Poor</item>
-        <item>Very poor</item>
-        <item>Severe</item>
+        <item>Satisfăcătoare</item>
+        <item>Poluare moderată</item>
+        <item>Rea</item>
+        <item>Foarte rea</item>
+        <item>Severă</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Reduceți activitățile în exterior</item>
+        <item>Carosabilul este alunecos</item>
+        <item>Este furtună; aveți grijă!</item>
+        <item>Aerul este poluat; purtați o mască!</item>
+        <item>Luați umbrela când ieșiți afară</item>
+        <item>Fiți atent la carosabil</item>
+        <item>Se apropie o furtună de nisip; purtați o mască!</item>
+        <item>Să aveți o zi frumoasă!</item>
     </string-array>
     <string-array name="alarm_set">
         <item>Alarma va suna peste mai puțin de un minut.</item>

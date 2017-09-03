@@ -995,7 +995,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="contributors_title">Colaboratori</string>
     <string name="controls_label">Comenzi</string>
     <string name="controls_subtitle">Ajustaţi utilizarea energiei</string>
-    <string name="convenience_key_category_title">Widgeturi</string>
+    <string name="convenience_key_category_title">Scurtături</string>
     <string name="convert_to_fbe_warning">"Convertiți partiția de date la criptarea pe bază de fișier.
  ATENȚIE: Acest lucru va șterge TOATE DATELE dumneavoastră.
  Această caracteristică este experimentală și este posibil să nu funcționeze corect.
@@ -2688,7 +2688,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="oem_unlock_enable_summary">Permiteți deblocarea OEM a dispozitivului</string>
     <string name="ok_rules">finalizare</string>
     <string name="okay">OK</string>
-    <string name="oldman_mode_confirm_title">Reporniţi telefonul?</string>
+    <string name="oldman_mode_confirm_title">Reporniţi telefonul acum?</string>
     <string name="oldman_mode_confirm_will_normal_mode_text">Telefonul va reporni pentru a ieși din modul \"Uşor\"</string>
     <string name="oldman_mode_confirm_will_oldman_mode_text">Telefonul va reporni pentru a intra în modul \"Uşor\".</string>
     <string name="oldman_mode_enabled_name">Modul \"Uşor\"</string>
@@ -3326,7 +3326,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="screen_resolution_dialog_title">Schimbați rezoluția</string>
     <string name="screen_resolution_high_format">Înaltă (%1$s)</string>
     <string name="screen_resolution_normal_format">Normală (%1$s)</string>
-    <string name="screen_resolution_summary">"Scăzând rezoluția ecranului puteți crește durata de utilizare a acumulatorului și viteza sistemului, dar imaginile vor avea o claritate mai scăzută. Trebuie să reporniți dispozitivul pentru a aplica această modificare."</string>
+    <string name="screen_resolution_summary">"Scăzând rezoluția ecranului puteți crește durata de utilizare a acumulatorului și viteza sistemului, dar imaginile vor avea o claritate mai scăzută."</string>
     <string name="screen_resolution_switch">Modificați rezoluția ecranului</string>
     <string name="screen_resolution_title">Rezoluția ecranului</string>
     <string name="screen_resolution_ultrahigh_format">Foarte înaltă (%1$s)</string>
@@ -3839,7 +3839,7 @@ Codul PIN poate fi incorect."</string>
     <string name="sim_status_title">Stare SIM</string>
     <string name="simulate_color_space">Simulați spațiul de culori</string>
     <string name="single_key_use">Buton unic</string>
-    <string name="single_key_use_summary">Utilizați butonul Acasă pentru funcțiile celorlalte butoane</string>
+    <string name="single_key_use_summary">Utilizați butonul Acasă pentru funcțiile celorlalte 2 butoane</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>

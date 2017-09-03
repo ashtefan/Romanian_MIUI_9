@@ -34,7 +34,7 @@
     <string name="day">zi</string>
     <string name="del">DEL</string>
     <string name="deleteDesc">ștergeți</string>
-    <string name="description_content">Înafară de caracteristicile de bază, aplicația Calculator funcționează ca și convertor multifuncțional, calculator de taxe și dobânzi. Asigurați-vă că puteți trăi fără aceste caracteristici înainte de a dezinstala aplicația.</string>
+    <string name="description_content">Înafară de caracteristicile de bază, aplicația Calculator funcționează ca și convertor multifuncțional, calculator de taxe și dobânzi. Asigurați-vă că vă puteți descurca fără aceste caracteristici înainte de a dezinstala aplicația.</string>
     <string name="description_title">Despre aplicația Calculator</string>
     <string name="devided_by_zero_reminder_message">"Nu se poate împărți la zero"</string>
     <string name="digit0">0</string>

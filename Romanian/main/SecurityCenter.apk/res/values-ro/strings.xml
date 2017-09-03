@@ -604,7 +604,7 @@
     <string name="cpu_usage_app_bg_restrict_no_limit">"Nu restricționa"</string>
     <string name="cpu_usage_app_bg_restrict_partly">După %s</string>
     <string name="cpu_usage_app_bg_restrict_partly_short">După %s</string>
-    <string name="cpu_usage_app_bg_restrict_title">Setări activități în fundal</string>
+    <string name="cpu_usage_app_bg_restrict_title">Setări pentru activități în fundal</string>
     <string name="cpu_usage_app_tip_can_not_restrict_system_app">"Nu se pot restricționa serviciile de sistem"</string>
     <string name="cpu_usage_app_uninstalled_toast">Această aplicație este dezinstalată</string>
     <string name="cpu_usage_process_run_time_little_time">Mai puțin de un minut</string>
@@ -1220,7 +1220,7 @@ răspunsul operatorului"</string>
     <string name="network_roaming_exception_tips">Nu se pot utiliza datele mobile în roaming pentru conectare la rețea</string>
     <string name="network_route_exception_detail">"Este posibil să existe o problemă cu router-ul la care sunteţi conectat:
 
-"&lt;b&gt;"1. Probleme de rețea publică Wi-Fi
+ "&lt;b&gt;"1. Probleme de rețea publică Wi-Fi
 "&lt;/b&gt;"Dacă sunteți conectat la o rețea Wi-Fi publică, numărul de utilizatori conectați la această rețea poate duce la încetinirea vitezei sau să creeze probleme de conectivitate. Conectaţi-vă la o altă rețea și încercați din nou.
 
  2."&lt;b&gt;" Probleme de furnizor servicii internet

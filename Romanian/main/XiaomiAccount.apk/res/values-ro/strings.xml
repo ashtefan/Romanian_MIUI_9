@@ -128,7 +128,7 @@
     <string name="find_device_operation_failed_error">A apărut o eroare de server; așteptați un minut sau două și reîncercați</string>
     <string name="find_device_operation_failed_error_unknown">A apărut o eroare; încercați din nou mai târziu</string>
     <string name="find_device_owner_phone">Dispozitivul acesta este blocat. Apelați: %1$s.</string>
-    <string name="find_device_prompt_message">Dispozitivul acesta este blocat. Trimiteți un mesaj: %1$s.</string>
+    <string name="find_device_prompt_message">Dispozitivul acesta este blocat. Trimiteți un mesaj la: %1$s.</string>
     <string name="find_device_remote_exception">Eroare RPC</string>
     <string name="find_device_request_error">A apărut o eroare de server; așteptați un minut sau două și reîncercați</string>
     <string name="find_device_request_prepare_error">"Nu s-a putut obține starea; încercați din nou mai târziu"</string>
