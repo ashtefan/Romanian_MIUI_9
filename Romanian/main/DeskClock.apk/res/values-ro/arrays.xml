@@ -38,16 +38,6 @@
         <item>Foarte rea</item>
         <item>Severă</item>
     </string-array>
-    <string-array name="weather_tips_value">
-        <item>Reduceți activitățile în exterior</item>
-        <item>Carosabilul este alunecos</item>
-        <item>Este furtună; aveți grijă!</item>
-        <item>Aerul este poluat; purtați o mască!</item>
-        <item>Luați umbrela când ieșiți afară</item>
-        <item>Fiți atent la carosabil</item>
-        <item>Se apropie o furtună de nisip; purtați o mască!</item>
-        <item>Să aveți o zi frumoasă!</item>
-    </string-array>
     <string-array name="alarm_set">
         <item>Alarma va suna peste mai puțin de un minut.</item>
         <item>Alarma va suna peste %1$s.</item>
