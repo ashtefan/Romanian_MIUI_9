@@ -162,6 +162,8 @@ Notă: atingerea triplă pentru mărire funcţionează peste tot, cu excepţia t
     <string name="add_fingerprint_success_msg">Adăugată cu succes</string>
     <string name="add_fingerprint_text">Adăugați o amprentă</string>
     <string name="add_fingerprint_toast_text">Plasați degetul pe scanerul de amprente</string>
+    <string name="add_new">adăugați</string>
+    <string name="add_rule">adăugați reguli</string>
     <string name="add_virtual_keyboard">Gestionați tastaturile</string>
     <string name="adding_profile_owner_warning">"Continuând, contul dumneavoastră de utilizator va fi administrat de către administratorul dumneavoastră, care va putea stoca de asemenea datele personale asociate.
 
@@ -191,6 +193,8 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="alarm_ringtone_title">Sunet implicit pentru alarmă</string>
     <string name="alarm_sound_dialog_title">Alegeți sunetul pentru alarmă</string>
     <string name="alarm_sound_title">Sunet alarmă</string>
+    <string name="alarm_stop">Sunetul alarmei poate dezactiva modul Silențios</string>
+    <string name="alarm_stop_info">Dacă alarma sună înaintea expirării timpului setat, modul Silențios poate fi întrerupt</string>
     <string name="alarm_volume_option_title">Volum alarmă</string>
     <string name="alarm_volume_title">Alarmă</string>
     <string name="all_volume_title">Volume</string>
@@ -203,12 +207,15 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="allow_mock_location_summary">Permiteţi locaţiile fictive</string>
     <string name="allow_overlay_description">Această permisiune dă dreptul unei aplicații să fie afișate peste celelalte aplicații pe care le utilizați și poate interfera cu utilizarea interfeței altor aplicații sau poate modifica ceea ce credeți că vedeți în alte aplicații.</string>
     <string name="alpha_build">" | Alfa"</string>
+    <string name="always">Întotdeauna</string>
     <string name="always_allow_bind_appwidgets_text">Aţi ales să permiteţi acestei aplicaţii să creeze widgeturi şi să acceseze datele acestora.</string>
     <string name="always_running">Rulează întotdeauna (%s)</string>
     <string name="amber_alerts_summary">Primiți informații despre răpirile de copii</string>
     <string name="amber_alerts_title">Alerte AMBER</string>
-    <string name="android_beam_disabled_summary">Pentru a utiliza această caracteristică, activaţi NFC</string>
-    <string name="android_beam_explained">Puteţi transmite o pagină web, un videoclip, sau alt tip de conținut de pe ecran la un alt dispozitiv, prin atingerea dispozitivelor (de obicei, spate în spate).</string>
+    <string name="android_beam_disabled_summary">Indisponibil deoarece NFC este oprit</string>
+    <string name="android_beam_explained">"Când această caracteristică este activă, puteți transmite conținutul aplicațiilor către alt dispozitiv capabil NFC ținând dispozitivele aproape unul de celălalt. De exemplu, puteți transmite pagini din browser, videoclipuri YouTube, contacte și multe altele.
+    
+Doar aduceți dispozitivele în apropiere (de obicei spate în spate) și apoi atingeți ecranul telefonului. Aplicația determină conținutul care se transmite."</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_off_summary">Dezactivată</string>
     <string name="android_beam_on_summary">Pregătit să transmită conţinut din aplicaţii prin NFC</string>
@@ -294,7 +301,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="app_notification_row_sensitive">Sensibil</string>
     <string name="app_notification_visibility_override_title">În blocarea ecranului</string>
     <string name="app_notifications_dialog_done">Realizat</string>
-    <string name="app_notifications_switch_label">Afişare notificări</string>
+    <string name="app_notifications_switch_label">Afişează notificări</string>
     <string name="app_notifications_title">Notificările aplicațiilor</string>
     <string name="app_ops_never_used">(Nu a fost utilizată niciodată)</string>
     <string name="app_ops_permiss_name">Accces la rețea al aplicației</string>
@@ -323,7 +330,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="application_permissions">Permisiunile aplicației</string>
     <string name="application_restrictions">Permiteți aplicații și conținut</string>
     <string name="application_size_label">Aplicaţie</string>
-    <string name="applications_settings">Aplicaţii instalate</string>
+    <string name="applications_settings">Aplicaţii</string>
     <string name="applications_settings_header">Setări aplicaţii</string>
     <string name="applications_settings_summary">Gestionaţi aplicaţii, creaţi scurtături pentru lansare rapidă</string>
     <string name="apply_fingerprint_to_category_title">Aplicați amprenta pentru…</string>
@@ -337,6 +344,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="apps_with_restrictions_header">Aplicații cu restricții</string>
     <string name="apps_with_restrictions_settings_button">Extindeți setările aplicației</string>
     <string name="ask_compatibility">Se stabileşte la lansare</string>
+    <string name="ask_for_delete">Sunteți sigur că doriți să ștergeți această regulă?</string>
     <string name="assist_access_context_summary">Permiteți aplicației de asistare să acceseze conținutul de pe ecran ca și text</string>
     <string name="assist_access_context_title">Utilizare text din ecran</string>
     <string name="assist_access_screenshot_summary">Permite aplicației de asistare să acceseze imaginile de pe ecran</string>
@@ -376,6 +384,8 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="auto_replace_summary">Corectaţi cuvintele scrise greşit</string>
     <string name="auto_restore_summary">La reinstalarea unei aplicaţii, restabiliţi setările şi datele pentru care aţi creat o copie de rezervă</string>
     <string name="auto_restore_title">Restabilire automată</string>
+    <string name="auto_rule">regulă programată</string>
+    <string name="auto_silent">Temporizare reducere sunet</string>
     <string name="auto_startup_application_manage">Pornire</string>
     <string name="automatic_brightness">Luminozitate automată</string>
     <string name="available_size">%s disponibil</string>
@@ -396,7 +406,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="backtouch_enable_title">Ajustați volumul pentru partea posterioară</string>
     <string name="backup_configure_account_default_summary">În prezent, niciun cont nu stochează datele cu copii de rezervă</string>
     <string name="backup_configure_account_title">Cont de rezervă</string>
-    <string name="backup_data_summary">Creaţi o copie de rezervă pentru datele aplicaţiei, parolele Wi-Fi şi pentru alte setări pe serverele Google</string>
+    <string name="backup_data_summary">Creaţi o copie de rezervă pentru date, parolele Wi-Fi şi pentru alte setări pe serverele Google</string>
     <string name="backup_data_title">Creaţi o copie de rezervă pentru datele dvs.</string>
     <string name="backup_disabled">Creare copie de rezervă dezactivată</string>
     <string name="backup_erase_dialog_message">Doriţi să opriţi crearea copiilor de rezervă pentru parolele Wi-Fi, marcaje, alte setări, datele aplicaţiilor şi să ştergeţi toate copiile aflate pe serverele Google?</string>
@@ -622,7 +632,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bluetooth_incoming_pairing_msg">Notificare de la:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Asociaţi cu acest dispozitiv?</string>
     <string name="bluetooth_is_disconnect_question">Deconectați %1$s?</string>
     <string name="bluetooth_is_discoverable">Vizibil pt. dispoz. Bluetooth din aprop. (%1$s)</string>
-    <string name="bluetooth_is_discoverable_always">Vizibil pt. toate disp. Bluetooth din apropiere</string>
+    <string name="bluetooth_is_discoverable_always">Vizibil pentru toate dispozitivele Bluetooth din apropiere</string>
     <string name="bluetooth_is_visible_message">%1$s este vizibil pentru dispozitivele din apropiere atunci când se accesează setările Bluetooth.</string>
     <string name="bluetooth_lock_voice_dialing">Blocaţi apelarea vocală</string>
     <string name="bluetooth_lock_voice_dialing_summary">Împiedicaţi apelarea prin Bluetooth atunci când este blocat ecranul</string>
@@ -840,6 +850,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_action">Anulaţi</string>
     <string name="cancel_alert">Renunțați la modificări?</string>
+    <string name="cancel_button">renunțați</string>
     <string name="cancel_download_buton_text">Anulaţi</string>
     <string name="cant_sync_dialog_message">În prezent, sincronizarea pentru acest element este dezactivată. Pentru a schimba această setare, activaţi temporar datele de fundal şi sincronizarea automată.</string>
     <string name="cant_sync_dialog_title">Sincronizarea manuală nu este posibilă</string>
@@ -914,6 +925,8 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="close_gesture">Închidere utilizând gesturi</string>
     <string name="close_miui_optimization_title">Dezactivați optimizarea MIUI</string>
     <string name="close_miui_optimization_warning_message">Telefonul va reporni pentru aplicarea modificării. Notă: dezactivarea acestei caracteristici va produce modificări majore dispunerii și altor elemente ale sistemului.</string>
+    <string name="close_sdcard_optimization_title">opriți optimizarea virtuală a cardului SD</string>
+    <string name="close_sdcard_optimization_warning_message">Telefonul va reporni pentru a se aplica această modificare.</string>
     <string name="cloud_backup_section_title">Copie de rezervă Mi Cloud</string>
     <string name="cloud_backup_settings_section_title">Setări copie de rezervă</string>
     <string name="cloud_restore_section_summary">Restaurați aplicații, dispunerea Ecranului principal și setările de sistem</string>
@@ -1016,7 +1029,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="credentials_install_summary">Instalaţi certificate din spaţiul de stocare</string>
     <string name="credentials_not_erased">Nu s-a şters sp. stoc. cert.</string>
     <string name="credentials_old_password">Parola actuală:</string>
-    <string name="credentials_password_too_short">Minim 8 caractere.</string>
+    <string name="credentials_password_too_short">Parola trebuie să aibă cel puțin 8 caractere.</string>
     <string name="credentials_reset">Ştergeţi acreditările</string>
     <string name="credentials_reset_hint">Eliminaţi întregul conţinut?</string>
     <string name="credentials_reset_summary">Eliminaţi toate certificatele</string>
@@ -1152,7 +1165,7 @@ Din moment ce utilizarea datelor este măsurată de către telefonul dvs., iar o
     <string name="data_usage_menu_show_wifi">Afişaţi utilizarea Wi-Fi</string>
     <string name="data_usage_menu_sim_cards">Cartele SIM</string>
     <string name="data_usage_menu_split_4g">Utilizarea 4G afişată separat</string>
-    <string name="data_usage_metered_body">Selectaţi reţelele Wi-Fi care sunt hotspoturi mobile. Utilizarea acestor reţele de către aplicaţii poate fi restricţionată când ele se află în fundal. De asemenea, aplicaţiile pot emite o avertizare înainte de a utiliza aceste reţele pentru descărcări mari.</string>
+    <string name="data_usage_metered_body">Rețelele măsurate sunt tratate ca și rețele celulare când datele în fundal sunt restricționate. Aplicațiile pot avertiza înainte de a utiliza aceste rețele pentru a descărca volume mari de date.</string>
     <string name="data_usage_metered_mobile">Reţele mobile</string>
     <string name="data_usage_metered_title">Hotspoturi mobile</string>
     <string name="data_usage_metered_wifi">Reţele Wi-Fi</string>
@@ -1202,6 +1215,7 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="date_time_set_timezone">Selectaţi un fus orar</string>
     <string name="date_time_set_timezone_title">Fus orar</string>
     <string name="date_time_settings">Data şi ora</string>
+    <string name="day_of_week">Ziua din săptămână</string>
     <string name="debug_app">Selectaţi aplicaţia de depanare</string>
     <string name="debug_app_not_set">Nu aţi setat o aplicaţie de depanare</string>
     <string name="debug_app_set">Aplicaţie de depanare: %1$s</string>
@@ -1231,6 +1245,7 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="default_input_method">Selectaţi tastatura prestabilită</string>
     <string name="default_keyboard_layout">Implicit</string>
     <string name="default_phone_title">Aplicația de Telefon</string>
+    <string name="default_rule_name">regula programată nr. 1</string>
     <string name="default_sound">Sunet prestabilit</string>
     <string name="default_spell_checker">Corectorul ortografic implicit</string>
     <string name="default_usb_mode">Conexiune USB</string>
@@ -1239,6 +1254,7 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="delete_fingerprint_text">Eliminați amprenta</string>
     <string name="delete_legacy_fingerprint">Ștergeți</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminați această amprentă?</string>
+    <string name="delete_rule">ștergeți regulile</string>
     <string name="delete_saved_network">Ștergeți rețelele salvate</string>
     <string name="demo_mode">Mod Demo</string>
     <string name="demo_mode_summary">Afișează pictograme specifice în bara de stare pentru modul Demo</string>
@@ -1323,11 +1339,11 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="disabled_by_policy_title">Acțiune nepermisă</string>
     <string name="disconnect">deconectat</string>
     <string name="disconnected">Deconectat</string>
-    <string name="display_auto_rotate_rotate">Pornită</string>
-    <string name="display_auto_rotate_stay_in_current">Oprită</string>
-    <string name="display_auto_rotate_stay_in_landscape">Blochează în modul peisaj</string>
-    <string name="display_auto_rotate_stay_in_portrait">Blochează în modul portret</string>
-    <string name="display_auto_rotate_title">Auto-rotire ecran</string>
+    <string name="display_auto_rotate_rotate">Rotește conținutul de pe ecran</string>
+    <string name="display_auto_rotate_stay_in_current">Păstrează orientarea curentă</string>
+    <string name="display_auto_rotate_stay_in_landscape">Blochează la modul peisaj</string>
+    <string name="display_auto_rotate_stay_in_portrait">Blochează la modul portret</string>
+    <string name="display_auto_rotate_title">Când dispozitivul este rotit</string>
     <string name="display_font_size_label">Dimensiune font:</string>
     <string name="display_label">Ecran</string>
     <string name="display_order_text">Sortaţi după:</string>
@@ -1452,6 +1468,9 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="edge_mode_screenshot">Captură de ecran</string>
     <string name="edge_mode_screenshot_summary">Apăsați de două ori ambele margini pentru a realiza o captură de ecran</string>
     <string name="edge_touch_volume">Ajustați volumul în Edge Touch</string>
+    <string name="edit_rule">editați regulile</string>
+    <string name="edit_rules">editați</string>
+    <string name="eighthours">8 ore</string>
     <string name="emergency_info_title">Informații de urgență</string>
     <string name="emergency_tone_alert">Alertă</string>
     <string name="emergency_tone_silent">Silențios</string>
@@ -1473,7 +1492,7 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="enable_service_password_reason">Deoarece activarea %1$s afectează criptarea datelor, va trebui să vă confirmați parola.</string>
     <string name="enable_service_pattern_reason">Deoarece activarea %1$s afectează criptarea datelor, va trebui să vă confirmați modelul de deblocare.</string>
     <string name="enable_service_pin_reason">Deoarece activarea %1$s afectează criptarea datelor, va trebui să vă confirmați codul PIN.</string>
-    <string name="enable_service_title">Serviciul va realiza următoarele acțiuni:</string>
+    <string name="enable_service_title">Utilizați %1$s?</string>
     <string name="enable_snapshot_screenlock">Apăsați lung butonul Înapoi pentru a realiza o fotografie</string>
     <string name="enable_terminal_summary">Activați aplicația terminal care oferă acces la shell local</string>
     <string name="enable_terminal_title">Aplicație terminal locală</string>
@@ -1609,6 +1628,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="fingerprint_unlock_set_unlock_pin">Amprentă + PIN</string>
     <string name="fingerprint_usage_category_title">Utilizați amprenta pentru</string>
     <string name="finish_application">Opriţi</string>
+    <string name="finish_button">finalizați</string>
     <string name="finish_button_label">Finalizaţi</string>
     <string name="firmware_version">Versiune Android</string>
     <string name="floating_window_switch_label">Activaţi fereastra plutitoare</string>
@@ -1634,9 +1654,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="font_size_preview_text_title">Povestea lui Harap Alb</string>
     <string name="font_size_save">OK</string>
     <string name="font_size_small">Mai mic</string>
-    <string name="font_size_summary">"Se modifică dimensiunea fontului pentru textul de pe ecranul de pornire, panoul notificărilor, tastele numerice şi meniurile de sistem.
-
-"</string>
+    <string name="font_size_summary">Se modifică dimensiunea fontului.</string>
     <string name="font_size_summary1">"Dacă textul sistemului dvs. este încă prea mic, încercați "</string>
     <string name="font_size_summary2">Modul \"Uşor\"</string>
     <string name="forbidden_switch_apn_string">"Setările APN selectat nu se potrivesc tipului de rețea curentă"</string>
@@ -1668,6 +1686,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="forget_privacy_password_summary">Utilizați contul Mi pentru a vă reseta parola</string>
     <string name="forget_wifi_message">Telefonul nu se va mai conecta în mod automat la această rețea.</string>
     <string name="found_new_version">Actualizare disponibilă</string>
+    <string name="fourhours">2 ore</string>
     <string name="fp_nav_center_back_to_home_title">Apăsați butonul Acasă pentru a merge la ecranul principal</string>
     <string name="free_memory">Liberă</string>
     <string name="free_wifi_agreement_remind_never">Nu mai afişa din nou</string>
@@ -1760,7 +1779,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="header_category_device">DISPOZITIV</string>
     <string name="header_category_personal">PERSONAL</string>
     <string name="header_category_system">SISTEM</string>
-    <string name="header_category_wireless_networks">WIRELESS ŞI REŢELE MOBILE</string>
+    <string name="header_category_wireless_networks">WIRELESS ŞI REŢELE</string>
     <string name="header_data_and_synchronization">Datele şi sincronizarea</string>
     <string name="heavy_weight_stop_description">Această aplicaţie nu poate fi oprită în siguranţă. Oprirea aplicaţiei ar putea duce la pierderea datelor curente.</string>
     <string name="help_feedback_label">Ajutor și feedback</string>
@@ -1828,7 +1847,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="ignore_optimizations_on">Nu optimiza</string>
     <string name="ignore_optimizations_on_desc">Poate descărca mai rapid acumulatorul</string>
     <string name="ignore_optimizations_title">Permiteți %s să ignore optimizările acumulatorului?</string>
-    <string name="ime_security_warning">%1$s poate înregistra tot ce tastați, inclusiv datele personale (de ex. parolele şi numerele cardurilor de credit).</string>
+    <string name="ime_security_warning">Această metodă de introducere poate înregistra tot ce tastați, inclusiv datele personale (de ex. parolele şi numerele cardurilor de credit). Acest lucru provine de la aplicația %1$s. Utilizați această metodă de introducere?</string>
     <string name="imei_information_summary">Informații referitoare la IMEI</string>
     <string name="imei_information_title">Informații IMEI</string>
     <string name="immediately_destroy_activities">Nu păstraţi activităţile</string>
@@ -1842,7 +1861,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="incoming_call_breathing_light_freq_title">Frecvenţă pulsare indicator luminos intermitent pt. apeluri</string>
     <string name="incoming_call_volume_title">Ton de apel</string>
     <string name="information_dialog_button_text">Am înțeles</string>
-    <string name="input_method">Tastatură</string>
+    <string name="input_method">Metodă de introducere</string>
     <string name="input_method_selector">Selector al metodei de intrare</string>
     <string name="input_method_selector_always_hide_title">Ascundeţi întotdeauna</string>
     <string name="input_method_selector_always_show_title">Afişaţi întotdeauna</string>
@@ -1897,19 +1916,11 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="keyboard_layout_dialog_switch_hint">Pentru comutare, apăsaţi pe Control-Space</string>
     <string name="keyboard_layout_dialog_title">Alegeţi aspectul tastaturii</string>
     <string name="keyboard_layout_picker_title">Aspecte tastatură</string>
-    <string name="keyboard_settings_category">Metode de introducere</string>
+    <string name="keyboard_settings_category">Tastatură și metode de introducere</string>
     <string name="keyboard_settings_title">Tastatură Android</string>
     <string name="keyboard_shortcuts_helper">Ajutor scurtături tastatură</string>
     <string name="keyboard_shortcuts_helper_summary">Afișează scurtăturile disponibile</string>
     <string name="keyguard_advance_setting_title">Setări avansate</string>
-    <string name="keyguard_left_function_chooser_hint_text">Widget-ul din stânga s-a modificat în %s</string>
-    <string name="keyguard_left_function_chooser_title">Aplicație</string>
-    <string name="keyguard_left_function_title">Stânga</string>
-    <string name="keyguard_right_function_chooser_hint_text">Widget-ul din dreapta s-a modificat în %s</string>
-    <string name="keyguard_right_function_chooser_title">Aplicație</string>
-    <string name="keyguard_right_function_title">Dreapta</string>
-    <string name="keyguard_shortcut_summary">Setați în blocarea ecranului widgeturi pentru 2 aplicații</string>
-    <string name="keyguard_shortcut_title">Widgeturi în blocarea ecranului</string>
     <string name="keywords_accounts">cont</string>
     <string name="keywords_airplane">Avion;Mod Avion;Aeroplan;Mod Aeroplan;Zbor;Mod Zbor</string>
     <string name="keywords_all_apps">aplicații, descărcare, aplicație, sistem</string>
@@ -1965,8 +1976,8 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="keywords_voice_input">recunoaștere introducere vorbire cuvânt limbă hands-free mâini libere recunoaștere ofensator audio istoric bluetooth cască</string>
     <string name="keywords_vr_listener">vr, relitate virtuală, ascultare stereo, serviciu de ajutor</string>
     <string name="keywords_wifi">wifi;wi-fi;WLAN;WLAN;wlan;WLAN</string>
-    <string name="keywords_wifi_calling">wifi, wi-fi, apel, aplare</string>
-    <string name="keywords_write_settings">scriere modificare setări de sistem</string>
+    <string name="keywords_wifi_calling">wifi, wi-fi, apel, apelare</string>
+    <string name="keywords_write_settings">modificare setări de sistem</string>
     <string name="label_global_roaming_settings">Setări pentru roaming</string>
     <string name="language_keyboard_settings_title">Limbă şi metodă de introducere</string>
     <string name="language_picker_title">Limba</string>
@@ -2028,7 +2039,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="locale_not_translated">Este posibil să nu fie disponibil în unele aplicații</string>
     <string name="locale_remove_menu">Eliminați</string>
     <string name="locale_settings">Regiune</string>
-    <string name="location_access_summary">Aplicațiile pot obține date despre locația dumneavoastră</string>
+    <string name="location_access_summary">Permite aplicațiilor care v-au solicitat permisiunea să utilizeze informații despre locația dumneavoastră</string>
     <string name="location_access_title">Acces la locaţia mea</string>
     <string name="location_agps_apn_choose_dialog_title">Tipuri APN</string>
     <string name="location_agps_apn_summary">Selectaţi tipul APN preferat</string>
@@ -2042,7 +2053,6 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="location_agps_pref_reset_type_title">Tip resetare preferat</string>
     <string name="location_agps_pref_si_title">Mod preferat</string>
     <string name="location_agps_register_network_type">Tip accesare reţea</string>
-    <string name="location_agps_register_network_type_dialog_summary">Selectați o rețea</string>
     <string name="location_agps_register_network_type_dialog_title">Utilizați GPS Asistat</string>
     <string name="location_agps_register_network_type_summary">Selectaţi o reţea</string>
     <string name="location_agps_reset_type">Tipuri resetare</string>
@@ -2061,18 +2071,18 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="location_high_battery_use">Utilizarea intensă a acumulatorului</string>
     <string name="location_low_battery_use">Utilizarea redusă a acumulatorului</string>
     <string name="location_menu_scanning">Scanare</string>
-    <string name="location_mode_battery_saving_description">Utilizează rețelele Wi-Fi și mobile pentru determinarea locației</string>
+    <string name="location_mode_battery_saving_description">Utilizează rețelele Wi-Fi, Bluetooth-ul sau rețelele mobile pentru determinarea locației</string>
     <string name="location_mode_battery_saving_title">Economisirea acumulatorului</string>
-    <string name="location_mode_high_accuracy_description">Utilizează GPS-ul și rețelele Wi-Fi și mobile pentru determinarea locației</string>
+    <string name="location_mode_high_accuracy_description">Utilizează GPS-ul, rețelele Wi-Fi, Bluetooth-ul și rețelele mobile pentru determinarea locației</string>
     <string name="location_mode_high_accuracy_title">Precizie ridicată</string>
     <string name="location_mode_location_off_title">Locație dezactivată</string>
     <string name="location_mode_screen_title">Mod de localizare</string>
     <string name="location_mode_sensors_only_description">Utilizează GPS-ul pentru determinarea locației</string>
     <string name="location_mode_sensors_only_title">Numai pe dispozitiv</string>
     <string name="location_mode_title">Mod</string>
-    <string name="location_neighborhood_level">Permiteţi aplicaţiilor să utilizeze date din reţele Wi-Fi şi mobile pt. a determina locaţia dvs.</string>
+    <string name="location_neighborhood_level">Permiteţi aplicaţiilor să utilizeze serviciul de localizare Google pentru a estima mai rapid locația dvs. Date anonime despre locație vor fi colectate și trimise la Google.</string>
     <string name="location_neighborhood_level_wifi">Locaţie stabilită prin Wi-Fi</string>
-    <string name="location_network_based">Wi-Fi şi reţea mobilă</string>
+    <string name="location_network_based">Wi-Fi şi localizare prin reţeaua mobilă</string>
     <string name="location_no_recent_apps">Nicio aplicație nu a solicitat locația recent</string>
     <string name="location_off_summary">OPRIT</string>
     <string name="location_on_summary">PORNIT / %1$s</string>
@@ -2105,9 +2115,9 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="lock_screen_notifications_interstitial_title_profile">Notificări profil</string>
     <string name="lock_screen_notifications_summary_disable">"Nu afișa notificările"</string>
     <string name="lock_screen_notifications_summary_disable_profile">Nu afișa nicio notificare de Servici</string>
-    <string name="lock_screen_notifications_summary_hide">Arată toate notificările dar ascunde conținutul acestora</string>
+    <string name="lock_screen_notifications_summary_hide">Ascunde conținutul sensibil al notificărilor</string>
     <string name="lock_screen_notifications_summary_hide_profile">Ascunde notificările de Servici cu conținut sensibil</string>
-    <string name="lock_screen_notifications_summary_show">Afișează toate notificările și conținutul acestora</string>
+    <string name="lock_screen_notifications_summary_show">Afișează conținutul notificărilor</string>
     <string name="lock_screen_notifications_summary_show_profile">Afișează toate notificările de Servici</string>
     <string name="lock_screen_notifications_title">Când dispozitivul este blocat</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Solicită parola imediat</string>
@@ -2142,35 +2152,35 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="lock_sounds_enable_title">Sunet la blocarea ecranului</string>
     <string name="lockpassword_cancel_label">Anulaţi</string>
     <string name="lockpassword_choose_for_second_user">Setați parola pentru al doilea spațiu</string>
-    <string name="lockpassword_choose_lock_generic_header">Selectaţi metoda de blocare a ecranului</string>
-    <string name="lockpassword_choose_your_password_header">Setați parola</string>
+    <string name="lockpassword_choose_lock_generic_header">Selectaţi metoda de deblocare a ecranului</string>
+    <string name="lockpassword_choose_your_password_header">Selectați parola</string>
     <string name="lockpassword_choose_your_password_second_space">"Setați parola 
  pentru Spațiul secundar"</string>
-    <string name="lockpassword_choose_your_pattern_header">Setați modelul de deblocare</string>
-    <string name="lockpassword_choose_your_pin_header">Setați codul PIN</string>
+    <string name="lockpassword_choose_your_pattern_header">Selectați modelul de deblocare</string>
+    <string name="lockpassword_choose_your_pin_header">Selectați codul PIN</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"Setați codul PIN 
  pentru Spațiul secundar"</string>
     <string name="lockpassword_confirm_for_second_user">Confirmați parola pentru Spațiul Secundar</string>
     <string name="lockpassword_confirm_passwords_dont_match">Parolele nu corespund</string>
-    <string name="lockpassword_confirm_pins_dont_match">Parolele numerice nu corespund</string>
+    <string name="lockpassword_confirm_pins_dont_match">Codurile PIN nu corespund</string>
     <string name="lockpassword_confirm_workspace_password">Verificați parola Spațiului pentru Servici</string>
     <string name="lockpassword_confirm_your_lock_password_header">Confirmați parola</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">Confirmați modelul propriu</string>
-    <string name="lockpassword_confirm_your_password_generic">Introduceți parola dispozitivului pentru a continua.</string>
+    <string name="lockpassword_confirm_your_password_generic">Introduceți parola dispozitivului pentru a continua</string>
     <string name="lockpassword_confirm_your_password_generic_profile">Introduceți parola de Servici pentru a continua</string>
     <string name="lockpassword_confirm_your_password_header">Confirmaţi parola</string>
-    <string name="lockpassword_confirm_your_pattern_generic">Utilizați modelul propriu pentru a continua.</string>
+    <string name="lockpassword_confirm_your_pattern_generic">Utilizați modelul propriu pentru a continua</string>
     <string name="lockpassword_confirm_your_pattern_generic_profile">Utilizați modelul de Servici pentru a continua</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirmaţi modelul</string>
-    <string name="lockpassword_confirm_your_pin_generic">Introduceți codul PIN pentru a continua.</string>
+    <string name="lockpassword_confirm_your_pin_generic">Introduceți codul PIN pentru a continua</string>
     <string name="lockpassword_confirm_your_pin_generic_profile">Introduceți codul PIN de Servici pentru a continua</string>
     <string name="lockpassword_confirm_your_pin_header">Confirmaţi parola numerică</string>
     <string name="lockpassword_confirm_your_private_password_header">Confirmați parola</string>
     <string name="lockpassword_confirm_your_private_pattern_header">Confirmați modelul propriu</string>
     <string name="lockpassword_continue_label">Continuaţi</string>
     <string name="lockpassword_illegal_character">Parola conţine un caracter nepermis.</string>
-    <string name="lockpassword_invalid_password">Parolă incorectă</string>
-    <string name="lockpassword_invalid_pin">PIN incorect</string>
+    <string name="lockpassword_invalid_password">Parolă greșită</string>
+    <string name="lockpassword_invalid_pin">PIN greșit</string>
     <string name="lockpassword_ok_label">OK</string>
     <string name="lockpassword_password_recently_used">Administrator dispozitiv nu permite parolă recentă.</string>
     <string name="lockpassword_password_requires_alpha">Parola trebuie să conţină cel puţin o literă.</string>
@@ -2180,12 +2190,12 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="lockpassword_password_too_long">Parola trebuie să aibă mai puţin de %d caractere.</string>
     <string name="lockpassword_password_too_short">Parola trebuie să conţină minimum %d caractere</string>
     <string name="lockpassword_pattern_set_toast">Modelul a fost setat</string>
-    <string name="lockpassword_pin_contains_non_digits">Parola numerică trebuie să conţină numai cifre.</string>
+    <string name="lockpassword_pin_contains_non_digits">Codul PIN trebuie să conțină doar cifre de la 0 la 9.</string>
     <string name="lockpassword_pin_no_sequential_digits">O secvență de cifre crescătoare, descrescătoare sau repetitivă este interzisă</string>
-    <string name="lockpassword_pin_recently_used">Administr. dispoz. nu permite deblocarea cu PIN.</string>
-    <string name="lockpassword_pin_set_toast">PIN setat</string>
+    <string name="lockpassword_pin_recently_used">Administratorul dispozitivului nu permite utilizarea unui cod PIN recent.</string>
+    <string name="lockpassword_pin_set_toast">Codul PIN a fost setat</string>
     <string name="lockpassword_pin_too_long">Codul PIN trebuie să conțină cel mult %d cifre.</string>
-    <string name="lockpassword_pin_too_short">Parola numerică trebuie să aibă minimum %d caractere</string>
+    <string name="lockpassword_pin_too_short">Codul PIN trebuie să aibă minimum %d caractere</string>
     <string name="lockpassword_strong_auth_required_reason_restart_device_password">Introduceți parola dispozitivului pentru a continua. E necesară după repornirea dispozitivului.</string>
     <string name="lockpassword_strong_auth_required_reason_restart_device_pattern">Utilizați modelul dispozitivului pentru a continua. E necesar după repornirea dispozitivului.</string>
     <string name="lockpassword_strong_auth_required_reason_restart_device_pin">Introduceți codul PIN al dispozitivului pentru a continua. E necesar după repornirea dispozitivului.</string>
@@ -2193,12 +2203,12 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="lockpassword_strong_auth_required_reason_restart_work_pattern">Utilizați modelul de Servici pentru a continua. E necesar după repornirea dispozitivului.</string>
     <string name="lockpassword_strong_auth_required_reason_restart_work_pin">Introduceți codul PIN de Servici pentru a continua. E necesar după repornirea dispozitivului.</string>
     <string name="lockpattern_change_lock_pattern_label">Modificaţi modelul pentru deblocare</string>
-    <string name="lockpattern_change_lock_pin_label">Modificaţi parola numerică de deblocare</string>
+    <string name="lockpattern_change_lock_pin_label">Modificaţi codul PIN de deblocare</string>
     <string name="lockpattern_confirm_button_text">Confirmaţi</string>
     <string name="lockpattern_continue_button_text">Continuaţi</string>
     <string name="lockpattern_need_to_confirm">Desenaţi din nou modelul pentru a confirma</string>
-    <string name="lockpattern_need_to_unlock_wrong">Încercaţi din nou:</string>
-    <string name="lockpattern_pattern_confirmed_header">Noul dvs. model pentru deblocare</string>
+    <string name="lockpattern_need_to_unlock_wrong">Model de deblocare greșit</string>
+    <string name="lockpattern_pattern_confirmed_header">Noul dvs. model de deblocare</string>
     <string name="lockpattern_pattern_entered_header">Model înregistrat</string>
     <string name="lockpattern_pattern_same_with_others">Trebuie să fie diferită de parola pentru celălalt Spațiu</string>
     <string name="lockpattern_pattern_same_with_owner">Trebuie să fie diferită de parola pentru spațiul principal</string>
@@ -2206,13 +2216,13 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="lockpattern_recording_incorrect_too_short">Conectaţi minimum %d puncte. Încercaţi din nou</string>
     <string name="lockpattern_recording_inprogress">Ridicaţi degetul când aţi terminat</string>
     <string name="lockpattern_recording_intro_footer">Apăsaţi pe Meniu pentru ajutor</string>
-    <string name="lockpattern_recording_intro_header">Desenaţi un model pentru deblocare</string>
+    <string name="lockpattern_recording_intro_header">Desenaţi un model de deblocare</string>
     <string name="lockpattern_recording_intro_header_second_space">Desenați un model de deblocare pentru al doilea spațiu:</string>
     <string name="lockpattern_restart_button_text">Desenați din nou</string>
     <string name="lockpattern_retry_button_text">Goliți</string>
     <string name="lockpattern_settings_change_lock_pattern">Modificaţi modelul pentru deblocare</string>
     <string name="lockpattern_settings_choose_lock_pattern">Setaţi modelul pentru deblocare</string>
-    <string name="lockpattern_settings_enable_power_button_instantly_locks">Blocare cu butonul de pornire</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Blocare instantanee cu butonul de pornire</string>
     <string name="lockpattern_settings_enable_summary">Trebuie să desenaţi modelul pentru a debloca ecranul</string>
     <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrare la atingere</string>
     <string name="lockpattern_settings_enable_title">Solicitaţi model</string>
@@ -2405,16 +2415,16 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_allow_vibrate">Vibrații</string>
     <string name="miui_data_usage_menu_metered">Hotspot-uri mobile</string>
     <string name="miui_experience_optimization">Activați optimizarea MIUI</string>
-  <string name="miui_lab_feature_applied">Aplicat</string>
-  <string name="miui_lab_feature_off">Oprit</string>
-  <string name="miui_lab_feature_on">Pornit</string>
-  <string name="miui_lab_features">Caracteristici laborator MIUI</string>
-  <string name="miui_lab_gallery_search_desc">Căutare îmbunătățită a imaginilor</string>
-  <string name="miui_lab_gallery_search_title">Găsire fotografii din Galerie</string>
-  <string name="miui_lab_settings">Laborator MIUI</string>
-  <string name="miui_lab_slogan">Învață. Explorează. Descoperă.</string>
-  <string name="miui_lab_taplus_desc">Apăsați și mențineți apăsat pentru a declanșa scurtăturile</string>
-  <string name="miui_lab_taplus_title">Declanșare aplicații</string>
+    <string name="miui_lab_feature_applied">Aplicat</string>
+    <string name="miui_lab_feature_off">Oprit</string>
+    <string name="miui_lab_feature_on">Pornit</string>
+    <string name="miui_lab_features">Caracteristici laborator MIUI</string>
+    <string name="miui_lab_gallery_search_desc">Căutare îmbunătățită a imaginilor</string>
+    <string name="miui_lab_gallery_search_title">Găsire fotografii din Galerie</string>
+    <string name="miui_lab_settings">Laborator MIUI</string>
+    <string name="miui_lab_slogan">Învață. Explorează. Descoperă.</string>
+    <string name="miui_lab_taplus_desc">Apăsați și mențineți apăsat pentru a declanșa scurtăturile</string>
+    <string name="miui_lab_taplus_title">Declanșare aplicații</string>
     <string name="miui_screen_config_title">Setări Ecran principal</string>
     <string name="mms_breathing_light_color_title">Mesaje</string>
     <string name="mms_breathing_light_freq_title">Frecvenţă pulsare indicator luminos intermitent pentru mesaje</string>
@@ -2587,13 +2597,13 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="no_default_home">Niciun ecran Acasă implicit</string>
     <string name="no_device_admins">Nu există niciun administrator de dispozitive disponibil</string>
     <string name="no_internet_access_remember">Nu întreba din nou pentru această rețea</string>
-    <string name="no_internet_access_text">Rețeaua Wi-Fi %1$s nu are acces la internet. Rămâneți conectat?</string>
+    <string name="no_internet_access_text">Această rețea Wi-Fi nu are acces la internet. Rămâneți conectat?</string>
     <string name="no_media_button_receiver">Nu</string>
     <string name="no_memory_use_summary">Fără utilizarea memoriei în ultimele 3 ore</string>
     <string name="no_nearby_wifi">Nu s-au detectat reţele Wi-Fi</string>
     <string name="no_notification_listeners">Nu există nicio aplicație de ascultare a notificărilor instalată.</string>
     <string name="no_running_services">Nu rulează niciun serviciu</string>
-    <string name="no_services">Nu există servicii active</string>
+    <string name="no_services">Inactiv</string>
     <string name="no_trust_agents">Nu există agenți de încredere</string>
     <string name="no_update_found">Rulați cea mai recentă versiune a MIUI</string>
     <string name="no_updates_found">Rulați cea mai recentă versiune a MIUI</string>
@@ -2732,7 +2742,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="owner_info_settings_edit_text_hint">De ex. telefonul lui Mihai</string>
     <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary" />
-    <string name="owner_info_settings_title">Informații proprietar în Blocarea ecranului</string>
+    <string name="owner_info_settings_title">Mesaj în Blocarea ecranului</string>
     <string name="owner_space">Spațiul Secundar</string>
     <string name="packages_subtitle">Pachete incluse</string>
     <string name="page_layout_1">Duminică 16 august</string>
@@ -2879,7 +2889,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="power_usage_list_summary">Utilizare de la ultima încărcare completă</string>
     <string name="power_usage_not_available">Date utilizare acumulator indisponibile.</string>
     <string name="power_usage_summary">Ce funcţii au utilizat acumulatorul</string>
-    <string name="power_usage_summary_title">Acumulator şi performanţă</string>
+    <string name="power_usage_summary_title">Acumulator</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Aplicații preinstalate</string>
     <string name="pref_button_light">Iluminare butoane</string>
@@ -3052,11 +3062,11 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="proxy_error_invalid_host">Numele de gazdă introdus nu este valid.</string>
     <string name="proxy_error_invalid_port">Portul introdus nu este valid.</string>
     <string name="proxy_exclusionlist_hint">example.com, mycomp.test.com, localhost</string>
-    <string name="proxy_exclusionlist_label">Evitaţi utilizarea pentru</string>
+    <string name="proxy_exclusionlist_label">Evitaţi proxy pentru</string>
     <string name="proxy_hostname_hint">proxy.example.com</string>
-    <string name="proxy_hostname_label">Nume de gazdă</string>
+    <string name="proxy_hostname_label">Nume de gazdă proxy</string>
     <string name="proxy_port_hint">8080</string>
-    <string name="proxy_port_label">Port</string>
+    <string name="proxy_port_label">Port proxy</string>
     <string name="proxy_settings_label">Setări proxy</string>
     <string name="proxy_settings_title">Setări proxy</string>
     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
@@ -3333,7 +3343,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="screen_saturation">Saturaţie</string>
     <string name="screen_timeout">Inactivitate</string>
     <string name="screen_timeout_summary">După %1$s de inactivitate</string>
-    <string name="screen_timeout_title">Durată inactivitate ecran</string>
+    <string name="screen_timeout_title">Ecranul se închide</string>
     <string name="screen_zoom_conversation_icon_alex">A</string>
     <string name="screen_zoom_conversation_icon_pete">P</string>
     <string name="screen_zoom_conversation_message_1">Salut Petru!</string>
@@ -3682,13 +3692,13 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="service_background_processes">%1$s liber(i)</string>
     <string name="service_client_name">%1$s</string>
     <string name="service_foreground_processes">%1$s util.</string>
-    <string name="service_manage">Configurare</string>
+    <string name="service_manage">Setări</string>
     <string name="service_manage_description">%1$s: se află în prezent în uz. Atingeţi Setări pentru a controla serviciul.</string>
     <string name="service_process_name">%1$s</string>
     <string name="service_restarting">Reporneşte</string>
     <string name="service_started_by_app">Iniţiat de aplicaţie</string>
     <string name="service_stop">Opriţi</string>
-    <string name="service_stop_description">O aplicaţie a pornit acest serviciu. Oprirea lui poate duce la funcţionarea anormală a aplicaţiei.</string>
+    <string name="service_stop_description">Acest serviciu a fost pornit de către aplicația sa. Oprirea lui poate duce la funcţionarea anormală a aplicaţiei.</string>
     <string name="services_subtitle">Servicii</string>
     <string name="set_data_limit">Setați limita de date</string>
     <string name="set_data_time_range">Afișează intervalul de timp</string>
@@ -3774,7 +3784,7 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="silent_standard">Silențios</string>
     <string name="silent_time">Durată mod Silențios</string>
     <string name="silent_total">Nu deranjați</string>
-    <string name="sim_bad_pin">Introduceți un cod PIN format din 4-8 cifre</string>
+    <string name="sim_bad_pin">Cod PIN incorect</string>
     <string name="sim_call_back_title">Apelați de pe SIM-ul implicit</string>
     <string name="sim_calls_always_use">Utilizați întotdeauna acest SIM pentru a apela</string>
     <string name="sim_calls_ask_first_prefs_title">Întreabă întâi</string>
@@ -3806,8 +3816,8 @@ Codul PIN poate fi incorect.</string>
     <string name="sim_lock_change_not_supported">Imposibil de modificat blocarea cartelei SIM</string>
     <string name="sim_lock_failed">"Nu se poate modifica starea de blocare a cartelei SIM.
 Codul PIN poate fi incorect."</string>
-    <string name="sim_lock_off">Solicitaţi codul PIN pentru utilizarea telefonului</string>
-    <string name="sim_lock_on">Solicitaţi codul PIN pentru utilizarea telefonului</string>
+    <string name="sim_lock_off">Solicitaţi codul PIN pentru a utiliza telefonul</string>
+    <string name="sim_lock_on">Solicitaţi codul PIN pentru a utiliza telefonul</string>
     <string name="sim_lock_settings">Setări de blocare a cartelei SIM</string>
     <string name="sim_lock_settings_category">Configuraţi blocarea cartelei SIM</string>
     <string name="sim_lock_settings_title">Blocare cartelă SIM</string>
@@ -3872,7 +3882,7 @@ Codul PIN poate fi incorect."</string>
     <string name="sort_max_use">Sortați după utilizarea maximă</string>
     <string name="sort_order_alpha">Sortaţi după nume</string>
     <string name="sort_order_size">Sortaţi după dimensiune</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Ton de sonerie şi vibraţii</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Ton de apel şi vibraţii</string>
     <string name="sound_category_sound_title">General</string>
     <string name="sound_category_system_title">Sistem</string>
     <string name="sound_effects_enable_title">Sunete la atingere</string>
@@ -4026,7 +4036,7 @@ Mutați fișierele multimedia pe alte medii de stocare de pe dispozitiv, sau tra
 
 "&lt;b&gt;Faceți o copie de rezervă pentru aplicații&lt;/b&gt;" 
 Toate aplicațiile stocate pe acest ^1 vor fi dezinstalate iar datele lor vor fi eliminate. Pentru a păstra aceste aplicații, mutați-le pe un mediu de stocare alternativ de pe dispozitiv."</string>
-    <string name="storage_internal_title">Stocare non-sistem</string>
+    <string name="storage_internal_title">Stocare dispozitiv</string>
     <string name="storage_internal_unmount_details">&lt;b&gt;Când veți scoate acest ^1, aplicațiile stocate pe acesta se vor opri, iar fișierele multimedia stocate pe acesta nu vor fi disponibile până când nu îl veți reintroduce.&lt;/b&gt;" 
 
 Acest ^1 este formatat pentru a funcționa doar pe acest dispozitiv. Nu v&amp;#8217;a funcționa pe alte dispozitive."</string>
@@ -4344,7 +4354,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="unknown_app">Aplicație necunoscută</string>
     <string name="unlock_change_lock_password_title">Modificaţi parola complexă pentru deblocare</string>
     <string name="unlock_change_lock_pattern_title">Modificaţi modelul pentru deblocare</string>
-    <string name="unlock_change_lock_pin_title">Modificaţi parola numerică de deblocare</string>
+    <string name="unlock_change_lock_pin_title">Modificaţi codul PIN de deblocare</string>
     <string name="unlock_disable_frp_warning_content_password">Caracteristicile de protecție a dispozitivului nu vor funcționa fără parola dumneavoastră.</string>
     <string name="unlock_disable_frp_warning_content_password_fingerprint">"Caracteristicile de protecție a dispozitivului nu vor funcționa fără parola dumneavoastră.
 
@@ -4388,7 +4398,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="unlock_set_unlock_biometric_weak_summary">Securitate redusă, experimental</string>
     <string name="unlock_set_unlock_biometric_weak_title">Deblocare facială</string>
     <string name="unlock_set_unlock_disabled_summary">Dez. de adm., dator. pol. crip. sau a stoc. acred.</string>
-    <string name="unlock_set_unlock_launch_picker_change_summary">Modificaţi sau dezactivaţi modelul, codul sau parola</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Modificaţi sau dezactivaţi modelul, codul PIN sau parola de securitate</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Modificaţi bloc. ecran.</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">Alegeţi o metodă pentru a bloca ecranul</string>
     <string name="unlock_set_unlock_launch_picker_title">Blocarea ecranului</string>
@@ -4399,14 +4409,14 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="unlock_set_unlock_mode_pattern">Model</string>
     <string name="unlock_set_unlock_mode_pin">Parolă numerică</string>
     <string name="unlock_set_unlock_none_summary">Fără securitate</string>
-    <string name="unlock_set_unlock_none_title">Fără</string>
+    <string name="unlock_set_unlock_none_title">Glisare</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_off_title">Fără</string>
-    <string name="unlock_set_unlock_password_summary">Introduceţi patru sau mai multe litere sau cifre pentru a debloca dispozitivul</string>
+    <string name="unlock_set_unlock_password_summary">Securitate sporită</string>
     <string name="unlock_set_unlock_password_title">Parolă complexă</string>
-    <string name="unlock_set_unlock_pattern_summary">Desenați un model pentru a debloca dispozitivul</string>
+    <string name="unlock_set_unlock_pattern_summary">Securitate medie</string>
     <string name="unlock_set_unlock_pattern_title">Model</string>
-    <string name="unlock_set_unlock_pin_summary">Introduceți patru cifre pentru a debloca dispozitivul</string>
+    <string name="unlock_set_unlock_pin_summary">Securitate medie spre ridicată</string>
     <string name="unlock_set_unlock_pin_title">Parolă numerică</string>
     <string name="unlock_set_unlock_summary">Setaţi o blocare pentru ecran</string>
     <string name="unlock_setup_wizard_fingerprint_details">Odată ce ați setat o metodă de blocare a ecranului, puteți seta și amprenta în Setări &gt; Securitate.</string>
@@ -4513,9 +4523,9 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="user_add_user_menu">Adăugaţi utilizator</string>
     <string name="user_add_user_message_long">"Puteţi să permiteţi accesul la acest gadget altor persoane, prin adăugarea unor utilizatori suplimentari. Fiecare utilizator are propriul spaţiu, pe care îl poate personaliza cu propriile sale aplicaţii, imagini de fundal şi aşa mai departe. De asemenea, utilizatorii pot ajusta setările tabletei(cum ar fi setările pentru Wi-Fi), care afectează toţi utilizatorii.
 
-După ce creaţi un utilizator nou, respectiva persoană trebuie să parcurgă un proces de configurare.
+După ce adăugați un utilizator nou, respectiva persoană trebuie să își configureze spațiile de lucru.
 
-Oricare utilizator poate accepta permisiunile aplicaţiilor actualizate în numele tuturor celorlalţi utilizatori."</string>
+Oricare utilizator poate actualiza aplicațiile pentru toți ceilalți utilizatori."</string>
     <string name="user_add_user_message_short">"După ce creaţi un utilizator nou, respectiva persoană trebuie să parcurgă un proces de configurare.
 
 Oricare utilizator poate accepta permisiunile aplicaţiilor actualizate în numele tuturor celorlalţi utilizatori."</string>
@@ -4550,8 +4560,7 @@ Oricare utilizator poate accepta permisiunile aplicaţiilor actualizate în nume
     <string name="user_dict_settings_context_menu_delete_title">Ştergeţi</string>
     <string name="user_dict_settings_context_menu_edit_title">Modificaţi</string>
     <string name="user_dict_settings_edit_dialog_title">Modificaţi cuvântul</string>
-    <string name="user_dict_settings_empty_text">"Nu există niciun dicţionar.
-Atingeți butonul (+) pentru a adăuga cuvinte."</string>
+    <string name="user_dict_settings_empty_text">Nu există niciun cuvânt în dicţionarul utilizatorului. Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="user_dict_settings_more_languages">Mai multe limbi…</string>
     <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_title">Dicționar personal</string>
@@ -4668,12 +4677,12 @@ Atingeți butonul (+) pentru a adăuga cuvinte."</string>
     <string name="voice_search_settings_title">Căutare vocală</string>
     <string name="voice_service_preference_section_title">Servicii intrare voce</string>
     <string name="volte_provisioned_switch_string">Furnizor VoLTE</string>
-    <string name="volume_alarm_description">Volum alarme</string>
+    <string name="volume_alarm_description">Alarme</string>
     <string name="volume_alarm_mute">Dezactivaţi sunetul alarmelor</string>
     <string name="volume_bluetooth_description">Volum bluetooth</string>
     <string name="volume_category_title">Volum</string>
     <string name="volume_hifi_description">Setări Hi-Fi</string>
-    <string name="volume_media_description">Volum pt. muzică, videoclipuri, jocuri şi alt conţinut media</string>
+    <string name="volume_media_description">Volum pentru muzică, videoclipuri, jocuri şi alt conţinut media</string>
     <string name="volume_media_mute">Dezactivaţi sunetul muzicii şi al altui conţinut media</string>
     <string name="volume_notification_description">Notificări</string>
     <string name="volume_notification_mute">Dezactivaţi sunetul notificărilor</string>
@@ -4690,10 +4699,10 @@ Atingeți butonul (+) pentru a adăuga cuvinte."</string>
     <string name="vpn_configure">Configurare</string>
     <string name="vpn_connect">Conectaţi</string>
     <string name="vpn_connect_to">Conectaţi-vă la %s</string>
-    <string name="vpn_create">Creaţi VPN</string>
+    <string name="vpn_create">Adăugați un profil VPN</string>
     <string name="vpn_disconnect">Deconectați</string>
     <string name="vpn_disconnect_confirm">Deconectați acest VPN.</string>
-    <string name="vpn_dns_servers">Servere DNS</string>
+    <string name="vpn_dns_servers">Servere DNS (de ex. 8.8.8.8)</string>
     <string name="vpn_dns_servers_hint">de ex., 8.8.8.8</string>
     <string name="vpn_done">Renunțați</string>
     <string name="vpn_edit">Editaţi profilul VPN</string>
@@ -4727,7 +4736,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte."</string>
     <string name="vpn_replace">Înlocuiți</string>
     <string name="vpn_replace_always_on_vpn_message">"Sunteți deja conectat la un VPN. Dacă vă conectați la un altul, VPN-ul existent va fi înlocuit."</string>
     <string name="vpn_replace_always_on_vpn_title">Înlocuiți VPN-ul existent?</string>
-    <string name="vpn_routes">Rute de redirecţionare</string>
+    <string name="vpn_routes">Rute de redirecţionare (de ex. 10.0.0.0/8)</string>
     <string name="vpn_routes_hint">de ex.: 10.0.0.0/8</string>
     <string name="vpn_safe">Securitate</string>
     <string name="vpn_save">Salvaţi</string>
@@ -4894,8 +4903,8 @@ Asistent Wi-Fi"</string>
     <string name="wifi_eap_method">Metodă EAP</string>
     <string name="wifi_eap_sim_simcard">Selectaţi cartela SIM</string>
     <string name="wifi_eap_user_cert">Certificat de utilizator</string>
-    <string name="wifi_empty_list_user_restricted">Nu aveți permisiunea să modificați această rețea.</string>
-    <string name="wifi_empty_list_wifi_off">Pentru a vizualiza rețelele disponibile, activați Wi-Fi</string>
+    <string name="wifi_empty_list_user_restricted">Nu aveți permisiunea să modificați rețeaua Wi-Fi.</string>
+    <string name="wifi_empty_list_wifi_off">Pentru a vedea rețelele disponibile, activați Wi-Fi</string>
     <string name="wifi_empty_list_wifi_on">Se caută reţele Wi-Fi…</string>
     <string name="wifi_enable">Activaţi Wi-Fi</string>
     <string name="wifi_enable_data_and_wifi_roam">Asistent Wi-Fi</string>
@@ -4943,11 +4952,11 @@ Asistent Wi-Fi"</string>
     <string name="wifi_menu_scan">Scanaţi</string>
     <string name="wifi_menu_wfd">Ecran wireless</string>
     <string name="wifi_menu_wps_pbc">Buton WPS</string>
-    <string name="wifi_menu_wps_pin">Introduceţi PIN WPS</string>
+    <string name="wifi_menu_wps_pin">Introduceţi codul PIN WPS</string>
     <string name="wifi_menu_write_to_nfc">Scrieți eticheta NFC</string>
     <string name="wifi_more">Mai multe</string>
     <string name="wifi_multiple_cert_added">(Multiple certificate adăugate)</string>
-    <string name="wifi_network_prefix_length">Lungime prefix</string>
+    <string name="wifi_network_prefix_length">Lungime prefix rețea</string>
     <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_domain_warning">Trebuie precizat un domeniu.</string>
     <string name="wifi_no_internet">"Nu există acces la Internet; nu se va reconecta în mod automat."</string>
@@ -4982,7 +4991,7 @@ Asistent Wi-Fi"</string>
     <string name="wifi_p2p_wps_setup">Configuraţi Wi-Fi protejat</string>
     <string name="wifi_password">Parolă</string>
     <string name="wifi_poor_network_detection">Evitaţi conexiunile slabe</string>
-    <string name="wifi_poor_network_detection_summary">Nu utilizaţi o reţea Wi-Fi, cu excepţia cazului în care aceasta are o conexiune la internet adecvată</string>
+    <string name="wifi_poor_network_detection_summary">Nu utilizaţi o reţea Wi-Fi decât dacă are o conexiune bună la internet</string>
     <string name="wifi_priority_changed" formatted="false">Valorile pentru prioritate vechi= %s | valorile noi= %s</string>
     <string name="wifi_priority_label">Prioritate</string>
     <string name="wifi_priority_settings_label">Setări prioritate</string>
@@ -5049,7 +5058,7 @@ Permiteți acest lucru pentru toate aplicațiile care solicită scanarea?"</stri
     <string name="wifi_setup_connect">Conect.</string>
     <string name="wifi_setup_description_connected">Atingeţi &lt;b&gt;Înainte&lt;/b&gt;" pentru a continua configurarea.
 
-Atingeţi "&lt;b&gt;Înapoi&lt;/b&gt; pentru a vă conecta la o altă reţea Wi-Fi."</string>
+Atingeţi "&lt;b&gt;Înapoi&lt;/b&gt; pentru a vă conecta la o altă reţea Wi&amp;#8209;Fi."</string>
     <string name="wifi_setup_description_connecting">Conectarea poate dura câteva minute…</string>
     <string name="wifi_setup_detail">Detalii reţea</string>
     <string name="wifi_setup_eap_not_supported">Nu puteţi configura o conexiune Wi-Fi EAP în timpul instalării. După instalare, puteţi face acest lucru în Setări > Reţele wireless.</string>
@@ -5112,7 +5121,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_skip_anyway">Ignoraţi oricum</string>
     <string name="wifi_skipped_message">AVERTISMENT: puteţi acumula costuri suplimentare pentru date de la operator.\n\nConfigurarea telefonului poate presupune o activitate semnificativă în reţea.</string>
     <string name="wifi_speed">Viteză link</string>
-    <string name="wifi_ssid">SSID</string>
+    <string name="wifi_ssid">Numele rețelei</string>
     <string name="wifi_ssid_hint">Introduceţi SSID</string>
     <string name="wifi_starting">Se activează Wi-Fi…</string>
     <string name="wifi_state_disabled">Dezactivat</string>
