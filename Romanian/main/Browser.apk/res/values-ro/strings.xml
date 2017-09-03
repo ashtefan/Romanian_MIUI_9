@@ -922,11 +922,14 @@ Părăsiţi această pagină?"</string>
     <string name="view_certificate">Vizualizaţi certificatul</string>
     <string name="view_document_downloaded_files">Vizualizați fișierele descărcate în Descărcări</string>
     <string name="voice_check_network">Verificați setările de rețea și încercați din nou.</string>
+    <string name="voice_close_description">Închideți</string>
     <string name="voice_connect_network">"Nu s-a putut conecta la rețea."</string>
     <string name="voice_description">Căutare vocală</string>
     <string name="voice_network_connection">Căutarea vocală trebuie să se conecteze la internet pentru a funcționa în mod normal.</string>
     <string name="voice_search_permission">Căutarea vocală trebuie să acceseze microfonul pentru a funcționa în mod normal.</string>
     <string name="voice_semantic_analysis">Browser-ul va putea analiza semantica după ce îi veți permite conectarea.</string>
+    <string name="voice_start_description">Start</string>
+    <string name="voice_stop_description">Stop</string>
     <string name="voice_sub_title">"Nu știţi ce să spuneţi? Încercaţi Deschide mi.com!"</string>
     <string name="voice_title">Rostiți comanda dvs…</string>
     <string name="voice_title_distinguish">Procesare…</string>

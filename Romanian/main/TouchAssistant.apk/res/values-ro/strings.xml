@@ -53,7 +53,7 @@
     <string name="restore_intro">"Restaurați la valorile implicite, inclusiv funcțiile și ordinea lor. Datele din telefon nu vor fi șterse."</string>
     <string name="show_on_keyguard">Afișare în blocarea ecranului</string>
     <string name="theme_manager_not_supported">"Managerul de teme nu este suportat."</string>
-    <string name="three_seconds_auto_hide">Restrânge la margine după 3 secunde de inactivitate</string>
+    <string name="three_seconds_auto_hide">Restrânge la marginea ecranului după 3 secunde de inactivitate</string>
     <string name="vector_large_circle">m93,200c0,-59.11602 47.88398,-107 107,-107c59.11602,0 107,47.88398 107,107c0,59.11602 -47.88398,107 -107,107c-59.11602,0 -107,-47.88398 -107,-107z</string>
     <string name="vector_large_crossA">M160,160 L240,240</string>
     <string name="vector_large_crossB">M240,160 L160,240</string>
