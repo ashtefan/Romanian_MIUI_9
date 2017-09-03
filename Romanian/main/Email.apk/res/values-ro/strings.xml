@@ -153,7 +153,7 @@ Actualizaţi acum?"</string>
     <string name="account_setup_server_acc_manager_title">Conturi</string>
     <string name="account_setup_username_password_toast">Introduceţi o adresă de e-mail şi o parolă valide.</string>
     <string name="account_sync_off">Sincronizare cont dezactivată.</string>
-    <string name="account_sync_settings_settings">Sincronizare contacte și calendare</string>
+    <string name="account_sync_settings_settings">Sincronizare contacte și calendare asociate conturilor</string>
     <string name="account_sync_settingstip_description">Sincronizare setări</string>
     <string name="account_waiting_for_folders_msg">Încărcare dosare…</string>
     <string name="actionbar_large_unread_count">%1$d+ necitite</string>
@@ -335,7 +335,7 @@ Actualizaţi acum?"</string>
     <string name="conversation_item_mark_unread">Necitit</string>
     <string name="conversation_msg_header_collapsed_sent_to">"Trimis la "</string>
     <string name="conversation_photo_welcome_text">Atingeți imaginea expeditorului pentru a selecta o conversație.</string>
-    <string name="conversation_pull_ad_content">Manager eficient al e-mailului</string>
+    <string name="conversation_pull_ad_content">Manager eficient al e-mailurilor</string>
     <string name="conversation_quick_button_approve">OK</string>
     <string name="conversation_quick_button_disapprove">Renunțați</string>
     <string name="conversation_quick_button_received">Primite</string>
@@ -950,7 +950,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="saved">Salvat,  %s</string>
     <string name="saving">Salvare…</string>
     <string name="sdcard_cannot_use">Cardul SD nu poate fi utilizat</string>
-    <string name="search_bar_text">Căutați după subiect, expeditor</string>
+    <string name="search_bar_text">Căutați după subiect, expeditor...</string>
     <string name="search_hint">Căutare e-mail</string>
     <string name="search_result">"Rezultate "</string>
     <string name="search_tabs_name_all">Toate</string>

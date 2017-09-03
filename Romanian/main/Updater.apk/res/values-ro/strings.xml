@@ -71,6 +71,11 @@
     <string name="continue_update_positive_btn">Stop</string>
     <string name="daily_build">Zilnic</string>
     <string name="delay_update_text">Actualizați mai târziu</string>
+    <string name="dialog_3g_desc">Luați aminte că descărcarea actualizării utilizând datele mobile va conduce la un trafic de date important.</string>
+    <string name="dialog_3g_title">Avertizare!</string>
+    <string name="dialog_btn_3g">Continui oricum</string>
+    <string name="dialog_btn_wifi">Comutați la Wi-Fi</string>
+
     <string name="dialog_delay_update_cancel">Renunțați</string>
     <string name="dialog_delay_update_msg">"Telefonul va reporni pentru aplicarea actualizării atunci când va fi pornit iar acumulatorul va avea cel puțin 30% energie"</string>
     <string name="dialog_delay_update_title">Actualizare disponibilă</string>
@@ -81,7 +86,7 @@
   <string name="download_done">Descărcat cu succes!</string>
   <string name="download_fail">Eroare survenită în timpul descărcării!</string>
   <string name="download_fail_desc">Codul MD5 Sum nu se potrivește…</string>
-  <string name="downloading">Se descarcă…</string>
+  <string name="downloading">Se descarcă:</string>
   <string name="downloading_desc">Descărcare în curs; verificați starea în bara de notificări.</string>
     <string name="download_diff">Descărcare diferenţă (diff)</string>
     <string name="download_error">Ceva a mers prost. Așteptați un minut sau două și încercați din nou.</string>

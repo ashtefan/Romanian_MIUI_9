@@ -56,6 +56,7 @@
     <string name="feedback_collect_log_failed">"Nu s-au putut obține rapoartele de eroare"</string>
     <string name="feedback_contact_info_hint">Număr de telefon/E-mail</string>
     <string name="feedback_continue">Continuați expunerea problemei</string>
+    <string name="feedback_delete_images">Ștergeți imaginile</string>
     <string name="feedback_description">Descriere</string>
     <string name="feedback_description_bugreport_hint">În unele situații (…) telefonul meu se comportă anormal (…).</string>
     <string name="feedback_description_label">Descriere</string>
@@ -98,6 +99,7 @@
     <string name="feedback_submit_hint">Raportați orice bug de fiecare dată când intalniți așa ceva, pentru a ne ajuta să le rezolvăm cât mai repede.</string>
     <string name="feedback_submit_hint1">"Vă vom înștiința despre progresul raportului"</string>
     <string name="feedback_submit_hint2">Mergeți la \"Rapoartele mele\" pentru a vedea detaliile</string>
+    <string name="feedback_submit_hint_gone">Mesaj închis</string>
     <string name="feedback_submit_succ">Trimis cu succes</string>
     <string name="feedback_submit_succ_button">Finalizat</string>
     <string name="feedback_submitting">Se trimite</string>
