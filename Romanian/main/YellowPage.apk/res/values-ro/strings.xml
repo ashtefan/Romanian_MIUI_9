@@ -451,7 +451,7 @@ Total: %3$s RMB"</string>
     <string name="turn_on_phone_event_summary">Permiteți aplicației Pagini Aurii să primească și să încarce informațiile serviciului operatorilor de servicii verificați</string>
     <string name="turn_on_phone_event_title">Primiți informații despre serviciu</string>
     <string name="turn_on_smart_antispam_hint">Identificați apelurile provenite de la persoane necunoscute</string>
-    <string name="turn_on_smart_antispam_summary_off">Caută doar numerele salvate pe acest telefon</string>
+    <string name="turn_on_smart_antispam_summary">Încarcă și identifică numerele de telefon necunoscute din istoricul de apelare și din mesajele text</string>
     <string name="turn_on_smart_antispam_title">Identificare apelant</string>
     <string name="turn_on_yellowpage_service_title">Utilizați Pagini Aurii</string>
     <string name="uploads_disabled">Încărcarea fișierelor este dezactivată</string>
