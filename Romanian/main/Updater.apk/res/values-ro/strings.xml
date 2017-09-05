@@ -44,6 +44,7 @@
     <string name="button_text_update">Actualizare</string>
     <string name="cancel_download">Opriţi descărcarea actualizării?</string>
     <string name="cancel_download_buton_text">Anulaţi</string>
+    <string name="chengelog">%1$s</string>
     <string name="check_local_package_update_btn">Reporniți și actualizați</string>
     <string name="check_local_package_update_msg">"Telefonul va reporni în mod automat în timpul actualizării la versiunea MIUI %s"</string>
     <string name="check_local_package_update_title">Actualizare</string>

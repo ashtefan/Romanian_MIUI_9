@@ -51,9 +51,9 @@
         <item>Ceaţă</item>
      </string-array>
     <string-array name="editing_mode_entries">
-        <item>Teme</item>
+        <item>Imagine de fundal</item>
         <item>Obiecte widget</item>
-        <item>Imagini de fundal</item>
+        <item>Setări</item>
         <item>Efecte</item>
         <item>Dispunere</item>
     </string-array>

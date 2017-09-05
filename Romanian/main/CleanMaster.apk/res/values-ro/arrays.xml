@@ -25,8 +25,8 @@
         <item>1 GB</item>
      </string-array>
     <string-array name="auto_process_mode">
-        <item>Afișează o notificare</item>
-        <item>Curăță în fundal</item>
-        <item>Afișează o notificare după curățare</item>
+        <item>Notifică</item>
+        <item>Curăță</item>
+        <item>Curăță și notifică</item>
     </string-array>
 </resources>

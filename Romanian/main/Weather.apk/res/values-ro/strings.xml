@@ -22,9 +22,9 @@
     <string name="activity_main_update_time">Actualizat %1$s</string>
     <string name="activity_main_update_time_expire">Date expirate</string>
     <string name="activity_main_update_time_right_now">chiar acum</string>
-    <string name="activity_minute_rain_location_fail_msg">Localizarea a eșuat; locația implicită a hărții este Beijing</string>
+    <string name="activity_minute_rain_location_fail_msg">"Nu s-a găsit locația. Locația implicită a hărții este Beijing"</string>
     <string name="activity_weathermain_locationg">Localizare…</string>
-    <string name="activity_weathermain_locationg_error">"Nu se poate localiza"</string>
+    <string name="activity_weathermain_locationg_error">"Nu s-a găsit locația"</string>
     <string name="add_city">Adăugaţi</string>
     <string name="ads_extension"/>
     <string name="ads_install_num"/>
@@ -82,7 +82,7 @@
     <string name="common_loading_text">Doar o secundă…</string>
     <string name="connect_fail">"Nu s-a putut conecta la rețea; încercați din nou"</string>
   <string name="content_desc_activity_main_add_city">Adăugați orașul</string>
-  <string name="content_desc_activity_main_add_city_manage">Gestionare locații</string>
+  <string name="content_desc_activity_main_add_city_manage">Gestionare orașe</string>
   <string name="content_desc_activity_main_more_settings">Mai multe setări</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
     <string name="daily_forcast_no_stable_direction">Adiere</string>
@@ -161,7 +161,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="international_details_uv_index_title">INDICE UV</string>
     <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">VÂNT</string>
-    <string name="it_is_going_to_rain">Va ploua</string>
+    <string name="it_is_going_to_rain">"Va ploua"</string>
     <string name="locate_fail_detail_err">"Nu se poate obține locația.
 Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</string>
     <string name="location_tag">Localizare GPS</string>
@@ -185,8 +185,8 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="more_details">Mai multe detalii</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="network_unavailable">"Nu se poate conecta la rețea."</string>
-    <string name="night_not_disturb_settings_summary">Nu se vor primi notificări despre vreme între 23:00 și 07:00 a doua zi după deschidere</string>
-    <string name="night_not_disturb_settings_title">Nu deranja peste noapte</string>
+    <string name="night_not_disturb_settings_summary">Nu se vor primi notificări despre vreme între 23:00 și 07:00</string>
+    <string name="night_not_disturb_settings_title">"Nu deranja peste noapte"</string>
     <string name="no_data">--</string>
     <string name="no_network_btn">Reîncercați</string>
     <string name="no_vote_ratio">Contra %1$s%%</string>
@@ -194,7 +194,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="open_browser">Deschideți în browser</string>
     <string name="open_now">Deschideți</string>
     <string name="other">Altele</string>
-    <string name="other_warning_settings">Alte setări de avertizare</string>
+    <string name="other_warning_settings">Alte avertizări</string>
     <string name="particulate_matter_exceeded">Înalt</string>
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Prea înalt</string>
@@ -205,14 +205,14 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="precipitation_degree_two">Ușoară</string>
     <string name="pressure_connect">%1$s mb</string>
     <string name="radar_cloud_image_title">Hartă radar</string>
-    <string name="rainfall_settings_summary">Setări referitoare la precipitații</string>
-    <string name="rainfall_settings_title">Avertizări referitoare la precipitații</string>
+    <string name="rainfall_settings_summary">Alerte de precipitații</string>
+    <string name="rainfall_settings_title">Precipitații</string>
     <string name="realtime_aqi_title">Indice de Calitate a Aerului</string>
     <string name="realtime_humidity_title">Umiditatea relativă</string>
     <string name="realtime_temperature_no_data">N/A</string>
     <string name="realtime_wind_default_title">Vânt</string>
     <string name="refresh_fail">"Nu s-a putut conecta la rețea"</string>
-    <string name="reminder_from_xiaomi_weather_app">Memento de la aplicația Meteo Xiaomi</string>
+    <string name="reminder_from_xiaomi_weather_app">Alertă Meteo Xiaomi</string>
     <string name="retry">Încercați din nou</string>
     <string name="search_weather">Meteo</string>
     <string name="search_weather_keywords">Temperatură;Prognoză meteo;Meteo;Calitatea aerului;Grad de poluare;Umiditate</string>
@@ -232,7 +232,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">"Nu s-a putut efectua captura de ecran"</string>
-    <string name="some_where_on_earth">Un loc pe Pământ</string>
+    <string name="some_where_on_earth">Undeva pe Pământ</string>
     <string name="sunrise">Răsărit</string>
     <string name="sunset">Apus</string>
     <string name="temperature_unit">%1$s°C</string>
@@ -258,12 +258,12 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="tts_report_weather_desc"/>
     <string name="tts_report_wind"/>
     <string name="twc_logo_title"/>
-    <string name="unit">Unitatea de măsură</string>
+    <string name="unit">Unități de măsură</string>
     <string name="unit_temperature">Unitatea de măsură pentru temperatură</string>
     <string name="unit_wind">Unitatea de măsură pentru viteza vântului</string>
-    <string name="update_night_setting_summary_text">Nu se va actualiza în mod automat între 23:00 și 07:00 după închidere</string>
+    <string name="update_night_setting_summary_text">Actualizează datele meteo între 23:00 și 07:00</string>
     <string name="update_night_setting_title_text">Actualizare automată peste noapte</string>
-    <string name="update_setting_title_text">Setări actualizare</string>
+    <string name="update_setting_title_text">Actualizează Informațiile meteo</string>
     <string name="video_dialog_no_play"/>
     <string name="video_dialog_play"/>
     <string name="video_dialog_subtitle"/>
