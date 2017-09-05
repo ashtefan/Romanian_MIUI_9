@@ -162,7 +162,7 @@
     <string name="expire_on">Expiră la: %s</string>
     <string name="exporting_progress_private_message">Exportul mesajelor…</string>
     <string name="fail_to_add_attachment">"Nu s-a putut adăuga atașamentul"</string>
-    <string name="fail_to_view_attachment">atașamentul nu este disponibil</string>
+    <string name="fail_to_view_attachment">"Atașamentul nu este disponibil"</string>
     <string name="failed_to_add_media">Nu puteţi adăuga acest %1$s la mesajul dvs.</string>
     <string name="failed_to_resize_image">Fotografia nu a fost redimensionată.</string>
     <string name="fake_cell_alert_hint">Se pare că acest mesaj a fost trimis de pe un număr de telefon diferit față de cel afișat. Tratați cu precauție mesajele care vă solicită date financiare.</string>
@@ -337,9 +337,9 @@
     <string name="mx_stranger_recommend_msg">Atingeți pentru a bloca mesajele Mi provenite de la numere necunoscute</string>
     <string name="mx_type_guide">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără a suporta cheltuieli</string>
     <string name="need_download">Sincronizare…</string>
-    <string name="networking_allow_continue">OK</string>
-    <string name="networking_allow_desc">"Mesageria inteligentă vă permite să trimiteți gratuit mesaje text și vocale, să identificați numerele necunoscute, să filtrați mesajele nedorite, etc. Utilizând acest serviciu, sunteți de acord cu %1$s și %2$s Xiaomi. Trebuie să porniți serviciul Pagini Galbene și să vă conectați la internet pentru a utiliza acest serviciu."</string>
-    <string name="networking_allow_desc_without_mx">"Mesageria inteligentă vă permite să identificați numerele necunoscute, să filtrați mesajele nedorite, etc. Utilizând acest serviciu, sunteți de acord cu %1$s și %2$s Xiaomi. Trebuie să porniți serviciul Pagini Galbene și să vă conectați la internet pentru a utiliza acest serviciu."</string>
+    <string name="networking_allow_continue">Permiteți</string>
+    <string name="networking_allow_desc">Mesageria Mi trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a vă furniza servicii gratuite de text și voce, recunoașterea numerelor necunoscute, filtrarea mesajelor de tip spam, precum și a altor caracteristici, Mesageria Mi trebuie să poată utiliza Pagini Aurii. Permiteți Pagini Aurii să se conecteze la internet, să vă obțină locația și să vă citească agenda?"</string>
+    <string name="networking_allow_desc_without_mx">Mesageria Mi trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a vă furniza servicii gratuite de text și voce, recunoașterea numerelor necunoscute, filtrarea mesajelor de tip spam, precum și a altor caracteristici, Mesageria Mi trebuie să poată utiliza Pagini Aurii. Permiteți Pagini Aurii să se conecteze la internet, să vă obțină locația și să vă citească agenda?</string>
     <string name="networking_allow_title">Atenție</string>
     <string name="new_message">Mesaj nou</string>
     <string name="new_message_arrived">Aveţi un mesaj nou</string>

@@ -58,7 +58,7 @@
     <string name="default_folder_title_recommend">Alte aplicații</string>
     <string name="default_folder_title_security">Sistem</string>
     <string name="default_folder_title_tools">Unelte</string>
-    <string name="default_screen_preview_title">Setare ecran implicit</string>
+    <string name="default_screen_preview_title">Atingeți pentru a seta ecranul implicit</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_screen">Eliminați ecranul</string>
     <string name="delete_wallpaper_message">Ştergeţi %1$d imagine de fundal?</string>
@@ -154,25 +154,30 @@
     <string name="lock_screen_success_message">Aplicată</string>
     <string name="lock_screen_wallpaper">Imagine de fundal în blocarea ecranului</string>
     <string name="menu_add">Adăugaţi</string>
+    <string name="menu_auto_fill">Umple celulele goale</string>
     <string name="menu_back_desktop">Înapoi la ecranul de pornire</string>
+    <string name="menu_cell_setting">Dispunere ecran principal</string>
     <string name="menu_customize">Setări</string>
     <string name="menu_default_screen_preview">Setare ecran implicit</string>
     <string name="menu_edit">Editați Ecranul principal</string>
     <string name="menu_exit_scene">Ieşire din Mi Space</string>
     <string name="menu_item_add_item">Plasaţi pe ecranul de pornire</string>
     <string name="menu_launcher_setting">Setări lansator de sistem</string>
+    <string name="menu_lock">Blocare dispunere ecran principal</string>
+    <string name="menu_more">Mai multe</string>
     <string name="menu_picktheme">Selectaţi o temă</string>
     <string name="menu_reset_scene">Resetaţi la valorile prestabilite</string>
     <string name="menu_search">Căutare</string>
     <string name="menu_settings">Setări</string>
     <string name="menu_sort">Sortaţi aplicaţiile</string>
+    <string name="menu_trans_effect">Efecte de tranziție</string>
     <string name="menu_wallpaper">Imagini de fundal</string>
     <string name="menu_workspace_preview">Previzualizare Ecran principal</string>
     <string name="mi_wallpaper">Magazin Teme MIUI</string>
     <string name="mtzgadget_missing_text">"Obiectul widget nu este disponibil"</string>
     <string name="multi_selecting_tips">Pentru a selecta o aplicaţie, atingeţi pictograma corespunzătoare și mutați-o aici</string>
     <string name="no_detail_page">Nicio pagină cu detalii</string>
-    <string name="no_space_toast">Nu mai există spațiu</string>
+    <string name="no_space_toast">Spațiu insuficient</string>
     <string name="normal_wallpaper">Imagine de fundal</string>
     <string name="notification_installed">Instalat cu succes</string>
     <string name="notification_open_button">Deschideți</string>
@@ -262,6 +267,7 @@
     <string name="wallpaper_failed_message">"Nu s-a putut aplica imaginea de fundal"</string>
     <string name="wallpaper_scaling_message">Extindere la dimensiunea fixă</string>
     <string name="wallpaper_scroll_type_tips">Derulare imagine de fundal</string>
+    <string name="wallpaper_scrolling">toate</string>
     <string name="wallpaper_settings">Imagine de fundal</string>
     <string name="wallpaper_success_message">Imagine de fundal aplicată</string>
     <string name="widget_favorite_contacts_edit">Editare</string>
@@ -269,4 +275,5 @@
     <string name="widget_favorite_contacts_style">Modificaţi dimensiunea</string>
     <string name="widget_gadget_player">Muzică</string>
     <string name="widget_global_search">Căutare</string>
+    <string name="widget_quick_function">Funcții rapide</string>
 </resources>

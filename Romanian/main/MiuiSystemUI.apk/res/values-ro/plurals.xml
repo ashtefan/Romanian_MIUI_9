@@ -13,8 +13,8 @@
         <item quantity="one">S-a deschis Recente, aplicații disponibile: %d. Glisați în sus pentru a elimina, glisați în jos pentru a bloca.</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d butoane de deasupra acestei bare sunt active</item>
-        <item quantity="one">%1$d buton de deasupra acestei bare este activ</item>
+        <item quantity="other">%1$d butoane vor fi afișate în ferestra de notificări</item>
+        <item quantity="one">%1$d buton va fi afișat în fereastra de notificări</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">"Ascundeţi notificările de la %d aplicaţii?"</item>
@@ -29,7 +29,7 @@
         <item quantity="one">Însorit</item>
     </plurals>
     <plurals name="fold_tips_title">
-        <item quantity="other">%d notificări sunt restrânse</item>
-        <item quantity="one">%d notificare este restrânsă</item>
+        <item quantity="other">%d notificări neimportante</item>
+        <item quantity="one">%d notificare neimportantă</item>
     </plurals>
 </resources>

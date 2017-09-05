@@ -4322,7 +4322,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="turn_off_common_password_confirm_msg">Modelul de deblocare va fi de asemenea dezactivat.</string>
     <string name="turn_off_keyguard_password_alert_title">Dezactivați</string>
     <string name="turn_off_keyguard_password_confirm_msg">"Unele caracteristici de securitate nu vor funcționa fără modelul de deblocare"</string>
-    <string name="turn_off_keyguard_password_wait_dialog">Închidere parolă</string>
+    <string name="turn_off_keyguard_password_wait_dialog">Dezactivare parolă…</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"Nu veți mai putea debloca telefonul utiizând amprenta după ce veți dezactiva parola pentru Blocarea ecranului"</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"După ce veți dezactiva parola de blocare a ecranului, amprentele înregistrate vor fi șterse. Nu veți mai putea debloca telefonul utilizând amprenta."</string>
     <string name="turn_off_security_lock">Dezactivaţi blocarea</string>
@@ -4331,13 +4331,13 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="turn_on_keyguard_password_alert_choose">"Rețineți parola. Dacă o veți uita, va trebui să ștergeți toate datele din telefon pentru a seta o nouă parolă."</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">Nu acum</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Am înțeles</string>
-    <string name="turn_on_keyguard_password_alert_foget_ok_time">Am înțeles(%dsecundă)</string>
+    <string name="turn_on_keyguard_password_alert_foget_ok_time">Am înțeles (%ds)</string>
     <string name="turn_on_keyguard_password_alert_forget_content">"Rețineți parola de deblocare a ecranului. Dacă o veți uita, va trebui să ștergeți toate datele din telefon, inclusiv fotografiile și agenda, iar apoi să setați o nouă parolă."</string>
-    <string name="turn_on_keyguard_password_alert_forget_title">"Dacă o veți uita, nu o veți putea recupera."</string>
+    <string name="turn_on_keyguard_password_alert_forget_title">Țineți minte parola</string>
     <string name="turn_on_security_lock">Selectați metoda de deblocare a ecranului</string>
     <string name="turn_on_wifi_dialog_text">Wi-Fi-ul este oprit cât timp HotSpot-ul mobil este pornit. Pentru a activa Wi-Fi-ul, opriți HotSpot-ul mobil.</string>
     <string name="turn_on_wifi_dialog_title">Activați Wi-Fi-ul</string>
-    <string name="turn_update_keyguard_password_wait_dialog">Modificare parolă</string>
+    <string name="turn_update_keyguard_password_wait_dialog">Modificare parolă…</string>
     <string name="twohours">1 oră</string>
     <string name="under_keyguard">Ecran oprit</string>
     <string name="uninstall_all_users_text">Dezinstalaţi pentru toţi utilizatorii</string>

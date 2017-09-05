@@ -65,6 +65,7 @@
     <string name="authorize_title">Autorizare</string>
     <string name="bind_facebook">Adăugaţi contul dvs. Facebook</string>
     <string name="bind_qq">QQ</string>
+    <string name="bind_safe_phone_msg">Adăugați un număr sigur de telefon pentru conectările ulterioare</string>
     <string name="bind_settings">Conturi</string>
     <string name="bind_sina_weibo">Adăugaţi un cont Sina Weibo</string>
     <string name="bind_sns_description">Conectaţi-vă cu %s</string>
@@ -255,6 +256,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_input_password_hint">Introduceți parola</string>
     <string name="passport_input_phone_hint">Introduceţi numărul de telefon</string>
     <string name="passport_input_vcode_hint">Introduceți codul de verificare</string>
+    <string name="passport_instant_login">Conectați-vă</string>
     <string name="passport_license_host_unreachable">Nu se poate conecta la rețea. Puteți vizualiza această pagină la %s.</string>
     <string name="passport_loading">Doar o secundă…</string>
     <string name="passport_login">Conectaţi-vă</string>
@@ -348,6 +350,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_user_agreement_p2">Acordul de utilizare</string>
     <string name="passport_user_agreement_p3"> şi </string>
     <string name="passport_user_agreement_p4">Politica de confidențialitate</string>
+    <string name="passport_user_reg_region">Țară/Regiune</string>
+    <string name="passport_user_reg_region_warning">"Nu veți mai putea modifica țara/regiunea odată ce contul este creat"</string>
     <string name="passport_vcode_notification_title">Verificarea conectării dvs. este incompletă</string>
     <string name="passport_vcode_prompt_long">Introduceţi codul de verificare</string>
     <string name="passport_vcode_sms_send_prompt">Trimiteți codul de verificare la %s</string>
@@ -419,6 +423,5 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="verify_phone_prompt">Selectați numărul de telefon pentru verificare</string>
     <string name="verify_phone_title">Verificați numărul de telefon</string>
     <string name="vip_account_settings">Setări cont VIP</string>
-    <string name="vip_more_info">Mai multe informații cont VIP</string>
     <string name="xiao_mi_vip">Mi VIP</string>
 </resources>
