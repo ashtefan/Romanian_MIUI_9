@@ -267,7 +267,6 @@
     <string name="wallpaper_failed_message">"Nu s-a putut aplica imaginea de fundal"</string>
     <string name="wallpaper_scaling_message">Extindere la dimensiunea fixă</string>
     <string name="wallpaper_scroll_type_tips">Derulare imagine de fundal</string>
-    <string name="wallpaper_scrolling">toate</string>
     <string name="wallpaper_settings">Imagine de fundal</string>
     <string name="wallpaper_success_message">Imagine de fundal aplicată</string>
     <string name="widget_favorite_contacts_edit">Editare</string>
