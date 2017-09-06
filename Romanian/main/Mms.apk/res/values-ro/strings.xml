@@ -422,7 +422,7 @@
     <string name="pref_title_mms_auto_retrieval">Preluare automată a conținutului mesajelor MMS</string>
     <string name="pref_title_mms_delete">Limită mesaj multimedia</string>
     <string name="pref_title_mms_read_reports">Rapoarte despre citirea MMS-urilor</string>
-    <string name="pref_title_mms_retrieval_during_roaming">Descărcare automată a conținutului mesajelor în roaming</string>
+    <string name="pref_title_mms_retrieval_during_international_roaming">Descărcare automată a conținutului mesajelor în roaming internațional</string>
     <string name="pref_title_mms_retrieval_during_national_roaming">Descarcă conținutul MMS-urilor în roaming național</string>
     <string name="pref_title_mms_retrieval_during_roaming">Descarcă conținutul MMS-urilor în roaming</string>
     <string name="pref_title_mms_validity_period">Expirare MMS</string>
