@@ -58,7 +58,7 @@
     <string name="can_not_use">"Nu se poate utiliza"</string>
     <string name="cancel">Anulaţi</string>
     <string name="card_title_answering">Se preia apelul</string>
-    <string name="card_title_answering_fail">"Nu s-a putut prelua apelul; încercați din nou."</string>
+    <string name="card_title_answering_time_out">"Nu s-a putut prelua apelul; încercați din nou."</string>
     <string name="card_title_call_ended">"Apel încheiat "</string>
     <string name="card_title_conf_call">Teleconferinţă</string>
     <string name="card_title_dialing">Apelare</string>
@@ -158,10 +158,6 @@
     <string name="ivr_menu_dialing_msg_no_mute">Mergeţi la serviciul selectat…[Corecția automată a erorilor este activată]</string>
     <string name="ivr_menu_list_sub_menu_count_format">Apăsaţi %s</string>
     <string name="ivr_menu_list_title">Meniu voce</string>
-    <string name="jeejen_answer_call_text">Preluaţi apelul</string>
-    <string name="jeejen_end_call_text">Terminare apel</string>
-    <string name="jeejen_reject_call_text">Respingere apel</string>
-    <string name="jeejen_toggle_dialpad_text">Taste numerice</string>
     <string name="keep_wait_call_back">Mai așteptați</string>
     <string name="livetalk_dial">Utilizare Pachete de suplinire</string>
     <string name="livetalk_hangup">Încheiați apelul</string>

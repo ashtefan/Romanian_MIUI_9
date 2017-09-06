@@ -7,6 +7,7 @@
     <string name="addBlackList">Blocați</string>
     <string name="add_attachment">Adăugaţi ataşamente</string>
     <string name="add_contact">vCard</string>
+    <string name="add_miui_contact">Card Mi</string>
     <string name="add_music">Adăugaţi muzică</string>
     <string name="add_number_to_sender">Adăugaţi numărul la %s</string>
     <string name="add_picture">Adăugaţi fotografia</string>
@@ -391,8 +392,10 @@
     <string name="pref_show_sms_template_in_summary">Detectare automată a parolelor de unică utilizare în SMS</string>
     <string name="pref_show_sms_template_summary">Activați pentru a utiliza caracteristicile inteligente ale Mesageriei Mi cum ar fi copierea codurilor, verificarea soldurilor, etc.</string>
     <string name="pref_smart_messages_settings">Mesagerie inteligentă</string>
+    <string name="pref_sms_storage_title">Stocare</string>
     <string name="pref_sms_theme_title">Afişare</string>
     <string name="pref_summary_allow_si_sl_push">Permiteţi încărcarea conținutului din site-urile web</string>
+    <string name="pref_summary_auto_delete">Șterge mesajele vechi când se atinge limita</string>
     <string name="pref_summary_delete_limit">%1$s mesaje per conversaţie</string>
     <string name="pref_summary_delivery_reports">Solicitaţi un raport de livrare pentru fiecare mesaj trimis</string>
     <string name="pref_summary_delivery_ringtone">Primiți o confirmare sonoră pentru mesajele primite de către destinatari.</string>
@@ -410,6 +413,7 @@
     <string name="pref_system_title">Sistem</string>
     <string name="pref_title_about_smart_sms">Despre partenerul Mesagerie inteligentă</string>
     <string name="pref_title_allow_si_sl_push">Permiteţi mesaje WAP Push(SI/SL)</string>
+    <string name="pref_title_auto_delete">Șterge mesajele vechi</string>
     <string name="pref_title_card_format">Formatare card partajare</string>
     <string name="pref_title_delivery_reports">Rapoarte de livrare</string>
     <string name="pref_title_fwd_sender_info">Redirecţionaţi informaţia despre expeditor</string>
@@ -419,6 +423,8 @@
     <string name="pref_title_mms_delete">Limită mesaj multimedia</string>
     <string name="pref_title_mms_read_reports">Rapoarte despre citirea MMS-urilor</string>
     <string name="pref_title_mms_retrieval_during_roaming">Descărcare automată a conținutului mesajelor în roaming</string>
+    <string name="pref_title_mms_retrieval_during_national_roaming">Descarcă conținutul MMS-urilor în roaming național</string>
+    <string name="pref_title_mms_retrieval_during_roaming">Descarcă conținutul MMS-urilor în roaming</string>
     <string name="pref_title_mms_validity_period">Expirare MMS</string>
     <string name="pref_title_notification_body_enabled">Previzualizaţi mesajele</string>
     <string name="pref_title_ringtone_repeat">Sunet</string>

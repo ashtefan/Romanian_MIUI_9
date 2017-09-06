@@ -799,6 +799,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bt_rarely_used_device_title">Dispozitive rar utilizate (%d)</string>
     <string name="bt_trace_log">Activaţi jurnalul Bluetooth Trace</string>
     <string name="bt_trace_log_summary">Activaţi jurnalul Bluetooth Trace</string>
+    <string name="bug_report_settings">Feedback</string>
     <string name="bugreport_in_power">Rapoarte despre erori în meniul de pornire</string>
     <string name="bugreport_in_power_summary">Includeţi în meniul de pornire opţiunea de a executa un raport despre erori</string>
     <string name="build_number">Numărul versiunii</string>
@@ -2719,15 +2720,6 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="oem_unlock_enable_summary">Permiteți deblocarea OEM a dispozitivului</string>
     <string name="ok_rules">finalizare</string>
     <string name="okay">OK</string>
-    <string name="oldman_mode_confirm_title">Reporniţi telefonul acum?</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">Telefonul va reporni pentru a ieși din modul \"Uşor\"</string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">Telefonul va reporni pentru a intra în modul \"Uşor\".</string>
-    <string name="oldman_mode_enabled_name">Modul \"Uşor\"</string>
-    <string name="oldman_mode_entry_name">Mod \"Uşor\"</string>
-    <string name="oldman_mode_entry_title">Mod \"Uşor\"</string>
-    <string name="oldman_mode_settings_caption">Setări mod \"Uşor\"</string>
-    <string name="oldman_mode_summary">Utilizaţi un ecran de pornire şi meniuri simplificate</string>
-    <string name="oldman_mode_summary_cta">Modul \"Uşor\" trebuie să se conecteze la internet, să citească contactele, mesajele, și informațiile despre locație pentru a funcţiona normal.</string>
     <string name="one_cacrt">un certificat CA</string>
     <string name="one_usercrt">un certificat de utilizator</string>
     <string name="one_userkey">o cheie de utilizator</string>
@@ -3499,6 +3491,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_handy_mode">Modul operare cu o mână</string>
     <string name="search_hint">Setări căutare</string>
     <string name="search_home_key">Acasă</string>
+    <string name="search_input_hint">Setări căutare</string>
     <string name="search_key_settings_title">Butoane;Taste</string>
     <string name="search_lab_functions_title">Caracteristici Beta,Lab function</string>
     <string name="search_label">Setări</string>
@@ -3918,6 +3911,7 @@ Codul PIN poate fi incorect."</string>
     <string name="spellchecker_language">Limbă</string>
     <string name="spellchecker_quick_settings">Setări</string>
     <string name="spellchecker_security_warning">Acest instrument de verificare a ortografiei poate, de asemenea, să culeagă în întregime textul pe care îl introduceţi, inclusiv datele personale, cum ar fi parolele şi numerele cardurilor de credit. Instrumentul provine de la aplicaţia %1$s. Utilizaţi acest instrument de verificare ortografică?</string>
+    <string name="spellchecker_switch_title">Activați corectorul ortografic</string>
     <string name="spellcheckers_settings_title">Corector ortografic</string>
     <string name="ssid_label">SSID:</string>
     <string name="ssl_ca_cert_warning">Rețeaua poate fi monitorizată</string>
@@ -4924,7 +4918,6 @@ Asistent Wi-Fi"</string>
     <string name="wifi_eap_ca_cert">Certificat CA</string>
     <string name="wifi_eap_domain">Domeniu</string>
     <string name="wifi_eap_identity">Identitate</string>
-    <string name="wifi_eap_info_reconnect">Autentificarea a eșuat; vă rugăm să reîncercați!</string>
     <string name="wifi_eap_method">Metodă EAP</string>
     <string name="wifi_eap_sim_simcard">Selectaţi cartela SIM</string>
     <string name="wifi_eap_user_cert">Certificat de utilizator</string>
@@ -4953,7 +4946,7 @@ Asistent Wi-Fi"</string>
     <string name="wifi_hotspot_message">%1$s solicită autentificarea online înainte de a vă conecta la rețea.</string>
     <string name="wifi_hotspot_title">Vă autentificați pentru a vă conecta?</string>
     <string name="wifi_in_airplane_mode">În modul Avion</string>
-    <string name="wifi_info_reconnect">Eroare de parolă; vă rugăm să reîncercați!</string>
+    <string name="wifi_info_reconnect">Conectarea a eșuat; vă rugăm să reîncercați!</string>
     <string name="wifi_install_credentials">Instalează certificatele</string>
     <string name="wifi_ip_address">Adresă IP</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
