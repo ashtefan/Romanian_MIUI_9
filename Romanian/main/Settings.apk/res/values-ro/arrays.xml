@@ -692,23 +692,10 @@
         <item>PEAP</item>
         <item>SIM</item>
     </string-array>
-    <string-array name="screen_key_position_action">
-        <item>Butonul Meniu în stânga, butonul Înapoi în dreapta</item>
-        <item>Butonul Înapoi în stânga, butonul Meniu în dreapta</item>
-    </string-array>
     <string-array name="screen_key_press_action">
         <item>Afişare aplicaţii recente</item>
         <item>Afişare meniu</item>
      </string-array>	
-    <string-array name="screen_key_long_press_action">
-        <item>Niciuna</item>
-        <item>Afişarea aplicaţiilor recente</item>
-        <item>Lansare Asistent</item>
-        <item>Lansare Google now</item>
-        <item>Închiderea aplicaţiei curente</item>
-        <item>Lansare Căutare rapidă</item>
-        <item>Afişare meniu</item>
-     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0,5 secunde</item>
         <item>1 secundă</item>

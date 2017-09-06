@@ -486,6 +486,7 @@
     <string name="button_text_disconnect_now">Deconectați</string>
     <string name="button_text_fix">Reparaţi</string>
     <string name="button_text_fix_now">Reparați</string>
+    <string name="button_text_forbid_now">Interziceți</string>
     <string name="button_text_ignore">Ignoraţi</string>
     <string name="button_text_ignore_alert_title">Ignoraţi această alertă?</string>
     <string name="button_text_known">OK</string>

@@ -1112,10 +1112,11 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="sim_error_password_error">Parola introdusă este incorectă</string>
     <string name="sim_error_storage_full">Cartela SIM este plină</string>
     <string name="sim_error_text_too_long">Nume prea lung</string>
+    <string name="sim_export_error">Cartela SIM nu este gata; încercați din nou mai târziu</string>
     <string name="sim_export_loading">Citirea cartelei SIM…</string>
     <string name="sim_indexed_contact_not_exist">Poziţia %1$d pe cartela SIM nu este valabilă, trebuie să fie cuprinsă între %2$d şi %3$d</string>
     <string name="sim_no_contact">Nu există contacte pe cartela SIM</string>
-  <string name="sim_unloaded">"Cartela SIM nu este instalată"</string>
+    <string name="sim_unloaded">"Cartela SIM nu este instalată"</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Niciun membru în grup</string>
     <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
@@ -1189,6 +1190,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="toast_for_saving_nickname">Pseudonim salvat</string>
     <string name="toast_join_with_empty_contact">Introduceţi numele contactului înainte de a-l îmbina cu alt contact</string>
     <string name="toast_making_personal_copy">Se creează o copie personală…</string>
+    <string name="toast_start_intent_failed">Nu s-a găsit nicio aplicație pentru gestionare</string>
     <string name="toast_text_copied">Text copiat</string>
     <string name="today">Azi</string>
     <string name="tomorrow">Mâine</string>

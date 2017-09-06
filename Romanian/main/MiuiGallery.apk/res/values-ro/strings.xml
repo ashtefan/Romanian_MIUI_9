@@ -48,10 +48,10 @@
     <string name="album_jump_failed">Așteptați sincronizarea albumelor în Mi Cloud și încercați din nou</string>
     <string name="album_member">Membri album %s</string>
     <string name="album_name">Nume album</string>
-  <string name="album_name_locations">Locații</string>
-  <string name="album_name_people">Persoane</string>
+    <string name="album_name_locations">Locații</string>
+    <string name="album_name_people">Persoane</string>
     <string name="album_name_recent_discovery">Recente</string>
-  <string name="album_name_tags">Etichete</string>
+    <string name="album_name_tags">Etichete</string>
     <string name="album_others_share_baby_info_format">Albumul copilului din %s</string>
     <string name="album_others_share_info_format">Din %s</string>
     <string name="album_owner_share">Partajările mele</string>
@@ -329,6 +329,7 @@
     <string name="error_connect_timeout_msg">Conectați-vă la altă rețea și încercați din nou.</string>
     <string name="error_connect_timeout_tip">Conexiunea a expirat.</string>
     <string name="error_decode_tip">"Formatul de fișier nu este suportat sau fișierele sunt corupte."</string>
+    <string name="error_download_tip">"Nu s-a putut descărca"</string>
     <string name="error_external_sdcard_write_action">Schimbați spațiul de stocare</string>
     <string name="error_external_sdcard_write_msg">Mergeți la Setări-Stocare, schimbați spațiul de stocare și reîncercați.</string>
     <string name="error_external_sdcard_write_tip">"Nu s-au putut salva elementele pe cardul SD."</string>
@@ -767,6 +768,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="search_title_album">Album</string>
     <string name="search_title_history">Căutați în istoric</string>
     <string name="search_title_location">Locații</string>
+    <string name="search_title_more">Mai mult</string>
     <string name="search_title_others">Toate rezultatele</string>
     <string name="search_title_people">Persoane</string>
     <string name="search_title_recommend">Recomandate</string>
@@ -804,7 +806,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="set_face_image">Setați o nouă fotografie de profil</string>
     <string name="set_group">Setați grupul</string>
     <string name="set_wallpaper_get_image_failed">"Nu s-a putut descărca imaginea; încercați din nou mai târziu"</string>
-  <string name="setup_network_connection">Setări de rețea</string>
+    <string name="setup_network_connection">Setări de rețea</string>
     <string name="share">Partajați</string>
     <string name="share_album">Distribuiţi albumul</string>
     <string name="share_album_needs_auto_upload_tip">"Nu se poate dezactiva salvarea automată pentru albumele partajate"</string>

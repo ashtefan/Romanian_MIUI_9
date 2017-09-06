@@ -52,6 +52,7 @@ pentru a le putea vedea în orice moment"</string>
     <string name="createUserFail">"Nu s-a putut crea"</string>
     <string name="create_app_icon_failed">"Nu s-a putut crea pictograma"</string>
     <string name="create_app_icon_success">Pictograma a fost creată cu succes</string>
+    <string name="create_second_space">Creat cu succes</string>
     <string name="create_space_loading">Se crează Spațiul Secundar…</string>
     <string name="create_work_space">Creați Spațiul pentru Servici</string>
     <string name="creating_app_icon">Se crează pictograma…</string>
@@ -105,6 +106,10 @@ Mesajele vor fi vizibile doar în Spațiul Secundar."</string>
     <string name="guide_pwd_detail_title">"Protejați-vă datele
 Intrați în Spațiul Secundar din blocarea ecranului"</string>
     <string name="guide_setting_guide_title">Gestionați Spațiul Secundar</string>
+    <string name="guide_start_ads_text">Un nivel complet nou de securitate</string>
+    <string name="guide_start_text">Două spații de lucru. Un singur dispozitiv.</string>
+    <string name="has_created_second_space">"Puteți accesa acum Spațiul Secundar.
+Un singur dispozitiv. Două spații de lucru."</string>
     <string name="hidden_app">Spațiu Secundar</string>
     <string name="imageData">Fotografii</string>
     <string name="import_application">Importați aplicații</string>
@@ -118,6 +123,8 @@ Le puteți de asemenea descărca separat."</string>
     <string name="import_photo">Importați fotografii</string>
     <string name="import_photo_desc">Vizualizați elementele partajate în Spațiul Secundar</string>
     <string name="import_photo_suc">Fotografii importate</string>
+    <string name="input_space_finger">Setați acum</string>
+    <string name="input_space_password">Setați acum</string>
     <string name="invalid_qr_code">Cod QR invalid</string>
     <string name="list_empty_text">Gol</string>
     <string name="loading">Doar o secundă…</string>
@@ -159,6 +166,8 @@ Le puteți de asemenea descărca separat."</string>
 Altfel nu veți putea accesa Spațiul secundar din Blocarea ecranului."</string>
     <string name="privacyContactsSummary">Arată elementele private în Spațiul Secundar</string>
     <string name="privacyContactsTitle">Mesaje și contacte private</string>
+    <string name="privacy_password_fingerprint_dialog_message">Puneți degetul pe senzorul de amprentă</string>
+    <string name="privacy_password_fingerprint_dialog_title">Scanați amprenta</string>
     <string name="private_sms_show_sub_title">Mesajele vor fi partajate între cele 2 spații de lucru​</string>
     <string name="private_sms_show_title">Mesajele private sunt vizibile în Spațiul Secundar</string>
     <string name="private_space_setting">Gestionare</string>
@@ -199,6 +208,9 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="setSecondSpacePasswordGuideDes">Utilizați această parolă pentru a accesa Spațiul Secundar direct din blocarea ecranului</string>
     <string name="setSpacePasswordGuide">Utilizați parole diferite pentru accesarea din blocarea ecranului a celor două spații de lucru</string>
     <string name="setSuccess">Parolele au fost setate cu succes</string>
+    <string name="set_space_finger">Setați amprenta</string>
+    <string name="set_space_finger_sub_text_suc">Amprentă setată cu succes</string>
+    <string name="set_space_password">Setați parola</string>
     <string name="set_space_pwd_detail">Puteți accesa Spațiul Secundar utilizând parola</string>
     <string name="set_space_pwd_suc">Parola pentru Spațiul Secundar a fost adăugată</string>
     <string name="setting_finger_print_sub_title">Asigurați-vă că amprenta este diferită de cea pentru Spațiul principal</string>
@@ -215,13 +227,21 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="settings_status_icon_title">Pictograma Spațiului Secundar</string>
     <string name="settings_switch_shortcut_summary">Arată pictograma ecranului principal în Spațiul Principal</string>
     <string name="settings_switch_shortcut_title">Atingeți pictograma pentru a comuta</string>
+    <string name="show_decktop_quick_switch_icon">Scurtătură ecran principal</string>
+    <string name="show_decktop_quick_switch_icon_detail">Crează o scurtătură pe ecranul principal din Spațiul principal pentru comutarea spațiilor de lucru</string>
     <string name="show_normal_content">"Nu afișa elementele private"</string>
+    <string name="show_noti_from_owner">Notificări pentru celălalt spațiu de lucru</string>
+    <string name="show_noti_from_owner_detail">Primiți notificări în spațiul curent primite pentru celălalt spațiu</string>
+    <string name="show_noti_quick_switch_icon">Scurtătură în perdeaua de notificări</string>
+    <string name="show_noti_quick_switch_icon_detail">Afișează o scurtătură în perdeaua de notificări pentru comutarea spațiilor de lucru</string>
     <string name="show_private_content">Afișează elementele private</string>
     <string name="show_private_msg">Afișează mesajele private</string>
     <string name="show_private_msg_summary">Afișează mesajele private în Spațiul Secundar</string>
+    <string name="skip">Omiteți</string>
     <string name="spaceSetting">Setări</string>
     <string name="space_deleted">Acest spațiu a fost șters</string>
     <string name="space_des_default">Spațiu izolat cu date criptate</string>
+    <string name="space_finger_sub_text">Setați amprenta pentru cel de-al doilea spațiu de lucru pentru a comuta mai rapid</string>
     <string name="space_name_default">Spațiul pentru Servici</string>
     <string name="startSet">Setați</string>
     <string name="startTransfer">Mutați</string>
@@ -231,6 +251,7 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
 pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="start_setting_guide_desc_title">Sunt câteva lucruri de setat</string>
     <string name="summary_switch_apps_settings">Selectați aplicațiile utilizate în Spațiul curent</string>
+    <string name="support_desc">Servicii de securitate oferite de Graphite</string>
     <string name="sure_to_use">Confirmați</string>
     <string name="switchDataSummary">Mutați elemente dintr-un spațiu de lucru în altul</string>
     <string name="switch_apps_settings">Setări pentru aplicații</string>

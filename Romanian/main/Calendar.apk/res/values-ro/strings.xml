@@ -12,6 +12,7 @@
     <string name="accounts">Conturi şi sincronizare</string>
     <string name="acct_not_synced">Acest cont nu este sincronizat, prin urmare calendarele dvs. pot să nu fie actualizate.</string>
     <string name="acessibility_selected_marker_description">Eveniment selectat</string>
+    <string name="action_bar_more_menu_view_description">mai  mult</string>
     <string name="action_text_card_manager">Canal</string>
     <string name="action_text_today">Astăzi</string>
   <string name="ad_card_connecting">conexiune</string>
@@ -35,12 +36,10 @@
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Expirat</string>
     <string name="alert_title">Notificările calendarului</string>
-    <string name="anniversary_card_title">Aniversare</string>
     <string name="anniversary_event_title">Aniversare: %1$s</string>
     <string name="app_label">Calendar</string>
+    <string name="app_name">comun</string>
     <string name="birthday_calendar_display_name">Memento zi de naştere</string>
-    <string name="birthday_card_other_day_title">Zi de naștere</string>
-    <string name="birthday_card_title">"Zilele de naștere de azi"</string>
     <string name="birthday_event_description_a_week_ago">Cu o săptămână în urmă</string>
     <string name="birthday_event_description_a_week_later">Peste o săptămână</string>
     <string name="birthday_event_description_day_after_tomorrow">Poimâine este </string>
@@ -84,7 +83,6 @@
   <string name="chongsha">Fantome</string>
     <string name="copy_email">Copiaţi adresa de e-mail</string>
     <string name="copy_number">Copiaţi numărul de telefon</string>
-    <string name="countdown_card_title">Numărătoare inversă</string>
     <string name="countdown_event_title">Numărătoare inversă: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Numărătoare inversă: %1$s în 3 zile</string>
     <string name="countdown_notify_title">Numărătoare inversă: %1$s</string>
@@ -98,14 +96,10 @@
   <string name="credit">card de credit</string>
   <string name="credit_card_date_label">Data de rambursare:</string>
   <string name="credit_card_number_label">Număr card:</string>
-  <string name="credit_card_overdue">Card expirat</string>
-  <string name="credit_card_repayment_count">Rambursare în 1$s zile</string>
-  <string name="credit_card_source">Memento rambursare prin SMS</string>
   <string name="credit_currency">RON</string>
   <string name="credit_detail_amount_label">De asemenea, ar trebui</string>
   <string name="credit_detail_sms_content">textul original</string>
   <string name="credit_detail_today">astăzi:</string>
-  <string name="credit_event_card_title">Plățile prin card de credit</string>
   <string name="credit_event_delete_successfully">Evenimentul Plată prin card de credit a fost șters cu succes</string>
   <string name="credit_event_title">Comisionul pentru cardul de credit</string>
     <string name="daily">Zilnic</string>
@@ -131,7 +125,6 @@
     <string name="delete_recurring_event_title">Ştergeţi %s?</string>
     <string name="delete_this_event_title">Ştergeţi acest eveniment?</string>
     <string name="deleting_calendar">Dezabonare…</string>
-    <string name="departure">Plecare</string>
     <string name="description_calendar">Aplicații de sistem/Calendar</string>
     <string name="description_calendar_edit_event">Aplicații de sistem/Calendar/Agendă</string>
     <string name="description_calendar_huangli"/>
@@ -192,7 +185,6 @@
     <string name="event_edit">Modificaţi evenimentul</string>
     <string name="event_info_descrip">Descriere</string>
     <string name="event_info_end">Sfârşit</string>
-    <string name="event_info_from">De la</string>
     <string name="event_info_jump_to_email">Deschideți e-mailul</string>
     <string name="event_info_reminders_label">Mementouri</string>
     <string name="event_info_reminders_label_1">Memento</string>
@@ -323,6 +315,7 @@
   <string name="more_match">Mai multe evenimente</string>
     <string name="more_string">+%1$s</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
+    <string name="new_event_description">nou</string>
     <string name="new_event_dialog_label">Eveniment nou</string>
     <string name="new_event_dialog_option">Eveniment nou</string>
     <string name="no_contact_birthday_hint">Nicio zi de naștere de importat</string>
@@ -450,8 +443,6 @@ Verificați setările de rețea și încercați din nou."</string>
   <string name="setting_title_yiji_display">Almanac spectacol Taboo</string>
   <string name="setting_toast_dump_mylog_done">Construi reușește, jurnal în managerul de fișiere\"telefon/MIUI/debug_log/com.android.calendar/dump\"Dosar</string>
     <string name="show_day_view">Afişaţi ziua</string>
-    <string name="show_newer_events">Atingeţi pentru a vedea evenimentele de după %1$s</string>
-    <string name="show_older_events">Atingeţi pentru a vedea evenimentele dinainte de %1$s</string>
   <string name="sms_import_description">O mai bună gestionare a mesajelor de evenimente legate de timp</string>
     <string name="solar_lunar_convert_date"/>
     <string name="solar_lunar_convert_description"/>
@@ -487,9 +478,7 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="timezone_label">Fus orar</string>
     <string name="today">Azi</string>
     <string name="today_at_time_fmt">Astăzi la %s</string>
-    <string name="today_flight_event">Zbor</string>
     <string name="today_no_events">Niciun eveniment</string>
-    <string name="today_train_event">Tren</string>
     <string name="tomorrow">Mâine</string>
     <string name="tomorrow_at_time_fmt">Mâine la %s</string>
     <string name="too_long_content">Conținutul este prea lung</string>
@@ -501,9 +490,6 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="travel_eta_advice">%2$s minute cu automobilul la %1$s.</string>
     <string name="travel_ets_advice">Conduceţi către %2$s înainte de %1$s.</string>
     <string name="travel_event_add_successfully">Eveniment creat</string>
-    <string name="travel_event_add_unsuccessfully">"Nu s-a putut crea evenimentul"</string>
-    <string name="travel_event_added">Eveniment creat</string>
-    <string name="travel_event_delete_successfully">Eveniment şters</string>
     <string name="travel_event_title_flight">Zbor: %1$s-%2$s %3$s</string>
     <string name="travel_event_title_train">Tren: %1$s-%2$s %3$s</string>
     <string name="travel_event_title_train_only_dep">Tren: %1$s %2$s</string>

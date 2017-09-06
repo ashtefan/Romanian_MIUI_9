@@ -922,6 +922,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="clear_failed_dlg_title">Ştergeţi datele</string>
     <string name="clear_uri_btn_text">Revocați accesul</string>
     <string name="clear_user_data_text">Ștergeți datele</string>
+    <string name="close_app">Închide aplicația curentă</string>
     <string name="close_gesture">Închidere utilizând gesturi</string>
     <string name="close_miui_optimization_title">Dezactivați optimizarea MIUI</string>
     <string name="close_miui_optimization_warning_message">Telefonul va reporni pentru aplicarea modificării. Notă: dezactivarea acestei caracteristici va produce modificări majore dispunerii și altor elemente ale sistemului.</string>
@@ -1008,7 +1009,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="contributors_title">Colaboratori</string>
     <string name="controls_label">Comenzi</string>
     <string name="controls_subtitle">Ajustaţi utilizarea energiei</string>
-    <string name="convenience_key_category_title">Scurtături</string>
+    <string name="convenience_key_category_title">Control sistem</string>
     <string name="convert_to_fbe_warning">"Convertiți partiția de date la criptarea pe bază de fișier.
  ATENȚIE: Acest lucru va șterge TOATE DATELE dumneavoastră.
  Această caracteristică este experimentală și este posibil să nu funcționeze corect.
@@ -1436,6 +1437,7 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="domain_urls_title">Accesare linkuri</string>
     <string name="done">Finalizat</string>
     <string name="done_button">Terminat</string>
+    <string name="double_click_power_key">Atingere dublă a butonului de pornire</string>
     <string name="download_current_rom">Obţineţi ultima versiune MIUI</string>
     <string name="downloading_description">Descărcare…</string>
     <string name="doze_summary">Trezește ecranul când dispozitivul este ridicat sau când se primesc notificări</string>
@@ -1744,6 +1746,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="global_change_warning">Această setare afectează toţi utilizatorii acestui telefon.</string>
     <string name="global_locale_change_title">Schimbaţi limba</string>
     <string name="go_back_button_label">Mergeți înapoi</string>
+    <string name="go_to_sleep">Pune în stand-by</string>
     <string name="google_backup_enable">Activați crearea copiilor de rezervă</string>
     <string name="google_backup_section_title">Copii de rezervă şi restabilire Google</string>
     <string name="google_title">Google</string>
@@ -1906,9 +1909,19 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="keep_screen_on">Activ permanent</string>
     <string name="keep_screen_on_summary">Ecranul va fi activ pe durata încărcării</string>
     <string name="kernel_version">Versiune nucleu</string>
-    <string name="key_position_cat">Poziția butoanelor</string>
+    <string name="key_combination_power_back">Butonul pornire + Înapoi</string>
+    <string name="key_combination_power_home">Butonul pornire + Acasă</string>
+    <string name="key_combination_power_menu">Butonul pornire+ Meniu</string>
+  <string name="key_gesture_function_dialog_message">%1$s a fost setat să %2$s shortcuts ,whether replaced with %3$s</string>
+    <string name="key_gesture_function_dialog_negative">Renunțați</string>
+    <string name="key_gesture_function_dialog_positive">Înlocuiți</string>
+    <string name="key_gesture_function_optional">Gesturi și butoane opționale</string>
+    <string name="key_gesture_function_preview">Previzualizare gesturi și butoane</string>
+    <string name="key_gesture_function_shortcut">Scurtături funcționale</string>
+    <string name="key_none">niciunul</string>
     <string name="key_settings">Butoane</string>
     <string name="key_settings_title">Butoane</string>
+    <string name="key_system_control">Control sistem</string>
     <string name="keyboard_and_input_methods_category">Tastatură</string>
     <string name="keyboard_assistance_category">Asistență tastatură</string>
     <string name="keyboard_layout_default_label">Prestabilit</string>
@@ -1988,8 +2001,11 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="later">MAI TÂRZIU</string>
     <string name="lattice_smartcover_title">Husă perforată pentru ecran</string>
     <string name="launch_by_default">Deschide ca implicit</string>
+    <string name="launch_camera">Pornește camera</string>
     <string name="launch_defaults_none">Niciun lansator implicit setat</string>
     <string name="launch_defaults_some">Unele implicite setate</string>
+    <string name="launch_google_search">Lansează căutarea Google</string>
+    <string name="launch_voice_assistant">Lansează asistentul vocal</string>
     <string name="launcher_auto_fill_empty_title">Completarea celulelor goale</string>
     <string name="launcher_title">Ecran principal și Recente</string>
     <string name="launching_cit">Lansare CIT</string>
@@ -2248,6 +2264,11 @@ Puteți seta o nouă blocare a ecranului atât pentru blocarea dispozitivului da
     <string name="login_account_dialog_message">Conectați-vă la contul Mi și activați sincronizarea cu Mi Cloud.</string>
     <string name="login_account_dialog_title">Conectați-vă la contul Mi</string>
     <string name="login_action">Conectați-vă</string>
+    <string name="long_press_back_key">Apăsare lungă a butonului Înapoi</string>
+    <string name="long_press_buttom_key">Apăsare lungă a butoanelor de jos în Blocarea ecranului</string>
+    <string name="long_press_home_key">Apăsare lungă a butonului Acasă</string>
+    <string name="long_press_menu_key">Apăsare lungă a butonului Meniu</string>
+    <string name="long_press_menu_key_when_lock">Apăsare lungă a butonului Meniu în Blocarea ecranului</string>
     <string name="long_press_volume_down">Apăsarea lungă a butonului Volum -</string>
     <string name="lte_4g_settings_4gdisable_summary">4G dezactivat</string>
     <string name="lte_4g_settings_4genable_summary">4G activat</string>
@@ -3341,6 +3362,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="screen_resolution_title">Rezoluția ecranului</string>
     <string name="screen_resolution_ultrahigh_format">Foarte înaltă (%1$s)</string>
     <string name="screen_saturation">Saturaţie</string>
+    <string name="screen_shot">Faceți o captură de ecran</string>
     <string name="screen_timeout">Inactivitate</string>
     <string name="screen_timeout_summary">După %1$s de inactivitate</string>
     <string name="screen_timeout_title">Ecranul se închide</string>
@@ -3759,6 +3781,7 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="show_ime_summary">Păstrează pe ecran cât timp tastatura fizică este activă</string>
     <string name="show_magnifier_when_input">Afişaţi lupa</string>
     <string name="show_mem_info_title">Arată starea memoriei</string>
+    <string name="show_menu">Afișează meniul</string>
     <string name="show_non_rect_clip">Remediați decupări nerectangulare</string>
     <string name="show_owner_info_on_lockscreen_label">Afişează informațiile despre proprietar în Blocarea ecranului</string>
     <string name="show_password">Faceţi parolele vizibile</string>
@@ -4237,6 +4260,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tethering_settings_not_available">Modificați setările pentru hotspot în Spațiul Principal</string>
     <string name="tethering_settings_summary">"Partajați conexiunea de date mobile prin USB sau printr-un hotspot mobil"</string>
     <string name="theme_settings_title">Teme</string>
+  <string name="three_gesture_down">Glisare în jos cu 3 degete</string>
     <string name="time_picker_title">Ora</string>
     <string name="time_zone_auto_stub">Selectaţi fusul orar</string>
     <string name="timed_titlei">programați regula %d</string>
@@ -4335,6 +4359,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="turn_on_keyguard_password_alert_forget_content">"Rețineți parola de deblocare a ecranului. Dacă o veți uita, va trebui să ștergeți toate datele din telefon, inclusiv fotografiile și agenda, iar apoi să setați o nouă parolă."</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Țineți minte parola</string>
     <string name="turn_on_security_lock">Selectați metoda de deblocare a ecranului</string>
+    <string name="turn_on_torch">Aprinde lanterna</string>
     <string name="turn_on_wifi_dialog_text">Wi-Fi-ul este oprit cât timp HotSpot-ul mobil este pornit. Pentru a activa Wi-Fi-ul, opriți HotSpot-ul mobil.</string>
     <string name="turn_on_wifi_dialog_title">Activați Wi-Fi-ul</string>
     <string name="turn_update_keyguard_password_wait_dialog">Modificare parolă…</string>
