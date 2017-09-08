@@ -181,6 +181,16 @@
         <item>Arată întotdeauna numele operatorului</item>
         <item>Nu arăta niciodată numele operatorului</item>
     </string-array>
+    <string-array name="check_importance_entries">
+        <item>Recomandat</item>
+        <item>Important</item>
+        <item>Neimportant</item>
+    </string-array>
+    <string-array name="check_importance_summary">
+        <item>Inteligentă alegere; notificările neimportante vor apărea într-un dosar separat</item>
+        <item>Notificările vor apărea direct în perdeaua de notificări</item>
+        <item>Toate notificările vor apărea într-un dosar separat</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
         <item>Europa</item>

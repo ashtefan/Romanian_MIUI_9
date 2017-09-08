@@ -900,6 +900,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="charge_length_format">cu %1$s în urmă</string>
     <string name="charging_sounds_title">Sunet acumulator încărcat complet</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
+    <string name="check_importance">Verificare importanță</string>
     <string name="check_update">Verificaţi pentru actualizări</string>
     <string name="checkbox_notification_same_as_incoming_call">Utilizaţi volumul apelurilor pentru notificări</string>
     <string name="checking_decryption">Verificare…</string>
@@ -4009,6 +4010,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_wifi_mac_address">Adresă MAC Wi-Fi</string>
     <string name="status_wimax_mac_address">Adresă MAC 4G</string>
     <string name="status_write_success">Succes!</string>
+    <string name="statusbar_permission_desc">Permisiunile sunt disponibile doar pentru notificările importante</string>
     <string name="storage_detail_apps">Aplicații</string>
     <string name="storage_detail_audio">Audio</string>
     <string name="storage_detail_cached">Date în memoria cache</string>
@@ -4359,6 +4361,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="turn_update_keyguard_password_wait_dialog">Modificare parolă…</string>
     <string name="twohours">1 oră</string>
     <string name="under_keyguard">Ecran oprit</string>
+    <string name="unimportant">Neimportant</string>
     <string name="uninstall_all_users_text">Dezinstalaţi pentru toţi utilizatorii</string>
     <string name="uninstall_device_admin">Dezinstalați aplicația</string>
     <string name="uninstall_dlg_msg">Dezinstalarea va șterge toate datele aplicației.</string>

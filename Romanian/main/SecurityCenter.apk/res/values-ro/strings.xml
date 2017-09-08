@@ -1194,7 +1194,6 @@ răspunsul operatorului"</string>
     <string name="name">Nume</string>
     <string name="net_booster">Creșterea vitezei rețelei</string>
     <string name="net_booster_expire_notification">Sesiunea de creștere a vitezei rețelei este pe cale să se încheie</string>
-    <string name="net_booster_expire_notification_tip">%d zile rămase până la încheierea sesiunii de creștere a vitezei. Reînnoiți sesiunea pentru a evita problemele de viteză a rețelei.</string>
     <string name="net_booster_overdue_notification">Sesiunea de creștere a vitezei rețelei este pe cale să se încheie</string>
     <string name="net_booster_overdue_notification_tip">Sesiunea de creștere a vitezei rețelei se va încheia în curând. Reînnoiți sesiunea?</string>
     <string name="net_booster_tip">Activați Creșterea vitezei rețelei pentru a face conexiunea Wi-Fi mai stabilă și pentru a reduce încetinirea traficului.</string>
