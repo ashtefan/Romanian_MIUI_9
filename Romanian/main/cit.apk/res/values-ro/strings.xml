@@ -7,105 +7,105 @@
     <string name="SD_SDCard_mounted">SDCard detectat</string>
     <string name="SD_SDCard_total_size">Dimensiune totală</string>
     <string name="SD_SDCard_unmounted">SDCard indisponibil</string>
-  <string name="button_cancel">Renunțați</string>
-  <string name="audio_spk_cal_wait">Calibrare, vă rog...</string>
-  <string name="audio_spk_def">Calibrați difuzoarele, vă rog</string>
-  <string name="button_ok">OK</string>
-  <string name="camerainfo">Informații despre cameră</string>
-  <string name="cit_OTG_plugin_check_summary">Când este conectat dispozitivul OTG, ar trebui să apară mai jos textul \"Disspozitiv USB OTG detectat\".</string>
-  <string name="cit_OTG_plugin_check_title">OTG (detecție)</string>
-  <string name="cit_OTG_plugout_check_summary">Când este eliminat dispozitivul OTG, ar trebui să apară mai jos textul \"Dispozitiv USB OTG eliminat\".</string>
-  <string name="cit_OTG_plugout_check_title">OTG (eliminare)</string>
-  <string name="cit_OTG_waiting_in">Conectați dispozitivul USB OTG acum</string>
-  <string name="cit_OTG_waiting_out">Deconectați dispozitivul USB OTG acum</string>
-  <string name="cit_ac_charger_in">Încărcare AC</string>
-  <string name="cit_ac_charger_out">Încărcător AC deconectat</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Mutați telefonul rapid într-o direcție. Coordonatele X，Y，Z sunt afișate dedesubt.(când telefonul este în mișcare: X reprezintă stânga/dreapta, y reprezintă înainte/înapoi, z reprezintă în sus/în jos).
+    <string name="button_cancel">Renunțați</string>
+    <string name="button_ok">OK</string>
+    <string name="camerainfo">Informații despre cameră</string>
+    <string name="cit_OTG_plugin_check_summary">Când este conectat dispozitivul OTG, ar trebui să apară mai jos textul \"Dispozitiv USB OTG detectat\".</string>
+    <string name="cit_OTG_plugin_check_title">OTG (detectare)</string>
+    <string name="cit_OTG_plugout_check_summary">Când este eliminat dispozitivul OTG, ar trebui să apară mai jos textul \"Dispozitiv USB OTG eliminat\".</string>
+    <string name="cit_OTG_plugout_check_title">OTG (eliminare)</string>
+    <string name="cit_OTG_waiting_in">Conectați dispozitivul USB OTG acum</string>
+    <string name="cit_OTG_waiting_out">Deconectați dispozitivul USB OTG acum</string>
+    <string name="cit_abnormal_reboot_summary">Așteptați...Se citesc datele despre stabilitatea sistemului.</string>
+    <string name="cit_abnormal_reboot_title">Date despre stabilitatea sistemului</string>
+    <string name="cit_ac_charger_in">Încărcare AC</string>
+    <string name="cit_ac_charger_out">Încărcător AC deconectat</string>
+    <string name="cit_accelermeter_sensor_check_summary">"Mutați telefonul rapid într-o direcție. Coordonatele X，Y，Z sunt afișate dedesubt.(când telefonul este în mișcare: X reprezintă stânga/dreapta, y reprezintă înainte/înapoi, z reprezintă în sus/în jos).
 Înainte de a începe calibrarea, așezați telefonul pe o suprafață plană."</string>
-  <string name="cit_accelermeter_sensor_check_title">Accelerometru</string>
-  <string name="cit_apk_signature_failed">semnătură apk EȘUATĂ</string>
-  <string name="cit_apk_signature_passed">semnătură apk TESTATĂ</string>
-  <string name="cit_aud_current_state">Starea curentă:</string>
-  <string name="cit_aud_spk_l">spk_L</string>
-  <string name="cit_aud_spk_r">spk_R</string>
-  <string name="cit_aud_spk_vendor">Furnizor difuzoare:</string>
-  <string name="cit_aud_spkcal">Calibrați</string>
-  <string name="cit_aud_test_result">Rezultatul testului:</string>
-  <string name="cit_audio_cali_TEMP">Temp:</string>
-  <string name="cit_audio_cali_done">Calibrare efectuată!</string>
-  <string name="cit_audio_cali_failed">Calibrarea a eșuat; vă rugăm să reîncercați!</string>
-  <string name="cit_audio_cali_file_existed">Fișierul audio nu există; nu se poate efectua calibrarea!</string>
-  <string name="cit_audio_cali_playing">Verificați datele calibrate</string>
-  <string name="cit_audio_cali_q">Q:</string>
-  <string name="cit_audio_cali_summary">Calibrare difuzor PA</string>
-  <string name="cit_audio_cali_t0">T0:</string>
-  <string name="cit_audio_cali_title">Test calibrare difuzor PA</string>
-  <string name="cit_audio_calibrating">Calibrare în curs...</string>
-  <string name="cit_audio_get_temp_fail">Nu s-au putut obține datele despre temperatură!</string>
-  <string name="cit_audio_lb_backmic_to_speaker_title">Test microfon posterior</string>
-  <string name="cit_audio_lb_frontmic_to_speaker_title">Test microfon anterior</string>
-  <string name="cit_audio_lb_mainmic_to_earpiece_title">Test microfon principal</string>
-  <string name="cit_audio_lb_phonecall_title">Test simulare apel</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">"Test microfon posterior și difuzor. 
+    <string name="cit_accelermeter_sensor_check_title">Accelerometru</string>
+    <string name="cit_apk_signature_failed">semnătură apk EȘUATĂ</string>
+    <string name="cit_apk_signature_passed">semnătură apk TESTATĂ</string>
+    <string name="cit_aud_current_state">Starea curentă:</string>
+    <string name="cit_aud_spk_l">dif_S</string>
+    <string name="cit_aud_spk_r">spk_R</string>
+    <string name="cit_aud_spk_vendor">Furnizor difuzoare:</string>
+    <string name="cit_aud_spkcal">Calibrați</string>
+    <string name="cit_aud_test_result">Rezultatul testului:</string>
+    <string name="cit_audio_cali_TEMP">Temp:</string>
+    <string name="cit_audio_cali_done">Calibrare efectuată!</string>
+    <string name="cit_audio_cali_failed">Calibrarea a eșuat; vă rugăm să reîncercați!</string>
+    <string name="cit_audio_cali_file_existed">Fișierul audio nu există; nu se poate efectua calibrarea!</string>
+    <string name="cit_audio_cali_playing">Verificați datele calibrate</string>
+    <string name="cit_audio_cali_q">Q:</string>
+    <string name="cit_audio_cali_summary">Calibrare difuzor PA</string>
+    <string name="cit_audio_cali_t0">T0:</string>
+    <string name="cit_audio_cali_title">Test calibrare difuzor PA</string>
+    <string name="cit_audio_calibrating">Calibrare în curs...</string>
+    <string name="cit_audio_get_temp_fail">Nu s-au putut obține datele despre temperatură!</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">Test microfon posterior</string>
+    <string name="cit_audio_lb_frontmic_to_speaker_title">Test microfon anterior</string>
+    <string name="cit_audio_lb_mainmic_to_earpiece_title">Test microfon principal</string>
+    <string name="cit_audio_lb_phonecall_title">Test simulare apel</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Test microfon posterior și difuzor. 
 
 Porniți telefonul, Vorbiți în microfonul posterior și ar trebui să auziți vocea în difuzor"</string>
-  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Test microfon anterior și difuzor. 
+    <string name="cit_audio_lb_summary_frontmic_to_speaker">"Test microfon anterior și difuzor. 
 
 Vorbiți în microfonul anterior și ar trebui să auziți vocea în difuzor"</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test microfon principal.
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test microfon principal.
 
 Țineți telefonul ca și cum ați efectua un apel, vorbiți în microfonul principal și ar trebui să auziți vocea de la receiver"</string>
-  <string name="cit_audio_lb_summary_phonecall">"Test simulare apel.
+    <string name="cit_audio_lb_summary_phonecall">"Test simulare apel.
 
 Țineți telefonul ca și cum ați efectua un apel, vorbiți în microfonul principal și ar trebui să auziți vocea de la receiver. Efectuați testul într-un mediu fără zgomot"</string>
-  <string name="cit_audio_lb_summary_topmic_to_speaker">"Test microfon superior și difuzor.
+    <string name="cit_audio_lb_summary_topmic_to_speaker">"Test microfon superior și difuzor.
 
 Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</string>
-  <string name="cit_audio_lb_topmic_to_speaker_title">Test microfon superior și difuzor</string>
-  <string name="cit_audio_left_caldata">"Date calibrare PA stânga:
+    <string name="cit_audio_lb_topmic_to_speaker_title">Test microfon superior și difuzor</string>
+    <string name="cit_audio_left_caldata">"Date calibrare PA stânga:
 "</string>
-  <string name="cit_audio_left_calfail">Calibrarea PA stânga a eșuat!</string>
-  <string name="cit_audio_loopback_check_one_title">Test microfon principal și receiver</string>
-  <string name="cit_audio_loopback_check_summary_first">"Test microfon principal și receiver
+    <string name="cit_audio_left_calfail">Calibrarea PA stânga a eșuat!</string>
+    <string name="cit_audio_loopback_check_one_title">Test microfon principal și receiver</string>
+    <string name="cit_audio_loopback_check_summary_first">"Test microfon principal și receiver
 
 Țineți telefonul ca și cum ați efectua un apel, vorbiți în microfon și ar trebui să auziți vocea în receiver."</string>
-  <string name="cit_audio_loopback_check_summary_second">"Test microfon secundar și difuzor.
+    <string name="cit_audio_loopback_check_summary_second">"Test microfon secundar și difuzor.
 
 Țineți telefonul cu difuzorul în partea de jos. Vorbiți în receptor. Ar trebui să auziți vocea prin difuzorul extern."</string>
-  <string name="cit_audio_loopback_check_two_title">Test microfon secundar și difuzor</string>
-  <string name="cit_audio_loopback_dualmic_earpiece_title">Test reducere zgomot ambiental</string>
-  <string name="cit_audio_loopback_next">Următorul</string>
-  <string name="cit_audio_loopback_previous">Anteriorul</string>
-  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test reducere zgomot ambiental
+    <string name="cit_audio_loopback_check_two_title">Test microfon secundar și difuzor</string>
+    <string name="cit_audio_loopback_dualmic_earpiece_title">Test reducere zgomot ambiental</string>
+    <string name="cit_audio_loopback_next">Următorul</string>
+    <string name="cit_audio_loopback_previous">Anteriorul</string>
+    <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test reducere zgomot ambiental
 
 Țineți telefonul ca și cum ați răspunde unui apel și vorbiți în microfon. Ar trebui să auziți vocea cu zgomot ambiental redus prin receptor."</string>
-  <string name="cit_audio_right_caldata">"Date calibrare PA dreapta:
+    <string name="cit_audio_right_caldata">"Date calibrare PA dreapta:
 "</string>
-  <string name="cit_audio_right_calfail">Calibrarea PA dreapta a eșuat!</string>
-  <string name="cit_battery_check_summary">Statistici acumulator telefon</string>
-  <string name="cit_battery_check_title">Informații despre acumulator</string>
-  <string name="cit_battery_temp_fail">Temperatura acumulatorului nu este normală (valoarea=%d)</string>
-  <string name="cit_battery_temp_pass">Temperatura acumulatorului este normală</string>
-  <string name="cit_batterylight_blue">Albastru</string>
-  <string name="cit_batterylight_green">Verde</string>
-  <string name="cit_batterylight_red">Roșu</string>
-  <string name="cit_batterylight_rgb">Indicator acumulator</string>
-  <string name="cit_blue_tooth_address_check_summary">Adresa Bluetooth a telefonului ar trebui să fie afișată mai jos.</string>
-  <string name="cit_blue_tooth_address_check_title">Obțineți adresa Bluetooth</string>
-  <string name="cit_blue_tooth_scan_check_summary">Mai jos sunt informațiile dispozitivelor Bluetooth detectate în apropiere.</string>
-  <string name="cit_blue_tooth_scan_check_title">Scanare Bluetooth</string>
-  <string name="cit_blue_torch_on">Porniți lumina albastră a blițului</string>
-  <string name="cit_bluetooth_address_open_error">"Nu s-a putut obține adresa Bluetooth. A apărut o eroare în timpul activării Bluetooth."</string>
-  <string name="cit_bluetooth_not_support">"Acest dispozitiv nu suportă Bluetooth"</string>
-  <string name="cit_bluetooth_scan_retry">Scanați din nou</string>
-  <string name="cit_bluetooth_scanning">Se scanează dispozitivele Bluetooth din apropiere (acest lucru ar trebui să dureze cca 4 secunde)…</string>
-  <string name="cit_bluetooth_scanning_bluetooth_done">"Gata. Nu s-a găsit niciun dispozitiv Bluetooth în apropiere."</string>
-  <string name="cit_bluetooth_scanning_bluetooth_error">A apărut o eroare în timpul căutării dispozitivelor Bluetooth.</string>
-  <string name="cit_bluetooth_scanning_opening_bluetooth">Deschidere dispozitiv Bluetooth…</string>
-  <string name="cit_build_finger_failed">verificare amprentă EȘUATĂ</string>
-  <string name="cit_build_finger_passed">verificare amprentă REALIZATĂ</string>
-  <string name="cit_button_light_off">Iluminare butoane oprită</string>
-  <string name="cit_button_light_on">Iluminare butoane pornită</string>
+    <string name="cit_audio_right_calfail">Calibrarea PA dreapta a eșuat!</string>
+    <string name="cit_battery_check_summary">Statistici acumulator telefon</string>
+    <string name="cit_battery_check_title">Informații despre acumulator</string>
+    <string name="cit_battery_temp_fail">Temperatura acumulatorului este anormală (valoarea=%d)</string>
+    <string name="cit_battery_temp_pass">Temperatura acumulatorului este normală</string>
+    <string name="cit_batterylight_blue">Albastru</string>
+    <string name="cit_batterylight_green">Verde</string>
+    <string name="cit_batterylight_red">Roșu</string>
+    <string name="cit_batterylight_rgb">Indicator acumulator</string>
+    <string name="cit_blue_tooth_address_check_summary">Adresa Bluetooth a telefonului ar trebui să fie afișată mai jos.</string>
+    <string name="cit_blue_tooth_address_check_title">Obțineți adresa Bluetooth</string>
+    <string name="cit_blue_tooth_scan_check_summary">Mai jos sunt informațiile dispozitivelor Bluetooth detectate în apropiere.</string>
+    <string name="cit_blue_tooth_scan_check_title">Scanare Bluetooth</string>
+    <string name="cit_blue_torch_on">Porniți lumina albastră a blițului</string>
+    <string name="cit_bluetooth_address_open_error">"Nu s-a putut obține adresa Bluetooth. A apărut o eroare în timpul activării Bluetooth."</string>
+    <string name="cit_bluetooth_not_support">"Acest dispozitiv nu suportă Bluetooth"</string>
+    <string name="cit_bluetooth_scan_retry">Scanați din nou</string>
+    <string name="cit_bluetooth_scanning">Se scanează dispozitivele Bluetooth din apropiere (acest lucru ar trebui să dureze cca 4 secunde)…</string>
+    <string name="cit_bluetooth_scanning_bluetooth_done">"Gata. Nu s-a găsit niciun dispozitiv Bluetooth în apropiere."</string>
+    <string name="cit_bluetooth_scanning_bluetooth_error">A apărut o eroare în timpul căutării dispozitivelor Bluetooth.</string>
+    <string name="cit_bluetooth_scanning_opening_bluetooth">Deschidere dispozitiv Bluetooth…</string>
+    <string name="cit_build_finger_failed">verificare amprentă EȘUATĂ</string>
+    <string name="cit_build_finger_passed">verificare amprentă REALIZATĂ</string>
+    <string name="cit_button_light_off">Iluminare butoane oprită</string>
+    <string name="cit_button_light_on">Iluminare butoane pornită</string>
   <string name="cit_calibration_fail">Calibrarea a eșuat</string>
   <string name="cit_calibration_pass">Calibrare efectuată</string>
   <string name="cit_camera_calibration_summary">"Instrucțiuni pentru test:

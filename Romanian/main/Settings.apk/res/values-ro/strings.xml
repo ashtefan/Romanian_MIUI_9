@@ -924,7 +924,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="clear_failed_dlg_title">Ştergeţi datele</string>
     <string name="clear_uri_btn_text">Revocați accesul</string>
     <string name="clear_user_data_text">Ștergeți datele</string>
-    <string name="close_app">Închide aplicația curentă</string>
+    <string name="close_app">Închiderea aplicației curente</string>
     <string name="close_gesture">Închidere utilizând gesturi</string>
     <string name="close_miui_optimization_title">Dezactivați optimizarea MIUI</string>
     <string name="close_miui_optimization_warning_message">Telefonul va reporni pentru aplicarea modificării. Notă: dezactivarea acestei caracteristici va produce modificări majore dispunerii și altor elemente ale sistemului.</string>
@@ -1748,7 +1748,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="global_change_warning">Această setare afectează toţi utilizatorii acestui telefon.</string>
     <string name="global_locale_change_title">Schimbaţi limba</string>
     <string name="go_back_button_label">Mergeți înapoi</string>
-    <string name="go_to_sleep">Pune în stand-by</string>
+    <string name="go_to_sleep">Punere în stand-by</string>
     <string name="google_backup_enable">Activați crearea copiilor de rezervă</string>
     <string name="google_backup_section_title">Copii de rezervă şi restabilire Google</string>
     <string name="google_title">Google</string>
@@ -1913,14 +1913,15 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="kernel_version">Versiune nucleu</string>
     <string name="key_combination_power_back">Butonul pornire + Înapoi</string>
     <string name="key_combination_power_home">Butonul pornire + Acasă</string>
-    <string name="key_combination_power_menu">Butonul pornire+ Meniu</string>
-  <string name="key_gesture_function_dialog_message">%1$s a fost setat să %2$s shortcuts ,whether replaced with %3$s</string>
+    <string name="key_combination_power_menu">Butonul pornire + Meniu</string>
+    <string name="key_gesture_function_dialog_message">Scurtătura %1$s a fost setată la %2$s; doriți să o înlocuiți cu %3$s?</string>
     <string name="key_gesture_function_dialog_negative">Renunțați</string>
     <string name="key_gesture_function_dialog_positive">Înlocuiți</string>
     <string name="key_gesture_function_optional">Gesturi și butoane opționale</string>
     <string name="key_gesture_function_preview">Previzualizare gesturi și butoane</string>
     <string name="key_gesture_function_shortcut">Scurtături funcționale</string>
     <string name="key_none">niciunul</string>
+    <string name="key_position_cat">Poziția butoanelor</string>
     <string name="key_settings">Butoane</string>
     <string name="key_settings_title">Butoane</string>
     <string name="key_system_control">Control sistem</string>
@@ -2003,10 +2004,10 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="later">MAI TÂRZIU</string>
     <string name="lattice_smartcover_title">Husă perforată pentru ecran</string>
     <string name="launch_by_default">Deschide ca implicit</string>
-    <string name="launch_camera">Pornește camera</string>
+    <string name="launch_camera">Pornire cameră foto</string>
     <string name="launch_defaults_none">Niciun lansator implicit setat</string>
     <string name="launch_defaults_some">Unele implicite setate</string>
-    <string name="launch_google_search">Lansează căutarea Google</string>
+    <string name="launch_google_search">Lansare căutare Google</string>
     <string name="launch_voice_assistant">Lansează asistentul vocal</string>
     <string name="launcher_auto_fill_empty_title">Completarea celulelor goale</string>
     <string name="launcher_title">Ecran principal și Recente</string>
@@ -3355,7 +3356,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="screen_resolution_title">Rezoluția ecranului</string>
     <string name="screen_resolution_ultrahigh_format">Foarte înaltă (%1$s)</string>
     <string name="screen_saturation">Saturaţie</string>
-    <string name="screen_shot">Faceți o captură de ecran</string>
+    <string name="screen_shot">Captură de ecran</string>
     <string name="screen_timeout">Inactivitate</string>
     <string name="screen_timeout_summary">După %1$s de inactivitate</string>
     <string name="screen_timeout_title">Ecranul se închide</string>
@@ -3775,7 +3776,7 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="show_ime_summary">Păstrează pe ecran cât timp tastatura fizică este activă</string>
     <string name="show_magnifier_when_input">Afişaţi lupa</string>
     <string name="show_mem_info_title">Arată starea memoriei</string>
-    <string name="show_menu">Afișează meniul</string>
+    <string name="show_menu">Afișare meniu</string>
     <string name="show_non_rect_clip">Remediați decupări nerectangulare</string>
     <string name="show_owner_info_on_lockscreen_label">Afişează informațiile despre proprietar în Blocarea ecranului</string>
     <string name="show_password">Faceţi parolele vizibile</string>
@@ -4355,7 +4356,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="turn_on_keyguard_password_alert_forget_content">"Rețineți parola de deblocare a ecranului. Dacă o veți uita, va trebui să ștergeți toate datele din telefon, inclusiv fotografiile și agenda, iar apoi să setați o nouă parolă."</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Țineți minte parola</string>
     <string name="turn_on_security_lock">Selectați metoda de deblocare a ecranului</string>
-    <string name="turn_on_torch">Aprinde lanterna</string>
+    <string name="turn_on_torch">Aprindere lanternă</string>
     <string name="turn_on_wifi_dialog_text">Wi-Fi-ul este oprit cât timp HotSpot-ul mobil este pornit. Pentru a activa Wi-Fi-ul, opriți HotSpot-ul mobil.</string>
     <string name="turn_on_wifi_dialog_title">Activați Wi-Fi-ul</string>
     <string name="turn_update_keyguard_password_wait_dialog">Modificare parolă…</string>
