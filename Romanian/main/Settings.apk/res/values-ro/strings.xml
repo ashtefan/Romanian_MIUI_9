@@ -145,14 +145,17 @@ Notă: atingerea triplă pentru mărire funcţionează peste tot, cu excepţia t
     <string name="add_a_language">Adăugați o limbă</string>
     <string name="add_account_label">Adăugaţi un cont</string>
     <string name="add_auto_startup_application">Adăugaţi aplicaţii cu pornire automată</string>
+    <string name="add_back_fingerprint_instruction_msg">Plasați degetul pe senzor</string>
     <string name="add_device_admin">Activaţi</string>
     <string name="add_device_admin_msg">Activaţi administratorul de dispozitive?</string>
     <string name="add_facerecoginition_text">Adăugați datele faciale</string>
     <string name="add_fingerprint_done_msg">Acum puteți debloca acest telefon utilizând amprenta digitală.</string>
     <string name="add_fingerprint_done_title">Realizat!</string>
+    <string name="add_fingerprint_edge_instruction_msg">Mutați degetul pe senzor pentru ca acesta să poată înregistra particularitățile amprentei.</string>
+    <string name="add_fingerprint_edge_instruction_title">Mutați degetul încet</string>
     <string name="add_fingerprint_failed_retry_text">"Nu s-a putut adăuga amprenta; încercați din nou"</string>
     <string name="add_fingerprint_finished_button_text">Realizat</string>
-    <string name="add_fingerprint_instruction_msg">Deblocați dispozitivul sau realizați plăți securizate utilizând amprenta digitală.</string>
+    <string name="add_fingerprint_instruction_msg">Senzorul de amprentă este încorporat în butonul Acasă al telefonului.</string>
     <string name="add_fingerprint_instruction_title">Adăugați o amprentă digitală</string>
     <string name="add_fingerprint_name_suggest_text">Denumirea amprentei</string>
     <string name="add_fingerprint_put_finger_edge_msg">Atingeți senzorul, ridicați degetul și repetați mișcarea până când amprenta este înregistrată cu succes.</string>
@@ -162,6 +165,7 @@ Notă: atingerea triplă pentru mărire funcţionează peste tot, cu excepţia t
     <string name="add_fingerprint_success_msg">Adăugată cu succes</string>
     <string name="add_fingerprint_text">Adăugați o amprentă</string>
     <string name="add_fingerprint_toast_text">Plasați degetul pe scanerul de amprente</string>
+    <string name="add_front_fingerprint_instruction_msg">Senzorul de amprentă se află pe partea posterioară a telefonului.</string>
     <string name="add_new">adăugați</string>
     <string name="add_rule">adăugați reguli</string>
     <string name="add_virtual_keyboard">Gestionați tastaturile</string>
@@ -3740,6 +3744,19 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="settings_safetylegal_title">Informaţii privind siguranţa</string>
     <string name="settings_shortcut">Comandă rapidă pentru setări</string>
     <string name="settings_toggle_position_divider_list">Comutatoarele de deasupra barei sunt active</string>
+    <string name="setup_add_fingerprint_failed_retry_text">"Nu s-a putut adăuga amprenta"</string>
+    <string name="setup_choose_unlock_fingerprint_msg">Setați metoda de blocare a ecranului înainte de a adăuga amprenta.</string>
+    <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Parolă&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Parolă&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="setup_choose_unlock_mixpassword_title">Setați parola</string>
+    <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="setup_choose_unlock_password_msg">Introduceți 4 cifre</string>
+    <string name="setup_choose_unlock_password_title">Setați codul  PIN</string>
+    <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Model&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Model&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="setup_choose_unlock_pattern_title">Desenați modelul de deblocare</string>
+    <string name="setup_choose_unlock_type_title">Setați parola</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_message">Ați ales deblocarea telefonului doar cu amprenta. Dacă omiteți acum, va trebui să setați acest lucru mai târziu. Acest lucru durează circa un minut.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Omiteți setarea amprentei?</string>
     <string name="setup_fingerprint_enroll_finish_message">Oriunde vedeți această pictogramă puteți utiliza amprenta.</string>
@@ -3748,6 +3765,8 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="setup_lock_settings_picker_fingerprint_message">Amprenta poate fi mai puțin sigură decât un model, cod PIN sau parolă puternice. Pentru siguranță sporită, utilizați o metodă alternativă de deblocare a ecranului.</string>
     <string name="setup_lock_settings_picker_message">Preveniți utilizarea telefonului de către alte persoane fără permisiunea dumneavoastră prin activarea caracteristicilor de protecție a telefonului. Selectați metoda de deblocare a ecranului pe care doriți să o utilizați.</string>
     <string name="setup_lock_settings_picker_title">Protejați-vă telefonul</string>
+    <string name="setup_password_back">Înapoi</string>
+    <string name="setup_password_confirm">OK</string>
     <string name="setup_wifi_nfc_tag">Setați eticheta Wi-Fi NFC</string>
     <string name="severe_threats_summary">Primiți alerte pentru amenințări grave privind viața și proprietatea</string>
     <string name="severe_threats_title">Amenințări grave</string>

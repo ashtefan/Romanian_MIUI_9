@@ -1247,6 +1247,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="network_speed_for_apps_others">Altele</string>
     <string name="network_speed_for_apps_title">Detalii viteză conexiune</string>
     <string name="network_speed_for_apps_total">Viteză conexiune</string>
+    <string name="network_test_speed">Testați viteza rețelei Wi-Fi</string>
     <string name="networkchanged_exception_summary">Conexiunea la rețea s-a modificat. Testați din nou.</string>
     <string name="networkchanged_exception_title">Conexiune modificată</string>
     <string name="never">O dată</string>
@@ -1972,7 +1973,6 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="start_diagnostic_botton">Start</string>
     <string name="start_downloading_app">A început descărcarea: %1$s</string>
     <string name="start_game">Start</string>
-    <string name="start_tc_button">Calibrați</string>
     <string name="still_retain_btn">Păstrați</string>
     <string name="suffix_pay_risk_count_bottom">riscuri</string>
     <string name="suffix_pay_risk_count_top">plăți</string>
@@ -2248,10 +2248,10 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_purchase_body">Apăsați pentru a suplimenta soldul.</string>
     <string name="traffic_purchse_suggestion">Suplinire date mobile</string>
     <string name="traffic_setting_fragment_area">Local</string>
-    <string name="traffic_setting_fragment_area_dual">%s Local</string>
     <string name="traffic_setting_fragment_brand">Marca</string>
     <string name="traffic_setting_fragment_button1_text">Anulaţi</string>
     <string name="traffic_setting_fragment_button2_text">Salvaţi</string>
+    <string name="traffic_setting_fragment_city">Oraș</string>
     <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Nu cunoașteți operatorul?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_setting_fragment_get_template_falure">Nu se poate conecta la reţea. Verificați conexiunea de date și încercați din nou.</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">"Nu arăta din nou"</string>
@@ -2259,6 +2259,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_setting_fragment_no_network">Nu se poate conecta la reţea</string>
     <string name="traffic_setting_fragment_null">Gol</string>
     <string name="traffic_setting_fragment_operator">Operator</string>
+    <string name="traffic_setting_fragment_province">Provincie</string>
     <string name="traffic_setting_fragment_send_num">Numărul de telefon al operatorului</string>
     <string name="traffic_setting_fragment_send_num_tips">Introduceţi numărul de telefon</string>
     <string name="traffic_setting_fragment_sms_content">Conţinutul mesajului</string>

@@ -81,6 +81,8 @@
     <string name="dialog_delay_update_msg">"Telefonul va reporni pentru aplicarea actualizării atunci când va fi pornit iar acumulatorul va avea cel puțin 30% energie"</string>
     <string name="dialog_delay_update_title">Actualizare disponibilă</string>
     <string name="dialog_delay_update_tonight">Actualizează la noapte</string>
+    <string name="dialog_stop_desc">Sunteți sigur că doriți să opriți descărcarea în curs? Progresul va fi oprit și nu îl veți putea relua. Următoarea încercare va relua descărcarea de la început.</string>
+    <string name="dialog_stop_title">Opriți descărcarea?</string>
     <string name="download_again">Încercaţi</string>
     <string name="download_cancel">Anulaţi</string>
     <string name="download_current_rom">Vizualizaţi actualizările disponibile</string>

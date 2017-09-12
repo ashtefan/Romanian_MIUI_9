@@ -16,6 +16,7 @@
     <string name="accessibility_bluetooth_connected">Conectat prin Bluetooth</string>
     <string name="accessibility_bluetooth_disconnected">Deconectat de la Bluetooth</string>
     <string name="accessibility_bluetooth_tether">Conectarea ca modem prin Bluetooth.</string>
+    <string name="accessibility_brightness_slider">Cursor iluminare</string>
     <string name="accessibility_camera_button">Cameră</string>
     <string name="accessibility_clear_all">Ştergeţi toate notificările</string>
     <string name="accessibility_data_connection_3.5g">3,5G</string>
@@ -61,6 +62,8 @@
     <string name="accessibility_ringer_silent">Sonerie silenţioasă</string>
     <string name="accessibility_ringer_vibrate">Vibrare sonerie.</string>
     <string name="accessibility_search_light">Căutare</string>
+    <string name="accessibility_search_scanner">Scaner</string>
+    <string name="accessibility_settings">Setări</string>
     <string name="accessibility_tty_enabled">TeleTypewriter activat.</string>
     <string name="accessibility_wifi_off">Wi-Fi oprit.</string>
     <string name="accessibility_wifi_one_bar">Semnal Wi-Fi: o bară.</string>

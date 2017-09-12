@@ -497,12 +497,13 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="sub_sync_item_sms_title_wifi_only">Utilizaţi doar Wi-Fi pentru sincronizarea MMS</string>
     <string name="success_upgraded_space">%s adăugat</string>
     <string name="sync_dspt">Sincronizare</string>
-    <string name="sync_dspt_entrance_provision">"Sincronizaţi fotografiile, contactele, istoricul apelurilor și mesajele între toate dispozitivele dvs. Accesaţi conţinutul sincronizat din orice browser la adresa %s. "</string>
+    <string name="sync_dspt_entrance_provision">"Mi Cloud vă ajută să sincronizaţi fotografiile, contactele și multe altele între dispozitive. Puteți accesa conţinutul sincronizat din orice browser la adresa %s. "</string>
     <string name="sync_dspt_entrance_provision_2">Aflaţi mai multe</string>
     <string name="sync_dspt_entrance_provision_confirm_close">Nu se utilizează</string>
     <string name="sync_dspt_entrance_provision_confirm_content">Aplicațiile MIUI au nevoie de Mi Cloud pentru a rezerva fotografiile, contactele, notele, etc. Mi Cloud este gratuit și gata de utilizare.</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Utilizaţi Mi Cloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Nu utilizaţi Mi Cloud?</string>
+    <string name="sync_dspt_entrance_provision_network">Această aplicație trebuie să se conecteze la internet pentru a funcționa în mod normal. Sincronizarea datelor se poate conecta la rețeaua de date sau la rețelele Wi-Fi deschise.</string>
     <string name="sync_dspt_entrance_provision_skip"><u>Omiteţi acest pas</u></string>
     <string name="sync_dspt_provision">"Sincronizaţi fotografiile, contactele, notele și altele pe toate dispozitivele, sau accesați-le la "</string>
     <string name="sync_dspt_provision2">i.mi.com</string>
