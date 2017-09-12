@@ -1266,7 +1266,7 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="notification_charging_title">"Se încarcă "</string>
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
-    <string name="notification_item">Activați blocarea aplicațiilor</string>
+    <string name="notification_item">Protejați aplicațiile cu Blocarea aplicațiilor</string>
     <string name="notification_mask_summary">"Nu arăta conținutul notificărilor din Blocarea ecranului și din Perdeaua de notificări"</string>
     <string name="notification_mask_title">Ascundeți conținutul</string>
     <string name="notification_quick_charging_title">Încărcare rapidă</string>

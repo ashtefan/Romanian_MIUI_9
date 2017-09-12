@@ -644,7 +644,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="photo_editor_beautify">Înfrumusețare</string>
     <string name="photo_editor_beautify_auto">Auto</string>
     <string name="photo_editor_beauty_compare">Original</string>
-    <string name="photo_editor_crop_and_rotate">Decupare și rotire</string>
+    <string name="photo_editor_crop_and_rotate">Decupare</string>
     <string name="photo_editor_crop_reset">Resetare</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Mâzgălitură</string>
@@ -963,8 +963,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="video_editor_text_edit_input_open_hint">Introduceți titlul</string>
     <string name="video_editor_text_edit_start">Titlu</string>
     <string name="video_editor_text_input_empty_tips">"Se pare că nu ați introdus încă textul"</string>
-    <string name="video_editor_text_none">Niciunul</string>
-    <string name="video_editor_text_preview_text">Text</string>
+    <string name="video_editor_text_preview_text">MI</string>
     <string name="video_editor_trim">Ajustare</string>
     <string name="video_editor_unsupport_audio_file">Fișier audio nesuportat</string>
     <string name="video_err">"Imposibil de redat videoclipul"</string>

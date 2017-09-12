@@ -162,6 +162,7 @@
     <string name="notif_trans_receiving_failed">"Nu s-au putut primi datele"</string>
     <string name="notif_trans_sending_completed">Date trimise cu succes</string>
     <string name="notif_trans_sending_failed">"Trimiterea datelor a eșuat"</string>
+    <string name="notif_trans_wait_for_reconnecting">Dispozitivul de la distanță este deconectat. Conectați-vă din nou.</string>
     <string name="page_loading">Doar o secundă…</string>
     <string name="progress_backup_hint">Creare copie de rezervă…</string>
     <string name="progress_restore_hint">Restabilire…</string>
@@ -169,6 +170,7 @@
     <string name="prompt_sending">Încărcare…</string>
     <string name="prompt_writing">Salvare…</string>
     <string name="read_encrypt_fail">"Nu s-a putut citi copia de rezervă criptată"</string>
+    <string name="reconnect">Reconectare</string>
     <string name="refresh">Reîmprospătaţi</string>
     <string name="remote_receive">Recepționare</string>
     <string name="restore">Restabiliţi</string>
@@ -260,6 +262,7 @@
     <string name="trans_calculating_base_size">Se calculează dimensiunea datelor</string>
     <string name="trans_cancel_confirm">Transfer în desfășurare, opriți acum?</string>
     <string name="trans_cancelling">Oprire transfer…</string>
+    <string name="trans_connect_failed_device_incompatible">dispozitiv incompatibil. Opriți transferul și încercați din nou.</string>
     <string name="trans_connect_failed_message">"Nu s-a putut conecta; reîncercați mai târziu sau reporniți telefonul. Pe celălalt telefon accesați Setări &gt; Setări adiționale &gt; Mi Mover, apăsați [Sunt expeditor] sau lansați aplicația Mi Mover după repornirea telefonului"</string>
     <string name="trans_connect_failed_title">"Nu s-a putut conecta"</string>
     <string name="trans_connect_failed_toast">"Nu s-a putut conecta"</string>
@@ -270,6 +273,7 @@
     <string name="trans_detail_category_sysdata">Date de sistem</string>
     <string name="trans_detail_category_userdata">Aplicații</string>
     <string name="trans_device_disconnected">Dispozitiv deconectat</string>
+    <string name="trans_device_wait_for_reconnecting">Dispozitiv deconectat. Vă rugăm să-l reconectați.</string>
     <string name="trans_generate_qr_code_failed">"Nu s-a putut crea codul QR"</string>
     <string name="trans_main_tutor">Transferați contactele, istoricul apelurilor, mesajele, dispunerea iconițelor pe ecranul principal, aplicațiile, setările, etc. pe un nou dispozitiv</string>
     <string name="trans_my_device">Dispozitivul meu</string>
@@ -284,6 +288,10 @@ Apăsați [Sunt destinatar] pentru a crea un cod QR"</string>
 2. Deschideți aplicația și apăsați Start
 3. Scanați codul QR cu vechiul telefon"</string>
     <string name="trans_operate_old_phone_tips2">"Mergeți la Setări &gt; Setări adiționale &gt; Mi Mover, Apăsați [Sunt expeditor]"</string>
+    <string name="trans_operate_reconnect_new_tips">"Așteptați până când noul telefon afișează \"Dispozitiv deconectat\".
+Apoi atingeți [Reconectare] pentru a crea codul QR."</string>
+    <string name="trans_operate_reconnect_old_tips">"Așteptați până când vechiul telefon afișează \"Dispozitiv deconectat\".
+Apoi atingeți [Reconectare] pentru a scana codul QR."</string>
     <string name="trans_please_waiting">Doar o secundă…</string>
     <string name="trans_progress_subdescript_br_receiver">Restabilire %1$s, %2$s completat</string>
     <string name="trans_progress_subdescript_br_sender">Creare copie de rezervă %1$s, %2$s completat</string>

@@ -20,6 +20,7 @@
     <string name="account_error_user_birthday">Ziua de naștere introdusă nu este validă</string>
     <string name="account_has_been_set">Modificați</string>
     <string name="account_limit_update_birthday">"Nu se poate actualiza ziua de naștere acum"</string>
+    <string name="account_mibi_center">Centrul Mibi</string>
     <string name="account_mipay_info">Plăți Mi</string>
     <string name="account_no_set">Nimic</string>
     <string name="account_none">Nimic</string>
@@ -256,7 +257,6 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_input_password_hint">Introduceți parola</string>
     <string name="passport_input_phone_hint">Introduceţi numărul de telefon</string>
     <string name="passport_input_vcode_hint">Introduceți codul de verificare</string>
-    <string name="passport_instant_login">Conectați-vă</string>
     <string name="passport_license_host_unreachable">Nu se poate conecta la rețea. Puteți vizualiza această pagină la %s.</string>
     <string name="passport_loading">Doar o secundă…</string>
     <string name="passport_login">Conectaţi-vă</string>
@@ -269,6 +269,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_login_using_other_ways"><u>Alte modalități de conectare</u></string>
     <string name="passport_message_dialog_title">SMS cu coduri de verificare</string>
     <string name="passport_next">Înainte</string>
+    <string name="passport_no">Nu</string>
     <string name="passport_notification_title">Eroare de conectare pentru %1$s</string>
     <string name="passport_password_phone_login">Conectare utilizând contul Mi</string>
     <string name="passport_password_req_notice">Parola trebuie să aibă 8-16 caractere și să includă atât cifre cât și litere.</string>
@@ -284,6 +285,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_quick_login_dialog_title">Verificați parola</string>
     <string name="passport_quick_login_step2_title">Verificare în 2 paşi</string>
     <string name="passport_quick_login_title">Introduceți parola</string>
+    <string name="passport_quick_register">Creați un cont</string>
     <string name="passport_quick_register_notice">&lt;u&gt;"Nu aveți un cont Mi? Creați unul."&lt;/u&gt;</string>
     <string name="passport_re_get_verify_code">Obţineţi codul din nou</string>
     <string name="passport_re_register">Conectaţi-vă din nou</string>
@@ -362,6 +364,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_wrong_captcha">Codul introdus nu este corect</string>
     <string name="passport_wrong_phone_number_format">Formatul numărului de telefon introdus nu este valid</string>
     <string name="passport_wrong_vcode">Codul introdus nu este corect</string>
+    <string name="passport_yes">Da</string>
     <string name="phone_activated">%s activat</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
     <string name="push_notification_content">Obțineți codul de verificare</string>

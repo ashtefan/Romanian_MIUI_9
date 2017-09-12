@@ -10,8 +10,7 @@
     <string name="congratulation_label">"Sunteți gata de start!​"</string>
     <string name="congratulation_title">Configurare finalizată</string>
     <string name="content_description_complete">Finalizat</string>
-    <string name="content_description_language_picker">Selectați limba</string>
-    <string name="content_description_miui_version">MIUI 8</string>
+    <string name="content_description_miui_version">MIUI 9</string>
     <string name="content_description_start">Start</string>
     <string name="desc_extra_fingerprint"/>
     <string name="desc_extra_international_fingerprint"/>
@@ -27,7 +26,10 @@
     <string name="input_method_category">Selectați tastatura prestabilită pe care o veți utiliza pentru scriere e-mailuri, note, etc. Rețineți că puteți instala alte tastaturi mai târziu.</string>
     <string name="input_method_setting">Selectați tastatura prestabilită</string>
     <string name="install_preinstall_app">Încărcare aplicaţii…</string>
+    <string name="item_fingerprint">Amprentă</string>
+    <string name="item_lock_screen_password">Doar parola de blocare</string>
     <string name="language_picker_other_languages_title">Mai multe limbi</string>
+    <string name="language_settings">Setări limbă</string>
     <string name="locale_picker_title">Selectaţi regiunea</string>
     <string name="miui_privacy_policy_no_network">Nu aveți o conexiune la internet. Vizualizaţi Politica de confidențialitate la %s.</string>
     <string name="miui_terms_no_network">Nu aveți conexiune la internet. Vizualizaţi Termenii și condițiile la %s.</string>
@@ -64,7 +66,7 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="terms_of_use_label">"Confidențialitatea datelor dvs. este foarte importantă pentru noi. Vă rugăm să citiți Termenii și condițiile precum și Politica de confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni sunt disponibile pentru dvs.
     
 Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI. Pe durata activării serviciile Mi, Serviciile Mi de activare SIM, Mi Cloud, Localizarea dispozitivului, modulele Ecranului principal, Serviciul Jocuri, componentele de sistem MAB și MSA, DirectService, Quick Card și alte componente statistice și ale contului Mi se vor conecta la internet și vor obține locația dvs."</string>
-    <string name="title_fingerprint">Adăugați amprenta</string>
+    <string name="title_fingerprint">Setați parola mobilului</string>
   <string name="two_dimensional_code_scan">Scanare cod QR</string>
     <string name="user_agreement">Termenii serviciului</string>
   <string name="user_strayed_warning">Pagina este destinată testării. Apăsați butonul Înapoi pentru a ieși.</string>
