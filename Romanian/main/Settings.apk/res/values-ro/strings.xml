@@ -2405,7 +2405,6 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="memory_title">Disponibil %1$s\t\tTotal %2$s</string>
     <string name="memory_usage">Utilizare memorie</string>
     <string name="memory_usage_apps">Memorie utilizată de către aplicații</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">%1$s memorie utilizată în medie în ultimele 3 ore</string>
     <string name="menu_cancel">Renunţaţi</string>
     <string name="menu_check">Experimentați</string>
@@ -2436,7 +2435,6 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="mi_shopping_mall">Magazin Mi</string>
     <string name="misc_files">Fişiere diverse</string>
     <string name="misc_files_selected_count">au fost selectate %1$d din %2$d</string>
-    <string name="misc_files_selected_count_bytes">%1$s din %2$s</string>
     <string name="miui_allow_alarm">Alarme</string>
     <string name="miui_allow_light">Lumină de notificare</string>
     <string name="miui_allow_music">Muzică și videoclipuri</string>
@@ -2598,7 +2596,6 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="nfc_how_it_works_got_it">Am înțeles</string>
     <string name="nfc_how_it_works_title">Plată la terminal</string>
     <string name="nfc_more_title">Mai multe...</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">Plată implicit</string>
     <string name="nfc_payment_default_not_set">Nesetat</string>
     <string name="nfc_payment_favor_default">Întotdeauna</string>
@@ -2759,7 +2756,6 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="overlay_display_devices_title">Simulaţi afişaje secundare</string>
     <string name="overlay_settings">Afișează peste celelalte aplicații</string>
     <string name="owner_info_settings_edit_text_hint">De ex. telefonul lui Mihai</string>
-    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_title">Mesaj în Blocarea ecranului</string>
     <string name="owner_space">Spațiul Secundar</string>
@@ -3039,7 +3035,6 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="private_sms_recording_intro_header">Desenaţi un model de deblocare</string>
     <string name="private_sms_reset_by_account">Pentru a reseta parola, conectați-vă la contul dvs. Mi</string>
     <string name="process_dex2oat_label">Adăugați optimizarea</string>
-    <string name="process_format">%1$s (%2$d)</string>
     <string name="process_kernel_label">Sistem de operare Android</string>
     <string name="process_mediaserver_label">Server media</string>
     <string name="process_provider_in_use_description">Furnizorul %1$s se află în uz.</string>
@@ -3712,11 +3707,9 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="selinux_status_enforcing">Obligatoriu</string>
     <string name="selinux_status_permissive">Facultativ</string>
     <string name="service_background_processes">%1$s liber(i)</string>
-    <string name="service_client_name">%1$s</string>
     <string name="service_foreground_processes">%1$s util.</string>
     <string name="service_manage">Setări</string>
     <string name="service_manage_description">%1$s: se află în prezent în uz. Atingeţi Setări pentru a controla serviciul.</string>
-    <string name="service_process_name">%1$s</string>
     <string name="service_restarting">Reporneşte</string>
     <string name="service_started_by_app">Iniţiat de aplicaţie</string>
     <string name="service_stop">Opriţi</string>
@@ -3879,7 +3872,6 @@ Codul PIN poate fi incorect."</string>
     <string name="sim_reenter_new">Reintroduceţi noul cod PIN</string>
     <string name="sim_select_card">Selectați o cartelă SIM</string>
     <string name="sim_selection_required_pref">Selectarea este necesară</string>
-    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">Cartele SIM</string>
     <string name="sim_setup_wizard_title">Cartele SIM</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4205,7 +4197,6 @@ Luați în calcul utilizarea unui ^1 mai rapid pentru o mai bună performanță.
     <string name="sync_gmail">Gmail</string>
     <string name="sync_in_progress">Se sincronizează acum…</string>
     <string name="sync_is_failing">Sincronizarea se confruntă în prezent cu probleme. Aceasta va fi funcţională în curând.</string>
-    <string name="sync_item_title">%s</string>
     <string name="sync_menu_sync_cancel">Anulaţi sincronizarea</string>
     <string name="sync_menu_sync_now">Sincronizaţi acum</string>
     <string name="sync_now">Sincronizați</string>
