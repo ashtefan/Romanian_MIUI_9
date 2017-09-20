@@ -181,7 +181,7 @@
     <string name="contextmenu_dial_dot">Apelaţi…</string>
     <string name="contextmenu_download_image">Salvaţi imaginea</string>
     <string name="contextmenu_download_image_as">Salvaţi imaginea</string>
-    <string name="contextmenu_manually_block_ad">Marcați ca reclamă</string>
+    <string name="contextmenu_manually_block_ad">Etichetați ca și reclamă</string>
     <string name="contextmenu_map">Hartă</string>
     <string name="contextmenu_openlink">Deschideţi</string>
     <string name="contextmenu_openlink_newwindow">Deschideţi într-o filă nouă</string>
@@ -440,7 +440,7 @@ Părăsiţi această pagină?"</string>
     <string name="miuichromium_error_page_network_off">Porniți Wi-Fi-ul sau datele mobile</string>
     <string name="miuichromium_error_page_no_network">"Nu se poate conecta la rețea"</string>
     <string name="miuichromium_error_page_problem_access_denied">Accesul la  %s0 a fost refuzat</string>
-    <string name="miuichromium_error_page_problem_cache_miss">Această pagină nu poate fi încărcată din memoria cache</string>
+    <string name="miuichromium_error_page_problem_cache_miss">"Versiunea din memoria cache a acestei pagini nu poate fi încărcată"</string>
     <string name="miuichromium_error_page_problem_cannot_open_page">"Pagina nu poate fi deschisă"</string>
     <string name="miuichromium_error_page_problem_cannot_reach_site">"Site-ul nu poate fi găsit"</string>
     <string name="miuichromium_error_page_problem_connection_interrupted">Conexiunea a fost întreruptă</string>
@@ -475,7 +475,7 @@ Părăsiţi această pagină?"</string>
     <string name="miuichromium_error_page_reason_unsafe_port">. %s0 utilizează un port nesigur</string>
     <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 vă redirecționează într-o direcție nesigură</string>
     <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 utilizează un protocol nesuportat</string>
-    <string name="miuichromium_error_page_reload">Reîncărcați</string>
+    <string name="miuichromium_error_page_reload">Reîmprospătați</string>
     <string name="miuichromium_error_page_safe_network">Modul Sigur</string>
     <string name="miuichromium_error_page_server_error">Sunt prea multe dispozitive care încearcă să se conecteze</string>
     <string name="miuichromium_error_page_suggestion_check_app_proxy">Verificați setările aplicațiilor proxy instalate pe dispozitivul dumneavoastră.</string>
@@ -564,10 +564,10 @@ Părăsiţi această pagină?"</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Introducere rapidă URL</string>
     <string name="pref_adblock_counts">%d blocate</string>
     <string name="pref_adblock_title">Blocare anunţuri</string>
-    <string name="pref_advert_null">Reclamă nemarcată. Puteți atinge eticheta de pe pagină</string>
+    <string name="pref_advert_null">Niciun element etichetat ca și reclamă. Atingeți și mențineți apăsat un element din pagină pentru a-l marca</string>
     <string name="pref_auto_update_under_wifi">Actualizaţi utilizând Wi-Fi</string>
     <string name="pref_automatic_matching_searchengines_title">Comutare la motorul de căutare utilizat cel mai des</string>
-    <string name="pref_cancel_screen">Renunțați la ecran</string>
+    <string name="pref_cancel_screen">Deblocați</string>
     <string name="pref_category_hint">Categorie</string>
     <string name="pref_check_security_url_summary">"Trimiteţi URL-ul către serverele MI pentru a verifica dacă este sigur"</string>
     <string name="pref_check_security_url_summary_international">Permiteți Browser-ului să acceseze URL-urile pe care le vizitați pentru a primi recomandări mai relevante.</string>

@@ -142,7 +142,7 @@ Verificați numărul de urmărire."</string>
     <string name="express_install_cainiao_ok">Descărcați</string>
     <string name="express_install_cainiao_title">Instalați Cainiao</string>
     <string name="express_install_delivery_service">Servicii de livrare</string>
-    <string name="express_install_open_locker">Un singur pas pentru a deschide blocarea</string>
+    <string name="express_install_open_locker">Deschideți blocarea</string>
     <string name="express_install_order_detail">Se verifică detaliile comenzii</string>
     <string name="express_install_schedule_delivery">Programare livrare</string>
     <string name="express_location_failed">"Nu s-a putut obține localizarea dumneavoastră. Introduceți adresa."</string>

@@ -293,6 +293,7 @@
     <string name="permission_group_title_settings_related">Setări</string>
     <string name="permission_request_title">Solicitare de acordare permisiuni</string>
     <string name="permission_warning_template">Permiteți %1$s pentru %2$s ?</string>
+    <string name="permission_warning_template_ask">Acordați %1$s următoarele permisiuni？</string>
     <string name="permisson_reject_notice_toast_text2">"nu are permisiunea de %1$s."</string>
     <string name="screen_overlay_button">Accesați Setările</string>
     <string name="screen_overlay_message">Pentru a modifica această setare de permisiune, va trebui să opriți suprapunerea de elemente vizuale din Setări &gt; Aplicații</string>

@@ -124,7 +124,7 @@
     <string name="data_consumption_checkbox_hint">Nu se afişează din nou</string>
     <string name="data_consumption_confirm">OK</string>
     <string name="data_consumption_message">Această aplicație necesită o conexiune la internet prin Wi-Fi pentru a funcţiona în mod normal.</string>
-    <string name="data_consumption_message1">Telefonul trebuie să fie conectat la internet prin Wi-Fi pentru a putea vedea stickerele și videoclipurile populare.</string>
+    <string name="data_consumption_message1">Exploratorul de fișiere trebuie să se conecteze la internet pentru a putea vedea stickerele și videoclipurile populare.</string>
     <string name="data_consumption_title">Conexiune internet</string>
     <string name="decompress_cancel">Anulaţi</string>
     <string name="decompress_confirm">Dezarhivaţi</string>
@@ -487,7 +487,7 @@
     <string name="recommend_users">%1$s+</string>
     <string name="remote_video_report_success">"Mulțumim pentru comentarii! Le vom analiza cu atenție."</string>
     <string name="rename_alert">"Dacă modificați extensia acestui fișier, nu veți putea să-l deschideţi."</string>
-  <string name="rename_alert2">Fișierul nu va mai fi vizibil.</string>
+    <string name="rename_alert2">Fișierul nu va mai fi vizibil după ce îi veți modifica extensia.</string>
     <string name="rename_failed">"Nu se poate redenumi %1$s"</string>
     <string name="repair_done">Restaurate</string>
     <string name="repair_error">"Nu s-au putut restaura"</string>
@@ -557,7 +557,7 @@
     <string name="server_control_advanced_settings">Setări FTP</string>
     <string name="server_control_charset">Codare transfer</string>
     <string name="server_control_settings">Setări</string>
-    <string name="server_error">Eroare severă, încercați mai târziu. (Eroare %s)</string>
+    <string name="server_error">Eroare de server, încercați mai târziu. (Eroare %s).</string>
     <string name="set_pattern">Parola a fost actualizată</string>
     <string name="set_pattern_btn">Setați</string>
     <string name="set_pattern_msg">Setați parola din nou. Parola de protecție a confidențialității este valabilă și pentru fotografii sau mesaje.</string>
@@ -587,7 +587,7 @@
     <string name="shared_sticker_page_no_file">"Nu s-a putut conecta la rețea. Verificați conexiunea și reîncercați."</string>
     <string name="shared_sticker_str">Recente</string>
     <string name="shared_sticker_suffix">Sticker la %s</string>
-    <string name="shared_sticker_use_tip">"Puteți trimite stickerele salvate din Chats la fel cum trimiteți imagini.
+    <string name="shared_sticker_use_tip">"Puteți trimite stickerele salvate din chat-uri la fel cum trimiteți imagini.
 (Imaginile GIF pot fi adăugate la Personalizate)."</string>
     <string name="shared_sticker_use_tip_title">Cum se folosesc stickerele</string>
     <string name="shared_str">Partajate de %s</string>

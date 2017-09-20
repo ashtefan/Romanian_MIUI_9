@@ -20,7 +20,7 @@
     <string name="account_error_user_birthday">Ziua de naștere introdusă nu este validă</string>
     <string name="account_has_been_set">Modificați</string>
     <string name="account_limit_update_birthday">"Nu se poate actualiza ziua de naștere acum"</string>
-    <string name="account_mibi_center">Centrul Mibi</string>
+    <string name="account_mibi_center">Credite Mi</string>
     <string name="account_mipay_info">Plăți Mi</string>
     <string name="account_no_set">Nimic</string>
     <string name="account_none">Nimic</string>
@@ -66,7 +66,7 @@
     <string name="authorize_title">Autorizare</string>
     <string name="bind_facebook">Adăugaţi contul dvs. Facebook</string>
     <string name="bind_qq">QQ</string>
-    <string name="bind_safe_phone_msg">Adăugați un număr sigur de telefon pentru conectările ulterioare</string>
+    <string name="bind_safe_phone_msg">Adăugați numărul dvs. de telefon pentru a vă putea conecta la contul Mi data viitoare.</string>
     <string name="bind_settings">Conturi</string>
     <string name="bind_sina_weibo">Adăugaţi un cont Sina Weibo</string>
     <string name="bind_sns_description">Conectaţi-vă cu %s</string>
@@ -154,6 +154,7 @@
     <string name="logout_account">Deconectare</string>
     <string name="logout_failed">Nu se poate deconecta</string>
     <string name="mi_account_identity_title">Verificaţi identitatea dvs.</string>
+    <string name="mi_vip_info">Vedeți privilegiile</string>
     <string name="mipay">Plăți</string>
     <string name="mipay_balance">Balanță</string>
     <string name="mipay_bank_card">Card bancar</string>
@@ -209,6 +210,7 @@ Pentru a vă activa contul, accesați
 link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_completed">Finalizare</string>
     <string name="passport_confirm_recycle_account">Da</string>
+    <string name="passport_continue">Continuați</string>
     <string name="passport_copy_message_text_success">Copiat cu succes</string>
     <string name="passport_copy_message_vcode">Copiați codul</string>
     <string name="passport_delete_account">Deconectaţi-vă</string>
@@ -265,6 +267,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_login_instead_reg_with_email">Utilizați acest e-mail</string>
     <string name="passport_login_other_account">Alt cont</string>
     <string name="passport_login_prompt">Un cont Mi. Toate serviciile Mi.</string>
+    <string name="passport_login_recycle_account_no">Nu</string>
+    <string name="passport_login_recycle_account_yes">Da</string>
     <string name="passport_login_title">Conectaţi-vă la un cont existent</string>
     <string name="passport_login_using_other_ways"><u>Alte modalități de conectare</u></string>
     <string name="passport_message_dialog_title">SMS cu coduri de verificare</string>
@@ -295,6 +299,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_reg_failed">Nu se poate seta contul</string>
     <string name="passport_reg_new_account">Creați un cont</string>
     <string name="passport_reg_prompt">"Nu aveți un cont Mi? Creați unul gratis."</string>
+    <string name="passport_reg_recycle_account_no">Nu</string>
+    <string name="passport_reg_recycle_account_yes">Da</string>
     <string name="passport_reg_success">Cont creat</string>
     <string name="passport_reg_success_summary">%1$s a fost asociat contului dvs. Puteți să-l utilizați pentru a vă conecta sau pentru a vă reseta parola.</string>
     <string name="passport_reg_type_email">Utilizaţi adresa de e-mail</string>
@@ -333,6 +339,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_send_vcode_failed">"Nu s-a putut trimite codul"</string>
     <string name="passport_sending_vcode">Se trimite codul…</string>
     <string name="passport_set">Setați</string>
+    <string name="passport_set_password_no_phone_msg">Adăugați-vă numărul de telefon pentru a vă proteja contul.</string>
     <string name="passport_setting">Configurare…</string>
     <string name="passport_skip_login">Omiteţi conectarea</string>
     <string name="passport_skip_register">Omiteţi conectarea</string>
@@ -429,5 +436,6 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="verify_phone_prompt">Selectați numărul de telefon pentru verificare</string>
     <string name="verify_phone_title">Verificați numărul de telefon</string>
     <string name="vip_account_settings">Setări cont VIP</string>
+    <string name="vip_settings_info">Setări VIP</string>
     <string name="xiao_mi_vip">Mi VIP</string>
 </resources>
