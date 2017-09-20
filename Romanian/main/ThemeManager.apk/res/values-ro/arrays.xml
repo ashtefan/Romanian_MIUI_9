@@ -2,10 +2,38 @@
 <resources>
     <string-array name="wallpaper_settings_precust_cover_name">
         <item>Distracție</item>
-        <item>Peisaj</item>
+        <item>Peisaje</item>
         <item>Cer înstelat</item>
-        <item>Botanică</item>
+        <item>Plante</item>
         <item>Animale</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_global_cover_name">
+        <item>Peisaje</item>
+        <item>Animale</item>
+        <item>Plante</item>
+        <item>Creativ</item>
+        <item>Stil de viață</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_india_cover_name">
+        <item>Animale</item>
+        <item>Clădiri</item>
+        <item>Creativ</item>
+        <item>Desene animate</item>
+        <item>Peisaje</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_brazil_cover_name">
+        <item>Decoruri</item>
+        <item>Animale</item>
+        <item>Creativ</item>
+        <item>Plante</item>
+        <item>Stil de viață</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_hong_kong_cover_name">
+        <item>Decoruri</item>
+        <item>Animale</item>
+        <item>Creativ</item>
+        <item>Plante</item>
+        <item>Stil de viață</item>
     </string-array>
     <string-array name="disable_package_replacement">
         <item>dezactivează numele pachetelor</item>

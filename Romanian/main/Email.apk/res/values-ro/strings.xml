@@ -7,7 +7,7 @@
     <string name="accessibility_guide_second">Apoi apăsați butonul din partea din dreapta sus și atingeți \"Confirmare\" pentru a continua.</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizați deja acest nume de utilizator pentru contul \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Cont duplicat</string>
-    <string name="account_failure">Eșuare cont</string>
+    <string name="account_failure">Sesiunea a expirat</string>
     <string name="account_name_toast">Un cont cu același nume există deja</string>
     <string name="account_options_sync_title">Sincronizare</string>
     <string name="account_password_spaces_error">"Această parolă începe sau se termină cu unul sau mai multe
@@ -73,6 +73,7 @@ Actualizaţi acum?"</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Verificați dacă numele de utilizator, parola și setările contului sunt corecte.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">Nu s-a putut configura contul</string>
     <string name="account_setup_basics_email_label">Adresă de e-mail</string>
+    <string name="account_setup_basics_login_gmail_without_proxy">Utilizați conexiunea de rețea curentă</string>
     <string name="account_setup_basics_manual_setup_action">Configurare manuală</string>
     <string name="account_setup_basics_password_label">Parolă</string>
     <string name="account_setup_basics_title">Adăugaţi un cont</string>
@@ -224,7 +225,7 @@ Actualizaţi acum?"</string>
     <string name="auto_remind_text">Memento automat</string>
     <string name="auto_remind_unbind">Opriți</string>
     <string name="auto_sync_off">Sincronizare automată dezactivată.</string>
-    <string name="automatic_remind_text">memento</string>
+    <string name="automatic_remind_text">Reamintește în mod automat</string>
     <string name="bank_card_detail">Detaliile cardului de credit</string>
     <string name="bank_card_list_card_num_fmt">****%s</string>
     <string name="battery_saver">Economisire acumulator</string>
@@ -250,7 +251,7 @@ Actualizaţi acum?"</string>
     <string name="calendar_remind_gridview_pick_date">Alegeți o dată</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_action">Anulaţi</string>
-    <string name="cancel_pop3_attchemt_downloading">Oprirea descărcării atașamentelor nu este disponibilă pentru conturile de tip POP3.</string>
+    <string name="cancel_pop3_attchemt_downloading">"Nu se poate opri descărcarea în curs a atașamentelor pentru conturile de tip POP3"</string>
     <string name="cant_move_or_change_labels">"Nu se pot muta elemente din mai multe conturi."</string>
     <string name="cc">CC</string>
     <string name="cc_attribution">CC: %1$s\n</string>
@@ -259,7 +260,7 @@ Actualizaţi acum?"</string>
     <string name="change_folders_selection_dialog_title">Modificaţi dosarele</string>
     <string name="change_sync_settings">Modificaţi setările de sincronizare</string>
     <string name="changepw_dialog_tips">Reintroduceţi parola pentru %s</string>
-    <string name="changepw_dialog_tips_please_clikc_btn">Priviți %s codul de verificare și autentificați-vă din nou</string>
+    <string name="changepw_dialog_tips_please_clikc_btn">Vedeți codul de verificare în %s și autentificați-vă din nou</string>
     <string name="chat_item_msg_people_unit">persoane</string>
     <string name="chat_item_msg_user_etc">etc.</string>
     <string name="check_setup_data">"    Se validează setările serverului…"</string>
@@ -357,6 +358,7 @@ Actualizaţi acum?"</string>
     <string name="default_pop3">POP3</string>
     <string name="default_setup">SETĂRI PRESTABILITE</string>
     <string name="default_signature">Trimis de pe Mi</string>
+    <string name="default_signature_2">Trimis de pe %s-ul meu</string>
     <string name="del_account_questionnair_hint">"Ne puteți spune de ce ștergeți acest cont?"</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_message_flow">Ștergere flux de mesaje</string>
@@ -716,8 +718,13 @@ Actualizaţi acum?"</string>
     <string name="oauth_gmail_login_notify">Introduceți numele de utilizator și parola contului Google pe următoarea pagină de autentificare.</string>
     <string name="oauth_login_continue">Continuare</string>
     <string name="oauth_login_continue_qq">Obțineți codul de autorizare și conectați-vă &gt;</string>
+    <string name="oauth_login_usr_proxy">Autentificare proxy</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
+    <string name="open_calendar_and_contacts_permission">Vă rugăm să activați permisiunea de accesare a calendarului și a contactelor din Setările de sistem</string>
+    <string name="open_external_storage_and_calendar_permission">Vă rugăm să activați permisiunea de accesare a mediului extern de stocare și calendarului din Setările de sistem</string>
+    <string name="open_external_storage_and_contacts_and_calendar_permission">Vă rugăm să activați permisiunea de accesare a mediului extern de stocare, a calendarului și a contactelor din Setările de sistem</string>
+    <string name="open_external_storage_and_contacts_permission">Vă rugăm să activați permisiunea de accesare a mediului extern de stocare și a contactelor din Setările de sistem</string>
     <string name="outbox_alert_button_no_resend">Nu se retrimite</string>
     <string name="outbox_alert_button_resend">Retrimiteţi</string>
     <string name="outbox_alert_certificate_error">Contactați administratorul de sistem și actualizaţi certificatul.</string>
@@ -1029,6 +1036,10 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="str_select_none">Deselectaţi</string>
     <string name="subject_and_snippet" formatted="false">%s — %s</string>
     <string name="subject_hint">Subiect</string>
+    <string name="sync_contacts_fail_per_content">Se aplică pentru permisiunea de accesare a contactelor; atingeți pentru a aplica</string>
+    <string name="sync_contacts_fail_per_title">Sincronizarea contactelor a eșuat</string>
+    <string name="sync_contacts_fail_permission">Sincronizarea contactelor a eșuat, accesul la contactele din telefon nu este activat; accesați setările telefonului - gestionare drepturi</string>
+    <string name="sync_contacts_req_per_ignored">Agenda nu este deschisă și nu se pot sincroniza contactele</string>
     <string name="sync_error">Sincronizarea a eşuat.</string>
     <string name="sync_error_message">Dispozitivul dvs. nu are suficient spaţiu de stocare pentru a se efectua sincronizarea.</string>
     <string name="syncing_wait_restart">Atingeți Reîncercare</string>
@@ -1050,7 +1061,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="to_heading">"Către: "</string>
     <string name="toast_bar_fail_synchronization">Nu se poate conecta la rețea</string>
     <string name="toast_bar_insufficient_memory_space">Spaţiu de stocare insuficient</string>
-    <string name="toast_bar_invalid_account">Este necesar să vă autentificaţi din nou</string>
+    <string name="toast_bar_invalid_account">Sesiunea a expirat; autentificaţi-vă din nou</string>
     <string name="toast_bar_no_connection_network">Nu aveți o conexiune la internet</string>
     <string name="toast_bar_open_gmail_synchronization">Apăsați pentru a utiliza server proxy pentru Gmail</string>
     <string name="today_text">Astăzi</string>
@@ -1077,8 +1088,8 @@ pentru a primi notificări despre plăți și călătorii"</string>
           între web, alte dispozitive ale dvs. și %1$s."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Activaţi</string>
     <string name="turn_auto_sync_on_dialog_title">Activaţi sincronizarea automată?</string>
-    <string name="unbind_dialog_text">"Nu veți mai putea primi notificări după ce veți opri analizarea.
-Opriți acum?"</string>
+    <string name="unbind_dialog_text">"Aplicația de E-mail nu vă va mai analiza e-mailurile după aceasta.
+Eliminați contul?"</string>
     <string name="undo">Anulaţi</string>
     <string name="unknow">Necunoscut</string>
     <string name="unread_string">conversație necitită</string>

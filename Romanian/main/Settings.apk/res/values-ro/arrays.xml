@@ -825,13 +825,13 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Conectare manuală</item>
     </string-array>
     <string-array name="connect_mode_entries">
-        <item>mod comtible?</item>
-        <item>mod agresiv</item>
+        <item>Compatibilitate</item>
+        <item>Viteză crescută</item>
     </string-array>
     <string-array name="traffic_balance_entries">
-        <item>oprit</item>
-        <item>mod normal</item>
-        <item>mod extrem</item>
+        <item>Oprit</item>
+        <item>Obișnuit</item>
+        <item>Extrem</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Lansator de sistem</item>

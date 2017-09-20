@@ -99,7 +99,7 @@
     <string name="adjust_traffic_carrier_summary_two_day_before">Actualizată cu 2 zile în urmă</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Actualizată ieri la %s</string>
     <string name="adjust_traffic_data">Setaţi utilizarea datelor</string>
-    <string name="after_the_lock_screen">Aplicația este blocată odată ce ecranul telefonului devine inactiv.</string>
+    <string name="after_the_lock_screen">Blochează aplicațiile odată cu blocarea ecranului.</string>
     <string name="all_address_choose_hint">Toate numerele din acest județ</string>
     <string name="anim_gamebooster_text">Doar o secundă…</string>
     <string name="anti_disturb_msg_detail">Dezactivați toate notificările cu excepția apelurilor primite</string>
@@ -280,11 +280,11 @@
     <string name="applock_add_account">Adăugați</string>
     <string name="applock_add_account_info">Adăugați contul Mi pentru a vă putea reseta parola în caz că o veți uita.</string>
     <string name="applock_add_account_setting">Cont și confidențialitate</string>
-    <string name="applock_bind_account_title">Resetarea parolei</string>
+    <string name="applock_bind_account_title">Parolă uitată</string>
     <string name="applock_close_dialog_summary">Aplicațiile nu vor mai fi protejate iar parola va fi ștearsă după ce veți dezactiva Blocarea aplicațiilor.</string>
     <string name="applock_close_dialog_title">Dezactivați Blocarea aplicațiilor?</string>
     <string name="applock_exit_account_info">Contul va fi eliminat în mod automat când vă veți deconecta</string>
-    <string name="applock_header_text_less_than_half">Prea puțin spațiu disponibil pentru această aplicație. Trageți separatorul mai departe.</string>
+    <string name="applock_header_text_less_than_half">Prea puțin spațiu disponibil. Mutați puțin mai departe.</string>
     <string name="applock_login_and_add_account">Conectați-vă și adăugați</string>
     <string name="applock_not_add_account">&lt;u&gt;Not now&lt;/u&gt;</string>
     <string name="applock_not_login_account">"Nu sunteți conectat"</string>
@@ -759,7 +759,7 @@
     <string name="exception_titile">A apărut o eroare</string>
     <string name="exit">Ieșiți</string>
     <string name="finger_remind_message">Adăugați mai întâi amprenta. Atingeți pentru a merge la Setări.</string>
-    <string name="fingerprint_identify_msg">Activați Deblocarea cu amprentă</string>
+    <string name="fingerprint_identify_msg">Activați deblocarea cu amprentă</string>
     <string name="fingerprint_not_identified_msg">Pentru a debloca dispozitivul, introduceți parola.</string>
     <string name="fingerprint_not_remind">"Nu arăta din nou"</string>
     <string name="fingerprint_remind_dialog_title">Deblocare cu amprentă</string>
@@ -772,7 +772,7 @@
     <string name="firewall_activity_lable">Restricționaţi utilizarea datelor</string>
     <string name="firewall_allow_all">Permite tuturor aplicațiilor să se conecteze utilizând metoda următoare</string>
     <string name="firewall_allow_data">Permite utilizarea datelor mobile</string>
-    <string name="firewall_allow_network">Permis</string>
+    <string name="firewall_allow_network">Permiteți</string>
     <string name="firewall_allow_wlan">Permite utilizarea conexiunii Wi-Fi</string>
     <string name="firewall_applist">Aplicaţii</string>
     <string name="firewall_fragment_nonesys_listempty">Gol</string>
@@ -838,7 +838,7 @@
     <string name="guide_quck_open">Activați</string>
     <string name="guide_second_text">"După ce vă setați operatorul, MIUI va monitoriza zilnic traficul de date prin trimiterea unui mesaj gratuit către operator. Atunci când MIUI va detecta că ați depășit limita de date, vă va deconecta de la rețea și vă va notifica."</string>
     <string name="guide_wait_setting">Nu acum</string>
-    <string name="google_base_app_install_choice">\"%s\" necesită aplicațiile Google Service Framework pentru a funcționa în mod normal, le descărcați și le instalați?</string>
+    <string name="google_base_app_install_choice">\"%s\" necesită Google Services Framework pentru a funcționa în mod normal, le descărcați și le instalați?</string>
     <string name="gs_anto_clean_memory_whitelist">Excepții</string>
     <string name="gs_app_back_self_start">Economisire acumulator</string>
     <string name="gs_auto_clean_memory">Goliți memoria cache</string>
@@ -2076,14 +2076,14 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="tc_diagnostic_upload_success">Vă mulțumim pentru feedback!</string>
     <string name="tc_sms_report_direction">Cod SMS de interogare</string>
     <string name="tc_sms_report_do_report">Trimiteţi</string>
-    <string name="tc_sms_report_get_default">"Nu veţi suporta taxe pentru mesajele SMS utilizate pentru a obține bilanţul utilizării datelor de la operatorul dvs."</string>
+    <string name="tc_sms_report_get_default">"Nu veţi suporta taxe pentru mesajele utilizate pentru a obține bilanţul utilizării datelor de la operatorul dvs."</string>
     <string name="tc_sms_report_get_sms">Obţinere SMS</string>
     <string name="tc_sms_report_get_sms2">Obţinere SMS</string>
     <string name="tc_sms_report_get_sms_again">Reîmprospătare SMS</string>
     <string name="tc_sms_report_get_sms_bill">Obțineți SMS-ul</string>
     <string name="tc_sms_report_get_sms_calltime">Obțineți SMS-ul</string>
-    <string name="tc_sms_report_get_sms_failure">Nu s-a putut obține formatul SMS-ului pentru utilizarea datelor</string>
-    <string name="tc_sms_report_get_sms_successs">Formatul SMS-ului pentru utilizarea datelor a fost actualizat</string>
+    <string name="tc_sms_report_get_sms_failure">"Nu s-au putut obține informațiile despre utilizarea datelor</string>
+    <string name="tc_sms_report_get_sms_successs">Informațiile despre utilizarea datelor au fost actualizate cu succes</string>
     <string name="tc_sms_report_get_sms_timeout">Solicitare expirată</string>
     <string name="tc_sms_report_get_success">"A fost primit SMS-ul cu raportul despre utilizarea datelor de la operator. Asigurați-vă că este corect și trimiteţi-l către noi."</string>
     <string name="tc_sms_report_get_success_notify_body">Asigurați-vă că raportul este corect și trimiteţi-l către MIUI.</string>
@@ -2100,7 +2100,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="tc_sms_report_receive_num">Numărul destinatarului</string>
     <string name="tc_sms_report_send_num">Numărul de telefon al operatorului</string>
     <string name="tc_sms_report_summary">Ajutaţi-ne să îmbunătăţim această funcție prin trimiterea unui raport, atunci când informaţiile despre datele utilizate sunt incorecte sau eşuează actualizarea</string>
-    <string name="tc_sms_report_tips_dialog_message">"Utilizarea datelor foloseşte un format special de SMS pentru a obține cele mai recente date de utilizare de la operatorul dvs. Dacă această caracteristică nu funcționează în mod normal, încercați să actualizați formatul SMS de utilizare a datelor. Noul format actualizat va fi încărcat pe serverele noastre."</string>
+    <string name="tc_sms_report_tips_dialog_message">"Este trimis un mesaj SMS pentru a obține cele mai recente informații despre utilizarea datelor mobile de la operator. În cazul în care considerați că informațiile nu sunt corecte, trimiteți-ne un mesaj."</string>
     <string name="tc_sms_report_tips_dialog_title">SMS de utilizare a datelor</string>
     <string name="tc_sms_report_title">Eroare raport de utilizare a datelor</string>
     <string name="tc_sms_report_toast_text">Obţinere informaţii…</string>
@@ -2141,7 +2141,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="title_consume_power_rank">Utilizarea acumulatorului</string>
     <string name="title_data_flow">Controlați utilizarea datelor mobile</string>
     <string name="title_data_flow_monitor">Monitorizarea utilizării datelor este activă</string>
-    <string name="title_dev_model_off">"Opțiunile dezvoltator sunt oprite"</string>
+    <string name="title_dev_model_off">Opțiunile dezvoltator sunt oprite</string>
     <string name="title_default_app">"%s MIUI nu este setată ca aplicaţie prestabilită"</string>
     <string name="title_dev_no">Opţiuni dezvoltator activate</string>
     <string name="title_dev_yes">Opţiuni dezvoltator dezactivate</string>
@@ -2214,7 +2214,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="traffic_alert_auto_modify_notification_titile">Plan de date actualizat</string>
     <string name="traffic_alert_auto_modify_package_summary">"Ajustați pachetele de date în mod automat, în conformitate cu informațiile operatorului"</string>
     <string name="traffic_config_alert_auto_modify">Actualizați planul de date în mod automat</string>
-    <string name="traffic_config_alert_body">"Contabilizarea operatorului dvs. arată că aţi utilizat %s.
+    <string name="traffic_config_alert_body">"Contabilizarea operatorului dvs. arată: %s.
 
 Acceptați această valoare?"</string>
     <string name="traffic_config_alert_body_extra">"
@@ -2252,6 +2252,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_setting_fragment_button1_text">Anulaţi</string>
     <string name="traffic_setting_fragment_button2_text">Salvaţi</string>
     <string name="traffic_setting_fragment_city">Oraș</string>
+    <string name="traffic_setting_fragment_default">Selectați</string>
     <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Nu cunoașteți operatorul?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_setting_fragment_get_template_falure">Nu se poate conecta la reţea. Verificați conexiunea de date și încercați din nou.</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">"Nu arăta din nou"</string>
@@ -2259,6 +2260,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="traffic_setting_fragment_no_network">Nu se poate conecta la reţea</string>
     <string name="traffic_setting_fragment_null">Gol</string>
     <string name="traffic_setting_fragment_operator">Operator</string>
+    <string name="traffic_setting_fragment_operator_setting">Setări operator</string>
     <string name="traffic_setting_fragment_province">Provincie</string>
     <string name="traffic_setting_fragment_send_num">Numărul de telefon al operatorului</string>
     <string name="traffic_setting_fragment_send_num_tips">Introduceţi numărul de telefon</string>

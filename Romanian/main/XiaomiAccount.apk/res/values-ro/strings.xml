@@ -125,12 +125,12 @@
     <string name="find_device_io_error">"Nu se poate conecta la rețea"</string>
     <string name="find_device_locked_account_email" formatted="false">%s, adresa de e-mail asociată: %s</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, numărul de telefon asociat: %s</string>
-    <string name="find_device_message">Dispozitivul acesta este blocat, mesaj: %1$s, telefon de contact: %2$s.</string>
+    <string name="find_device_message">Dispozitivul este blocat. Mesaj: %1$s. Apelați: %2$s.</string>
     <string name="find_device_null_credential_error">"Nu se pot obține informațiile despre dispozitiv; contactați Serviciul Clienți Xiaomi"</string>
     <string name="find_device_operation_failed_error">A apărut o eroare de server; așteptați un minut sau două și reîncercați</string>
     <string name="find_device_operation_failed_error_unknown">A apărut o eroare; încercați din nou mai târziu</string>
-    <string name="find_device_owner_phone">Dispozitivul acesta este blocat. Apelați: %1$s.</string>
-    <string name="find_device_prompt_message">Dispozitivul acesta este blocat. Trimiteți un mesaj la: %1$s.</string>
+    <string name="find_device_owner_phone">Dispozitivul este blocat. Apelați %1$s.</string>
+    <string name="find_device_prompt_message">Dispozitivul este blocat. Trimiteți un mesaj la: %1$s.</string>
     <string name="find_device_remote_exception">Eroare RPC</string>
     <string name="find_device_request_error">A apărut o eroare de server; așteptați un minut sau două și reîncercați</string>
     <string name="find_device_request_prepare_error">"Nu s-a putut obține starea; încercați din nou mai târziu"</string>
@@ -339,6 +339,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_skip_setup_account_msg">Puteți configura un cont Mi mai târziu în Setări.</string>
     <string name="passport_skip_setup_account_title">Omiteţi configurarea</string>
     <string name="passport_sms_send_success">Trimis</string>
+    <string name="passport_sync_account_data">Sincronizare informații cont…</string>
+    <string name="passport_sync_account_data_failed_warning">Informațiile despre contul dumneavoastră se sincronizează acum, vă puteți conecta utilizând ID-ul contului Mi. Dacă doriți să vă conectați utilizând numărul de telefon sau adresa de e-mail, așteptați până când informațiile sunt sincronizate în totalitate.</string>
     <string name="passport_title_reg">Creaţi un cont</string>
     <string name="passport_trust_device">Adăugați acest telefon la dispozitivele verificate</string>
     <string name="passport_trying_read_verify_code_sms">Se obține codul de verificare…</string>
@@ -352,8 +354,9 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_user_agreement_p2">Acordul de utilizare</string>
     <string name="passport_user_agreement_p3"> şi </string>
     <string name="passport_user_agreement_p4">Politica de confidențialitate</string>
+    <string name="passport_user_id_notice">ID-ul contului dvs Mi este %s.</string>
     <string name="passport_user_reg_region">Țară/Regiune</string>
-    <string name="passport_user_reg_region_warning">"Nu veți mai putea modifica țara/regiunea odată ce contul este creat"</string>
+    <string name="passport_user_reg_region_warning">"Nu veți mai putea modifica țara/regiunea odată ce contul este creat."</string>
     <string name="passport_vcode_notification_title">Verificarea conectării dvs. este incompletă</string>
     <string name="passport_vcode_prompt_long">Introduceţi codul de verificare</string>
     <string name="passport_vcode_sms_send_prompt">Trimiteți codul de verificare la %s</string>

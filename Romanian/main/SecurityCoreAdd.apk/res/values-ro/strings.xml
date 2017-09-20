@@ -109,7 +109,7 @@ Intrați în Spațiul Secundar din blocarea ecranului"</string>
     <string name="guide_start_ads_text">Un nivel complet nou de securitate</string>
     <string name="guide_start_text">Două spații de lucru. Un singur dispozitiv.</string>
     <string name="has_created_second_space">"Puteți accesa acum Spațiul Secundar.
-Un singur dispozitiv. Două spații de lucru."</string>
+Două spații de lucru. Un singur dispozitiv."</string>
     <string name="hidden_app">Spațiu Secundar</string>
     <string name="imageData">Fotografii</string>
     <string name="import_application">Importați aplicații</string>
@@ -293,9 +293,12 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="tryNow">Încercați acum</string>
     <string name="wating">Doar o secundă…</string>
     <string name="xpsace_guide_button">Creați</string>
+    <string name="xspace_account">Conturi aplicații clonate</string>
     <string name="xspace_chocie">Suport pentru aplicațiile clonate</string>
     <string name="xspace_creating">Se crează aplicația clonată…</string>
-    <string name="xspace_description">Clonați aplicații pentru a le putea utiliza separat. Acestea vor avea pictograme specifice pe ecranul principal.</string>
+    <string name="xspace_description">"Aplicațiile clonate sunt copii ale aplicațiilor care pot fi utilizate separat cu un alt cont.
+
+Unele aplicații clonate necesită suportul Google Services Framework. În aceste cazuri, se crează două aplicații Google Services Framework."</string>
     <string name="xspace_guide_des">Utilizați 2 conturi fără a comuta</string>
     <string name="xspace_guide_title">Creați o clonă pentru %s</string>
     <string name="xspace_header">Aplicații clonate</string>
@@ -305,6 +308,7 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="xspace_introduce">Recomandate</string>
     <string name="xspace_label">Aplicații clonate</string>
     <string name="xspace_loading_msg">Se încarcă aplicațiile…</string>
+    <string name="xspace_setting_label">Setări aplicații clonate</string>
     <string name="xspace_uninstall_completed">Aplicația clonată a fost dezinstalată cu succes</string>
     <string name="xspace_uninstall_dialog_content">Dezinstalarea unei aplicații clonate va șterge și toate datele acesteia.</string>
     <string name="xspace_uninstall_dialog_title">Dezinstalați aplicația clonată</string>

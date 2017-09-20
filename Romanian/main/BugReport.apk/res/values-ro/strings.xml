@@ -13,9 +13,8 @@
     <string name="bugreport_dump_complete_notification_title">Raport de probleme creat</string>
     <string name="bugreport_dump_start_notification_summary">Durează câteva minute.</string>
     <string name="bugreport_dump_start_notification_title">Creare raport…</string>
-    <string name="bugreport_tool_log">Creaţi un raport cu probleme</string>
-    <string name="bugreport_tool_log_toast">Raport salvat în %s</string>
-    <string name="bugreport_tool_log_toast_generate_bugreport">Creare raport cu probleme (durează aproximativ 1 minut)</string>
+    <string name="bugreport_tool_log_dumping_desc">Durează aproximativ un minut</string>
+    <string name="bugreport_tool_log_dumping_title">Se crează raportul cu erori</string>
     <string name="close_feedback_main">Ascundeți</string>
     <string name="cta_cancel">Anulaţi</string>
     <string name="cta_confirm">OK</string>
@@ -190,11 +189,10 @@
     <string name="mobile_data_note_dialog_content">Uilizarea datelor mobile pentru încărcarea rapoartelor poate genera taxe suplimentare.</string>
     <string name="mobile_data_note_dialog_content_with_file_size">Încărcarea rapoartelor utilizând datele mobile va consuma %s MB de date.</string>
     <string name="mobile_data_note_dialog_title">Avertisment utilizare date mobile</string>
-    <string name="modem_tool_log">Înregistrare jurnale modem</string>
-    <string name="modem_tool_log_start">Porniţi</string>
-    <string name="modem_tool_log_start_toast">Se salvează jurnalul modemului în %s</string>
-    <string name="modem_tool_log_stop">Opriţi</string>
-    <string name="modem_tool_log_stop_toast">S-a oprit înregistrarea jurnalului modemului în %s</string>
+    <string name="modem_tool_log_dumping_desc">Atingeți pictograma pentru a opri</string>
+    <string name="modem_tool_log_dumping_title">Se captează jurnalele modem</string>
+    <string name="modem_tool_log_finish_desc">Jurnalul este salvat ca %s</string>
+    <string name="modem_tool_log_finish_title">Jurnalul modem a fost captat</string>
     <string name="module_communication">Comunicații</string>
     <string name="module_data">Stocare și aplicații clonate</string>
     <string name="module_desktop">Ecranul principal și setări</string>
