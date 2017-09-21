@@ -26,13 +26,13 @@
         <item>Pot folosi un telefon Mi3, Mi2 sau Redmi ca și telecomandă?</item>
     </string-array>
     <string-array name="assistant_tab">
-        <item>Videoclip</item>
+        <item>Videoclipuri</item>
         <item>Capturi de ecran</item>
-        <item>Aplicație</item>
+        <item>Aplicații</item>
     </string-array>
     <string-array name="epg_channel_tab">
-        <item>Complet</item>
-        <item>Colectare</item>
+        <item>Toate</item>
+        <item>Favorite</item>
         <item>CCTV</item>
         <item>Televizor</item>
         <item>HD</item>
@@ -41,10 +41,65 @@
     <string-array name="epg_channel_tab_actionbar">
         <item>Toate canalele</item>
         <item>Canale preferate</item>
-        <item>Canal CCTV</item>
-        <item>Canal TV prin satelit</item>
+        <item>Canale CCTV</item>
+        <item>Canale TV</item>
         <item>Canale HD</item>
-        <item>Recent vizionat</item>
+        <item>Recent vizionate</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar_v53">
+        <item>Toate canalele</item>
+        <item>Vizionat recent</item>
+        <item>Canale HD</item>
+        <item>Canale TV</item>
+        <item>Canale CCTV</item>
+    </string-array>
+    <string-array name="epg_channel_tab_v53">
+        <item>Toate</item>
+        <item>Recente</item>
+        <item>HD</item>
+        <item>TV</item>
+        <item>CCTV</item>
+    </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>Hunan TV</item>
+        <item>CCTV-6</item>
+        <item>Zhejiang TV</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>Dragon TV</item>
+        <item>Anhui TV</item>
+        <item>Beijing TV</item>
+        <item>Guangdong TV</item>
+    </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>Distracție</item>
+        <item></item>
+        <item>Sport</item>
+        <item>Pentru copii</item>
+        <item>Știri</item>
+        <item>Stil de viață</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>Popular</item>
+        <item>Filme</item>
+        <item>Divertisment</item>
+        <item>Seriale TV</item>
+        <item>Sport</item>
+        <item>Pentru copii</item>
+        <item>Știri</item>
+        <item>Stil de viață</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>Seriale populare</item>
+        <item>Filme</item>
+        <item>Programe de divertisment</item>
+        <item>Seriale TV</item>
+        <item>Sport</item>
+        <item>Pentru copii</item>
+        <item>Știri</item>
+        <item>Programe despre stil de viață</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>

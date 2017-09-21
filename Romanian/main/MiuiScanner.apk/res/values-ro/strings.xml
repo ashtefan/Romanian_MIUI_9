@@ -268,6 +268,8 @@
     <string name="keywords_search_shopping">Cumpărături;Scaner;Scanare produse;Scanare produs;Verificare preț;Produse;Taobao;Tmall;Prețuri;Cumpărături online</string>
     <string name="keywords_search_study">Scaner;Probleme;Rezolvare probleme;Temă pentru acasă;Școală;Fizică;Chimie;Matematică;Matematici;Engleză;Istorie;Chineză</string>
     <string name="keywords_search_translation">Scaner;Traducere;Dicționar;Engleză;Limbă străină;Limbă;Limbi;Din engleză în chineză;Italiană;Germană;Japoneză;Coreană;Spaniolă;Franceză;Traducere Baidu;Dicționar Youdao;Dicționar Baidu;Traducere Google</string>
+    <string name="label_choose_picture">Selectați fotografia</string>
+    <string name="label_flash_light">Bliț</string>
     <string name="language_entry_chinese_cn">Chineză simplificată</string>
     <string name="language_entry_chinese_tw">Chineză tradițională</string>
     <string name="language_entry_danish">Daneză</string>
