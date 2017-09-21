@@ -140,4 +140,12 @@
         <item quantity="other">"%1$d fișiere nu au fost transferate."</item>
         <item quantity="one">"%1$d fișier nu a fost transferat."</item>
     </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">Ștergeți %1$d dosare?</item>
+        <item quantity="one">Ștergeți acest dosar?</item>
+    </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">Ștergeți %1$d fișiere?</item>
+        <item quantity="one">Ștergeți acest fișier?</item>
+    </plurals>
 </resources>

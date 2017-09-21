@@ -56,6 +56,10 @@
         <item quantity="other">%d intrări din lista blocărilor</item>
         <item quantity="one">%d intrare din lista blocărilor</item>
     </plurals>
+    <plurals name="dirty_secretphoto_count">
+        <item quantity="other">"%d fotografii ascunse nu sunt sincronizate. Deconectați-vă după ce toate elementele sunt sincronizate pentru a le păstra, altfel vor fi șterse."</item>
+        <item quantity="one">"%d fotografie ascunsă nu este sincronizată. Deconectați-vă după ce toate elementele sunt sincronizate pentru a le păstra, altfel vor fi șterse."</item>
+    </plurals>
     <plurals name="micloud_main_resume_sync_hour">
         <item quantity="other">Reia sincronizarea după %d ore</item>
         <item quantity="one">Reia sincronizarea după %d oră</item>
