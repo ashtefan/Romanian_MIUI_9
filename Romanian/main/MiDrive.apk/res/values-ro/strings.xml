@@ -22,9 +22,6 @@
     <string name="delete_failed">"Nu s-a putut șterge"</string>
     <string name="delete_failed_retry">"Nu s-a putut șterge; așteptați %1$s și încercați din nou"</string>
     <string name="delete_file">Ștergeți acest fișier?</string>
-    <string name="delete_files">Ștergeți %1$d fișiere?</string>
-    <string name="delete_folder">Ștergeți acest dosar?</string>
-    <string name="delete_folders">Ștergeți %1$d dosare?</string>
     <string name="delete_success">Fișier șters</string>
     <string name="download_current_progress">%1$d%%</string>
     <string name="download_failed">"Nu s-a putut descărca"</string>

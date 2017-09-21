@@ -66,6 +66,7 @@
     <string name="from_unit_short">km/h</string>
     <string name="fund"/>
     <string name="fund_loan"/>
+    <string name="global_network_confirm_content">"Convertorul valutar trebuie să utilizeze conexiunea de date a telefonului pentru a funcționa în mod normal."</string>
     <string name="global_search_key_area_convertion">Arie;Convertor arie;Conversie arie</string>
     <string name="global_search_key_calculation">Calculare;Calculator;Convertor unități de măsură;Convertor;Conversie unități de măsură</string>
     <string name="global_search_key_date_convertion">Convertor unități de timp;Unități de timp;Conversie timp;Timp</string>

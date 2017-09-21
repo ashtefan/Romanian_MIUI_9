@@ -57,6 +57,8 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="cloud_storage_is_full">Plin</string>
     <string name="cloudservice_new_sync">Sincronizaţi %s cu Mi Cloud</string>
     <string name="cmcc_micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul dvs. și pentru a partaja lucruri prietenilor</string>
+    <string name="confirm_delete">Ștergeți</string>
+    <string name="confirm_save">Păstrați</string>
     <string name="connect_network">Conectați-vă la Wi-Fi sau introduceți o cartelă SIM</string>
     <string name="connect_wlan">Conectați-vă la Wi-Fi</string>
     <string name="contact">Contacte</string>
@@ -468,6 +470,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="search_finddevice_pref_desc">Activare/dezactivare Localizare dispozitiv</string>
     <string name="search_finddevice_pref_key_words">localizare dispozitiv, găsire telefon</string>
     <string name="search_finddevice_pref_path">Contul Mi/Mi Cloud/Localizare telefon</string>
+    <string name="secret_photo">Fotografii ascunse</string>
     <string name="setting">Setări</string>
     <string name="settings_backup_title">Creare copie de rezervă pentru setările de sistem</string>
     <string name="share_cancel">Partajare anulată</string>
@@ -551,10 +554,11 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="virtual_sim_desc">Activați Mi SIM pentru a vă localiza telefonul fără a utiliza o cartelă SIM</string>
     <string name="voip_choose_sim">Selectaţi numărul de telefon pentru a activa Mi Voice</string>
     <string name="wipe_data_dialog_button_check_sync">Verificați dacă s-au sincronizat</string>
-    <string name="wipe_data_dialog_msg">"%s nu s-au sincronizat și vor rămâne în telefon."</string>
+    <string name="wipe_data_dialog_msg">"Unele elemente (%s) nu sunt sincronizate. Vor fi salvate în telefon și nu vor fi șterse."</string>
     <string name="wipe_data_dialog_msg_and_on">, și alte elemente</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">"Unele elemente nu s-au sincronizat"</string>
+    <string name="wipe_secret_photo_dialog_title">"Fotografiile ascunse nu sunt sincronizate"</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmpp_server_addr"/>
 </resources>
