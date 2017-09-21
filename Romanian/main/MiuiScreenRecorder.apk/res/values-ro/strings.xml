@@ -47,6 +47,8 @@
     <string name="operation_delete">Ștergeți</string>
     <string name="operation_send">Trimiteți</string>
     <string name="quit_recording">Ieșiți din Înregistrare ecran</string>
+    <string name="recording_failure">Ultima înregistrare a eșuat; reluați înregistrarea</string>
+    <string name="recording_max_size">Înregistrarea a fost oprită și salvată în mod automat datorită atingerii dimensiunii maxime a videoclipului. Puteți începe o nouă înregistrare dacă doriți continuarea înregistrării.</string>
     <string name="resolution">Rezoluție</string>
     <string name="resolution_summary">Videoclipurile la rezoluție mai mare arată mai clar</string>
     <string name="screen_orientation">Orientare</string>
@@ -61,8 +63,10 @@
     <string name="sound_source">Sursă sunet</string>
     <string name="sound_source_summary">Sunete de sistem sau microfon</string>
     <string name="start">Start</string>
+    <string name="start_recording">Începeți înregistrarea</string>
     <string name="stop_by_second_space">Comutarea între spații va opri înregistrarea</string>
     <string name="stop_record_while_locking">Oprește la blocarea ecranului</string>
     <string name="stop_record_while_locking_summary">Se oprește înregistrarea și se salvează videoclipul când se blochează ecranul</string>
+    <string name="stop_recording">Opriți înregistrarea</string>
     <string name="timer_format">%s</string>
 </resources>
