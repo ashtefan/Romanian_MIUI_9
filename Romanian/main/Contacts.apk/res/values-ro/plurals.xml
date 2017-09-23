@@ -121,10 +121,6 @@
         <item quantity="other">Deblocaţi aceste %1$d numere de telefon?</item>
         <item quantity="one">Deblocaţi %1$d număr de telefon?</item>
      </plurals>
-    <plurals name="livetalk_unit">
-        <item quantity="other">Minute</item>
-        <item quantity="one">Minut</item>
-    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">A sunat de %1$d ori</item>
         <item quantity="one">A sunat %1$d dată</item>

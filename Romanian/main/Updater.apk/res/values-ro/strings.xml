@@ -25,17 +25,20 @@
     <string name="auto_update">Actualizare automată</string>
     <string name="auto_update_sum">Se utilizează algoritmul inteligent pentru a determina ora de actualizare</string>
     <string name="autosetmode">Setări</string>
-  <string name="battery_islow">&lt;font color=#f37981&gt;Conectați încărcătorul&lt;/font&gt;</string>
-  <string name="battery_islow_desc">Nivelul acumulatorului este prea scăzut pentru a instala în siguranță fișierul .zip; conectați încărcătorul și încercați din nou mai târziu!</string>
+    <string name="battery_islow">&lt;font color=#f37981&gt;Conectați încărcătorul&lt;/font&gt;</string>
+    <string name="battery_islow_desc">Nivelul acumulatorului este prea scăzut pentru a instala în siguranță fișierul .zip; conectați încărcătorul și încercați din nou mai târziu!</string>
     <string name="best_update">Cea mai bună actualizare dintotdeauna</string>
     <string name="boot_recovery">Reporniţi în modul Recuperare</string>
-  <string name="btn_changelog">Ce este nou</string>
-  <string name="btn_download">Descărcați (%1$s)</string>
-  <string name="btn_install">Instalați</string>
-  <string name="btn_no">Renunțați</string>
-  <string name="btn_ok">OK</string>
-  <string name="btn_share">Partajați</string>
-  <string name="btn_yes">Da</string>
+    <string name="btn_changelog">Ce este nou</string>
+    <string name="btn_download">Descărcați (%1$s)</string>
+    <string name="btn_error">A apărut o eroare, reîncercați?</string>
+    <string name="btn_install">Instalați</string>
+    <string name="btn_no">Renunțați</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_pause">Pauză</string>
+    <string name="btn_share">Partajați</string>
+    <string name="btn_stop">Opriți</string>
+    <string name="btn_yes">Da</string>
     <string name="button_delay_update_reboot">Reporniți și aplicați actualizarea</string>
     <string name="button_text_check">Căutați actualizări disponibile</string>
     <string name="button_text_later_reboot">Mai târziu</string>
@@ -81,7 +84,7 @@
     <string name="dialog_delay_update_msg">"Telefonul va reporni pentru aplicarea actualizării atunci când va fi pornit iar acumulatorul va avea cel puțin 30% energie"</string>
     <string name="dialog_delay_update_title">Actualizare disponibilă</string>
     <string name="dialog_delay_update_tonight">Actualizează la noapte</string>
-    <string name="dialog_stop_desc">Sunteți sigur că doriți să opriți descărcarea în curs? Progresul va fi oprit și nu îl veți putea relua. Următoarea încercare va relua descărcarea de la început.</string>
+    <string name="dialog_stop_desc">Puteți pune pe pauză sau puteți opri descărcarea; alegeți ce doriți să faceți.</string>
     <string name="dialog_stop_title">Opriți descărcarea?</string>
     <string name="download_again">Încercaţi</string>
     <string name="download_cancel">Anulaţi</string>
