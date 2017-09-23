@@ -830,7 +830,6 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="calendar_sound_title">Sunet calendar</string>
     <string name="call_manager_enable_summary">Permiteți acestui serviciu să administreze modul de realizare a apelurilor.</string>
     <string name="call_manager_enable_title">Activați administratorul de apeluri</string>
-    <string name="call_manager_summary">%1$s</string>
     <string name="call_manager_title">Administrator apeluri</string>
     <string name="call_settings_primary_user_only">Modificați setările apelurilor în spațiul principal</string>
     <string name="call_settings_summary">Activaţi mesageria vocală, redirecţionarea apelurilor, apel în aşteptare, ID apelant</string>
@@ -1385,7 +1384,6 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="dndm_auto_button_title">Perioadă</string>
     <string name="dndm_auto_setting_group">Grafic</string>
     <string name="dndm_auto_time_setting">Setaţi perioada</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Până la</string>
     <string name="dndm_auto_time_turn_off_title">Dezactivare automată</string>
     <string name="dndm_auto_time_turn_on">De la</string>
@@ -1735,7 +1733,6 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="gadget_picker_title">Alegeţi obiectul gadget</string>
     <string name="gadget_state_off">dezactivat</string>
     <string name="gadget_state_on">activat</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">se dezactivează</string>
     <string name="gadget_state_turning_on">se activează</string>
     <string name="gadget_sync">Sincronizaţi</string>
@@ -2044,7 +2041,6 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="lift_to_wake_title">Glisați în sus pentru a trezi</string>
     <string name="line_breaking_summary">Optimizaţi ruperea rândului alineatului</string>
     <string name="line_breaking_title">Optimizare text</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="link_speed_label">Viteză link:</string>
     <string name="loading_notification_apps">Încărcare aplicații...</string>
     <string name="local_auto_backup_off">Oprit</string>
@@ -2851,7 +2847,6 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="phone_info_label">Informaţii telefon</string>
     <string name="phone_language">Limba</string>
     <string name="phone_language_summary" />
-    <string name="physical_device_title">%1$s - %2$s</string>
     <string name="physical_keyboard_title">Tastatură fizică</string>
     <string name="picture_color_mode">Mod culoare</string>
     <string name="picture_color_mode_desc">Utilizați sRGB</string>
@@ -3885,7 +3880,6 @@ Codul PIN poate fi incorect."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Omiteți oricum</string>
     <string name="skip_label">Omiteţi</string>
@@ -4170,8 +4164,6 @@ Luați în calcul utilizarea unui ^1 mai rapid pentru o mai bună performanță.
     <string name="suggestions_title">Sugestii (%1$d)</string>
     <string name="sum_carrier_select">Selectaţi un operator de reţea</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_font_size">%1$s</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s la %2$s</string>
     <string name="supl_not_set">&lt;Nu este setat&gt;</string>
     <string name="supplicant_state_label">Stare supplicant:</string>
@@ -5361,7 +5353,6 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="zen_mode_summary_alarms_only_by_time">Schimbă în doar pentru alarme până la %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Schimbă în doar pentru alarme pe o perioadă nedefinită</string>
     <string name="zen_mode_summary_always">Schimbă în întrerupe întotdeauna</string>
-    <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zen_mode_visual_interruptions_settings_title">Blochează perturbările vizuale</string>
     <string name="zen_mode_when">Porniți în mod automat</string>
     <string name="zen_mode_when_every_night">În fiecare noapte</string>

@@ -3,7 +3,6 @@
     <string name="accept_modify_call_request_prompt">Acceptați modificarea solicitării de apel?</string>
     <string name="antispam_local_marked">Marcat local</string>
     <string name="antispam_marked_count">Etichetat de %1$d utilizatori MIUI</string>
-    <string name="antispam_marked_title">%1$s</string>
     <string name="antispam_notification_title">Număr necunoscut</string>
     <string name="antispam_provider">Identificat de %s</string>
     <string name="areacode_set_default">Setați ca implicit</string>

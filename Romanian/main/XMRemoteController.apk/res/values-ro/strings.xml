@@ -129,7 +129,6 @@
     <string name="bind_stb_dlg">Împerecheați cu decodorul pentru a schimba canalele</string>
     <string name="bind_stb_dlg_2">Adăugați decodorul mai întâi</string>
     <string name="bind_stb_dlg_agree">Asociați</string>
-    <string name="brand_device">%2$s %1$s</string>
     <string name="brand_search_box_hint">Selectați producătorul</string>
     <string name="brand_title_all">Toate</string>
     <string name="brand_title_hot">Populare</string>
@@ -183,7 +182,6 @@
     <string name="channel_list">Lista de canale</string>
     <string name="channel_num">—</string>
     <string name="channel_removed_from_fav">%1$s eliminat din Favorite</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_upgrade">Căutați actualizări</string>
     <string name="choose_ac">Alegeți telecomanda</string>
     <string name="choose_address_title">Selectați locația</string>
@@ -421,7 +419,6 @@
     <string name="hot_videos">Videoclipuri populare</string>
     <string name="hour">ore</string>
     <string name="humidity">Umiditate:</string>
-    <string name="humidity_frame">%1$d%%</string>
     <string name="increase">Creșteți</string>
     <string name="input_complete">OK</string>
     <string name="input_dialogue_cancel_button">Renunțați</string>
@@ -488,7 +485,6 @@
     <string name="loading_share_info_err">"Nu s-au putut încărca datele"</string>
     <string name="locate_current_place">Caută locația curentă</string>
     <string name="location_select">Selectați locația dispozitivului</string>
-    <string name="lock_screen_device_sum">%1$d</string>
     <string name="login">Conectați-vă</string>
     <string name="login_directly">Conectați-vă</string>
     <string name="login_done">Logat</string>
@@ -516,7 +512,6 @@
     <string name="match_data">Informații despre sincronizare</string>
     <string name="match_data_error_tips">"Nu s-au putut obține informații
 Mergeți înapoi pentru a continua"</string>
-    <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_direction_default">Butoanele pentru direcție funcționează?</string>
     <string name="match_dvd_intro_pause">Eliberați când DVD-ul oprește rularea videoclipului</string>
     <string name="match_dvd_intro_play">Eliberați când DVD-ul pornește rularea videoclipului</string>
@@ -909,8 +904,6 @@ direct din Blocarea ecranului"</string>
     <string name="scaning">Căutare……</string>
     <string name="scanning_milink">Căutare dispozitive…</string>
     <string name="scene_default">Implicit</string>
-    <string name="scene_name_frame">%1$s %2$s%3$s</string>
-    <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screen_shot_button_title">Interceptarea ecranului televizorului</string>
     <string name="screen_shot_delete">Ștergeți</string>
     <string name="screen_shot_delete_warning">Sunteți sigur că doriți să o ștergeți?</string>
@@ -1055,7 +1048,6 @@ direct din Blocarea ecranului"</string>
     <string name="start_match">Sincronizare</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stb">Decodor</string>
-    <string name="stb_detail_title_frame">%1$s - %2$d</string>
     <string name="stb_power">STB oprit/pornit</string>
     <string name="steps">Încercare #%d</string>
     <string name="stop_auto_tune">Oprește căutarea automată</string>
@@ -1080,7 +1072,6 @@ direct din Blocarea ecranului"</string>
     <string name="third_app_launch_failed">Aplicația nu a pornit</string>
     <string name="third_party_video">Alte videoclipuri</string>
     <string name="time_error">Se pare că ora nu este setată corect</string>
-    <string name="time_interval_in_sec">%1$d</string>
     <string name="timer">Temporizator</string>
     <string name="timer_turn_off">Setați ora de oprire</string>
     <string name="timer_turn_on">Setați ora de pornire</string>
@@ -1198,7 +1189,6 @@ Pentru a modifica, vă rugăm să apăsați lung butonul de pornire al televizor
     <string name="wind_sweep">Ventilator</string>
     <string name="wx_not_installed">Instalați WeChat mai întâi</string>
     <string name="xiaomi_vip">Mi VIP</string>
-    <string name="year_format">%1$d</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yes">Da</string>
     <string name="yesterday">Ieri</string>

@@ -491,7 +491,6 @@ Actualizaţi acum?"</string>
     <string name="folder_trash_name_en2">Mesaj șters</string>
     <string name="folder_trash_name_en3">[Gmail]/Coș de gunoi</string>
     <string name="formatted_email_address">%1$s</string>
-    <string name="formatted_subject">%1$s %2$s</string>
     <string name="forward">Redirecţionaţi</string>
     <string name="forward_attachment">Redirecţionaţi</string>
     <string name="forward_attribution">---------- Mesaj redirecţionat ----------\nDe la: %1$s \nData: %2$s \nSubiect: %3$s \nCătre: %4$s </string>
@@ -1017,7 +1016,6 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="silent_ringtone">Silențios</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="sms_tip">Autentificarea a eșuat; verificați dacă antivirusul interceptează SMS-urile</string>
     <string name="smtp_password_error">Parola pentru serverul de ieșire este incorectă</string>
     <string name="sort_attachment">Sortaţi după</string>

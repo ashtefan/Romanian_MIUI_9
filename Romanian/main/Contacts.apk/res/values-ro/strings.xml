@@ -97,7 +97,6 @@
     <string name="call_sim_menu_title_suffix">(Principal)</string>
     <string name="call_telex">Apelaţi un număr de telex</string>
     <string name="call_tty_tdd">Apelaţi TTY/TDD</string>
-    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Apelaţi numărul de serviciu</string>
     <string name="call_work_mobile">Apelaţi numărul de mobil de la serviciu</string>
@@ -481,7 +480,6 @@ Motivul: „%s”"</string>
     <string name="force_touch_new_contact">Contact nou</string>
     <string name="foundTooManyContacts">S-au găsit peste %d contacte</string>
     <string name="frequentList">Frecvent</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Nume</string>
     <string name="gallery">Galerie</string>
     <string name="generic_no_account_prompt">Păstraţi-vă agenda în  siguranţă, chiar dacă pierdeţi telefonul, prin sincronizarea acesteia cu un serviciu online.</string>
@@ -559,7 +557,6 @@ Motivul: „%s”"</string>
     <string name="import_weibo_fetch_followers">Preluare contacte…</string>
     <string name="import_weibo_notification_title_done">Actualizate: %s contacte</string>
     <string name="import_weibo_progress_name">Potrivire \"%1$s\"…</string>
-    <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="importing_sim_contacts_miui">Import contacte SIM…</string>
     <string name="importing_sim_contacts_miui_prepare">Pregătire contacte…</string>
     <string name="importing_vcard_canceled_title">Importul fişierului %s a fost anulat</string>
@@ -1114,7 +1111,6 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="sim_unloaded">"Cartela SIM nu este instalată"</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Niciun membru în grup</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">După companie</string>
     <string name="smart_group_company_unavailable">Fără companie</string>
     <string name="smart_group_frequency_1">În ultima lună</string>
@@ -1246,7 +1242,6 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="voip_audio_description">Apăsați pentru apelare VOIP</string>
     <string name="voip_video_description">Apăsați pentru apelare video VOIP</string>
     <string name="websiteLabelsGroup">Site web</string>
-    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Ştergeţi datele</string>
     <string name="yellowPageNavigationIconLabel">Pagini Aurii</string>
     <string name="yellowPageNavigationLabel">Pagini Aurii</string>

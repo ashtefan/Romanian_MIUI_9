@@ -351,11 +351,8 @@ Se așteaptă transferul…"</string>
     <string name="user_notice_message">Unele funcții necesită accesul la internet pentru a funcționa normal.</string>
     <string name="user_notice_title">Atenționare</string>
     <string name="wifi_title">Setări Wi-Fi</string>
-    <string name="xiaomi_bytes_unit">%1$s B</string>
     <string name="xiaomi_connect_download_manager_fail">"Nu s-a putut porni descărcarea. Asigurați-vă că Managerul de Descărcare funcționează corespunzător."</string>
     <string name="xiaomi_external_storage_unavailable">"Mediu de stocare indisponibil; verificați cardul SD."</string>
-    <string name="xiaomi_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_megabytes_unit">%1$s MB</string>
     <string name="xiaomi_router">Router Mi</string>
     <string name="xiaomi_router_location">Router Mi %s</string>
     <string name="xiaomi_update_dialog_message">"A apărut versiunea %1$s

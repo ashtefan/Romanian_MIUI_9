@@ -198,7 +198,6 @@
     <string name="favorite_ringtone">Tonuri de apel</string>
     <string name="favorite_screen_cap">Capturi de ecran</string>
     <string name="female">Feminin</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Citire: </string>
     <string name="file_info_canwrite">Scriere: </string>
     <string name="file_info_ishidden">Ascuns: </string>
@@ -405,7 +404,6 @@
     <string name="operation_share">Partajați</string>
     <string name="operation_show_sys">Se afişează fişierele ascunse</string>
     <string name="operation_unfavorite">Eliminaţi din favorite</string>
-    <string name="origin_name">%1$s: </string>
     <string name="original_user_desc">Încărcați în mod regulat videoclipuri originale pentru a căștiga titlul de Creator</string>
     <string name="original_user_qq_group">Alăturați-vă grupului Talent team QQ</string>
     <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; s-au alăturat comunității</string>
@@ -484,7 +482,6 @@
     <string name="recommend_popup_title">Recomandări</string>
     <string name="recommend_topic">Subiecte recomandate</string>
     <string name="recommend_user">Profiluri recomandate</string>
-    <string name="recommend_users">%1$s+</string>
     <string name="remote_video_report_success">"Mulțumim pentru comentarii! Le vom analiza cu atenție."</string>
     <string name="rename_alert">"Dacă modificați extensia acestui fișier, nu veți putea să-l deschideţi."</string>
     <string name="rename_alert2">Fișierul nu va mai fi vizibil după ce îi veți modifica extensia.</string>
@@ -774,7 +771,6 @@
     <string name="video_topic_hint">Căutați persoane sau subiecte</string>
     <string name="video_upload_btn">Următorul</string>
     <string name="video_upload_btn_hint">Videoclipurile în format mp4 trebuie să aibă între 3 sec. și 10 min. lungime</string>
-    <string name="video_upload_item_title">%1$s (%2$s)</string>
     <string name="video_upload_kuaishou_hint">Încărcați videoclipuri KuaiShou pentru a câștiga mai mulți fani.</string>
     <string name="video_upload_retry_confirm">Încercați din nou</string>
     <string name="video_upload_retry_message">"Nu s-a putut încărca. Încercați din nou?"</string>

@@ -362,7 +362,6 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="nav_guide_message">Utilizați gesturi pentru a ascunde/afișa butoanele de pe ecran.</string>
     <string name="nav_guide_ok">Setați</string>
     <string name="nav_guide_title">Ascundeți butoanele de pe ecran</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Nicio aplicație</string>
     <string name="no_multi_window_app">Nu există nicio aplicație care suportă modul Ecran scindat</string>
     <string name="no_notification_tips">Nicio notificare</string>
@@ -651,7 +650,6 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="vpn_title_long">Conectare la VPN utilizând %s</string>
     <string name="wait_for_debugger">Așteaptă depanarea</string>
     <string name="wait_for_debugger_summary">Se așteaptă modulul de depanare înainte de lansarea aplicației</string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">Actualizat la %1$s</string>
     <string name="wifi_aggressive_handover">Comutare automată de la Wi-Fi la date mobile</string>
     <string name="wifi_aggressive_handover_summary">Când este activată, se va comuta la conexiunea de date mobile mai activ, atunci când semnalul Wi-Fi este slab</string>

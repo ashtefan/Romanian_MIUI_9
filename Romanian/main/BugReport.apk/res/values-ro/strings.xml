@@ -233,7 +233,6 @@
     <string name="packaging_dialog_content">Creare raport…</string>
     <string name="permission_granted">%1$s permisiune acceptată</string>
     <string name="pic_not_exist">"Această imagine nu există"</string>
-    <string name="pic_view_format">%1$s/%2$s</string>
     <string name="plus_one_submit_dialog_content">"Feedback-ul dvs., alături de jurnalurile de eroare vor fi trimise la serverele Mi."</string>
     <string name="plus_one_submit_dialog_not_show_again">Memorare preferinţă</string>
     <string name="post_miui_bbs_failed">"Nu s-a putut posta pe forumul MIUI"</string>

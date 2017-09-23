@@ -118,7 +118,6 @@
     <string name="shutdown_alarm_enable_summary">Alarma va suna chiar dacă închideți telefonul</string>
     <string name="shutdown_alarm_title">Pornire telefon</string>
     <string name="silent_alarm_summary">Silenţios</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Amânați o dată în %s</string>
     <string name="slider_text">Glisaţi în sus pentru a dezactiva</string>
     <string name="snooze_confirm_cancel">Anulaţi alarma</string>

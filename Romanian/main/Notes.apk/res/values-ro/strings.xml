@@ -89,7 +89,6 @@
     <string name="menu_title_select_folder">Selectaţi dosarul</string>
     <string name="menu_unhide">Afișați</string>
     <string name="menu_unstick">Anulaţi fixarea</string>
-    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">Nu acum</string>
     <string name="note_alert_expired">Expirată</string>
     <string name="note_description_content">Aplicația Note este o unealtă utilă pentru a vă înregistra ideile. Incorporează funcția de memento și vă sincronizează elementele în Mi Cloud pentru a le putea accesa de oriunde, oricând. Asigurați-vă că puteți trăi fără aceste caracterisitici înainte de a șterge aplicația.</string>

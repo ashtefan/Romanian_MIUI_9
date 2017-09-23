@@ -22,7 +22,6 @@
     <string name="apk_filter">Apk</string>
     <string name="app_downloads">%s descărcări</string>
     <string name="app_label">Descărcări</string>
-    <string name="app_size">%1$s</string>
     <string name="auth_activity_title">Cont Xunlei</string>
     <string name="auth_fail">"Nu s-a putut obţine autorizarea"</string>
     <string name="bind_xunlei_account">Adăugați contul Xunlei ></string>
@@ -105,7 +104,6 @@
     <string name="download_list_title_browser">Descărcări</string>
     <string name="download_no_application">Nu există nicio aplicație care să suporte acest format</string>
     <string name="download_no_application_title">Fişierul nu poate fi deschis</string>
-    <string name="download_num_size">%1$s  | %2$s</string>
     <string name="download_paused">Descărcare întreruptă</string>
     <string name="download_pending">Descărcare în aşteptare</string>
     <string name="download_queued">În aşteptare</string>

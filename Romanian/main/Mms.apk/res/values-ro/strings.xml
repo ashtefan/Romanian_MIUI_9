@@ -181,7 +181,6 @@
     <string name="file_size">Dimensiune:</string>
     <string name="file_title">Nume:</string>
     <string name="file_width_height">Dimensiune:</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Mesaj nou</string>
     <string name="forward_from">Redirecţionat de la:</string>
     <string name="forward_prefix">"Redir.: "</string>
@@ -537,7 +536,6 @@
     <string name="send_signature_confirm_dialog_title">Trimiteţi mesajul</string>
     <string name="send_sms">Trimiteţi mesajul</string>
     <string name="send_to">"Către: "</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Trimis la: %1s</string>
     <string name="sent_label">"Trimis: "</string>
     <string name="service_message_not_found">Mesajul a expirat sau nu este disponibil</string>

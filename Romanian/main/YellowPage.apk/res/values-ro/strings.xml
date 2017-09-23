@@ -155,7 +155,6 @@ Verificați numărul de urmărire."</string>
     <string name="express_order_failed">Eșuată</string>
     <string name="express_order_ongoing">Se crează comanda…</string>
     <string name="express_order_result">Rezultat</string>
-    <string name="express_order_state">%1$s / %2$s</string>
     <string name="express_order_state_accepted">Acceptată</string>
     <string name="express_order_state_allograph">Semnată</string>
     <string name="express_order_state_cancelled">Anulată</string>
@@ -332,7 +331,6 @@ Verificați numărul de urmărire."</string>
     <string name="nearby_average_price">În medie %d RMB</string>
     <string name="nearby_no_yellow_page">Niciun rezultat în apropiere</string>
     <string name="nearby_yellow_page_title">În apropiere</string>
-    <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
     <string name="network_access_denied">Accesul la rețea a fost refuzat</string>
     <string name="network_unavaliable">"Nu se poate conecta la rețea"</string>
     <string name="no_brief">Niciun sumar</string>
@@ -348,7 +346,6 @@ Verificați numărul de urmărire."</string>
     <string name="order_id_label">Comanda #: %1$s</string>
     <string name="order_info">Informații despre comandă</string>
     <string name="order_merchant_title">Comenzile mele</string>
-    <string name="order_merchant_title_format">%1$s-%2$s</string>
     <string name="order_not_found">Nicio comandă</string>
     <string name="order_price_label">Costul comenzii: %1$s</string>
     <string name="order_product_name_label">Numele produsului: %1$s</string>
@@ -397,7 +394,6 @@ Verificați numărul de urmărire."</string>
     <string name="recharge_payment_result_ok_title">S-au adăugat %s RMB</string>
     <string name="recharge_payment_result_progress_summary">Se verifică rezultatul achitării…</string>
     <string name="recharge_phone">Suplimentați numărul:</string>
-    <string name="recharge_phone_format">%1$s / %2$s</string>
     <string name="recharge_phone_number_empty">"Numărul de telefon nu poate fi necompletat"</string>
     <string name="recharge_phone_number_error">Numărul de telefon introdus nu este valid</string>
     <string name="recharge_select_money_title">Selectați suma</string>
@@ -425,7 +421,6 @@ Total: %3$s RMB"</string>
     <string name="sending_shortcut">Se trimite…</string>
     <string name="service_unavailiable">Serviciu indisponibil</string>
     <string name="share">Partajați</string>
-    <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="sim1">SIM 1</string>
     <string name="sim2">SIM 2</string>
     <string name="sina_share_fail">"Nu s-a putut trimite"</string>

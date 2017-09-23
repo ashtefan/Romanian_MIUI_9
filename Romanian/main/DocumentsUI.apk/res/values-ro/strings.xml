@@ -38,7 +38,6 @@
     <string name="button_move">Mutați</string>
     <string name="button_retry">Încercați din nou</string>
     <string name="button_select">Selectați</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="clipboard_files_cannot_paste">Nu s-au putut lipi fișierele selectate în această locație.</string>
     <string name="close">Închideți</string>
     <string name="copy_converted_warning_content">Aceste fișiere au fost convertite la alt format: %1$s</string>

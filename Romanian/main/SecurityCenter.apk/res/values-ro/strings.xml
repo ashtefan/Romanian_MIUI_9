@@ -1169,7 +1169,6 @@ răspunsul operatorului"</string>
     <string name="menu_text_license_manager">Permisiuni</string>
     <string name="menu_text_networkassistants">Utilizare date</string>
     <string name="menu_text_networkassistants_danger">Peste: %s</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">Rămas: %s</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1320,7 +1319,6 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="om_media_scan_timeout_proc_detail">Serverul media rulează în fundal. Puteți să-i restricționați activitatea.</string>
     <string name="om_media_scan_timeout_proc_name">Server media</string>
     <string name="om_memory_clean_cleaning_text">Creștere viteză de reacție…</string>
-    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_notify_cpu_load_too_high_summary">Restricționați activitatea din fundal pentru a crește viteza de reacție</string>
     <string name="om_notify_cpu_load_too_high_title">Utilizarea procesorului de către %s este prea mare</string>
     <string name="om_notify_need_clean_memory_summary">Goliți memoria cache pentru a crește viteza de reacție</string>
@@ -1582,7 +1580,6 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="pref_normal_traffic_limit">Când consumați planul de date zilnic</string>
     <string name="pref_open_adjust_traffic">Actualizaţi utilizarea datelor în fiecare zi, utilizând statistici de la operatorul dvs.</string>
     <string name="pref_operator_not_set">"Nu ați setat operatorul"</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Când depășiți planul de date</string>
     <string name="pref_package_traffic_leisure">"%1$s
     În afara orelor de vârf: %2$s"</string>

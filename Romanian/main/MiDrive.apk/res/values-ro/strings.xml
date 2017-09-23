@@ -23,14 +23,12 @@
     <string name="delete_failed_retry">"Nu s-a putut șterge; așteptați %1$s și încercați din nou"</string>
     <string name="delete_file">Ștergeți acest fișier?</string>
     <string name="delete_success">Fișier șters</string>
-    <string name="download_current_progress">%1$d%%</string>
     <string name="download_failed">"Nu s-a putut descărca"</string>
     <string name="downloading">Se descarcă</string>
     <string name="downloading_in_3g">Se descarcă în 3G…</string>
     <string name="downloading_in_wifi">Descărcare…</string>
     <string name="empty_file_download">"Nu se pot descărca fișiere fără conținut."</string>
     <string name="empty_file_upload">"Nu se pot încărca fișiere fără conținut."</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_already_downlaoded">Fișier salvat în \"%1$s\"</string>
     <string name="file_change_btn_download">Descărcați fișierul</string>
     <string name="file_change_btn_upload">Încărcați fișierul</string>
