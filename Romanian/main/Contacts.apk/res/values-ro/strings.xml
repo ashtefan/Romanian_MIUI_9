@@ -590,11 +590,6 @@ Motivul: „%s”"</string>
     <string name="list_filter_customize">Personalizaţi</string>
     <string name="list_filter_phones">Toate contactele din agendă cu numere de telefon</string>
     <string name="list_filter_single">Contact din agendă</string>
-    <string name="live_talk_switch_on_toast">Pachetul de suplimentare a fost activat cu succes</string>
-    <string name="livetalk_charge">Suplimentare</string>
-    <string name="livetalk_left">Minute disponibile</string>
-    <string name="livetalk_switch_on">Activați</string>
-    <string name="livetalk_title">Pachet de suplimentare</string>
     <string name="loading_accounts">Doar o secundă…</string>
     <string name="loading_group_members">Doar o secundă…</string>
     <string name="loading_groups">Doar o secundă…</string>
