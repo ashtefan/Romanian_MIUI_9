@@ -2009,6 +2009,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="launch_defaults_none">Niciun lansator implicit setat</string>
     <string name="launch_defaults_some">Unele implicite setate</string>
     <string name="launch_google_search">Lansare asistent Google</string>
+    <string name="launch_recents">Lansați Recente</string>
     <string name="launch_voice_assistant">Lansează asistentul vocal</string>
     <string name="launcher_auto_fill_empty_title">Completarea celulelor goale</string>
     <string name="launcher_title">Ecran principal și Recente</string>

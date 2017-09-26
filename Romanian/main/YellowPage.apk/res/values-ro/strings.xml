@@ -416,6 +416,7 @@ Total: %3$s RMB"</string>
     <string name="search_keywords_express">express;shunfeng;shentong;debang;kuaidi;danhao;</string>
     <string name="search_title_express">Primiți sau trimiteți expres</string>
     <string name="select_package_before_buy">Selectați pachetul</string>
+    <string name="send_shortcut_already_exists">Ecranul există deja</string>
     <string name="send_shortcut_failed">"Nu s-a putut trimite"</string>
     <string name="send_shortcut_success">Plasat pe ecranul principal</string>
     <string name="sending_shortcut">Se trimite…</string>

@@ -184,4 +184,20 @@
         <item quantity="other">Au fost găsite %1$d fotografii noi</item>
         <item quantity="one">A fost găsită o fotografie nouă</item>
     </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">S-au eliminat %1$d fotografii din \"%2$s\".</item>
+        <item quantity="one">S-a eliminat %1$d fotografie din \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">S-au eliminat %1$d fotografii din \"%2$s\" și s-au adăugat în baza de date.</item>
+        <item quantity="one">S-a eliminat %1$d fotografie din \"%2$s\" și s-a adăugat în baza de date.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">S-au adăugat %1$d fotografii în \"%2$s\".</item>
+        <item quantity="one">S-a adăugat %1$d fotografie în \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">S-au adăugat %1$d fotografii în \"%2$s\" și s-au adăugat în baza de date.</item>
+        <item quantity="one">S-a adăugat %1$d fotografie în \"%2$s\" și s-a adăugat în baza de date.</item>
+    </plurals>
 </resources>
