@@ -442,10 +442,10 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="recents_drag_hint_message">Trageți elementele aici</string>
     <string name="recents_empty_message">Nu sunt elemente recente</string>
     <string name="recents_empty_message_dismissed_all">Ați eliminat toate elementele</string>
-    <string name="recents_empty_message_multi_window">Mergeți la ecranul principal pentru a lansa aplicațiile</string>
+    <string name="recents_empty_message_multi_window">Deschideți aplicațiile din Ecranul principal</string>
     <string name="recents_exit_multi_window_mode">Ieșiți</string>
     <string name="recents_incompatible_app_message">"Această aplicație nu suportă modul Ecran scindat"</string>
-    <string name="recents_launch_disabled_message">%s este dezactivată în modul sigur</string>
+    <string name="recents_launch_disabled_message">"%s nu se poate lansa în modul Sigur"</string>
     <string name="recents_launch_error_message">"Nu s-a putut lansa %s"</string>
     <string name="recents_lock_to_app_button_label">Fixați ecranul</string>
     <string name="recents_multi_window_mode">Mod Ecran scindat</string>

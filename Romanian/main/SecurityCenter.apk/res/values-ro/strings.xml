@@ -373,7 +373,8 @@
     <string name="auto_task_operation_sync">Sincronizare</string>
     <string name="auto_task_operation_vibration">Vibrații</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
-    <string name="back">Înapoi</string>
+  <string name="back_app_name">Back Blocare aplicație?</string>
+  <string name="back_modifypassword">Back Modificare parolă?</string>
     <string name="background_restrict_app_dialog_message">Restricționarea accesului la rețea în fundal pentru această aplicație poate împiedica funcționarea corectă a acesteia, primirea mesajelor, descărcarea conținutului, etc. Restricționați oricum?</string>
     <string name="background_traffic">În fundal: %s</string>
     <string name="backsound_set_hint">Setați mesajul pentru perioada cât sunteți plecat ca %s?</string>

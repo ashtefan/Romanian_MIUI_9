@@ -207,7 +207,7 @@
     <string name="contactSavedErrorToast">Nu s-au putut salva modificările făcute contactului</string>
     <string name="contactSavedToast">Contactul a fost salvat</string>
     <string name="contact_clear_search_history">Goliți istoricul</string>
-    <string name="contact_delete_toast">Contact şters cu succes</string>
+    <string name="contact_delete_toast">Contact şters</string>
     <string name="contact_detail_action_item_calllog">Istoric apeluri</string>
     <string name="contact_detail_action_item_nocalllog">Nu există istoric</string>
     <string name="contact_detail_calllog_call_note_tips">Note</string>
@@ -494,7 +494,8 @@ Motivul: „%s”"</string>
     <string name="group_delete_success_toast">Grup şters</string>
     <string name="group_detail_label_placeholder"> </string>
     <string name="group_edit_field_hint_text">Nume grup</string>
-    <string name="group_member_remove_toast">Eliminat din grup</string>
+    <string name="group_member_remove_fail_toast">Nu a fost eliminat din grup</string>
+    <string name="group_member_remove_success_toast">Eliminat din grup</string>
     <string name="group_name">Grupurile mele</string>
     <string name="group_name_hint">Numele grupului</string>
     <string name="group_read_only">Nu poate fi editat pe acest dispozitiv.</string>
@@ -1192,12 +1193,13 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="type_outgoing">Apel</string>
     <string name="type_voicemail">Mesaj vocal</string>
     <string name="unable_get_device_id">Nu s-a putut obține IMEI-ul</string>
-    <string name="unfold_all">extindeți tot</string>
+    <string name="unfold_all">Extindeți toate apelurile</string>
     <string name="unknow_phone_number_call_failed">Nu se poate apela un număr necunoscut</string>
     <string name="unknow_phone_number_mms_failed">Nu se poate trimite mesaj la un număr necunoscut</string>
     <string name="unknown">Necunoscut</string>
     <string name="unknown_contact_name">Contact necunoscut</string>
-    <string name="unknown_details_new_contact">Contact nou</string>
+    <string name="unknown_details_add_to_contact">Existent</string>
+    <string name="unknown_details_new_contact">Nou</string>
     <string name="update_sim_contact_photo_toast">"Nu s-au putut seta fotografiile pentru contactele SIM"</string>
     <string name="upgrade_in_progress">Se actualizează lista contactelor din agendă.</string>
     <string name="upgrade_out_of_memory">"Agenda este în proces de trecere la o versiune superioară.

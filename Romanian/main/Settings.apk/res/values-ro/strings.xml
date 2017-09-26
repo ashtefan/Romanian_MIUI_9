@@ -536,8 +536,8 @@ Doar aduceți dispozitivele în apropiere (de obicei spate în spate) și apoi a
     <string name="bind_xiaomi_account_dialog_summery">"Sunteți pe cale să adăugați contul Mi %s. Dacă uitați parola, puteți utiliza acest cont pentru a o reseta."</string>
     <string name="bind_xiaomi_account_success">Contul Mi a fost adăugat cu succes</string>
     <string name="biometric_weak_improve_matching_title">Imbunătățiți recunoașterea facială</string>
-    <string name="biometric_weak_liveliness_summary">Solicită clipirea în timpul deblocării</string>
-    <string name="biometric_weak_liveliness_title">Verificare în timp real</string>
+    <string name="biometric_weak_liveliness_summary">Solicită clipirea pentru deblocare</string>
+    <string name="biometric_weak_liveliness_title">Verificare persoană reală</string>
     <string name="ble_scan_notify_text">Pentru a îmbunătăți acuratețea localizării, aplicațiile și serviciile de sistem pot detecta în continuare dispozitivele Bluetooth. Puteți modifica acest lucru în LINK_BEGINscanning settingsLINK_END.</string>
     <string name="block_list_connected_devices">Dispozitive conectate</string>
     <string name="block_list_diaglog_cancle">Renunțați</string>
@@ -601,11 +601,11 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bluetooth_devices">Dispozitive Bluetooth</string>
     <string name="bluetooth_disable_absolute_volume">Dezactivați volumul absolut</string>
     <string name="bluetooth_disable_absolute_volume_summary">Dezactivează caracteristica Bluetooth de volum absolut în cazul unor probleme cu volumul la unele dispozitive de la distanță cum ar fi volum foarte ridicat sau lipsa controlului.</string>
-    <string name="bluetooth_disable_profile_message">Această acţiune va dezactiva:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;de pe:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+    <string name="bluetooth_disable_profile_message">Această acţiune va dezactiva:<b>%1$s</b> de pe:<b>%2$s</b></string>
     <string name="bluetooth_disable_profile_title">Dezactivaţi profilul?</string>
     <string name="bluetooth_disabled">Dezactivat</string>
     <string name="bluetooth_disconnect_a2dp_profile">%1$s va fi deconectat de la media audio.</string>
-    <string name="bluetooth_disconnect_all_profiles">Astfel se va încheia conexiunea cu:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="bluetooth_disconnect_all_profiles">Astfel se va încheia conexiunea cu:<b>%1$s</b></string>
     <string name="bluetooth_disconnect_headset_profile">%1$s va fi deconectat de la componenta audio hands-free.</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s va fi deconectat de la dispozitivul de intrare.</string>
     <string name="bluetooth_disconnect_pan_nap_profile">%1$s va fi deconectat de la conexiunea acestui telefon la internet.</string>
@@ -613,7 +613,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bluetooth_disconnect_title">Deconectaţi?</string>
     <string name="bluetooth_disconnected">Deconectat</string>
     <string name="bluetooth_disconnecting">În curs de deconectare…</string>
-    <string name="bluetooth_display_passkey_pin_msg">Pentru împerecherea cu:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Introduceţi pe acesta:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, apoi apăsaţi tasta Return sau Enter.</string>
+    <string name="bluetooth_display_passkey_pin_msg">Pentru asocierea cu:<b>%1$s</b> introduceţi pe acesta:<b>%2$s</b>, apoi apăsaţi tasta Return sau Enter.</string>
     <string name="bluetooth_dock_settings">Setări de andocare</string>
     <string name="bluetooth_dock_settings_a2dp">Pentru muzică şi fişiere media</string>
     <string name="bluetooth_dock_settings_headset">Ca difuzor</string>
@@ -625,7 +625,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bluetooth_empty_list_user_restricted">"Nu aveți permisiunea de a modifica setările Bluetooth."</string>
     <string name="bluetooth_enable">Activaţi Bluetooth</string>
     <string name="bluetooth_enable_alphanumeric_pin">Codul PIN conţine litere sau simboluri</string>
-    <string name="bluetooth_enter_passkey_msg">Pentru împerecherea cu:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Introduceţi cheia de acces necesară a dispozitivului:</string>
+    <string name="bluetooth_enter_passkey_msg">Pentru asocierea cu:<b>%1$s</b> introduceţi cheia de acces necesară a dispozitivului:</string>
     <string name="bluetooth_enter_passkey_other_device">Ar putea fi necesar, de asemenea, să introduceţi această parolă pe celălalt dispozitiv.</string>
     <string name="bluetooth_enter_pin_other_device">Ar putea fi necesar, de asemenea, să introduceţi acest cod PIN şi pe celălalt dispozitiv.</string>
     <string name="bluetooth_error_title" />
@@ -903,7 +903,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="charge_length_format">cu %1$s în urmă</string>
     <string name="charging_sounds_title">Sunet acumulator încărcat complet</string>
     <string name="check_find_device_status_failure_confirm">OK</string>
-    <string name="check_importance">Verificare importanță</string>
+    <string name="check_importance">Marcați ca important?</string>
     <string name="check_update">Verificaţi pentru actualizări</string>
     <string name="checkbox_notification_same_as_incoming_call">Utilizaţi volumul apelurilor pentru notificări</string>
     <string name="checking_decryption">Verificare…</string>
@@ -1556,7 +1556,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="erase_personal_data">Date personale</string>
     <string name="erase_personal_data_description">Ştergeţi informaţiile despre contul dvs. Mi, datele aplicaţiilor şi setările de sistem</string>
     <string name="erase_sd_data">Formatare card SD</string>
-    <string name="erase_sd_data_description">Formatarea va șterge toate fișierele și datele de pe cardul SD</string>
+    <string name="erase_sd_data_description">Formatarea va șterge toate datele de pe cardul SD</string>
     <string name="erase_sure">Obligatoriu</string>
     <string name="error_apn_empty">"Numele APN nu poate fi necompletat."</string>
     <string name="error_mcc_not3">Câmpul MCC trebuie să conţină 3 cifre.</string>
@@ -1610,8 +1610,8 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="fingerprint_enable_keyguard_toggle_title">blocare ecran</string>
     <string name="fingerprint_enroll_button_add">Adăugați altă amprentă</string>
     <string name="fingerprint_enroll_button_next">Următorul</string>
-    <string name="fingerprint_first_open_screen_password_face_tittle">Biometric（setați parola de blocare a ecranului înainte de a o utiliza）</string>
-    <string name="fingerprint_first_open_screen_password_tittle">Amprentă (setați parola pentru Blocarea ecranului înainte de a o utiliza)</string>
+    <string name="fingerprint_first_open_screen_password_face_tittle">Biometric（setați parola de blocare a ecranului mai întâi）</string>
+    <string name="fingerprint_first_open_screen_password_tittle">Amprentă (setați parola pentru Blocarea ecranului mai întâi)</string>
     <string name="fingerprint_for_keyguard_disabled">Amprenta a fost dezactivată din setările de securitate.</string>
     <string name="fingerprint_identify_input_password_msg">Introduceți parola</string>
     <string name="fingerprint_identify_msg">Scanare amprentă…</string>
@@ -2978,7 +2978,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="privacy_factory_reset_dlg_title">Salvați-vă datele</string>
     <string name="privacy_file">Fișiere</string>
     <string name="privacy_gallery">Fotografii</string>
-    <string name="privacy_header_text_less_than_half">Prea puțin spațiu pentru această aplicație. Mutați separatorul mai departe.</string>
+    <string name="privacy_header_text_less_than_half">Prea puțin. Mutați separatorul mai departe.</string>
     <string name="privacy_mms">Mesaje</string>
     <string name="privacy_mode_dialog_message">Ascundeţi mesajele, notele, fotografiile, setările şi apelurile primite?</string>
     <string name="privacy_mode_dialog_title">Modul Vizitator</string>
@@ -3488,7 +3488,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_handy_mode">Modul operare cu o mână</string>
     <string name="search_hint">Setări căutare</string>
     <string name="search_home_key">Acasă</string>
-    <string name="search_input_hint">Setări căutare</string>
+    <string name="search_input_hint">Căutare Setări</string>
     <string name="search_key_settings_title">Butoane;Taste</string>
     <string name="search_lab_functions_title">Caracteristici Beta,Lab function</string>
     <string name="search_label">Setări</string>
@@ -3735,15 +3735,12 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="settings_toggle_position_divider_list">Comutatoarele de deasupra barei sunt active</string>
     <string name="setup_add_fingerprint_failed_retry_text">"Nu s-a putut adăuga amprenta"</string>
     <string name="setup_choose_unlock_fingerprint_msg">Setați metoda de blocare a ecranului înainte de a adăuga amprenta.</string>
-    <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Parolă&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-    <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Parolă&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="setup_choose_unlock_mixed_password">Parolă</string>
     <string name="setup_choose_unlock_mixpassword_title">Setați parola</string>
-    <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-    <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="setup_choose_unlock_password">PIN</string>
     <string name="setup_choose_unlock_password_msg">Introduceți 4 cifre</string>
     <string name="setup_choose_unlock_password_title">Setați codul  PIN</string>
-    <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Model&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-    <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Model&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="setup_choose_unlock_pattern">Model</string>
     <string name="setup_choose_unlock_pattern_title">Desenați modelul de deblocare</string>
     <string name="setup_choose_unlock_type_title">Setați parola</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_message">Ați ales deblocarea telefonului doar cu amprenta. Dacă omiteți acum, va trebui să setați acest lucru mai târziu. Acest lucru durează circa un minut.</string>
@@ -4016,7 +4013,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_wifi_mac_address">Adresă MAC Wi-Fi</string>
     <string name="status_wimax_mac_address">Adresă MAC 4G</string>
     <string name="status_write_success">Succes!</string>
-    <string name="statusbar_permission_desc">Permisiunile sunt disponibile doar pentru notificările importante</string>
+    <string name="statusbar_permission_desc">Următoarele permisiuni sunt disponibile doar pentru notificările importante</string>
     <string name="storage_detail_apps">Aplicații</string>
     <string name="storage_detail_audio">Audio</string>
     <string name="storage_detail_cached">Date în memoria cache</string>
@@ -4420,7 +4417,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="unlock_set_do_later_title">Nu acum</string>
     <string name="unlock_set_enter_system">Omiteți blocarea ecranului</string>
     <string name="unlock_set_enter_system_summary">Mergeți direct în ecranul Acasă după trezirea telefonului</string>
-    <string name="unlock_set_unlock_biometric_weak_summary">Securitate redusă, experimental</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Caracteristică experimentală cu securitate redusă</string>
     <string name="unlock_set_unlock_biometric_weak_title">Deblocare facială</string>
     <string name="unlock_set_unlock_disabled_summary">Dez. de adm., dator. pol. crip. sau a stoc. acred.</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Modificaţi sau dezactivaţi modelul, codul PIN sau parola de securitate</string>

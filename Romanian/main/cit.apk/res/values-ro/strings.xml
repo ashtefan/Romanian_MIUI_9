@@ -125,30 +125,30 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
   <string name="cit_exit_test_summary">Atunci când ieșiți, toate datele text vor fi șterse.</string>
   <string name="cit_exit_test_title">Părăsiți testul</string>
   <string name="cit_fail">Eșuat</string>
-  <string name="cit_finger_check_title">Finger Print Test(FPC)</string>
-  <string name="cit_flash_life_check_summary">Device flash life time estimation</string>
+  <string name="cit_finger_check_title">Test amprentă (FPC)</string>
+  <string name="cit_flash_life_check_summary">Estimare flash life time</string>
   <string name="cit_flash_life_check_title">Flash life</string>
-  <string name="cit_fm_audio_path">Configure audio path</string>
-  <string name="cit_fm_audio_path_headset">Headphones</string>
-  <string name="cit_fm_audio_path_speaker">Speaker</string>
-  <string name="cit_fm_check_summary">"This will test the device's FM function."</string>
-  <string name="cit_fm_check_title">FM Radio</string>
-  <string name="cit_fm_close">Close FM</string>
-  <string name="cit_fm_not_supported">"This device doesn't support FM"</string>
+  <string name="cit_fm_audio_path">Configurare cale audio</string>
+  <string name="cit_fm_audio_path_headset">Căști</string>
+  <string name="cit_fm_audio_path_speaker">Difuzor</string>
+  <string name="cit_fm_check_summary">"Se va testa funcția Radio a telefonului."</string>
+  <string name="cit_fm_check_title">Radio FM</string>
+  <string name="cit_fm_close">Închide Radio FM</string>
+  <string name="cit_fm_not_supported">"Acest telefon nu are funcția Radio FM"</string>
   <string name="cit_fm_open_1">Start FM - 88.5</string>
   <string name="cit_fm_open_2">Start FM - 107.9</string>
-  <string name="cit_fm_open_bluetooth">Opening Bluetooth…</string>
-  <string name="cit_fm_start_service">Start audio</string>
-  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
-  <string name="cit_fpc_selftest">SELF-TEST</string>
-  <string name="cit_fpc_sensor_check_summary">FPC sensor test, press the button and wait for the pass info highlighted in green is correct.</string>
-  <string name="cit_fpc_sensor_check_title">FPC fingerprint sensor</string>
-  <string name="cit_front_camera_check_summary">"Test instructions:
+  <string name="cit_fm_open_bluetooth">Activare Bluetooth…</string>
+  <string name="cit_fm_start_service">Pornire audio</string>
+  <string name="cit_fpc_checkerboard_test">TEST CHECKERBOARD</string>
+  <string name="cit_fpc_selftest">AUTO-TEST</string>
+  <string name="cit_fpc_sensor_check_summary">Testare senzor amprentă; apăsați butonul și așteptați încheierea testului semnalizată prin mesajul colorat în verde.</string>
+  <string name="cit_fpc_sensor_check_title">Senzor amprentă FPC</string>
+  <string name="cit_front_camera_check_summary">"Intsrucțiuni pentru test:
 
-1.Tap the Camera button below to enter front Camera interface
-2.Tap the shutter button
-3.Tap the Check icon. The system will save the photo automatically.
-4.The photo you took should be displayed below. Tap Delete to complete the test."</string>
+1. Atingeți butonul Cameră de mai jos pentru a accesa interfața camerei frontale
+2. Apăsați butonul declanșare
+3. Atingeți pictograma Verificare. Sistemul va salva fotografia în mod automat.
+4. Fotografia captată ar trebui să apară mai jos. Atingeți Ștergeți pentru a încheia testul."</string>
   <string name="cit_front_camera_check_title">Front camera</string>
   <string name="cit_get_signature_failed">get signature FAILED</string>
   <string name="cit_gps_check_summary">The corresponding GPS info should be displayed below.</string>
@@ -214,6 +214,8 @@ Touch the screen to start GPS…"</string>
 5.The photo you took should be displayed below. Tap Delete to complete the test."</string>
   <string name="cit_main_camera_check_title">Rear camera</string>
   <string name="cit_name">Hardware tests</string>
+  <string name="cit_nfc_check_summary">Poziționați cardul în partea superioară a spatelui telefonului</string>
+  <string name="cit_nfc_check_title">Test NFC</string>
   <string name="cit_not_available">"This test isn't available on this version of MIUI"</string>
   <string name="cit_notificationlight">Notification light</string>
   <string name="cit_notificationlight_off">Notification light off</string>
@@ -510,6 +512,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="mic1_spk_loop">Mic speak Loop</string>
   <string name="mic1test">MIC1</string>
   <string name="micphone_test">MIC＆ SPK</string>
+  <string name="nfc_disable_tip">Vă rugăm să activați funcția NFC</string>
   <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
   <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
   <string name="start">Start</string>

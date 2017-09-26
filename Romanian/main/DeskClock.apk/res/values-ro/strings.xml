@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="add_alarm">Adăugaţi o alarmă</string>
+    <string name="add_timezone_title">Adăugați un fus orar</string>
     <string name="alarm_alert_alert_silenced">Alarmă oprită după %d minute.</string>
     <string name="alarm_alert_snooze_set">Se amână pentru %d minute.</string>
     <string name="alarm_ascending_mode_summary">Volum ascendent până la valoarea selectată</string>
@@ -55,6 +56,7 @@
     <string name="force_touch_enter_stopwatch">Cronometru</string>
     <string name="force_touch_enter_timer">Temporizator</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+    <string name="go_back">Înapoi</string>
     <string name="hour">1 oră</string>
     <string name="hour_unit">h</string>
     <string name="hours">%d ore</string>
@@ -73,6 +75,7 @@
     <string name="legal_workday_message">" (Alarmă dezactivată în zilele de sărbătoare)"</string>
     <string name="life_post_setting">Raport de dimineață</string>
     <string name="life_post_setting_FBE_remind">Datorită restricțiilor de sistem, informațiile matinale despre starea vremii pot fi afișate incorect după repornire</string>
+    <string name="life_post_setting_close_title">Închideți rapoartele matinale</string>
     <string name="life_post_setting_open_subtitle">Primiți informații despre starea vremii atunci când opriți alarma între orele 4:00-9:30</string>
     <string name="life_post_setting_open_title">Primiți un raport dimineața</string>
     <string name="life_post_setting_wake_up_list_title">Istoricul de trezire</string>
@@ -98,6 +101,7 @@
     <string name="menu_item_sort_by_name">Sortaţi după nume</string>
     <string name="minute">1 minut</string>
     <string name="minutes">%d minute</string>
+    <string name="more_setting">Mai multe setări</string>
     <string name="more_settings">Setări</string>
     <string name="never">O dată</string>
     <string name="oneshot_alarm">Ștergeți după ce expiră</string>

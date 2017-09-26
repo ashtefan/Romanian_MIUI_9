@@ -65,7 +65,7 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="terms_of_use">Termeni și condiții</string>
     <string name="terms_of_use_label">"Confidențialitatea datelor dvs. este foarte importantă pentru noi. Vă rugăm să citiți Termenii și condițiile precum și Politica de confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni sunt disponibile pentru dvs.
     
-Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI. Pe durata activării serviciile Mi, Serviciile Mi de activare SIM, Mi Cloud, Localizarea dispozitivului, modulele Ecranului principal, Serviciul Jocuri, componentele de sistem MAB și MSA, DirectService, Quick Card și alte componente statistice și ale contului Mi se vor conecta la internet și vor obține locația dvs."</string>
+Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI. Pe durata activării serviciile Mi, Serviciile Mi de activare SIM, Mi Cloud, Localizarea dispozitivului, modulele Ecranului principal, Serviciul Jocuri, componentele de sistem MAB și MSA, DirectService, Quick Card, statistice, MiSmartCards, MiLink și componente cont Mi se vor conecta la internet și vor obține locația dvs."</string>
     <string name="title_fingerprint">Setați parola</string>
   <string name="two_dimensional_code_scan">Scanare cod QR</string>
     <string name="user_agreement">Termenii serviciului</string>

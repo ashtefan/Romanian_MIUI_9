@@ -51,8 +51,8 @@
     <string name="mark_point_list_title">Marcaje</string>
     <string name="message_file_size_error">Înregistrarea a atins lungimea maximă susţinută de %s</string>
     <string name="network_tip_dialog_cancel">Renunțați</string>
-    <string name="network_tip_dialog_content">Această aplicație trebuie să se conecteze la internet, dar și să vă acceseze agenda pentru a putea eticheta înregistrările apelurilor.</string>
-    <string name="network_tip_dialog_ok">Permiteți</string>
+    <string name="network_tip_dialog_content">Aplicația de Înregistrare trebuie să se conecteze la internet, dar și să vă acceseze agenda pentru a funcționa în mod normal. Sunteți de acord?</string>
+    <string name="network_tip_dialog_ok">De acord</string>
     <string name="network_tip_dialog_title">Este necesară conexiunea la internet</string>
     <string name="new_record_name">Înregistrare nouă</string>
     <string name="no_file">Nicio înregistrare</string>

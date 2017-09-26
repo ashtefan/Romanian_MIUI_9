@@ -28,7 +28,7 @@
     <string name="face_data_manage_unlock_title">Deblocare utilizând datele faciale</string>
     <string name="face_data_suggesstion_first">Deblocarea cu ajutorul datelor faciale este mai puțin sigură decât utilizând o parolă. Telefonul poate fi deblocat de persoanele care seamănă cu dvs.</string>
     <string name="face_data_suggesstion_second">"Asigurați-vă că fața nu vă este acoperită de alte obiecte și că este ușor vizibilă. Fața ar trebui să fie bine iluminată, de asemenea."</string>
-    <string name="face_unlock_adjust_distance">Asigurați-vă că distanța dintre telefon și fața dumneavoastră este cea optimă.</string>
+    <string name="face_unlock_adjust_distance">Asigurați-vă că distanța dintre fața dumneavoastră și ecran este cea optimă.</string>
     <string name="face_unlock_be_on_the_screen">Țineți telefonul în fața dumneavoastră</string>
     <string name="face_unlock_by_notification_screen_on_msg">Puteți debloca telefonul utilizând datele faciale când ecranul se aprinde pentru afișarea notificările. Acest lucru poate descărca acumulatorul mai rapid.</string>
     <string name="face_unlock_by_notification_screen_on_title">Permiteți deblocarea facială când ecranul se aprinde</string>

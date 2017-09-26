@@ -86,6 +86,8 @@
     <string name="all_video_album_display_name">Toate videoclipurile</string>
     <string name="already_create_baby_album">Albumul copilului există deja în Mi Cloud.</string>
     <string name="and"> și </string>
+    <string name="app_is_launching">%s pornește…</string>
+    <string name="app_is_launching_common">Se lansează aplicația…</string>
     <string name="app_name">Galerie</string>
     <string name="app_name_view_picture">Vizualizare imagini</string>
     <string name="app_name_view_video">Vizualizare videoclipuri</string>
@@ -651,7 +653,16 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="photo_editor_long_crop">Decupare</string>
     <string name="photo_editor_mosaic">Mozaic</string>
     <string name="photo_editor_navigator_cancel">Renunțați</string>
+    <string name="photo_editor_navigator_download_network_metered_msg">Descărcarea %s necesită circa 4 MB de date mobile. Descărcați acum?</string>
+    <string name="photo_editor_navigator_download_network_metered_title">Avertisment utilizare date</string>
     <string name="photo_editor_navigator_export">Finalizat</string>
+    <string name="photo_editor_navigator_module_download_failed">"Nu s-a putut descărca %s"</string>
+    <string name="photo_editor_navigator_module_download_now">Descărcați</string>
+    <string name="photo_editor_navigator_module_download_success">Descărcată cu succes</string>
+    <string name="photo_editor_navigator_module_download_wait_wlan">Așteptați conectarea la Wi-Fi</string>
+    <string name="photo_editor_navigator_module_downloading">Se descarcă %s…</string>
+    <string name="photo_editor_navigator_need_download">Conectați-vă la internet pentru a descărca %s.</string>
+    <string name="photo_editor_remover">Ștergeți</string>
     <string name="photo_editor_rotate">Rotire</string>
     <string name="photo_editor_saving">Se salvează…</string>
     <string name="photo_editor_sticker">Miniatură</string>
@@ -721,6 +732,10 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="remove_from_secret_successful">Eliminat din albumul secret</string>
     <string name="remove_to_album_title">Asociați cu</string>
     <string name="remove_to_other_album">Asociați cu o altă persoană</string>
+    <string name="remover_edit_type_free">Obiecte</string>
+    <string name="remover_edit_type_line">Linii</string>
+    <string name="remover_erase_aera_too_big">Aria de ștergere este prea mare</string>
+    <string name="remover_menu_processing">Procesare</string>
     <string name="rename_album">Redenumiți albumul</string>
     <string name="rename_album_failed">"Nu s-a putut redenumi"</string>
     <string name="rename_album_succeeded">Redenumit cu succes</string>
