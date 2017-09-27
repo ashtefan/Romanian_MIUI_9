@@ -1051,7 +1051,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="system_folders_trash_dlg">Selectați coşul de gunoi al serverului</string>
     <string name="system_folders_trash_summary">Selectați coşul de gunoi al serverului</string>
     <string name="system_folders_trash_title">Dosarul Coş de gunoi</string>
-    <string name="system_setup_open_error">Nu se poate seta centrul de securitate. Vă rugăm accesați setările de acordare a permisiunilor din setările telefonului</string>
+    <string name="system_security_open_error">Nu se poate seta centrul de securitate. Vă rugăm accesați permisiunile din setările telefonului</string>
     <string name="system_setup_open_error">Permiteți sincronizarea din Setări</string>
     <string name="tablet">tabletă</string>
     <string name="tap_to_configure">Atingeţi pentru a configura.</string>
