@@ -5,8 +5,8 @@
     <string name="action_mode_deselect_all">Deselectaţi</string>
     <string name="action_mode_select_all">Selectaţi tot</string>
     <string name="action_mode_title_empty">Selectare elemente</string>
-    <string name="actionbar_button_up_description">înapoi</string>
-    <string name="actionbar_immersion_button_more_description">mai multe</string>
+    <string name="actionbar_button_up_description">Înapoi</string>
+    <string name="actionbar_immersion_button_more_description">Mai multe</string>
     <string name="activate">Activare</string>
     <string name="activate_fail_notification_title">Reactivare sincronizare</string>
     <string name="activating">Activare…</string>
@@ -86,7 +86,7 @@
     <string name="chinese_symbol_animals_sheep">羊</string>
     <string name="chinese_symbol_animals_snake">蛇</string>
     <string name="chinese_symbol_animals_tiger">虎</string>
-    <string name="clearable_edittext_clear_description">goliți</string>
+    <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideţi</string>
     <string name="copyright">Drepturi de autor</string>
     <string name="country_name_ac">AC</string>
@@ -415,7 +415,7 @@
     <string name="heavenly_stems_yi">乙</string>
     <string name="hybrid_provider">Furnizată de %1$s .</string>
     <string name="im">IM</string>
-    <string name="immersion_button_close_description">închideți</string>
+    <string name="immersion_button_close_description">Închideți</string>
     <string name="instruction">Instrucțiuni</string>
     <string name="label">MIUI SDK</string>
     <string name="midnight">AM</string>
@@ -479,8 +479,8 @@
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">S</string>
-    <string name="search_input_description">căutați</string>
-    <string name="search_mode_button_back_description">înapoi</string>
+    <string name="search_input_description">Căutați</string>
+    <string name="search_mode_button_back_description">Înapoi</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="select_item">Selectare elemente</string>
     <string name="send">Trimiteţi</string>

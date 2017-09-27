@@ -39,7 +39,7 @@
     <string name="call_extension_conference_mode">Modul Conferinţă</string>
     <string name="call_record_wait_label">Aşteptare</string>
     <string name="call_recording_deny_permission_msg">"Ați refuzat permisiunea de înregistrare; nu se poate înregistra."</string>
-    <string name="call_recording_error_low_storage">Spaţiu insuficient: cardul SD este plin</string>
+    <string name="call_recording_error_low_storage">Nu există spaţiu insuficient în mediul de stocare</string>
     <string name="call_recording_error_privacy">Nu se poate înregistra o convorbire în timp ce modul Vizitator este activ</string>
     <string name="call_recording_error_sd_access">Nu se poate accesa cardul SD</string>
     <string name="call_recording_error_sd_unmounted">Înregistrare oprită: cardul SD a fost eliminat</string>
@@ -161,7 +161,6 @@
     <string name="livetalk_dial">Utilizare Pachete de suplinire</string>
     <string name="livetalk_hangup">Încheiați apelul</string>
     <string name="manageConferenceLabel">Gestionaţi teleconferinţa</string>
-    <string name="miprofile_stranger_card">Necunoscută</string>
     <string name="modify_call_failure_str">"Modificarea solicitării de apel nu a reușit
 "</string>
     <string name="modify_call_option_title">Ce tip de apel?</string>

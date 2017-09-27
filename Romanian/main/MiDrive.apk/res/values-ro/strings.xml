@@ -103,6 +103,8 @@
     <string name="quota_info">Mi Drive: %1$s disponibil, %2$s total</string>
     <string name="rename_alert">"Dacă modificați extensia fișierului este posibil să nu îl mai puteți deschide."</string>
     <string name="rename_failed">Un fișier cu același nume există deja.</string>
+    <string name="request_permission_msg">Permiteți Mi Drive să vă acceseze informațiile contului pentru a funcționa în mod normal.</string>
+    <string name="request_permission_title">Sunt necesare permisiuni</string>
     <string name="sd_full">Cardul SD este plin.</string>
     <string name="sd_invalid">Cardul SD este corupt.</string>
     <string name="send_to_midrive_failed">"Acest tip de fișier nu este suportat."</string>
@@ -124,6 +126,8 @@
     <string name="wait_wifi">Se așteaptă conectarea la Wi-Fi</string>
     <string name="waiting">Se așteaptă</string>
     <string name="wangpan_root_path">Contul meu</string>
+    <string name="xiaomi_drive_description_content">Mi Drive este o unealtă de stocare online care vă permite să vă păstrați fișierele online și să eliberați spațiu de stocare de pe telefon. Opriți utilizarea Mi Drive?</string>
+    <string name="xiaomi_drive_description_title">Despre Mi Drive</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yesterday">Ieri</string>
 </resources>

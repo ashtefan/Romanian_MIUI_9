@@ -109,6 +109,7 @@
     <string name="battery_low_title">Conectaţi încărcătorul</string>
     <string name="battery_profiles">Utilizaţi profiluri pentru acumulator</string>
     <string name="block_notification_content_text">"Notificările %1$s nu vor mai fi afișate. Puteți modifica acest lucru în Setări."</string>
+    <string name="block_notification_desc">"Notificările aplicației nu vor mai fi afișate. Puteți modifica acest lucru în Setări."</string>
     <string name="block_notification_text">Ascundeți</string>
     <string name="block_record_notification_text">Se ascund notificările de la %1$s.</string>
     <string name="block_record_notification_title">Notificări ascunse</string>

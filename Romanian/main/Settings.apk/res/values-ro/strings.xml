@@ -2432,11 +2432,13 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="mi_shopping_mall">Magazin Mi</string>
     <string name="misc_files">Fişiere diverse</string>
     <string name="misc_files_selected_count">au fost selectate %1$d din %2$d</string>
+    <string name="misc_files_selected_count_bytes">%1$s din %2$s</string>
     <string name="miui_allow_alarm">Alarme</string>
     <string name="miui_allow_light">Lumină de notificare</string>
     <string name="miui_allow_music">Muzică și videoclipuri</string>
     <string name="miui_allow_vibrate">Vibrații</string>
     <string name="miui_data_usage_menu_metered">Hotspot-uri mobile</string>
+    <string name="miui_enable_service_title">Serviciul va face următoarele acțiuni:</string>
     <string name="miui_experience_optimization">Activați optimizarea MIUI</string>
     <string name="miui_lab_feature_applied">Aplicat</string>
     <string name="miui_lab_feature_off">Oprit</string>
@@ -4245,7 +4247,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
 
 2.Dacă dispozitivul dvs. are instalat un card SD sau o stocare USB, le puteți monta pe computer când tetheringul prin USB este activ. 
 
- "&lt;b&gt;Hotspot Wi-Fi portabil &lt;/b&gt;"
+ "&lt;b&gt;Hotspot Wi-Fi portabil&lt;/b&gt;" 
  Puteți transforma dispozitivul dvs. Android într-un hotspot Wi-Fi portabil, pentru a partaja conexiunea la internet de pe telefon cu unul sau mai multe computere sau cu alte dispozitive. 
 
 1.Cât timp telefonul dvs. servește ca hotspot Wi-Fi, nu veți putea aplicațiile pentru accesarea Internetului prin conexiunea Wi-Fi a acestuia(dar veți rămâne conectat la internet prin date mobile, bineînțeles). 

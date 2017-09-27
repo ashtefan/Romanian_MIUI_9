@@ -32,8 +32,8 @@
     <string-array name="action_param_translate">
         <item>Nimic</item>
         <item>Prestabilit</item>
-        <item>Imagine</item>
-        <item>Film</item>
+        <item>Imagini</item>
+        <item>Filme</item>
         <item>Economisire acumulator</item>
         <item>Echilibrat</item>
         <item>Performanţă</item>
@@ -67,12 +67,12 @@
         <item>Trezire frecventă a telefonului</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>Scanare Wi-Fi</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Trezire</item>
+        <item>Blocare mod Deep Sleep</item>
+        <item>Blocare mod Sleep</item>
+        <item>Căutare Wi-Fi</item>
+        <item>Utilizare GPS</item>
+        <item>Ocupare procesor</item>
+        <item>Treziri frecvente ale telefonului</item>
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>
@@ -84,11 +84,11 @@
         <item>neselectate</item>
     </string-array>
     <string-array name="thermal_entries">
-        <item>Mod implicit control încălzire</item>
-        <item>Mod prioritate performanță</item>
+        <item>Mod implicit control temperatură</item>
+        <item>Mod performanță</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>Modul curent implicit</item>
+        <item>Modul curent control temperatură</item>
         <item>Modul curent cu prioritate pentru performanță</item>
     </string-array>
 </resources>
