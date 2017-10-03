@@ -1610,7 +1610,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="fingerprint_enable_keyguard_toggle_title">blocare ecran</string>
     <string name="fingerprint_enroll_button_add">Adăugați altă amprentă</string>
     <string name="fingerprint_enroll_button_next">Următorul</string>
-    <string name="fingerprint_first_open_screen_password_face_tittle">Biometric（setați parola de blocare a ecranului mai întâi）</string>
+    <string name="fingerprint_first_open_screen_password_face_tittle">Biometric (setați parola de blocare a ecranului mai întâi)</string>
     <string name="fingerprint_first_open_screen_password_tittle">Amprentă (setați parola pentru Blocarea ecranului mai întâi)</string>
     <string name="fingerprint_for_keyguard_disabled">Amprenta a fost dezactivată din setările de securitate.</string>
     <string name="fingerprint_identify_input_password_msg">Introduceți parola</string>

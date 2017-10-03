@@ -179,7 +179,7 @@
   <string name="alisdk_message_952_name">JS_BRIDGE_ANNOTATION_NOT_PRESENT</string>
   <string name="alisdk_message_952_type">E</string>
     <string name="allow_check_website_security">Arată notificări despre verificarea securității site-urilor</string>
-    <string name="app_description_content">Aplicația Scaner poate scana coduri QR, scana și traduce, scana și rezolva ecuații, recunoaște cărți de vizită. Asigurați-vă că sunteți conștient de capabilitățile aplicației.</string>
+    <string name="app_description_content">Aplicația Scaner vă permite scanarea codurilor QR, a documentelor și a cărților de vizită, etc. Asigurați-vă că vă puteți descurca fără aceste caracteristici înainte de a dezinstala aplicația.</string>
     <string name="app_description_title">Despre aplicația Scaner</string>
     <string name="app_details">Aplicația:</string>
     <string name="app_name">Scaner</string>
@@ -230,7 +230,7 @@
     <string name="document_ocr_result_title">Document fotografiat</string>
     <string name="document_ocr_tip_msg">Citire…</string>
     <string name="document_recognize_fail_tip">"Nu s-a putut citi documentul"</string>
-    <string name="document_recognize_null_tip">Rezultat nul</string>
+    <string name="document_recognize_null_tip">"Nu s-a putut recunoaște documentul"</string>
     <string name="document_rectify">Ajustați</string>
     <string name="document_rectify_tip_msg">Ajustare…</string>
     <string name="document_save_succeed_tip">Document salvat în %1$s</string>
@@ -243,7 +243,7 @@
     <string name="error_cannot_connect_camera">"Nu se poate conecta Camera"</string>
     <string name="error_day_limit">Prea multe încercări în decursul unei zile</string>
     <string name="error_empty_result">"Nu s-au găsit rezultate"</string>
-    <string name="error_get_image">nu s-a putut obține imaginea</string>
+    <string name="error_get_image">"Nu s-a putut obține imaginea"</string>
     <string name="error_hour_limit">Prea multe încercări în mai puțin de o oră</string>
     <string name="error_image_error">"Nu se poate recunoaște această fotografie"</string>
     <string name="error_invalid_request">Eroare de autentificare</string>

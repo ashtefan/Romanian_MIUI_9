@@ -64,7 +64,7 @@
     <string name="card_title_hanging_up">Se încheie apelul</string>
     <string name="card_title_hanging_up_fail">"Nu s-a putut încheia apelul; încercați din nou."</string>
     <string name="card_title_hanging_up_restart">"Nu s-a putut încheia apelul. Reporniți telefonul."</string>
-    <string name="card_title_hanging_up_weak_signal">Semnal slab al rețelei mobile. Se încheie apelul</string>
+    <string name="card_title_hanging_up_weak_signal">Semnal slab al rețelei mobile. Se încheie apelul…</string>
     <string name="card_title_in_call">În timpul apelului</string>
     <string name="card_title_in_call_short">Apel</string>
     <string name="card_title_in_video">Video </string>

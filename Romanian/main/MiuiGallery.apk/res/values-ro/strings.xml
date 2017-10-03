@@ -581,7 +581,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="ok">OK</string>
     <string name="onekey_auto">Auto</string>
     <string name="onekey_food">Mâncare</string>
-    <string name="onekey_none">Nimic</string>
+    <string name="onekey_none">Original</string>
     <string name="onekey_portrait">Portret</string>
     <string name="onekey_scene">Peisaj</string>
     <string name="open">Activaţi</string>
@@ -655,7 +655,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="photo_editor_navigator_cancel">Renunțați</string>
     <string name="photo_editor_navigator_download_network_metered_msg">Descărcarea %s necesită circa 4 MB de date mobile. Descărcați acum?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Avertisment utilizare date</string>
-    <string name="photo_editor_navigator_export">Finalizat</string>
+    <string name="photo_editor_navigator_export">Salvați</string>
     <string name="photo_editor_navigator_module_download_failed">"Nu s-a putut descărca %s"</string>
     <string name="photo_editor_navigator_module_download_now">Descărcați</string>
     <string name="photo_editor_navigator_module_download_success">Descărcată cu succes</string>
@@ -768,7 +768,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="search_feedback_false_negative_text">Adăugați fotografii în \"%s\"?</string>
     <string name="search_feedback_false_negative_title">Elementele selectate sunt \"%s\"</string>
     <string name="search_feedback_false_positive_text">Șergeți fotografiile din \"%s\"?</string>
-    <string name="search_feedback_false_positive_title">Se pare că acestea sunt “%s”</string>
+    <string name="search_feedback_false_positive_title">Se pare că acestea sunt \"%s\"</string>
     <string name="search_feedback_likely_check_title">Verificați</string>
     <string name="search_feedback_likely_title">Se pare că aceste fotografii pot conține \"%s\"</string>
     <string name="search_feedback_task_finish_title">Atingeți pentru a primi recompensa!</string>
@@ -985,14 +985,14 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="video_editor_template_oldfilm">Vintage</string>
     <string name="video_editor_template_sports">Rock</string>
     <string name="video_editor_text">Text</string>
-    <string name="video_editor_text_default">implicit</string>
+    <string name="video_editor_text_default">Implicit</string>
     <string name="video_editor_text_edit_end">Credite</string>
     <string name="video_editor_text_edit_input_end_hint">Introduceți creditele</string>
     <string name="video_editor_text_edit_input_hint">Apăsați aici pentru a edita</string>
     <string name="video_editor_text_edit_input_open_hint">Introduceți titlul</string>
     <string name="video_editor_text_edit_start">Titlu</string>
     <string name="video_editor_text_input_empty_tips">"Se pare că nu ați introdus încă textul"</string>
-    <string name="video_editor_text_preview_text">MI</string>
+    <string name="video_editor_text_preview_text">Aa</string>
     <string name="video_editor_trim">Ajustare</string>
     <string name="video_editor_unsupport_audio_file">Fișier audio nesuportat</string>
     <string name="video_err">"Imposibil de redat videoclipul"</string>

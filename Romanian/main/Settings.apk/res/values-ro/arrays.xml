@@ -938,10 +938,10 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Pentru dreptaci</item>
     </string-array>
     <string-array name="edge_touch_volume_action">
-        <item>Ajustarea clicului - Declanșator dublu clic</item>
-        <item>Aliniați alunecarea - declanșa de alunecare</item>
-        <item>Ajustare clic - clic pe declanșator</item>
-        <item>Ajustarea clicului - declanșator cu clic lung</item>
+        <item>Atingeți pentru a ajusta - Atingeți de două ori pentru a declanșa</item>
+        <item>Glisați pentru a ajusta - Glisați pentru a declanșa</item>
+        <item>Atingeți pentru a ajusta - Atingeți pentru a declanșa</item>
+        <item>Atingeți pentru a ajusta - Atingeți și mențineți apăsat pentru a declanșa</item>
     </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>

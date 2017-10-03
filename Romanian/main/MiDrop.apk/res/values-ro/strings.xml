@@ -24,13 +24,13 @@
     <string name="Unregister">anulați înregistrarea</string>
     <string name="action_settings">Setări</string>
     <string name="app_name">MiDrop</string>
-    <string name="btn_goto_grant">Mergeți la permisiuni</string>
+    <string name="btn_goto_grant">Permiteți</string>
     <string name="cancel_confirm">Anulaţi</string>
     <string name="cancel_confirm_title">Transfer incomplet, anulați?</string>
     <string name="cancel_receive_confirm">Anulaţi</string>
     <string name="cancel_receive_stop">Păstrați primirea</string>
     <string name="cancel_stop">Păstrați trimiterea</string>
-    <string name="description_content">Mi Drop vă asigură transferul de fișiere. Asigurați-vă că vă puteți descurca fără aceste funcții înainte de a dezinstala această aplicație.</string>
+    <string name="description_content">Mi Drop vă permite să trimiteți sau să primiți fișiere de la persoane din apropiere. Asigurați-vă că vă puteți descurca fără aceste funcții înainte de a dezinstala această aplicație.</string>
     <string name="description_title">Despre Mi Drop</string>
     <string name="file_not_support">"Acest tip de fișier nu este acceptat."</string>
     <string name="help">Ajutor</string>
@@ -63,8 +63,8 @@
     <string name="receiver_succeed_ok">OK</string>
     <string name="receiver_succeed_view">Vizualizaţi</string>
     <string name="receiver_transfer_interrupt">"Transfer întrerupt. Nu dezactivați hotspot-ul Wi-Fi în timpul transferului."</string>
-    <string name="request_permission_msg">Mi Drop necesită %s, vă rugăm acordați permisiunea</string>
-    <string name="request_permission_title">Acordați permisiunea</string>
+    <string name="request_permission_msg">Mi Drop necesită următoarele permisiuni: %s. Le acceptați?</string>
+    <string name="request_permission_title">Sunt necesare unele permisiuni</string>
     <string name="runtime_permission_ungranted">Mi Drop necesită unele permisiuni pentru a funcționa în mod normal.</string>
     <string name="send_file_time_format_m">m:s</string>
     <string name="send_file_time_format_s">s</string>

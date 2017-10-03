@@ -129,8 +129,17 @@
     <string name="my_gifts_received">Primit</string>
     <string name="no_data">"Nu se poate conecta la rețea"</string>
     <string name="online_no_network">Imposibil de conectat la reţea</string>
+    <string name="online_precust_animal">Animale</string>
     <string name="online_precust_asphalt">Asfalt</string>
+    <string name="online_precust_building">Clădiri</string>
+    <string name="online_precust_cartoon">Desene animate</string>
+    <string name="online_precust_creative">Creative</string>
+    <string name="online_precust_entertainment">Distracție</string>
+    <string name="online_precust_lifestyle">Stil de viață</string>
     <string name="online_precust_peach_blossom">Floare de piersic</string>
+  <string name="online_precust_plant">Plant</string>
+  <string name="online_precust_scenery">Scenery</string>
+    <string name="online_precust_starry_sky">Cer înstelat</string>
     <string name="online_search_hint">Căutaţi resurse online</string>
     <string name="present_local_themes">Descărcate</string>
     <string name="present_online_themes">Obțineți mai multe teme online</string>
@@ -142,6 +151,7 @@
     <string name="purchased_list_current">Teme optimizate</string>
     <string name="purchased_list_legacy">Teme achiziționate</string>
     <string name="recently_used">Utilizate recent</string>
+    <string name="region_not_support">Ne pare rău, aplicația Teme nu este suportată în regiunea dumneavoastră.</string>
     <string name="reload">Încercați din nou</string>
     <string name="resource_account_abnormal_state">Eroare de cont. Aşteptaţi un minut sau două şi încercaţi din nou.</string>
     <string name="resource_account_fail_to_add">Adăugarea contului a eşuat</string>

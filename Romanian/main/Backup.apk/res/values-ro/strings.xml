@@ -162,7 +162,7 @@
     <string name="notif_trans_receiving_failed">"Nu s-au putut primi datele"</string>
     <string name="notif_trans_sending_completed">Date trimise cu succes</string>
     <string name="notif_trans_sending_failed">"Trimiterea datelor a eșuat"</string>
-    <string name="notif_trans_wait_for_reconnecting">Dispozitivul de la distanță este deconectat. Conectați-vă din nou.</string>
+    <string name="notif_trans_wait_for_reconnecting">Conexiunea a fost întreruptă. Conectați-vă din nou.</string>
     <string name="page_loading">Doar o secundă…</string>
     <string name="progress_backup_hint">Creare copie de rezervă…</string>
     <string name="progress_restore_hint">Restabilire…</string>
@@ -170,7 +170,7 @@
     <string name="prompt_sending">Încărcare…</string>
     <string name="prompt_writing">Salvare…</string>
     <string name="read_encrypt_fail">"Nu s-a putut citi copia de rezervă criptată"</string>
-    <string name="reconnect">Reconectare</string>
+    <string name="reconnect">Conectați-vă din nou</string>
     <string name="refresh">Reîmprospătaţi</string>
     <string name="remote_receive">Recepționare</string>
     <string name="restore">Restabiliţi</string>
@@ -262,18 +262,18 @@
     <string name="trans_calculating_base_size">Se calculează dimensiunea datelor</string>
     <string name="trans_cancel_confirm">Transfer în desfășurare, opriți acum?</string>
     <string name="trans_cancelling">Oprire transfer…</string>
-    <string name="trans_connect_failed_device_incompatible">dispozitiv incompatibil. Opriți transferul și încercați din nou.</string>
+    <string name="trans_connect_failed_device_incompatible">"Dispozitivul nu este compatibil. Opriți transferul și încercați din nou."</string>
     <string name="trans_connect_failed_message">"Nu s-a putut conecta; reîncercați mai târziu sau reporniți telefonul. Pe celălalt telefon accesați Setări &gt; Setări adiționale &gt; Mi Mover, apăsați [Sunt expeditor] sau lansați aplicația Mi Mover după repornirea telefonului"</string>
     <string name="trans_connect_failed_title">"Nu s-a putut conecta"</string>
     <string name="trans_connect_failed_toast">"Nu s-a putut conecta"</string>
     <string name="trans_connecting_toast">Conectare…</string>
-    <string name="trans_connection_failed">Dispozitiv deconectat</string>
+    <string name="trans_connection_failed">Conexiunea a fost întreruptă</string>
     <string name="trans_detail_category_account">Conturi și contacte</string>
     <string name="trans_detail_category_files">Fișiere</string>
     <string name="trans_detail_category_sysdata">Date de sistem</string>
     <string name="trans_detail_category_userdata">Aplicații</string>
-    <string name="trans_device_disconnected">Dispozitiv deconectat</string>
-    <string name="trans_device_wait_for_reconnecting">Dispozitiv deconectat. Vă rugăm să-l reconectați.</string>
+    <string name="trans_device_disconnected">Conexiunea a fost întreruptă</string>
+    <string name="trans_device_wait_for_reconnecting">Conexiunea a fost întreruptă. Conectați-vă din nou pentru a continua.</string>
     <string name="trans_generate_qr_code_failed">"Nu s-a putut crea codul QR"</string>
     <string name="trans_intro_desc_2">Opriți transferul, părăsiți Mi Mover și reluați. Fișierele duplicate vor fi suprascrise în timpul noului transfer.</string>
     <string name="trans_intro_desc_3">"Mi Mover utilizează Wi-Fi pentru a transfera fișierele. De aceea nu vă puteți conecta la internet prin Wi-Fi pe celălalt telefon pe durata transferului. Puteți utiliza în continuare datele mobile, totuși. De asemenea, unele modele mai noi (cum este Mi 6) se vor putea conecta la internet utilizând Wi-Fi-ul pe durata transferurilor."</string>
@@ -283,9 +283,9 @@
     <string name="trans_intro_desc_7">"Este posibil ca datele aplicației WeChat și istoricul chat-ului să nu fie transferate în totalitate prin Mi Mover. Mergeți la setările WeChat și deconectați-vă din cont pentru a avea mai multe șanse pentru un transfer cu succes."</string>
     <string name="trans_intro_desc_account">Trebuie să vă conectați din nou la conturile dvs.(de ex. Contul Mi, Exchange, Google, etc.) pe un nou dispozitiv din motive de securitate.</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover nu transferă datele Aplicațiilor clonate pentru a evita conflictele dintre fișiere."</string>
-    <string name="trans_intro_desc_multiuser">"Mi Mover nu poate accesa elementele din Spațiul secundar. Mutați elementele în Spațiul secundar și lansați Mi Mover după aceea."</string>
+    <string name="trans_intro_desc_multiuser">"Mi Mover nu poate accesa elementele din Spațiul secundar. Mutați elementele în Spațiul principal și lansați Mi Mover de acolo."</string>
     <string name="trans_intro_desc_new">"Atingeți \"Sunt destinatar\". Va fi generat un cod QR."</string>
-    <string name="trans_intro_desc_old">"Atingeți \"Sunt expeditor\\. Scanați codul QR cu noul telefon, așteptați până când Mi Mover alege ce fișiere să trimită și apăsați \"Trimiteți\"."</string>
+    <string name="trans_intro_desc_old">"Atingeți \"Sunt expeditor\". Scanați codul QR cu noul telefon, așteptați până când Mi Mover alege ce fișiere să trimită și apăsați \"Trimiteți\"."</string>
     <string name="trans_intro_desc_private">"Mi Mover nu poate accesa fotografiile din albumele ascunse deoarece sunt criptate. Puteți restaura aceste fotografii din Mi Cloud pe un nou dispozitiv."</string>
     <string name="trans_intro_question_1">1. Cum folosesc Mi Mover?</string>
     <string name="trans_intro_question_2">2. Ce trebuie să fac dacă Mi Mover se blochează la un anumit pas?</string>
@@ -297,7 +297,7 @@
     <string name="trans_intro_question_8">"8. Ce elemente nu pot fi transferate?"</string>
     <string name="trans_intro_title">Întrebări frecvente</string>
     <string name="trans_intro_title_account">Conturi și parole:</string>
-    <string name="trans_intro_title_multiapp">Datele aplicațiilor clonate</string>
+    <string name="trans_intro_title_multiapp">Datele aplicațiilor clonate:</string>
     <string name="trans_intro_title_multiuser">Datele Spațiului secundar:</string>
     <string name="trans_intro_title_new">Pe un telefon nou:</string>
     <string name="trans_intro_title_old">Pe un telefon vechi:</string>
@@ -315,10 +315,10 @@ Apăsați [Sunt destinatar] pentru a crea un cod QR"</string>
 2. Deschideți aplicația și apăsați Start
 3. Scanați codul QR cu vechiul telefon"</string>
     <string name="trans_operate_old_phone_tips2">"Mergeți la Setări &gt; Setări adiționale &gt; Mi Mover, Apăsați [Sunt expeditor]"</string>
-    <string name="trans_operate_reconnect_new_tips">"Așteptați până când noul telefon afișează \"Dispozitiv deconectat\".
-Apoi atingeți [Reconectare] pentru a crea codul QR."</string>
-    <string name="trans_operate_reconnect_old_tips">"Așteptați până când vechiul telefon afișează \"Dispozitiv deconectat\".
-Apoi atingeți [Reconectare] pentru a scana codul QR."</string>
+    <string name="trans_operate_reconnect_new_tips">"Așteptați până când noul telefon afișează \"Conexiunea a fost întreruptă\".
+Apoi atingeți \"Reconectare\" pentru a crea codul QR."</string>
+    <string name="trans_operate_reconnect_old_tips">"Așteptați până când vechiul telefon afișează \"Conexiunea a fost întreruptă\".
+Apoi atingeți \"Reconectare\" pentru a scana codul QR."</string>
     <string name="trans_please_waiting">Doar o secundă…</string>
     <string name="trans_progress_subdescript_br_receiver">Restabilire %1$s, %2$s completat</string>
     <string name="trans_progress_subdescript_br_sender">Creare copie de rezervă %1$s, %2$s completat</string>

@@ -104,16 +104,16 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="activate_status_desc_wait_for_sms_success">SMS de activare primit de la server</string>
     <string name="activate_status_title_activating">Activare cartelă SIM…</string>
     <string name="activate_status_title_activating_msim">Activare cartelă SIM %d…</string>
-    <string name="agree">De acord</string>
+    <string name="agree">Permiteți</string>
     <string name="app_name">Serviciul de activare SIM al Xiaomi</string>
     <string name="explain_send_sms_permission_button">Verificați</string>
     <string name="explain_send_sms_permission_msg">Pentru a activa %s, Xiaomi Service Framework va trimite un SMS pentru a verifica numărul dumneavoastră de telefon. Veți fi taxat de către operator pentru un mesaj SMS obișnuit.</string>
     <string name="explain_send_sms_permission_title">Verificați numărul dumneavoastră de telefon</string>
-    <string name="phone_get_processing">obținere…</string>
-    <string name="phone_get_text">Sunteți de acord ca %1$s să vă afle numărul de telefon：%2$s</string>
-    <string name="phone_get_title">Sunteți de acord ca %1$s să vă afle numărul de telefon</string>
-    <string name="phone_verify_processing">verificare…</string>
-    <string name="phone_verify_text">%1$s nu va obține numărul dvs. de telefon，doar se verifică dacă numărul de telefon se potrivește。</string>
-    <string name="phone_verify_title">Sunteți de acord ca %1$s să vă verifice numărul de telefon</string>
+    <string name="phone_get_processing">Obținere…</string>
+    <string name="phone_get_text">Permiteți ca %1$s să vă afle numărul de telefon：(%2$s)?</string>
+    <string name="phone_get_title">Permiteți ca %1$s să vă afle numărul de telefon</string>
+    <string name="phone_verify_processing">Verificare…</string>
+    <string name="phone_verify_text">"%1$s nu va obține numărul dvs. de telefon，Doar se verifică dacă numărul de telefon este valid. Sunteți de acord?"</string>
+    <string name="phone_verify_title">Permiteți ca %1$s să vă verifice numărul de telefon</string>
     <string name="sim_unactivated_title">"Cartela SIM nu este activată"</string>
 </resources>

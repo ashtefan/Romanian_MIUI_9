@@ -30,7 +30,7 @@
     <string name="ac_summaryOff">Dacă este dezactivată nu este necesară parola pentru accesarea aplicațiilor</string>
     <string name="ac_summaryOn">Dacă este activată se va solicita parola de deblocare pentru accesarea aplicațiilor</string>
     <string name="access_control_app_is_launching">Aplicația pornește</string>
-    <string name="access_control_failed_need_to_unlock_nofingerprint">Desenați modelul de deblocare pentru a utiliza o nouă amprentă</string>
+    <string name="access_control_failed_need_to_unlock_nofingerprint">Desenați modelul propriu de deblocare pentru a utiliza o nouă amprentă</string>
     <string name="access_control_fingerprint_not_identified_msg">"Nu s-a putut citi amprenta."</string>
     <string name="access_control_need_password">"%s adăugată cu succes
 "</string>
@@ -118,6 +118,7 @@
     <string name="antivirus_choose_engine_update_disable_toast">"Nu se pot modifica definițiile în timp ce rulează actualizarea"</string>
     <string name="antivirus_longtime_no_update">Se pare că definiția virușilor este veche. Actualizările în mod regulat ajută la obținerea unor rezultate mai bune ale scanării. Permiteți aplicației de Securitate să se conecteze la internet și să actualizeze definițiile virușilor?</string>
     <string name="antivirus_longtime_no_update1">Se pare că definiția virușilor este veche. Actualizările în mod regulat ajută la obținerea unor rezultate mai bune ale scanării. Actualizați definițiile și încercați din nou.</string>
+    <string name="antivirus_main_activity_back">Înapoi la scanarea de securitate</string>
     <string name="antivirus_monitor_btn_text_clean_risk">Eliminați aplicațiile care prezintă riscuri</string>
     <string name="antivirus_monitor_btn_text_clean_virus">Eliminați viruși</string>
     <string name="antivirus_monitor_clean_tips">Elemente eliminate: %s</string>
@@ -373,8 +374,8 @@
     <string name="auto_task_operation_sync">Sincronizare</string>
     <string name="auto_task_operation_vibration">Vibrații</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
-  <string name="back_app_name">Back Blocare aplicație?</string>
-  <string name="back_modifypassword">Back Modificare parolă?</string>
+    <string name="back_app_name">Înapoi la Blocarea aplicației</string>
+    <string name="back_modifypassword">Înapoi la modificarea parolei</string>
     <string name="background_restrict_app_dialog_message">Restricționarea accesului la rețea în fundal pentru această aplicație poate împiedica funcționarea corectă a acesteia, primirea mesajelor, descărcarea conținutului, etc. Restricționați oricum?</string>
     <string name="background_traffic">În fundal: %s</string>
     <string name="backsound_set_hint">Setați mesajul pentru perioada cât sunteți plecat ca %s?</string>
@@ -622,6 +623,8 @@
     <string name="daily_limit_network_available_body">Atingeți pentru a vizualiza statisticile de utilizare a datelor.</string>
     <string name="daily_limit_over_message">Ați depășit limita zilnică de utilizare a datelor.</string>
     <string name="daily_pkg_traffic">Limita de utilizare a datelor</string>
+    <string name="data_booster_desc">Dezactivați alte sloturi SIM pentru a menține conexiunea stabilă</string>
+    <string name="data_booster_title">Stabilizare conexiune de date</string>
     <string name="data_network_blocked_notification_title">Nu există o conexiune la internet</string>
     <string name="data_usage_correction_timeout_body">Atingeți pentru a actualiza manual.</string>
     <string name="data_usage_correction_timeout_title">Timpul pentru sincronizarea utilizării datelor a expirat</string>
@@ -813,6 +816,7 @@
     <string name="fw_blocked">Listă blocări</string>
     <string name="fw_blocked_count">"Blocat "</string>
     <string name="fw_blocked_join">" și "</string>
+    <string name="game_anti_disturb_msg">Nu deranjați Jocurile</string>
     <string name="game_booster">Creșterea vitezei în jocuri</string>
     <string name="game_booster_intro">Despre Creșterea vitezei în jocuri</string>
     <string name="game_booster_title">Accelerați</string>
@@ -824,6 +828,7 @@
     <string name="game_net_text2">"Creșteți viteza de conectare a jocurilor și limitați viteza de descărcare pentru a reduce încetinirea datorată rețelei"</string>
     <string name="game_net_title">Optimizați viteza de conectare</string>
     <string name="game_setting">Setări pentru jocuri</string>
+    <string name="gamebooster_main_activity_back">Înapoi la Creșterea vitezei în jocuri</string>
     <string name="gamebooster_network_dialog_message">Permiteți aplicației de Securitate să se conecteze la rețea pentru a utiliza toate caracteristicile Creșterii vitezei în jocuri?</string>
     <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
     <string name="gateway_exception_summary">Verificați router-ul și încercați din nou.</string>
@@ -1331,7 +1336,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="om_settings_lock_app">Blocare aplicații</string>
     <string name="om_settings_lock_app_manage">Blocați aplicații</string>
     <string name="om_settings_memocy_occupy_too_large_summary">Arată o notificare când memoria cache este prea mare</string>
-    <string name="om_settings_memory_clean_lock_screen">Goliți memoria cache când ecranul este oprit</string>
+    <string name="om_settings_memory_clean_lock_screen">Goliți memoria cache când telefonul este blocat</string>
     <string name="om_settings_memory_occupy_notify">Dimensiune mare a memoriei cache</string>
     <string name="om_settings_memory_occupy_notify_never">Niciodată</string>
     <string name="om_settings_notify_manage">Notificări</string>
@@ -2341,4 +2346,5 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="wlan_change_protection_detail">"Nu comuta în mod automat la Wi-Fi când este conectat la rețeaua de date mobile"</string>
     <string name="wlan_change_protection_title">Preveniți comutarea rețelelor</string>
     <string name="xunyou_pay_webview">Servicii Xunyou</string>
+    <string name="xunyou_server_expired">Sesiunea a expirat.</string>
 </resources>

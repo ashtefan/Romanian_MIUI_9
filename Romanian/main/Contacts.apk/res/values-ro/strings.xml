@@ -912,7 +912,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="postal_region">Stat</string>
     <string name="postal_street">Stradă</string>
     <string name="pref_key_photo">Foto</string>
-    <string name="pref_key_photo_word_summary">Atribuiţi în mod automat o imagine contactelor fără fotografie</string>
+    <string name="pref_key_photo_word_summary">Atribuiţi în mod automat o fotografie contactelor la care aceasta lipsește</string>
     <string name="pref_key_photo_word_title">Atribuire fotografii de contact</string>
     <string name="pref_key_rebuild_t9_index_message">Reconstruiţi indicele datelor pentru a rezolva problemele de căutare</string>
     <string name="pref_key_rebuild_t9_index_title">Reconstruirea indicelui datelor</string>
@@ -946,7 +946,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="preference_phone">Telefon</string>
     <string name="preference_phone_more_title">Setări pentru apeluri</string>
     <string name="preference_remove_duplicate">Îmbinaţi contactele dublate</string>
-    <string name="preference_show_yellowpage_tab_description">Închideți fila Pagini Aurii, funcția Pagini Aurii nu va funcționa corect</string>
+    <string name="preference_show_yellowpage_tab_description">Aplicația Pagini Aurii poate funcționa necorespunzător când această caracteristică este oprită.</string>
     <string name="preference_show_yellowpage_tab_title">Arată fila Pagini Aurii</string>
     <string name="preference_simple_mode_description">Se afişează fotografiile şi alte informaţii de contact în lista contactelor</string>
     <string name="preference_simple_mode_title">Afişare fotografii şi informaţii</string>
@@ -1073,7 +1073,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="service_provider_detail">Detalii registru</string>
     <string name="set_data_package">Setați mai întâi planul de date</string>
     <string name="set_default">Setaţi ca prestabilit</string>
-    <string name="set_photo_failed_msg">Setare avatar eşuată</string>
+    <string name="set_photo_failed_msg">"Nu s-a putut atribui fotografia"</string>
     <string name="share_error">Acest contact nu poate fi distribuit</string>
     <string name="share_over_limit">Nu se pot partaja mai mult de 1000 de contacte</string>
     <string name="share_via">Trimiteţi utilizând</string>
@@ -1182,7 +1182,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="toast_for_saving_nickname">Pseudonim salvat</string>
     <string name="toast_join_with_empty_contact">Introduceţi numele contactului înainte de a-l îmbina cu alt contact</string>
     <string name="toast_making_personal_copy">Se creează o copie personală…</string>
-    <string name="toast_start_intent_failed">Nu s-a găsit nicio aplicație pentru gestionare</string>
+    <string name="toast_start_intent_failed">"Nu s-a găsit nicio aplicație pentru gestionarea acestei acțiuni"</string>
     <string name="toast_text_copied">Text copiat</string>
     <string name="today">Azi</string>
     <string name="tomorrow">Mâine</string>
@@ -1193,7 +1193,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="type_outgoing">Apel</string>
     <string name="type_voicemail">Mesaj vocal</string>
     <string name="unable_get_device_id">Nu s-a putut obține IMEI-ul</string>
-    <string name="unfold_all">Extindeți toate apelurile</string>
+    <string name="unfold_all">Afișați tot</string>
     <string name="unknow_phone_number_call_failed">Nu se poate apela un număr necunoscut</string>
     <string name="unknow_phone_number_mms_failed">Nu se poate trimite mesaj la un număr necunoscut</string>
     <string name="unknown">Necunoscut</string>
