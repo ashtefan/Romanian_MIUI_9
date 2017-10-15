@@ -170,10 +170,11 @@
     <string name="edit_event_tab_event">Eveniment</string>
     <string name="edit_event_to_label">Până la</string>
     <string name="email_guests_label">Trimiteţi e-mailuri invitaţilor</string>
+    <string name="email_install_hint">Aplicația de E-mail a fost dezinstalată. Reinstalând-o, puteți restaura datele contului calendar sau să adăugați un cont nou.</string>
     <string name="email_picker_label">E-mail cu</string>
     <string name="email_subject_prefix">"Re: "</string>
     <string name="empty_event">Evenimentul gol nu a fost creat</string>
-    <string name="english_premium_league">English Premium League</string>
+    <string name="english_premium_league">English premier league</string>
     <string name="event_account">Cont</string>
     <string name="event_action_delete">Ştergeţi</string>
     <string name="event_action_edit">Editaţi</string>
@@ -245,6 +246,9 @@
     <string name="insert_event_dialog_title">Atenție</string>
     <string name="insert_event_toast_add_failed">"Nu s-a putut adăuga"</string>
     <string name="insert_event_toast_add_success">Eveniment creat</string>
+    <string name="install_email_app">Instalați aplicația de e-mail</string>
+    <string name="install_email_finished">Aplicația de E-mail instalată</string>
+    <string name="installing_email">Instalare...</string>
     <string name="item_num_selected">%1$d selectate</string>
   <string name="joke_card_click_toast">Apăsați lung pentru a copia bancuri</string>
   <string name="joke_card_icon_text">clovn %1$s</string> 
@@ -287,7 +291,7 @@
   <string name="match_ed">S-a încheiat</string>
   <string name="match_ing">În curs de desfășurare</string>
   <string name="match_not_started">nu a început</string>
-    <string name="match_select_activity_label">Selectați meciurile</string>
+    <string name="match_select_activity_label">Ligi</string>
     <string name="menu_general_preferences">Setări generale</string>
     <string name="menu_preferences">Setări</string>
     <string name="menu_reminder_preferences">Setări pentru memento</string>
@@ -493,7 +497,6 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="travel_event_title_flight">Zbor: %1$s-%2$s %3$s</string>
     <string name="travel_event_title_train">Tren: %1$s-%2$s %3$s</string>
     <string name="travel_event_title_train_only_dep">Tren: %1$s %2$s</string>
-    <string name="travel_item_hotel">Hotel</string>
     <string name="travel_item_reminder">Memento</string>
     <string name="travel_item_reminder_overdue">Amintire</string>
     <string name="travel_item_trafic">Trafic</string>

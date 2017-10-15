@@ -314,14 +314,6 @@
         <item>Transparent</item>
         <item>Fundal alb</item>
      </string-array>
-    <string-array name="aqi_level_desc">
-        <item>空气优</item>
-        <item>空气良</item>
-        <item>轻度污染</item>
-        <item>中度污染</item>
-        <item>重度污染</item>
-        <item>严重污染</item>
-    </string-array>
     <string-array name="aqi_level_simple_desc">
         <item>优</item>
         <item>良</item>
@@ -346,12 +338,6 @@
         <item>17.01.1993</item>
         <item>02.07.1977</item>
         <item>10.01.1982</item>
-    </string-array>
-    <string-array name="global_criket_match">
-        <item>IPL</item>
-        <item>Internațional</item>
-        <item>Local</item>
-        <item>Liga T20</item>
     </string-array>
     
     

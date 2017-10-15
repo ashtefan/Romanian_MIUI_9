@@ -80,6 +80,7 @@
     <string name="card_title_video_call_paused">Apel video oprit</string>
     <string name="card_title_video_conf_call">Apel videoconferință</string>
     <string name="card_video_hold_swap">Comutați</string>
+    <string name="change_to_voice_tips_when_background">Interlocutorul a comutat la apel vocal</string>
     <string name="close_camera_failed">"Nu s-a putut opri Camera"</string>
     <string name="close_camera_requesting">Se închide camera foto…</string>
     <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>

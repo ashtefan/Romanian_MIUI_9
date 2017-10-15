@@ -23,10 +23,14 @@
     <string name="action_menu_account_not_login_hint">Conectați-vă pentru a sincroniza cu Mi Cloud</string>
     <string name="action_menu_bookshelf">Raftul cu cărți</string>
     <string name="action_menu_current_version">Versiune curentă</string>
+    <string name="action_menu_request_desktop_site">Solicită versiunea desktop</string>
+    <string name="action_menu_request_desktop_site_off">Solicită versiunea desktop/oprită</string>
+    <string name="action_menu_request_desktop_site_on">Solicită versiunea desktop/pornită</string>
     <string name="action_menu_text_add_bookmark">Adăugaţi un marcaj</string>
     <string name="action_menu_text_bandwidth">Economisire date</string>
     <string name="action_menu_text_bandwidth_off">Economisire date</string>
     <string name="action_menu_text_bandwidth_on">Economisire date</string>
+    <string name="action_menu_text_bookmark_add_off">Nu poate fi adăugată nicio pagină web.</string>
     <string name="action_menu_text_bookmark_added">Marcaj adăugat</string>
     <string name="action_menu_text_copy_url">Copiaţi URL</string>
     <string name="action_menu_text_create_qr_code">Cod QR</string>
@@ -61,6 +65,7 @@
     <string name="add_favorites_to">Adăugați la Favorite</string>
     <string name="add_new_bookmark">Adăugaţi un marcaj</string>
     <string name="add_new_quicklink">Adăugaţi la pagina de pornire</string>
+    <string name="add_pwa_to_homescreen">Adăugați această pagină la Ecranul principal?</string>
     <string name="add_ql_bm_title">Adăugaţi</string>
     <string name="add_quicklink_to_popular">Adăugaţi la pagina de pornire</string>
     <string name="add_quicklinks">Adăugaţi</string>
@@ -74,6 +79,7 @@
     <string name="added_to_bookmarks">Adăugat la marcaje</string>
     <string name="adjust_text_zoom_toast">Modificarea dimensiunii textului poate provoca afișarea incorectă a unor site-uri</string>
     <string name="agree">De acord</string>
+    <string name="agree_permissions_request">De acord</string>
     <string name="alert_tips">Acest site poate prezenta un risc de securitate</string>
     <string name="allow">Permiteţi</string>
     <string name="app_new_version">Cea mai recentă versiune a aplicației este instalată deja</string>
@@ -132,6 +138,7 @@
     <string name="browserFrameFormResubmitMessage">Pagina pe care încercaţi să o reafişaţi conţine date deja trimise. În caz că retransmiteţi datele, acţiunile anterioare (de ex. căutările, sau achiziţiile) se vor repeta.</string>
     <string name="browserFrameNetworkErrorLabel">Eroare de conexiune</string>
     <string name="cancel">Anulaţi</string>
+    <string name="cancle_sync_cloud_tabs">Opriți sincronizarea</string>
     <string name="cannot_download">Puteţi descărca numai de la adrese URL care încep cu „http” sau „https”</string>
     <string name="choosertitle_sharevia">Distribuiţi prin</string>
     <string name="clear_history">Ştergeţi istoricul</string>
@@ -184,6 +191,7 @@
     <string name="contextmenu_manually_block_ad">Etichetați ca și reclamă</string>
     <string name="contextmenu_map">Hartă</string>
     <string name="contextmenu_openlink">Deschideţi</string>
+    <string name="contextmenu_openlink_in_browser">Deschideți în Browser</string>
     <string name="contextmenu_openlink_newwindow">Deschideţi într-o filă nouă</string>
     <string name="contextmenu_openlink_newwindow_background">Deschideţi într-o filă în fundal</string>
     <string name="contextmenu_recognise_qr_code">Scanare cod QR</string>
@@ -193,7 +201,7 @@
     <string name="contextmenu_share_image">Partajați imaginea</string>
     <string name="contextmenu_sharelink">Distribuiţi link-ul</string>
     <string name="contextmenu_view_image">Vizualizaţi imaginea</string>
-    <string name="contextmenu_webpage_capture">Salvați ca și captură de ecran</string>
+    <string name="contextmenu_webpage_capture">Captură de ecran</string>
     <string name="contextmenu_webpage_html">Salvați ca fișier HTML</string>
     <string name="contextmenu_webpage_snapshot">Salvați pagina</string>
     <string name="copy_to_clipboard_failure_message">Nu s-a putut copia în clipboard</string>
@@ -286,6 +294,9 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="edit_quicklink">Editaţi</string>
     <string name="empty_app_name">altă aplicație</string>
     <string name="empty_bookmark">Gol</string>
+    <string name="empty_cloud_tab_login_hint">Nicio filă cloud</string>
+    <string name="empty_cloud_tab_logout_hint">"Filele deschise
+ pe alte dispozitive conectate vor fi afișate aici"</string>
     <string name="empty_history_hint">Istoric gol</string>
     <string name="empty_snapshot_hint">Gol</string>
     <string name="enable_geolocation_confirm_message">Oprirea serviciilor de localizare va afecta recomandările pe care le primiți.</string>
@@ -313,6 +324,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="find_on_page_next">Înainte</string>
     <string name="find_on_page_prev">Înapoi</string>
     <string name="find_previous">Găsiți precedentul</string>
+    <string name="finish_sync_cloud_tabs">Sincronizarea s-a încheiat</string>
     <string name="firstUsingSearchEngineTips">Schimbați motorul de căutare?</string>
     <string name="fling_on_border_gesture_hint">Puteți selecta funcția acestui gest din Setări</string>
     <string name="force_quick_search_title">Căutați</string>
@@ -347,6 +359,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="homepage_more_sites">Mai multe site-uri web</string>
     <string name="homepage_search_hint">Căutaţi</string>
     <string name="homepage_top_card_menu">Top</string>
+    <string name="ignore_add_pwa_dialog_today">Nu arăta astăzi</string>
     <string name="in_incognito">"Sunteţi incognito! Paginile web pe care le deschideţi în această filă nu vor apărea în istoricul browserului."</string>
     <string name="in_secureaccess">Browser comutat la modul sigur</string>
     <string name="isReplacePage">Fișierul există deja, îl înlocuiți?</string>
@@ -555,9 +568,12 @@ Părăsiţi această pagină?"</string>
     <string name="pay_failed_toast">"Nu s-a putut finaliza plata"</string>
     <string name="pay_success_toast">Plata s-a efectuat cu succes</string>
     <string name="permission_alert_window">Permiteți afișarea ferestrelor pop-up pentru a utiliza această caracteristică.</string>
+    <string name="permission_notification">vă trimită notificări</string>
     <string name="permission_unknown">Acțiune necunoscută</string>
+    <string name="permissions_prompt_message">"%s dorește să "</string>
     <string name="popup_window_attempt">Permiteţi acestui site să deschidă o fereastră de tip pop-up?</string>
     <string name="positive_confirm_message">Opriți oricum</string>
+  <string name="pref_accept_quicklink_push">Start page push</string>
     <string name="pref_accessibility">Accesibilitate</string>
     <string name="pref_accessibility_title">Accesibilitate</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">Combinații de litere comune pot fi introduse printr-o singură apăsare în bara de adrese</string>
@@ -597,7 +613,7 @@ Părăsiţi această pagină?"</string>
     <string name="pref_extras_reset_default_summary">Restabiliţi setările prestabilite</string>
     <string name="pref_extras_reset_default_title">Altele</string>
     <string name="pref_extras_send_feedback">Trimiteți un comentariu</string>
-    <string name="pref_extras_title">Avansat</string>
+    <string name="pref_extras_title">Setări avansate</string>
     <string name="pref_extras_title_version">Informaţii despre versiune</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">"Salvați fișierele în locația prestabilită a browser-ului"</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Restabiliţi locaţia implicită</string>
@@ -668,12 +684,14 @@ Părăsiţi această pagină?"</string>
     <string name="progress_dialog_setting_wallpaper">Se aplică imaginea de fundal…</string>
     <string name="pull_to_refresh_pull_label">Trageți în jos pentru actualizare</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a merge la Recomandate și actualizare</string>
+    <string name="pwa_app_name">Aplicație Web</string>
     <string name="qr_code_title">Cod QR</string>
     <string name="qr_description">Scanați codul QR</string>
     <string name="quicklink_bookmark_save">Salvați la</string>
     <string name="quicklink_cannot_save_url">"Nu se poate adăuga acest URL."</string>
     <string name="quicklink_folder_text">Aplicații de top</string>
     <string name="quicklink_not_saved">"Nu s-a putut adăuga la pagina de start"</string>
+    <string name="quicklink_push_confirm_message">Dezactivarea acestei caracteristici va afecta start page push.</string>
     <string name="quicklink_saved">Salvat pe pagina de pornire</string>
     <string name="quicklink_saved_before">Acest site web a fost adăugat deja</string>
     <string name="quicklink_user_define_webpage_title">Nume</string>
@@ -696,6 +714,7 @@ Părăsiţi această pagină?"</string>
     <string name="readmode_recommend_message">"Aţi citit deja această carte :)"</string>
     <string name="readmode_refresh">Reîmprospătaţi</string>
     <string name="readmodelist_bookmarks_to_show">Listă de lectură</string>
+    <string name="refuse_permissions_request">Refuzați</string>
     <string name="remember_passwords_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
     <string name="remove_bookmark">Ştergeţi marcajul</string>
     <string name="remove_bookmark_group">Ştergeţi grupul</string>
@@ -807,16 +826,24 @@ Părăsiţi această pagină?"</string>
     <string name="suggest_access_btn_play">Redaţi</string>
     <string name="suggest_access_btn_view">Vizualizaţi</string>
     <string name="suggest_access_item_album_songs">%d melodii</string>
+    <string name="suggest_access_item_app_mark">APP</string>
     <string name="suggest_access_item_app_size">%.2fMB</string>
     <string name="suggest_access_item_app_update">Actualizare: %s</string>
+    <string name="suggest_access_item_book_mark">CARTE</string>
+    <string name="suggest_access_item_mina_mark">SERVICIU DIRECT</string>
+    <string name="suggest_access_item_music_mark">MUZICĂ</string>
     <string name="suggest_access_item_singer_albums">%d albume</string>
     <string name="suggest_access_item_singer_pop">%d melodii populare</string>
+    <string name="suggest_access_item_site_mark">SITE-URI</string>
+    <string name="suggest_access_item_video_mark">VIDEO</string>
+    <string name="suggest_access_item_website_mark">WEBSITE</string>
     <string name="suggest_access_music">Muzică Mi</string>
     <string name="suggest_item_delete_text">Ștergeți</string>
     <string name="suggest_open_app_failed">"Nu s-a putut deschide această aplicație"</string>
     <string name="switchText">DA</string>
     <string name="switch_proxy_dialog_msg">"Fraudare rețea detectată. Utilizați aplicația de securitate MIUI încorporată sau raportați atacul către operatorul dumneavoastră."</string>
     <string name="switch_proxy_dialog_title">Fraudare rețea</string>
+    <string name="sync_cloud_tabs">Sincronizați</string>
     <string name="tab_hotpage">News Feed</string>
     <string name="tab_quicklinks">Pagina de pornire</string>
     <string name="tab_yellowpage">Link-uri</string>
