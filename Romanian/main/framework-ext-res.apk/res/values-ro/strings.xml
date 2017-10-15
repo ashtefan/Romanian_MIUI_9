@@ -102,6 +102,8 @@
     <string name="resource_select">Selectați</string>
     <string name="screen_button_notification_text">Pentru a le reactiva, atingeți butoanele Acasă și Alimentare simultan.</string>
     <string name="screen_button_notification_title">Butoanele de navigare sunt dezactivate</string>
+    <string name="screen_on_proximity_sensor_hint">Pentru a dezactiva această caracterisitică, apăsați simultan butoanele Volum+ și Înapoi.</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Pentru a dezactiva această caracteristică, apăsați butonul Volum+.</string>
     <string name="screen_on_proximity_sensor_summary">"Nu acoperiți zona difuzorului"</string>
     <string name="screen_on_proximity_sensor_title">Prevenire apelare în buzunar/poșetă</string>
     <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Pentru a dezactiva această caracteristică, mergeți la Setări > Afișaj > Mod lectură.</string>
