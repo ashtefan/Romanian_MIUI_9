@@ -21,6 +21,9 @@
     <string name="cta_dialog_content">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
     <string name="cta_dialog_title">Conexiune internet</string>
     <string name="cta_not_show_again">"Nu arăta din nou"</string>
+    <string name="customer_service_apply">Solicitați asistență clienți</string>
+    <string name="customer_service_complain">Raportați serviciu clienți</string>
+    <string name="customer_service_station">Locații asistență</string>
     <string name="description">Descrieţi problema sau introduceţi descrierea dvs. aici</string>
     <string name="dialog_ask_delete">Ștergeți</string>
     <string name="dialog_ask_quit">Ieșire</string>

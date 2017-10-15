@@ -179,6 +179,7 @@
     <string name="app_manager_back">Înapoi</string>
     <string name="app_manager_bipartition">Aplicații clonate</string>
     <string name="app_manager_card_permission_title">Permisiuni</string>
+    <string name="app_manager_clear_cache">Goliți memoria cache</string>
     <string name="app_manager_clear_data_dlg_message">Toate datele acestei aplicații vor fi șterse permanent. Acest lucru include toate fișierele, setările, conturile, bazele de date, etc.</string>
     <string name="app_manager_clear_data_dlg_title">Ștergeți datele aplicației?</string>
     <string name="app_manager_clear_failed_dlg_message">Nu s-au putut șterge datele aplicației.</string>
@@ -188,17 +189,27 @@
     <string name="app_manager_default_open">Deschide cu aplicația implicită</string>
     <string name="app_manager_default_open_summary">Ați ales să lansați această aplicație în mod implicit pentru anumite acțiuni.</string>
     <string name="app_manager_default_open_title">Ștergeți valorile implicite</string>
+    <string name="app_manager_defaults_setting">Implicite</string>
     <string name="app_manager_details_electric_title">Acumulator</string>
     <string name="app_manager_details_storage_title">Stocare</string>
-    <string name="app_manager_details_traffic_title">Utilizare date în această lună</string>
+    <string name="app_manager_details_traffic_title">Utilizare date</string>
     <string name="app_manager_disable">"Nu permite"</string>
+    <string name="app_manager_disable_dlg_text">Dacă dezactivați această aplicație, este posibil să fie afectată și funcționarea altor aplicații.</string>
+    <string name="app_manager_disable_dlg_title">Dezactivați aplicația de sistem?</string>
+    <string name="app_manager_disable_text">Dezactivați</string>
+    <string name="app_manager_disabled">Dezactivată</string>
     <string name="app_manager_dlg_cancel">Renunțați</string>
     <string name="app_manager_dlg_ok">OK</string>
+    <string name="app_manager_enable_text">Activați</string>
+    <string name="app_manager_enabled">Activată</string>
     <string name="app_manager_factory_reset">Dezinstalați actualizările</string>
     <string name="app_manager_factory_reset_dlg_msg">Toate actualizările acestei aplicații de sistem Android vor fi dezinstalate.</string>
     <string name="app_manager_factory_reset_dlg_title">Dezinstalați actualizările?</string>
     <string name="app_manager_force_stop_dlg_text">Dacă forțați oprirea unei aplicații, aceasta se poate comporta necorespunzător.</string>
     <string name="app_manager_force_stop_dlg_title">Opriți forțat?</string>
+    <string name="app_manager_globel_other_perm_title">Alte permisiuni</string>
+    <string name="app_manager_globel_perm_summary">Gestionați permisiunile legate de locație, stocare, telefon, mesaje și contacte.</string>
+    <string name="app_manager_globel_perm_title">Permisiunile aplicațiilor</string>
     <string name="app_manager_go_to_manger_app">Gestionați</string>
     <string name="app_manager_have_not_consume">Nimic</string>
     <string name="app_manager_hide_system_server">Ascunde serviciile de sistem</string>
@@ -241,6 +252,17 @@
     <string name="app_manager_reduce_wakepath_dialog">Minimizați durata de pornire</string>
     <string name="app_manager_reduce_wakepath_summary">Restricționând pornirea automată se va minimiza durata de pornire. Restricționați pornirea automată pentru %s?</string>
     <string name="app_manager_reject_count_over">Blocată de peste 100.000 de ori</string>
+    <string name="app_manager_reset_app_preferences">Resetați preferințele aplicațiilor</string>
+    <string name="app_manager_reset_app_preferences_button">Resetați aplicațiile</string>
+    <string name="app_manager_reset_app_preferences_desc">"Această acțiune va reseta toate preferințele pentru:
+
+ "&lt;li&gt;Aplicațiile dezactivate&lt;/li&gt;"
+ "&lt;li&gt;Notificările aplicațiilor dezactivate&lt;/li&gt;"
+ "&lt;li&gt;Aplicațiile implicite pentru diverse acțiuni&lt;/li&gt;"
+ "&lt;li&gt;Restricțiile datelor în fundal pentru aplicații&lt;/li&gt;"
+
+ Nu veți pierde datele aplicațiilor."</string>
+    <string name="app_manager_reset_app_preferences_title">Resetați preferințele aplicației?</string>
     <string name="app_manager_show_all_apps">Arată toate aplicațiile</string>
     <string name="app_manager_show_detail_infos">Vedeți tot</string>
     <string name="app_manager_sort">Sortați după</string>
@@ -254,6 +276,8 @@
     <string name="app_manager_stop_wp_dialog_uninstall">Dezinstalați</string>
     <string name="app_manager_system_mobile_disable">Opriți datele mobile</string>
     <string name="app_manager_title">Gestionare aplicații</string>
+    <string name="app_manager_uninstall_protected_dlg_msg">Dezinstalarea aplicațiilor de sistem poate împiedica buna funcționare a unor componente MIUI. Dezinstalați oricum?</string>
+    <string name="app_manager_uninstall_protected_dlg_title">Dezinstalare aplicații de sistem</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Aplicațiile clonate corespunzătoare vor fi eliminate împreună cu datele aplicației.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Dezinstalarea aplicațiilor clonate va șterge toate datele aplicației.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">Dezinstalați aplicația clonată?</string>
@@ -1750,6 +1774,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="save_energy_title">Optimizați utilizarea acumulatorului</string>
     <string name="sc_allow_network_dialog_message">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
     <string name="sc_allow_network_dialog_tiltle">Nu se poate utiliza această caracteristică</string>
+    <string name="sc_system_risk_fix_info_xspace">Riscul nu poate fi îndepărtat în xspace; mergeți la spațiul proprietarului pentru a-l îndepărta.</string>
     <string name="scan_installed_games">Verificare jocuri instalate…</string>
     <string name="scan_status_risk">Riscant</string>
     <string name="scan_status_safe">Sigur</string>

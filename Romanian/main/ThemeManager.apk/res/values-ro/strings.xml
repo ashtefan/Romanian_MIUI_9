@@ -39,6 +39,7 @@
     <string name="component_title_wallpaper">Imagini de fundal</string>
     <string name="current_using_desktop_wallpaper_text">Ecranul principal</string>
     <string name="current_using_lockscreen_wallpaper_text">Blocarea ecranului</string>
+    <string name="current_version_incompatible">Incompatibilitate de versiune</string>
     <string name="deleting">Ştergere…</string>
     <string name="description_author">Autor</string>
     <string name="description_designer">Designer</string>
@@ -90,6 +91,8 @@
     <string name="gift_use_confirmation_dlg_title">Trimiteţi acest cadou?</string>
     <string name="gift_use_fail_dlg_title">Ceva a mers prost</string>
     <string name="gift_used">Trimis</string>
+    <string name="hide_free">"Ascundeți-le pe cele gratuite "</string>
+    <string name="hide_incompatible">"Ascundeți-le pe cele incompatibile "</string>
     <string name="home_apply_failured">"Nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
     <string name="home_apply_success">Imagine de fundal pentru Ecranul principal aplicată</string>
     <string name="in_the_end">Nu mai sunt elemente de afișat</string>

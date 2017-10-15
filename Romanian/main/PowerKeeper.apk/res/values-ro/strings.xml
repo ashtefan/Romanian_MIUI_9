@@ -83,6 +83,8 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="new_group_name">Mod personalizat</string>
     <string name="no_applications">Gol</string>
     <string name="none">Niciun proces</string>
+    <string name="nonui_mode_config_description">"Nu aprinde ecranul pentru notificări, dezactivează LED-uri pentru notificări, amprenta și controlul tactil când telefonul se află în buzunar."</string>
+    <string name="nonui_mode_config_title">Mod Noninteractiv</string>
     <string name="normal">Mod Prestabilit</string>
     <string name="operation_create_group">Nume</string>
     <string name="operation_create_group_message">Introduceți numele noului grup</string>
