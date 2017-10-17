@@ -122,7 +122,7 @@
     <string name="delete_phrase">Ştergeţi răspunsul</string>
     <string name="delete_unlocked">Ştergeţi mesajele blocate</string>
     <string name="delete_verification_code_sms_message">Ștergeți toate parolele de unică utilizare?</string>
-    <string name="delete_verification_code_sms_title">Curățați parolele de unică utilizare</string>
+    <string name="delete_verification_code_sms_title">Ștergeți parolele de unică utilizare</string>
     <string name="delete_wild_sims">Ștergeți numerele de telefon</string>
     <string name="delete_wild_sims_confirm">Toate mesajele de la numerele de telefon selectate vor fi șterse de pe telefon. Le veți putea restaura accesând i.mi.com.</string>
     <string name="delete_wild_sims_title">Ștergeți numerele de telefon selectate</string>
@@ -195,7 +195,7 @@
     <string name="group_message">Mesaje de grup</string>
     <string name="group_resend_message">Retrimiteţi (%d)</string>
     <string name="group_verification_codes_summary">Grupează în mod automat toate parolele de unică utilizare</string>
-    <string name="group_verification_codes_title">Grupare mesaje OTP</string>
+    <string name="group_verification_codes_title">Grupare parole OTP</string>
     <string name="guild_add_attachments">Atingeţi pentru a adăuga emoticoane şi alte elemente</string>
     <string name="guild_add_recipients">Atingeţi pentru a adăuga destinatari din agendă</string>
     <string name="guild_msim_switcher">Atingeți pentru a comuta cartelele SIM</string>
@@ -255,7 +255,7 @@
     <string name="message_number">Număr de telefon:</string>
     <string name="message_pending">Trimitere</string>
     <string name="message_queued">Mesajul dvs. nu poate fi trimis în prezent. Va fi trimis când serviciul va fi disponibil.</string>
-    <string name="message_queued_second_space">"Nu s-a putut trimite mesajul acum. Deschideți rețeaua de date."</string>
+    <string name="message_queued_second_space">"Nu s-a putut trimite mesajul. Activați datele mobile pentru a trimite."</string>
     <string name="message_readed">Citit</string>
     <string name="message_received">Recepţionat</string>
     <string name="message_rejected">Respins</string>
@@ -305,9 +305,6 @@
     <string name="mx_activate_status_desc_query_activte_info">Se verifică informațiile cartelei SIM…</string>
     <string name="mx_activate_status_desc_request_activation_sms_phone_error">Numărul de telefon introdus este incorect</string>
     <string name="mx_activate_status_desc_wait_for_sms_fail">"Nu s-a putut activa Mesageria Mi"</string>
-    <string name="mx_and_voip_enable">Mesaje şi Voce Mi</string>
-    <string name="mx_and_voip_enable_popup_msg">Trimiteţi mesaje și efectuaţi apeluri către alți utilizatori de telefoane MIUI fără a suporta cheltuieli de la operatorul dvs. VoIP este susţinut de Weihui. Vizualizaţi Politica de confidențialitate Weihui.</string>
-    <string name="mx_and_voip_enable_popup_msg2">Politica de confidențialitate</string>
     <string name="mx_auto_resend_mms">Trimiteţi ca MMS</string>
     <string name="mx_auto_resend_mms_summary">Se trimite ca MMS prin conexiunea de date mobile atunci când nu sunteți conectat la Wi-Fi (se aplică tarife normale de utilizare a datelor).</string>
     <string name="mx_auto_resend_sms">Trimiteţi ca SMS</string>
@@ -319,7 +316,6 @@
     <string name="mx_dspt">"Trimiteți mesaje SMS și MMS oricărui utilizator de telefon MIUI fără a fi taxat, atunci când sunteți conectat la o rețea Wi-Fi."</string>
     <string name="mx_dspt_listview">Trimiteți mesaje altor utilizatori de telefoane MIUI fără a fi taxat</string>
     <string name="mx_dspt_provision">Mesagerie Mi vă permite să trimiteți mesaje prin internet altor utilizatori MIUI fără a suporta cheltuieli pentru SMS. Operatorul dvs. poate percepe taxe pentru un mesaj SMS utilizat pentru a activa acest serviciu. În plus, acest serviciu trebuie să aibă acces la datele mobile pentru a funcționa în mod normal.</string>
-    <string name="mx_dspt_provision_ex">"Trimiteţi mesaje și efectuaţi apeluri prin internet către alți utilizatori MIUI, fără a suporta cheltuieli de la operatorul dvs. VoIP este susţinut de Weihui. Vizualizaţi Politica de Confidențialitate Weihui."</string>
     <string name="mx_dspt_provision_ex2">Politica de Confidențialitate</string>
     <string name="mx_enable">Mesagerie Mi</string>
     <string name="mx_enable_ex">Mesaj şi Voce Mi</string>
@@ -361,7 +357,7 @@
     <string name="notification_multiple_title">Mesaje noi</string>
     <string name="number_add_hint">Introduceţi numărul de telefon</string>
     <string name="open_audio_record_panel">Deschideți panoul de înregistrare audio</string>
-    <string name="open_edit_sms_panel">Deschideți panoul de editare SMS</string>
+    <string name="open_edit_sms_panel">Deschideți panoul de editare a mesajelor</string>
     <string name="open_url_with_web">Deschideţi acest URL în Browser?</string>
     <string name="over_max_mms_size">MMS prea mare.</string>
     <string name="overwrite_edited_content">Conținutul editat va fi suprascris</string>
@@ -406,7 +402,6 @@
     <string name="pref_summary_mms_read_reports">Arată o notificare atunci când destinatarul a descărcat conținutul mesajului MMS</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Descărcarea automată a fotografiilor și a videoclipurilor din mesaje în roaming</string>
     <string name="pref_summary_notification_body_enabled">Previzualizaţi mesajele pe blocarea ecranului şi în bara de stare</string>
-    <string name="pref_summary_notification_body_enabled_when_secure">Nu puteţi previzualiza mesajele în modul Vizitator</string>
     <string name="pref_summary_off_system_mms_priority">Utilizaţi alte aplicaţii pentru trimiterea şi recepţionarea MMS-urilor</string>
     <string name="pref_summary_on_system_mms_priority">Utilizaţi aplicaţia Mesagerie Mi ca aplicaţie prestabilită pentru trimiterea şi recepţionarea MMS-urilor</string>
     <string name="pref_summary_send_delivery_reports">Trimiteţi un mesaj de confirmare a primirii către expeditor, atunci când primiți un mesaj multimedia</string>
@@ -572,15 +567,15 @@
     <string name="sms_report_dialog_title">Încercați din nou</string>
     <string name="sms_report_failed">"Nu s-a putut trimite raportul"</string>
     <string name="sms_report_success">Raport trimis cu succes</string>
-    <string name="snippet_audio">[audio]</string>
-    <string name="snippet_picture">[imagine]</string>
+    <string name="snippet_audio">[Audio]</string>
+    <string name="snippet_picture">[Imagine]</string>
     <string name="sp_category_all">Toate mesajele de serviciu</string>
     <string name="sp_category_bank">Mesaje servicii bancare</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">Notificări</string>
     <string name="sp_mark_as_read_menu_title">Marcare ca citite</string>
-    <string name="sqlite_disk_full">Baza de date sau discul este plin</string>
-    <string name="sqlite_low_memory">Memorie insuficientă</string>
+    <string name="sqlite_disk_full">Spațiul de stocare de pe telefon este epuizat</string>
+    <string name="sqlite_low_memory">Spațiu de stocare insuficient</string>
     <string name="status_failed">Nereuşit</string>
     <string name="status_label">"Stare: "</string>
     <string name="status_pending">În aşteptare</string>
@@ -658,9 +653,6 @@
     <string name="view">Vizualizaţi</string>
     <string name="view_bookmark">Vizualizaţi mesajul original</string>
     <string name="view_message_details">Afişaţi detaliile</string>
-    <string name="voip_enable">Mesaje şi Voce Mi</string>
-    <string name="voip_enable_popup_msg">Efectuaţi apeluri către alți utilizatori de telefoane MIUI fără a suporta cheltuieli de la operatorul dvs. VoIP este susţinut de Weihui. Vizualizaţi Politica de confidențialitate Weihui.</string>
-    <string name="voip_enable_popup_msg2">Politica de confidențialitate</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Trimitere în %d s</string>
     <string name="wild_msg_processing">Procesare...</string>
