@@ -234,6 +234,8 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="demo_mode">Mod Demo</string>
     <string name="description_direction_left">Glisaţi în stânga pt. %s</string>
     <string name="description_direction_up">Glisaţi în sus pt. %s</string>
+    <string name="description_image_button_answer">Răspundeți</string>
+    <string name="description_image_button_reject">Respingeți</string>
     <string name="description_target_search">Căutaţi</string>
     <string name="dev_settings_warning_message">Aceste setări sunt destinate doar dezvoltatorilor. Activarea acestor caracterisitici poate cauza oprirea sau comportamentul anormal al aplicațiilor și al telefonului.</string>
     <string name="dev_settings_warning_title">Permiteți setările de dezvoltare?</string>

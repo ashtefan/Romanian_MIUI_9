@@ -825,6 +825,8 @@
     <string name="firewall_wifi_dialog_message">"Aplicația instalată nu se va putea conecta la internet utilizând Wi-Fi cât timp acest comutator este inactiv.​"</string>
     <string name="five_percent_total_pkg">%s (5%% din datele lunare)</string>
     <string name="flow_rank_title">Utilizare date mobile</string>
+    <string name="forbid_autobright_title">Depanați iluminarea ecranului</string>
+
     <string name="foreground_traffic">În prim plan: %s</string>
     <string name="forget_password_button_text"><u>Am uitat parola</u></string>
     <string name="forget_password_button_text_normal">Am uitat parola</string>
@@ -843,7 +845,10 @@
     <string name="game_anti_disturb_msg">Nu deranjați Jocurile</string>
     <string name="game_booster">Creșterea vitezei în jocuri</string>
     <string name="game_booster_intro">Despre Creșterea vitezei în jocuri</string>
+    <string name="game_booster_jump_webview">Doar o secundă…</string>
+    <string name="game_booster_tab_top">Top</string>
     <string name="game_booster_title">Accelerați</string>
+    <string name="game_bootser_tab_settings">Setări pentru creșterea vitezei</string>
     <string name="game_improve_text1">Goliți memoria cache din fundal pentru a elibera memorie pentru jocuri</string>
     <string name="game_improve_text2">Goliți memoria cache din fundal pentru a elibera memoria pentru jocuri și pentru a îmbunătăți performanța procesorului</string>
     <string name="game_improve_title">Optimizați performanța</string>
@@ -852,7 +857,9 @@
     <string name="game_net_text2">"Creșteți viteza de conectare a jocurilor și limitați viteza de descărcare pentru a reduce încetinirea datorată rețelei"</string>
     <string name="game_net_title">Optimizați viteza de conectare</string>
     <string name="game_setting">Setări pentru jocuri</string>
-    <string name="gamebooster_main_activity_back">Înapoi la Creșterea vitezei în jocuri</string>
+    <string name="gamebooster_lowbattery_notification_summary">Încărcați acumulatorul telefonului înainte de a se închide.</string>
+    <string name="gamebooster_lowbattery_notification_title">Nivelul acumulatorului este sub 5%%</string>
+    <string name="gamebooster_main_activity_back">Înapoi</string>
     <string name="gamebooster_network_dialog_message">Permiteți aplicației de Securitate să se conecteze la rețea pentru a utiliza toate caracteristicile Creșterii vitezei în jocuri?</string>
     <string name="gamebooster_network_dialog_title">"Unele caracteristici nu sunt disponibile"</string>
     <string name="gateway_exception_summary">Verificați router-ul și încercați din nou.</string>
@@ -873,8 +880,11 @@
     <string name="gs_app_back_self_start">Economisire acumulator</string>
     <string name="gs_auto_clean_memory">Goliți memoria cache</string>
     <string name="gs_auto_clean_memory_detail">Goliți memoria cache în mod automat pentru a optimiza experiența în jocuri</string>
+    <string name="gs_call_handsfree">Preluați apelurile prin hands free</string>
+    <string name="gs_call_handsfree_mute">Mod Silențios</string>
     <string name="gs_dialog_confirm_close_msg">Scurtătura va fi eliminată de pe Ecranul principal. Accesați Securitate &gt; Setări pentru a o restaura.</string>
     <string name="gs_dialog_confirm_close_title">Dezactivați</string>
+    <string name="gs_forbid_autosync">Restricționați sincronizarea în fundal</string>
     <string name="gs_game_disturb_msg">Nu deranjați</string>
     <string name="gs_game_duration">Timp</string>
     <string name="gs_game_net_priority">Prioritate conexiune</string>
@@ -991,6 +1001,7 @@
     <string name="keywords_auto_restart">Pornire automată; Permisiuni;Pornire automată;Autostart; Gestionare pornire automată; Pornire automată MIUI; Pornire automată aplicații; pornire automată aplicații;Chain start;chained start;pornire programată</string>
     <string name="keywords_buy_flow">date;date mobile;achiziționați date;achiziționați date mobile;reîncărcare date;plan de date</string>
     <string name="keywords_cleanmaster">Coș de gunoi;Golire;Viteză;Stocare;Cache</string>
+    <string name="keywords_gamebooster">Jocuri;creșterea vitezei în jocuri;Gloria regelui;Mod performanță;Nu deranjați</string>
     <string name="keywords_networkassistant_1">Date;Trafic</string>
     <string name="keywords_networkassistant_2">Date;Calibrare</string>
     <string name="keywords_networkassistant_4">Conecxiune;Internet;Test</string>
@@ -1224,6 +1235,7 @@ răspunsul operatorului"</string>
     <string name="name">Nume</string>
     <string name="net_booster">Creșterea vitezei rețelei</string>
     <string name="net_booster_expire_notification">Sesiunea de creștere a vitezei rețelei este pe cale să se încheie</string>
+    <string name="net_booster_expire_notification_tip">%d zile rămase până când sesiunea de creștere a vitezei în jocuri expiră. Reînnoiți sesiunea pentru a evita problemele legate de viteza rețelei.</string>
     <string name="net_booster_overdue_notification">Sesiunea de creștere a vitezei rețelei este pe cale să se încheie</string>
     <string name="net_booster_overdue_notification_tip">Sesiunea de creștere a vitezei rețelei se va încheia în curând. Reînnoiți sesiunea?</string>
     <string name="net_booster_tip">Activați Creșterea vitezei rețelei pentru a face conexiunea Wi-Fi mai stabilă și pentru a reduce încetinirea traficului.</string>
@@ -1443,6 +1455,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="path_auto_restart">Aplicații de sistem/Securitate/Permisiuni/Pornire automată</string>
     <string name="path_buy_flow">Aplicații de sistem/Securitate/Utilizare date/Achiziționați date mobile</string>
     <string name="path_cleanmaster">Aplicații de sistem/Securitate/Curățare</string>
+    <string name="path_gamebooster">Aplicații de sistem/Securitate/Creșterea vitezei în jocuri</string>
     <string name="path_networkassistant_1">Aplicații de sistem/Securitate/Utilizare date</string>
     <string name="path_networkassistant_2">Aplicații de sistem/Securitate/Utilizare date</string>
     <string name="path_networkassistant_4">Aplicații de sistem/Securitate/Utilizare date/Verificare rețea</string>
@@ -1714,6 +1727,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="resource_auto_restart">Gestionați pornirea automată</string>
     <string name="resource_buy_flow">Achiziționați date mobile</string>
     <string name="resource_cleanmaster">Curățare</string>
+    <string name="resource_gamebooster">Creșterea vitezei în jocuri</string>
     <string name="resource_networkassistant_1">Utilizare date mobile</string>
     <string name="resource_networkassistant_2">Calibrare plan de date mobile</string>
     <string name="resource_networkassistant_4">Testare rețea</string>
@@ -2141,8 +2155,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="text_button">Am înțeles</string>
     <string name="text_cycle_day">%s</string>
     <string name="text_day"/>
-    <string name="text_lock_info">Desenați modelul de deblocare</string>
-    <string name="there_is_no">Totul arată bine, reveniți mai târziu</string>
+    <string name="thermal_tips_message">Dacă jucați jocuri în modul Performanță telefonul se poate supraîncălzi.</string>
+    <string name="thermal_tips_title">Atenție</string>
     <string name="third_application">Aplicații instalate</string>
     <string name="three_percent_total_pkg">%s (3%% din datele lunare)</string>
     <string name="timeshow_h">%.1f h</string>
@@ -2347,8 +2361,8 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="virus_scan_process_pre">%</string>
     <string name="virus_update_fail">Nu s-a putut actualiza</string>
     <string name="virus_update_success">Actualizat cu succes</string>
-    <string name="virus_update_tips_title">Conectați-vă la Wi-Fi</string>
-    <string name="virus_wait_network_dialog_message">Pachetele de actualizare sunt mari. Conectați-vă la Wi-Fi pentru a le descărca.</string>
+    <string name="virus_update_tips_title">Avertisment</string>
+    <string name="virus_wait_network_dialog_message">Telefonul nu este conectat la Wi-Fi. Acest lucru poate duce la trafic de date. Continuați?</string>
     <string name="voltage_symbol">V</string>
     <string name="wakepath_confirm_start_activity">Permiteți %1$s să deschidă %2$s?</string>
     <string name="warning_open_mi_sim">Activați Mi SIM</string>

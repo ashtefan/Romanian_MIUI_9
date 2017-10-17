@@ -2394,7 +2394,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="memory_media_usage">Media</string>
     <string name="memory_music_usage">Audio</string>
     <string name="memory_performance">Performanță</string>
-    <string name="memory_rightvalue">Disponibil: %s</string>
+    <string name="memory_rightvalue">Total: %s</string>
     <string name="memory_settings_title">Memorie</string>
     <string name="memory_size">Spaţiu total</string>
     <string name="memory_summary">În medie %1$s din %2$s memorie utilizată</string>

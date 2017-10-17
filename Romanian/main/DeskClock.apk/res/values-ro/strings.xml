@@ -163,7 +163,7 @@
     <string name="tomorrow">Mâine</string>
     <string name="turn_off_a_repeat_alarm">Opriți alarma repetitivă</string>
     <string name="turn_off_this_repeat_alarm">Opriți această alarmă repetitivă</string>
-    <string name="upcoming_alarm"> Alarmă viitoare</string>
+    <string name="upcoming_alarm">%s Alarmă viitoare</string>
     <string name="upcoming_alarm_hint">Puteți opri această alarmă în avans</string>
     <string name="vibrate_pref_summary">Vibrare în timpul alarmei</string>
     <string name="vibrate_when_ringing">Vibrare în tim ce sună</string>

@@ -130,6 +130,7 @@
     <string name="top_no_network_detial">"Nu s-a putut încărca; verificați conexiunea la rețea și reîncercați"</string>
     <string name="try_game">Încercați</string>
     <string name="usage_sorted_loading_text">Doar o secundă…</string>
+    <string name="xunyou_pay_webview">Servicii Xunyou</string>
     <string name="wlan_change_protection_detail">"Nu comuta în mod automat pe Wi-Fi atunci când se utilizează datele mobile"</string>
     <string name="wlan_change_protection_title">Preveniți comutarea între rețele</string>
 </resources>
