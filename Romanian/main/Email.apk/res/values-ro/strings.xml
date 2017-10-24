@@ -75,6 +75,7 @@ Actualizaţi acum?"</string>
     <string name="account_setup_basics_email_label">Introduceți ID-ul contului</string>
     <string name="account_setup_basics_login_gmail_without_proxy">Utilizați conexiunea de rețea curentă pentru conectare</string>
     <string name="account_setup_basics_manual_setup_action">Configurare manuală</string>
+    <string name="account_setup_basics_mi_mail_login_help">Conectare la căsuța de e-mail Mi cu succes, verificați mesajul SMS, activați linkul pentru a primi și trimite e-mailuri Oh!</string>
     <string name="account_setup_basics_password_label">Introduceți parola</string>
     <string name="account_setup_basics_title">Adăugaţi un cont</string>
     <string name="account_setup_check_settings_check_incoming_msg">"    Se validează setările serverului…"</string>
@@ -618,6 +619,7 @@ Actualizaţi acum?"</string>
           Când:
 %s (recurent)
     "</string>
+    <string name="meeting_responded_failed">Răspuns eșuat</string>
     <string name="meeting_tentative">"
           Tentativă:
 %s "</string>
@@ -1032,7 +1034,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="special_text_sender_zh">expeditor</string>
     <string name="storage">Stocare</string>
     <string name="str_select_all">Selectaţi tot</string>
-    <string name="str_select_none">Deselectaţi</string>
+    <string name="str_select_none">Deselectaţi tot</string>
     <string name="subject_and_snippet" formatted="false">%s — %s</string>
     <string name="subject_hint">Subiect</string>
     <string name="sync_contacts_fail_per_content">Se aplică pentru permisiunea de accesare a contactelor; atingeți pentru a aplica</string>
