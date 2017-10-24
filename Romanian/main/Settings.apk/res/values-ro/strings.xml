@@ -2610,6 +2610,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="nfc_se_route_title">Poziția elementului de siguranţă</string>
     <string name="nfc_se_wallet_title">Portofel implicit</string>
     <string name="no">Nu</string>
+    <string name="no_account_found">Nicio aplicație nu suportă adăugarea de conturi</string>
     <string name="no_application">Niciuna</string>
     <string name="no_applications">Nu există aplicaţii.</string>
     <string name="no_battery_summary">Fără utilizare a acumulatorului de la ultima încărcare completă</string>
@@ -5259,7 +5260,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wrong_pin_code_pukked">Cod PIN incorect. Contactaţi operatorul pentru deblocarea dispozitivului.</string>
     <string name="xiaomi_account">Contul Mi</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
-    <string name="xiaomi_cloud_service_description">Mi Cloud sincronizează contactele și fotografiile, face o copie de rezervă a aplicațiilor și a setărilor și vă ajută să vă găsiți telefonul utilizând funcția Localizare telefon.</string>
+    <string name="xiaomi_cloud_service_description">Mi Cloud sincronizează contactele, fotografiile și alte elemente între dispozitivele dumneavoastră. \"Localizarea telefonului\" necesită conectarea la Mi Cloud pentru a funcționa în mod normal.</string>
     <string name="xiaomi_cloud_service_disabled">Dezactivat</string>
     <string name="xiaomi_cloud_service_unknown">Necunoscut</string>
     <string name="xiaomi_money_service">Mi Credit</string>
