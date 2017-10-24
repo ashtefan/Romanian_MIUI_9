@@ -89,6 +89,7 @@ pentru a le putea vedea în orice moment"</string>
     <string name="exit_private_space">Comutați</string>
     <string name="finger_print_num">Amprenta %d</string>
     <string name="finger_print_of_use">Utilizați amprenta</string>
+    <string name="fingerprint_number_upper_limit">Prea multe încercări nereușite de deblocare</string>
     <string name="fingerprint_removal_failed">"Nu s-a putut elimina amprenta"</string>
     <string name="function_not_support">Nesuportată pe acest dispozitiv</string>
     <string name="gms_message">Crearea aplicațiilor duale necesită serviciile Google. Creați o dublură pentru serviciile Google?</string>
@@ -194,7 +195,7 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="scanner_fingerprint_tips_desc">"Selectați amprenta pentru accesarea Spațiului secundar. Nu o veți putea utiliza pentru Spațiul principal."</string>
     <string name="scanner_fingerprint_tips_title">Accesați Spațiul secundar utilizând amprenta existentă</string>
     <string name="scanner_second_space_fingerprint">Scanați amprenta pentru Spațiul secundar</string>
-    <string name="sdcardfs_dialog_message">Dezactivați \"Optimizarea fictivă a cardului SD\" din Opțiunile dezvoltator înainte de a accesa Spațiul Secundar.</string>
+    <string name="sdcardfs_dialog_message">Dezactivați \"Optimizarea fictivă a cardului SD\" din Setări>Setări adiționale>Opțiuni dezvoltator înainte de a accesa Spațiul Secundar.</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_result_text">"Nu s-a găsit nicio aplicație"</string>
     <string name="secondSpace">Spațiul Secundar</string>

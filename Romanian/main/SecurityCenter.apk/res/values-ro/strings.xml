@@ -1084,12 +1084,15 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="main_alert_message_no_mobile_package">Setaţi limita datelor mobile</string>
     <string name="main_alert_message_open_traffic_ctrl">Recomandăm restricționarea utilizării datelor</string>
     <string name="main_bill_remained">Sold telefon</string>
+    <string name="main_button_mi_sim_close">Activați Mi SIM</string>
+    <string name="main_button_mi_sim_open">Vedeți detaliile</string>
     <string name="main_button_usage_adjust">Sincronizaţi utilizarea datelor mobile</string>
     <string name="main_button_usage_adjust_manual">Setaţi limita utilizării datelor</string>
     <string name="main_button_usage_adjusting">Modificare…</string>
     <string name="main_button_usage_adjusting_bill">Modificare…</string>
     <string name="main_button_usage_package_setting">Setaţi limita utilizării datelor</string>
     <string name="main_daily_package">Plan de date zilnic</string>
+    <string name="main_indicator_title">Așteptare activare</string>
     <string name="main_leisure_remained">Trafic de date rămas</string>
     <string name="main_month_total_used">Utilizat în luna aceasta</string>
     <string name="main_month_used">Plan de date</string>
@@ -1108,6 +1111,7 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
 pentru calibrare"</string>
     <string name="main_tc_wait_result">"Se așteaptă
 răspunsul operatorului"</string>
+    <string name="main_tobe_added_desc">Date mobile de la ¥0.03/MB</string>
     <string name="main_today_used">Utilizat azi</string>
     <string name="main_toolbar_firewall">Restricţionare utilizare date</string>
     <string name="main_toolbar_internet_by_mobiledata">Date mobile</string>
@@ -2364,6 +2368,8 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="virus_update_tips_title">Avertisment</string>
     <string name="virus_wait_network_dialog_message">Telefonul nu este conectat la Wi-Fi. Acest lucru poate duce la trafic de date. Continuați?</string>
     <string name="voltage_symbol">V</string>
+    <string name="vpn_disabled_by_user">Conexiunea de date determinată este dezactivată</string>
+    <string name="vpn_unbale_get_phonenum">"Nu s-au putut obține numerele de telefon utilizând planul de date desemnat"</string>
     <string name="wakepath_confirm_start_activity">Permiteți %1$s să deschidă %2$s?</string>
     <string name="warning_open_mi_sim">Activați Mi SIM</string>
     <string name="website">Website</string>

@@ -2449,6 +2449,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_lab_taplus_desc">Apăsați și mențineți apăsat un element pentru a declanșa scurtăturile</string>
     <string name="miui_lab_taplus_title">Declanșare aplicații?</string>
     <string name="miui_screen_config_title">Setări Ecran principal</string>
+    <string name="miui_updater">Actualizare</string>
     <string name="mms_breathing_light_color_title">Mesaje</string>
     <string name="mms_breathing_light_freq_title">Frecvenţă pulsare indicator luminos intermitent pentru mesaje</string>
     <string name="mms_privacy_password_role_instruction">Conversațiile private vor fi stocate aici.</string>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="accessibility_enabled">Accesibilitate activată.</string>
     <string name="agree">De acord</string>
     <string name="agree_terms">"Am citit și sunt de acord cu Termenii Serviciului și Politica de Confidențialitate."</string>
     <string name="app_name">Provision</string>
@@ -12,11 +13,13 @@
     <string name="content_description_complete">Finalizat</string>
     <string name="content_description_miui_version">MIUI 9</string>
     <string name="content_description_start">Start</string>
+    <string name="continue_to_enable_accessibility">Mențineți două degete glisat în jos pentru a activa accesibilitatea.</string>
     <string name="desc_extra_fingerprint"/>
     <string name="desc_extra_international_fingerprint"/>
     <string name="desc_fingerprint">Folosiți-vă amprenta pentru a debloca telefonul, pentru a verifica tranzacțiile MiPay sau pentru a vă autentifica în aplicații sau servicii.</string>
     <string name="desc_international_fingerprint">Utilizați amprenta digitală pentru a debloca dispozitivul sau pentru a vă autentifica în aplicații ori servicii.</string>
     <string name="disagree">Anulaţi</string>
+    <string name="enable_accessibility_canceled">Accesibilitate dezactivată.</string>
     <string name="enable_accessibility_dialog_message">Ați activat TalkBack atingând ecranul cu 2 degete pentru mai mult de 10 secunde. TalkBack oferă feedback vocal persoanelor cu probleme de vedere. Dacă ați activat acest serviciu accidental, apăsați butonul Renunțare și apoi atingeți de două ori ecranul.</string>
     <string name="enable_accessibility_dialog_negative_btn">Renunțare</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
