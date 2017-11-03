@@ -833,6 +833,8 @@
     <string name="forget_pattern"><u>Am uitat parola</u></string>
     <string name="free_send_net_booster">Creștere gratuită a vitezei rețelei</string>
     <string name="free_send_net_booster_tip">Bucurați-vă de o experiență fluidă în jocuri cu Creșterea gratuită a vitezei rețelei.</string>
+    <string name="free_send_net_booster_busniess_tip">Atingeți pentru a primi</string>
+    <string name="free_send_net_booster_tip">Bucurați-vă de o experiență fluidă de joc utilizând Creșterea vitezei rețelei în mod gratuit.</string>
     <string name="free_time_traffic">Limită de date în afara orelor de vârf</string>
     <string name="free_time_traffic_hint">Introduceţi limita de date în afara orelor de vârf</string>
     <string name="free_time_traffic_settings">Limita de date în afara orelor de vârf</string>
@@ -842,6 +844,7 @@
     <string name="fw_blocked">Listă blocări</string>
     <string name="fw_blocked_count">"Blocat "</string>
     <string name="fw_blocked_join">" și "</string>
+    <string name="game_ad_recommendation">Toată lumea joacă</string>
     <string name="game_anti_disturb_msg">Nu deranjați Jocurile</string>
     <string name="game_booster">Creșterea vitezei în jocuri</string>
     <string name="game_booster_intro">Despre Creșterea vitezei în jocuri</string>
