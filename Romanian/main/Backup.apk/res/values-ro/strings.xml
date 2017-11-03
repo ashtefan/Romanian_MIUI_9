@@ -173,7 +173,6 @@ trebuie să încărcați datele de pe vechiul telefon în iCloud"</string>
 2.\u0009Accesaţi setările MiTalk şi alegeţi ”Creare copie de rezervă pentru contacte în contul Mi””</string>
     <string name="import_from_xiaomi_account_hint2">2. Dacă aveţi deja o copie de rezervă apăsaţi Următorul.</string>
     <string name="import_from_xiaomi_account_hint_title">Utilizaţi MiTalk pt. a efectua copii de rezervă ale contactelor dvs. între dispozitive.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">Datorită compatibilității, doar contactele și fotografiile sunt suportate. Trebuie să încărcați mai întâi datele din vechiul dispozitiv în iCloud.</string>
     <string name="import_tip_title">Sfaturi:</string>
     <string name="loading_data">Se încarcă datele</string>
