@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d fișiere de sistem</item>
+        <item quantity="one">%d fișier de sistem</item>
+    </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d fișiere cu datele aplicației</item>
+        <item quantity="one">%d fișier cu datele aplicației</item>
+    </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d elemente</item>
         <item quantity="one">%d element</item>
@@ -11,5 +19,29 @@
     <plurals name="trans_time_format_hours">
         <item quantity="other">%d ore</item>
         <item quantity="one">%d oră</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d elemente</item>
+        <item quantity="one">%1$s | %2$d element</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">elemente</item>
+        <item quantity="one">element</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">%d elemente sunt restaurate</item>
+        <item quantity="one">%d element este restaurat</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">%d elemente sunt importate și restaurate</item>
+        <item quantity="one">%d element este importat și restaurat</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"%d elemente importate, "</item>
+        <item quantity="one">"%d element importat, "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">%d elemente trebuie importate din nou</item>
+        <item quantity="one">%d element trebuie importat din nou</item>
     </plurals>
 </resources>

@@ -36,8 +36,6 @@
     <string name="backup_hint">Nu opriți telefonul!</string>
     <string name="backup_hint_onpad">Nu opriți telefonul!</string>
     <string name="backup_is_running">Creare copie de rezervă în curs</string>
-    <string name="backup_items_app_tailer">" date aplicaţii "</string>
-    <string name="backup_items_sysdata_tailer">" date de sistem, "</string>
     <string name="backup_new">Nouă:</string>
     <string name="backup_progress">Creare copie de rezervă…</string>
     <string name="backup_report">Vizualizaţi detalii despre copia de rezervă</string>
@@ -50,6 +48,7 @@
     <string name="button_cancel">Anulaţi</string>
     <string name="button_continue">Continuaţi</string>
     <string name="button_finish">Finalizare</string>
+    <string name="button_import">Importați</string>
     <string name="button_next">Următorul</string>
     <string name="button_ok">OK</string>
     <string name="button_return">Înapoi</string>
@@ -58,8 +57,20 @@
     <string name="camera_summary">Setări Cameră (fotografiile nu se includ)</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_backup">Opriţi</string>
+    <string name="cancel_moving_dialog_message">Sunteți sigur că doriți oprirea importului?</string>
+    <string name="cancel_moving_dialog_title">Opriți importarea</string>
     <string name="cancel_restore">Opriţi</string>
     <string name="click_to_view">Apăsaţi pentru a vizualiza</string>
+    <string name="close_twice_auth_btn">Dezactivați autentificarea în doi pași</string>
+    <string name="close_twice_auth_note">"Notă:
+După crearea unei noi întrebări de securitate și confirmarea datei de naștere, funcția de autentificare duală va fi dezactivată. Dacă nu vedeți opțiunea de dezactivare a autentificării duale în pagina contului Apple, nu o puteți dezactiva."</string>
+    <string name="close_twice_auth_operation">"Acces de pe computer:
+https://appleid.apple.com/#!&amp;page=signin to close"</string>
+    <string name="close_twice_auth_step_1">1. pagina de autentificare în contul Apple ID</string>
+    <string name="close_twice_auth_step_2">2. În secțiunea Securitate, apăsați Editare</string>
+    <string name="close_twice_auth_step_3">3. Atingeți Dezactivare autentificare duală / în doi pași. Apăsați din nou pentru a confirma</string>
+    <string name="close_twice_auth_steps">Dezactivați autentificarea în doi pași, urmând pașii de mai jos:</string>
+    <string name="close_twice_auth_tutor">Dezactivați autentificarea în doi pași appleID</string>
     <string name="cloud_app_name">Copie de rezervă în Mi Cloud</string>
     <string name="cloud_backup_hint">Pentru a accesa copiile de rezervă, conectați-vă acum</string>
     <string name="cloud_backup_login">Conectaţi-vă la contul dvs. Mi</string>
@@ -72,8 +83,11 @@
     <string name="cloud_restore_title">Restabiliţi datele</string>
     <string name="cloud_restore_window_title">Restabilire din Mi Cloud</string>
     <string name="cloud_search">Căutare…</string>
+    <string name="comma_seperator">", "</string>
     <string name="compute_backup_info">Preluarea informaţiilor…</string>
     <string name="compute_delete_contact_info">Obținere informații…</string>
+    <string name="connect_wifi">Conecatți-vă la Wi-Fi</string>
+    <string name="connect_wifi_tip">Rețeaua este deconectată. Importul datelor din iCloud necesită conectarea la Wi-Fi.</string>
     <string name="contact_title">Contacte</string>
     <string name="current_account">Salut %s,</string>
     <string name="current_pad_location">Tabletă</string>
@@ -89,8 +103,10 @@
     <string name="delete_failed_backup_confirm">Această copie de rezervă conține erori.</string>
     <string name="deselect_all">Deselectaţi tot</string>
     <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
+    <string name="disable_encrypt_description">Nu cripta</string>
     <string name="disable_encrypt_title">Dezactivați criptarea</string>
     <string name="enable_encrypt">Activaţi criptarea</string>
+    <string name="enable_encrypt_description">Criptează</string>
     <string name="enable_encrypt_fail">Criptare eşuată</string>
     <string name="enable_encrypt_indicator">Atingeţi pentru a cripta</string>
     <string name="enable_encrypt_ok">OK</string>
@@ -121,11 +137,46 @@
     <string name="guarded_mode_dialog_backup_message">"Nu se pot crea copii de rezervă în modul Vizitator."</string>
     <string name="guarded_mode_dialog_title">"Modul Vizitator este activat"</string>
     <string name="guarded_mode_dialog_transfer_message">"Nu se poate utiliza aplicația Mi Mover în modul Vizitator."</string>
+    <string name="hsa_code_null">Codul de verificare nu poate fi gol</string>
+    <string name="hsa_input_hint">Introduceți codul de verificare</string>
+    <string name="hsa_input_tip">Identificatorul dvs. iCloud activează autentificarea în doi pași. Vă rugăm să introduceți codul de verificare.</string>
+    <string name="hsa_send_again">Trimite din nou</string>
+    <string name="hsa_send_again_countdown">Trimite din nou(%ds)</string>
+    <string name="hsa_send_failed">A eșuat trimiterea codului de verificare. Încercați din nou mai târziu.</string>
+    <string name="hsa_sending">Se trimite…</string>
+    <string name="hsa_tip_message">"1.Un mesaj conținând codul de verificare va fi trimis pe telefonul asociat contului iCloud
+2.Dezactivați autentificarea în doi pași dacă nu se poate verifica."</string>
+    <string name="hsa_tip_message_shutdown_hsa">cum să dezactivați autentificarea în doi pași</string>
+    <string name="hsa_tip_message_with_device">"1.Un mesaj conținând codul de verificare a fost trimis către numărul de telefon %s asociat contului iCloud
+2.Dezactivați autentificarea în doi pași dacă nu se poate verifica."</string>
+    <string name="hsa_tip_title">Safturi:</string>
+    <string name="hsa_title">Autentificare în doi pași</string>
+    <string name="hsa_verify_failed">Autentificarea în doi pași a eșuat</string>
+    <string name="hsa_verify_failed_message">Autentificarea în doi pași a eșuat. Puteți reîncerca sau dezactiva autentificarea în doi pași.</string>
+    <string name="hsa_verify_retry">Reîncercați</string>
+    <string name="hsa_verify_shutdown">Dezactivați</string>
+    <string name="icloud_backup_tip">Conectați-vă la iCloud utilizând ID-ul vechiului telefon Apple</string>
+    <string name="icloud_how_to_backup_tip_steps">"1.Accesați Setări din telefonul dvs. iOS și apoi alegeți iCloud.
+2.Activați Contacte.
+3.Selectați Fotografii și activați iCloud Photo Library."</string>
+    <string name="icloud_how_to_backup_tip_summary">Pentru a importa date din iOS, trebuie să încărcați datele de pe vechiul telefon în iCloud.</string>
+    <string name="icloud_how_to_backup_tip_title">Sfaturi:</string>
+    <string name="icloud_login_title">Conecatți-vă la iCloud</string>
+    <string name="icloud_need_sync">"Pentru a importa date din iOS
+trebuie să încărcați datele de pe vechiul telefon în iCloud"</string>
+    <string name="icloud_need_wifi_message">Nu sunteți conectat la Wi-Fi în prezent. Pentru a importa date din iCloud, este necesară conectarea la Wi-Fi pentru a vă conecta și descărca date.</string>
+    <string name="icloud_need_wifi_title">Este necesară conectarea la Wi-Fi</string>
+    <string name="import_again">Importați din nou</string>
+    <string name="import_data_from_icloud">Importați date din iCloud</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Descărcaţi aplicaţia MiTalk şi logaţi-vă.
 \u0009http://www.miliao.com
 2.\u0009Accesaţi setările MiTalk şi alegeţi ”Creare copie de rezervă pentru contacte în contul Mi””</string>
     <string name="import_from_xiaomi_account_hint2">2. Dacă aveţi deja o copie de rezervă apăsaţi Următorul.</string>
     <string name="import_from_xiaomi_account_hint_title">Utilizaţi MiTalk pt. a efectua copii de rezervă ale contactelor dvs. între dispozitive.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
+    <string name="import_tip_summary">Datorită compatibilității, doar contactele și fotografiile sunt suportate. Trebuie să încărcați mai întâi datele din vechiul dispozitiv în iCloud.</string>
+    <string name="import_tip_title">Sfaturi:</string>
+    <string name="loading_data">Se încarcă datele</string>
     <string name="local_app_name">Copie de rezervă</string>
     <string name="local_backup_window_title">Date copie de rezervă locală</string>
     <string name="local_home_title">Copii de rezervă locale</string>
@@ -139,6 +190,9 @@
     <string name="local_select_sysdata">Sistem</string>
     <string name="local_select_userapp">Aplicaţii</string>
     <string name="local_select_video">Videoclipuri</string>
+    <string name="login">Conectare</string>
+    <string name="login_failed">Conectarea a eșuat. Vă rugăm reîncercați.</string>
+    <string name="logining">conectare…</string>
     <string name="miliao_account_guide">Utilizați contul Mi pentru a vă conecta la Mi Cloud, magazinul de teme MIUI și la alte servicii Mi, de oriunde v-ați afla</string>
     <string name="miliao_account_login">Conectaţi-vă prin intermediul MiTalk</string>
     <string name="mms_title">MMS</string>
@@ -146,6 +200,7 @@
     <string name="multi_user_mode_backup_message">"Nu se poate utiliza aplicația de Creare copie de siguranță în modul Multi-user. Dezactivați modul Multi-user pentru a putea continua."</string>
     <string name="multi_user_mode_dialog_message">"Nu se poate utiliza Mi Mover în modul Multi-user. Dezactivați modul Multi-user pentru a putea continua."</string>
     <string name="multi_user_mode_dialog_title">"Sunteți în modul Multi-user"</string>
+    <string name="name_password_not_consistent">Numele de utilizator sau parola sunt incorecte</string>
     <string name="never">Niciodată</string>
     <string name="new_backup">Creare copie de rezervă</string>
     <string name="no_encrypt_password">Nicio parolă</string>
@@ -155,15 +210,32 @@
     <string name="notif_backup_complete_title">Copie de rezervă creată cu succes</string>
     <string name="notif_backup_content">Se crează o copie de rezervă pentru datele de utilizator</string>
     <string name="notif_backup_title">Copie de rezervă pentru date</string>
+    <string name="notif_icloud_canceled_summary">Anulată</string>
+    <string name="notif_icloud_canceling_summary">Anulare…</string>
+    <string name="notif_icloud_import_title">Importați date din iCloud</string>
+    <string name="notif_icloud_loaded_summary">Se așteaptă descărcarea datelor</string>
+    <string name="notif_icloud_loading_summary">Încărcare date…</string>
+    <string name="notif_icloud_logining">Conectare la iCloud id de pe vechiul telefon…</string>
+    <string name="notif_icloud_need_wifi_summary">Așteptați conectarea la Wi-Fi</string>
+    <string name="notif_icloud_saved_summary">Import finalizat</string>
+    <string name="notif_icloud_saving_summary">Restaurare date…</string>
     <string name="notif_restore_complete_title">Restabilire reuşită</string>
     <string name="notif_restore_content">Restabilire date de utilizator</string>
     <string name="notif_restore_title">Restabilire date</string>
+    <string name="notif_trans_auto_reconnecting_content">Puteți opri sarcina curentă dacă este nevoie.</string>
+    <string name="notif_trans_auto_reconnecting_title">Conexiunea a fost întreruptă. Reconectare automată…</string>
     <string name="notif_trans_receiving_completed">Date recepționate cu succes</string>
     <string name="notif_trans_receiving_failed">"Nu s-au putut primi datele"</string>
     <string name="notif_trans_sending_completed">Date trimise cu succes</string>
     <string name="notif_trans_sending_failed">"Trimiterea datelor a eșuat"</string>
     <string name="notif_trans_wait_for_reconnecting">Conexiunea a fost întreruptă. Conectați-vă din nou.</string>
     <string name="page_loading">Doar o secundă…</string>
+    <string name="password">parolă</string>
+    <string name="password_null">Parola nu poate fi necompletată</string>
+    <string name="pause">Pauză</string>
+    <string name="platform_chooser_item_android">Importați din Android</string>
+    <string name="platform_chooser_item_ios">Importați din dispozitivul Apple</string>
+    <string name="platform_chooser_title">Selectați vechiul telefon</string>
     <string name="progress_backup_hint">Creare copie de rezervă…</string>
     <string name="progress_restore_hint">Restabilire…</string>
     <string name="prompt_reading">Citire…</string>
@@ -190,6 +262,13 @@
     <string name="retry">Reîncercaţi</string>
     <string name="reverse_all">Ştergeţi tot</string>
     <string name="router_backup_hint">Nu opriți dispozitivul!</string>
+    <string name="save_finish_with_failing_items">"Importul este întrerupt. Unele date au fost importate
+Datele rămase trebuie importate din nou"</string>
+  <string name="saving_data">"Se importă date din iCloud
+Vă rugăm să nu dezactivați sau să schimbați rețeaua Wi-Fi"</string>
+    <string name="saving_data_no_time">Restaurare date</string>
+    <string name="saving_data_space_low">"Nu există spațiu suficient
+Vă rugăm eliberați cel puțin %s"</string>
     <string name="sc_bad_request">Solicitare greşită</string>
     <string name="sc_internal_server_error">Eroare internă de server</string>
     <string name="sc_network_unavailable">Eroare de conectare la rețea</string>
@@ -206,6 +285,12 @@
     <string name="see_backup_files_on_router">Vizualizaţi copiile de rezervă pe Mi Router %s</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="select_backup_item">Selectaţi elementele</string>
+    <string name="select_empty">Selectați elementele de importat</string>
+    <string name="select_item_contacts">Contacte</string>
+    <string name="select_item_empty_summary">Niciun conținut</string>
+    <string name="select_item_photos">Fotografii</string>
+    <string name="select_item_summary_loading">Încărcare date…</string>
+    <string name="select_item_summary_wait">Așteptați încărcarea datelor</string>
     <string name="select_storage_location">Selectaţi locaţia copiilor de rezervă</string>
     <string name="service_stoped">Serviciu oprit</string>
     <string name="settings_summary">Setările telefonului şi ale mesageriei</string>
@@ -257,6 +342,7 @@
     <string name="total_size">, %s</string>
     <string name="trans_backingup">Creare copie de rezervă…</string>
     <string name="trans_backingup_no_items">Sincronizare…</string>
+    <string name="trans_button_cancel">Renunțați</string>
     <string name="trans_calculating">Calculare…</string>
     <string name="trans_calculating_app_sd_size">Se analizează dimensiunea: %s</string>
     <string name="trans_calculating_base_size">Se calculează dimensiunea datelor</string>
@@ -272,29 +358,34 @@
     <string name="trans_detail_category_files">Fișiere</string>
     <string name="trans_detail_category_sysdata">Date de sistem</string>
     <string name="trans_detail_category_userdata">Aplicații</string>
+    <string name="trans_device_auto_reconnecting">Dispozitiv deconectat. Reconectare automată…</string>
     <string name="trans_device_disconnected">Conexiunea a fost întreruptă</string>
     <string name="trans_device_wait_for_reconnecting">Conexiunea a fost întreruptă. Conectați-vă din nou pentru a continua.</string>
+    <string name="trans_disconnected_tips_message">Dispozitivul la distanță este deconectat. Vă rugăm sa îl reconectați manual. Puteți opri sarcina curentă dacă este nevoie.</string>
+    <string name="trans_disconnected_tips_title">Dispozitivul la distanță este deconectat</string>
     <string name="trans_generate_qr_code_failed">"Nu s-a putut crea codul QR"</string>
-    <string name="trans_intro_desc_2">Opriți transferul, părăsiți Mi Mover și reluați. Fișierele duplicate vor fi suprascrise în timpul noului transfer.</string>
-    <string name="trans_intro_desc_3">"Mi Mover utilizează Wi-Fi pentru a transfera fișierele. De aceea nu vă puteți conecta la internet prin Wi-Fi pe celălalt telefon pe durata transferului. Puteți utiliza în continuare datele mobile, totuși. De asemenea, unele modele mai noi (cum este Mi 6) se vor putea conecta la internet utilizând Wi-Fi-ul pe durata transferurilor."</string>
-    <string name="trans_intro_desc_4">Spațiul de stocare al telefoanelor mai vechi este utilizat pentru crearea pachetelor de transfer. Asigurați-vă că aveți cel puțin 500 MB - 1 GB spațiu de stocare disponibil înainte de a începe transferul.</string>
-    <string name="trans_intro_desc_5">Există câteva motive posibile pentru care se întâmplă asta: probleme de compatibilitate de sistem și versiune a aplicației, probleme de rețea, probleme de compatibilitate pentru diferite dispozitive, etc.</string>
-    <string name="trans_intro_desc_6">Unele profile ale aplicației (e-banking, finanțe, etc.) sunt asociate cu anumite dispozitive din motive de securitate. Încercați să ștergeți datele aplicației sau să reinstalați aplicația pe un dispozitiv nou.</string>
-    <string name="trans_intro_desc_7">"Este posibil ca datele aplicației WeChat și istoricul chat-ului să nu fie transferate în totalitate prin Mi Mover. Mergeți la setările WeChat și deconectați-vă din cont pentru a avea mai multe șanse pentru un transfer cu succes."</string>
+    <string name="trans_intro_desc_1">"Pe telefonul Xiaomi, conectați-vă la Wi-Fi. Atingeți \"Sunt destinatar\" și selectați \"Dispozitiv Apple\". Conectați-vă la iCloud și importați datele."</string>
+    <string name="trans_intro_desc_3">Opriți transferul, părăsiți Mi Mover și reluați procesul. Fișierele duplicate vor fi suprascrise pe durata noului transfer.</string>
+    <string name="trans_intro_desc_4">"Mi Mover utilizează Wi-Fi pentru a transfera fișierele. De aceea nu vă veți putea conecta la internet prin Wi-Fi pe niciunul dintre dispozitive pe durata transferului. Puteți utiliza totuși datele mobile. Unele telefoane mai noi(de exemplu Mi 6) se pot conecta la internet prin Wi-Fi pe durata transferului."</string>
+    <string name="trans_intro_desc_5">Spațiul de stocare al vechiului telefon este utilizat pentru crearea pachetelor de transfer. Asigurați-vă că aveți cel puțin 500 MB - 1 GB spațiu disponibil pe vechiul telefon înainte de a începe transferul.</string>
+    <string name="trans_intro_desc_6">Există unele motive pentru care acest lucru se poate întâmpla: probleme de compatibilitate a versiunii și a sistemului aplicaței, probleme de rețea, probleme de compatibilitate specifice unui dispozitiv, etc.</string>
+    <string name="trans_intro_desc_7">Unele profiluri ale aplicațiilor (e-banking, financiare, etc.) sunt asociate cu unele dispozitive specifice din motive de securitate. Încercați să goliți datele aplicației sau să o reinstalați pe noul telefon.</string>
+    <string name="trans_intro_desc_8">"Este posibil ca datele aplicației WeChat și istoricul chat-ului să nu fie transferate în întregime prin Mi Mover. Mergeți la setările WeChat și deconectați-vă pentru a avea mai multe șanse pentru un transfer cu succes."</string>
     <string name="trans_intro_desc_account">Trebuie să vă conectați din nou la conturile dvs.(de ex. Contul Mi, Exchange, Google, etc.) pe un nou dispozitiv din motive de securitate.</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover nu transferă datele Aplicațiilor clonate pentru a evita conflictele dintre fișiere."</string>
     <string name="trans_intro_desc_multiuser">"Mi Mover nu poate accesa elementele din Spațiul secundar. Mutați elementele în Spațiul principal și lansați Mi Mover de acolo."</string>
     <string name="trans_intro_desc_new">"Atingeți \"Sunt destinatar\". Va fi generat un cod QR."</string>
     <string name="trans_intro_desc_old">"Atingeți \"Sunt expeditor\". Scanați codul QR cu noul telefon, așteptați până când Mi Mover alege ce fișiere să trimită și apăsați \"Trimiteți\"."</string>
     <string name="trans_intro_desc_private">"Mi Mover nu poate accesa fotografiile din albumele ascunse deoarece sunt criptate. Puteți restaura aceste fotografii din Mi Cloud pe un nou dispozitiv."</string>
-    <string name="trans_intro_question_1">1. Cum folosesc Mi Mover?</string>
-    <string name="trans_intro_question_2">2. Ce trebuie să fac dacă Mi Mover se blochează la un anumit pas?</string>
-    <string name="trans_intro_question_3">"3. De ce nu pot accesa Wi-Fi-ul pe durata transferului?"</string>
-    <string name="trans_intro_question_4">"4. De ce îmi spune Mi Mover că nu există spațiu de stocare suficient pe vechiul telefon?"</string>
-    <string name="trans_intro_question_5">"5. De ce nu sunt transferate unele aplicații cu succes?"</string>
-    <string name="trans_intro_question_6">"6. De ce unele aplicații nu pornesc pe noul telefon?"</string>
-    <string name="trans_intro_question_7">"7. De ce nu este transferat istoricul WeChat în totalitate?"</string>
-    <string name="trans_intro_question_8">"8. Ce elemente nu pot fi transferate?"</string>
+    <string name="trans_intro_question_1">1. Cum utilizez Mi Mover pentru a muta date de pe un dispozitiv Apple?</string>
+    <string name="trans_intro_question_2">2. Cum utilizez Mi Mover pentru a transfera date de pe un dispozitiv Android?</string>
+    <string name="trans_intro_question_3">3. Ce trebuie să fac dacă Mi Mover se blochează la un anumit pas?</string>
+    <string name="trans_intro_question_4">"4. De ce nu pot utiliza Wi-Fi-ul pe durata transferului?"</string>
+    <string name="trans_intro_question_5">"5. De ce îmi spune Mi Mover că nu este spațiu de stocare suficient pe vechiul telefon?"</string>
+    <string name="trans_intro_question_6">"6. De ce unele aplicații nu sunt transferate cu succes?"</string>
+    <string name="trans_intro_question_7">"7. De ce unele aplicații nu se pot lansa pe noul dispozitiv?"</string>
+    <string name="trans_intro_question_8">"8. De ce istoricul WeChat nu este transferat în totalitate?"</string>
+    <string name="trans_intro_question_9">"9. Ce elemente nu pot fi transferate?"</string>
     <string name="trans_intro_title">Întrebări frecvente</string>
     <string name="trans_intro_title_account">Conturi și parole:</string>
     <string name="trans_intro_title_multiapp">Datele aplicațiilor clonate:</string>
@@ -371,9 +462,12 @@ Se așteaptă transferul…"</string>
     <string name="trans_waiting_ensurance">"Asigurați-vă că vechiul dispozitiv este pornit
 și că aplicația Mi Mover rulează"</string>
     <string name="trans_waiting_for_sender">Se așteaptă conectarea vechiului dispozitiv…</string>
+    <string name="trans_wlan_tips_message">"Vă rugăm să nu opriți sau să comutați rețeaua Wi-Fi pe durata transferului de date. În caz contrar transferul poate eșua."</string>
+    <string name="trans_wlan_tips_title">"Vă rugăm să nu opriți sau să comutați rețeaua Wi-Fi"</string>
     <string name="unit_byte">B</string>
-    <string name="unit_piece">" elemente"</string>
     <string name="unknown_hint">Necunoscut</string>
+    <string name="user_name">ID-ul Apple sau adresa de e-mail</string>
+    <string name="user_name_null">Numele de utilizator nu poate fi necompletat</string>
     <string name="user_notice_declaration_ignore">"Nu arăta din nou"</string>
     <string name="user_notice_message">Unele funcții necesită accesul la internet pentru a funcționa normal.</string>
     <string name="user_notice_title">Atenționare</string>

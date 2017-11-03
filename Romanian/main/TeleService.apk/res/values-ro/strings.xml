@@ -1015,6 +1015,7 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
     <string name="path_auto_answer_pref_title">Aplicații de sistem/Telefon/Răspuns automat</string>
     <string name="path_auto_retry_mode_title">Aplicații de sistem/Telefon/Setări avansate/Reapelare automată</string>
     <string name="path_autoip">Aplicații de sistem/Telefon/Setări avansate/Apelare automată IP</string>
+    <string name="path_call_advanced_settings_title">Aplicații de sistem/Telefon/Setări avansate</string>
     <string name="path_call_background_setting_name">Aplicații de sistem/Telefon/Setări avansate/Imagine de fundal apeluri primite</string>
     <string name="path_call_forwarding_settings">Aplicații de sistem/Telefon/Setările pentru redirecționarea apelurilor</string>
     <string name="path_call_record_auto_title">Aplicații de sistem/Telefon/Înregistrare apel/Înregistrare apeluri în mod automat</string>
