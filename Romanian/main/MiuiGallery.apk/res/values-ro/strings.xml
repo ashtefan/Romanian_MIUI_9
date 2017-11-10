@@ -276,9 +276,6 @@
     <string name="delete_album_msg_format">Ștergeți \"%2$s\" album %1$s %3$s?</string>
     <string name="delete_album_success">Album șters</string>
     <string name="delete_finish_format">%d șters</string>
-    <string name="delete_from_album">din albumul \"%s\" și din Mi Cloud</string>
-    <string name="delete_from_album_no_account">din albumul \"%s\"</string>
-    <string name="delete_from_all_devices">de pe toate dispozitivele</string>
     <string name="delete_from_all_devices_and_cloud">de pe toate dispozitivele și din Mi Cloud</string>
     <string name="delete_from_cloud">Ștergeți fotografiile din Mi Cloud</string>
     <string name="delete_from_devices">De pe toate dispozitivele cu sincronizare automată</string>
@@ -441,7 +438,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="filter_food_softdrink">Sifon</string>
     <string name="filter_food_wholemeal">Grâne</string>
     <string name="filter_original">Niciunul</string>
-    <string name="filter_people_blackwhite">Alb-negru</string>
     <string name="filter_people_fairytale">Copii</string>
     <string name="filter_people_heart">Emoții</string>
     <string name="filter_people_japanese">Proaspăt</string>

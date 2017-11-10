@@ -658,7 +658,7 @@
     <string name="unit_data_short_weight_ug">μg</string>
     <string name="unit_data_short_weight_uk.cwt">cwt</string>
     <string name="unit_data_short_weight_us.cwt">cwt</string>
-    <string name="unit_myriads"/>
+    <string name="unit_myriads">×10K</string>
     <string name="unit_percentage">%</string>
     <string name="unit_times"/>
     <string name="unit_year">A</string>

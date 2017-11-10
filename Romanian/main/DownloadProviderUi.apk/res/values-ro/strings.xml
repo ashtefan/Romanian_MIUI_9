@@ -68,7 +68,7 @@
     <string name="dialog_insufficient_space_on_external">Nu se poate finaliza descărcarea. Nu există suficient spaţiu de stocare extern.</string>
     <string name="dialog_media_not_found">Nu se poate descărca. Nu este disponibil un mediu de stocare extern.</string>
     <string name="dialog_msg_disabled_net">%1$s descărcări restricționate în rețeaua curentă. Atingeți butonul Setările rețelei pentru a deschide aplicația Securitate.</string>
-    <string name="dialog_msg_recommend">"Nu veți mai putea vedea sursele recomandate după ce veți dezactiva. Puteți selecta \"Încarcă atunci când este conectat la Wi-Fi\" pentru a economisi datele mobile."</string>
+    <string name="dialog_msg_recommend">"Nu veți mai putea vedea sursele recomandate după ce veți dezactiva."</string>
     <string name="dialog_queued_body">Fişierul este adăugat în coadă pentru descărcare ulterioară, prin urmare nu este disponibil încă.</string>
     <string name="dialog_title_disabled_net">Acces la internet</string>
     <string name="dialog_title_not_available">Nu s-a putut descărca</string>
