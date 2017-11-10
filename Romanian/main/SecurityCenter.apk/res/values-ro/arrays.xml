@@ -55,8 +55,6 @@
         <item>Numele aplicației</item>
         <item>Frecvența utilizării</item>
         <item>Spațiul utilizat</item>
-        <item>Utilizarea datelor</item>
-        <item>Utilizarea acumulatorului</item>
         <item>Data instalării</item>
     </string-array>
     <string-array name="sort_title">
@@ -64,8 +62,6 @@
         <item>Sortare după numele aplicației</item>
         <item>Sortare după frecvența utilizării</item>
         <item>Sortare după spațiul utilizat</item>
-        <item>Sortare după utilizarea datelor</item>
-        <item>Sortare după utilizarea acumulatorului</item>
         <item>Sortare după data instalării</item>
     </string-array>
     <string-array name="title_app_info">

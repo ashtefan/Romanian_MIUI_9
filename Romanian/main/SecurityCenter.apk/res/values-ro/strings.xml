@@ -27,8 +27,10 @@
     <string name="ac_enter_applock">Accesați Blocare Aplicații</string>
     <string name="ac_firstUseApplock_subTitle">Utilizați unelte de securitate mai eficiente la nivel de sistem</string>
     <string name="ac_firstUseApplock_title">Setați o parolă pentru a vă proteja aplicațiile</string>
+    <string name="ac_mask_all_apps">Ascundeți pentru toate aplicațiile</string>
     <string name="ac_summaryOff">Dacă este dezactivată nu este necesară parola pentru accesarea aplicațiilor</string>
     <string name="ac_summaryOn">Dacă este activată se va solicita parola de deblocare pentru accesarea aplicațiilor</string>
+    <string name="ac_unmask_all_apps">Afișați pentru toate aplicațiile</string>
     <string name="access_control_app_is_launching">Aplicația pornește</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">Desenați modelul propriu de deblocare pentru a utiliza o nouă amprentă</string>
     <string name="access_control_fingerprint_not_identified_msg">"Nu s-a putut citi amprenta."</string>
@@ -176,6 +178,8 @@
     <string name="app_manager_apps_generatioin">Actualizări</string>
     <string name="app_manager_apps_generation_summary">Actualizați pentru a utiliza cele mai recente caracteristici</string>
     <string name="app_manager_appupdate_remind">Notificare despre actualizări</string>
+    <string name="app_manager_as_dlg_msg">Dacă permiteți aplicațiilor să pornească în mod automat este posibil să fie solicitată mai multă memorie RAM și să crească consumul de energie. Permiteți oricum?</string>
+    <string name="app_manager_as_dlg_title">Atenție</string>
     <string name="app_manager_back">Înapoi</string>
     <string name="app_manager_bipartition">Aplicații clonate</string>
     <string name="app_manager_card_permission_title">Permisiuni</string>
@@ -185,6 +189,7 @@
     <string name="app_manager_clear_failed_dlg_message">Nu s-au putut șterge datele aplicației.</string>
     <string name="app_manager_clear_failed_dlg_title">Ștergeți datele</string>
     <string name="app_manager_copy_pkg_to_clip">Copiat în clipboard</string>
+    <string name="app_manager_default_cleared">golit</string>
     <string name="app_manager_default_close_summary">Nicio valoare predefinită setată.</string>
     <string name="app_manager_default_open">Deschide cu aplicația implicită</string>
     <string name="app_manager_default_open_summary">Ați ales să lansați această aplicație în mod implicit pentru anumite acțiuni.</string>
@@ -211,11 +216,13 @@
     <string name="app_manager_globel_perm_summary">Gestionați permisiunile legate de locație, stocare, telefon, mesaje și contacte.</string>
     <string name="app_manager_globel_perm_title">Permisiunile aplicațiilor</string>
     <string name="app_manager_go_to_manger_app">Gestionați</string>
+    <string name="app_manager_has_not_data">Nu există date</string>
     <string name="app_manager_have_not_consume">Nimic</string>
     <string name="app_manager_hide_system_server">Ascunde serviciile de sistem</string>
     <string name="app_manager_instruction">Instruire</string>
     <string name="app_manager_loading_data">Încărcare date…</string>
     <string name="app_manager_manage_space">Gestionare spațiu de lucru</string>
+    <string name="app_manager_memory">RAM</string>
     <string name="app_manager_menu_clear_data">Ștergeți datele</string>
     <string name="app_manager_net_control_title">Restricționați utilizarea datelor</string>
     <string name="app_manager_net_mobile">Date</string>
@@ -1238,6 +1245,7 @@ răspunsul operatorului"</string>
     <string name="monitor_app_more">Mai multe</string>
     <string name="monitor_requests_from_pc">Administrați instalarea aplicațiilor prin USB</string>
     <string name="more_game">Mai multe jocuri</string>
+    <string name="more_lock">Mai multe</string>
     <string name="name">Nume</string>
     <string name="net_booster">Creșterea vitezei rețelei</string>
     <string name="net_booster_expire_notification">Sesiunea de creștere a vitezei rețelei este pe cale să se încheie</string>
@@ -1315,9 +1323,11 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
     <string name="notification_item">Protejați aplicațiile cu Blocarea aplicațiilor</string>
-    <string name="notification_mask_summary">"Nu arăta conținutul notificărilor din Blocarea ecranului și din Perdeaua de notificări"</string>
+    <string name="notification_mask_summary">Ascunde conținutul notificărilor din Blocarea ecranului și din Perdeaua de notificări</string>
     <string name="notification_mask_title">Ascundeți conținutul</string>
     <string name="notification_quick_charging_title">Încărcare rapidă</string>
+    <string name="notification_masked_item">Ascunde notificările</string>
+    <string name="notification_masked_subtitle">Ascunde notificările din aplicațiile protejate cu Blocarea aplicațiilor</string>
     <string name="notification_subtitle">Apăsați pentru a activa</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
     <string name="notification_title_firewall_blocked">Blocat</string>
@@ -2022,12 +2032,21 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="start_diagnostic_botton">Start</string>
     <string name="start_downloading_app">A început descărcarea: %1$s</string>
     <string name="start_game">Start</string>
+    <string name="status_bar_network_flow_content">Astăzi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Rămas: %2$s</string>
+    <string name="status_bar_network_flow_content_not_setting">Astăzi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Luna aceasta: %2$s</string>
+    <string name="status_bar_network_flow_exceed_content">Astăzi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Ați depășit limita: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+    <string name="status_bar_network_flow_phone_balance">"   Balanță telefon:%1$s "</string>
+    <string name="status_bar_network_flow_purchase">"   Cumpărați &gt;"</string>
+    <string name="status_bar_network_flow_setup_data_plan">"   Setați planul de date &gt;"</string>
+    <string name="status_bar_network_flow_today">Astăzi: %1$s</string>
     <string name="still_retain_btn">Păstrați</string>
     <string name="suffix_pay_risk_count_bottom">riscuri</string>
     <string name="suffix_pay_risk_count_top">plăți</string>
     <string name="suffix_virus_count_bottom">total</string>
     <string name="suffix_virus_count_top">riscuri</string>
     <string name="suggest_app_tolock">Sugestii</string>
+    <string name="suggest_app_tolock_masked">Ascunse</string>
+    <string name="suggest_app_tolock_unmasked">Notificări vizibile</string>
     <string name="suggest_scan_again">Finalizați scanarea pentru e evita riscurile legate de securitate.</string>
     <string name="summary_app_lock_disable">Protejați-vă datele cu Blocarea aplicațiilor</string>
     <string name="summary_auto_update">MIUI va selecta ora cea mai potrivită pentru descărcarea și instalarea actualizărilor.</string>

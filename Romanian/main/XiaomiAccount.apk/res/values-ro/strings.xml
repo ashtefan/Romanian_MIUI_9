@@ -26,6 +26,7 @@
     <string name="account_none">Nimic</string>
     <string name="account_none_binded_info">Niciunul</string>
     <string name="account_none_user_name">Nimic</string>
+    <string name="account_notification_message">autentificarea în contul Mi a expirat; vă rugăm conectați-vă din nou!</string>
     <string name="account_protection">Protecție cont</string>
     <string name="account_protection_off">Dezactivată</string>
     <string name="account_protection_on">Activată</string>

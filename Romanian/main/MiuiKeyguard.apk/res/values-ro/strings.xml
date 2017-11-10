@@ -67,7 +67,7 @@
     <string name="input_password_after_boot_msg">Pentru a debloca telefonul introduceți parola</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Nu se poate comuta între Spațiile de lucru în timpul unui apel"</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Trebuie să accesați Spațiul Principal după ce telefonul repornește</string>
-    <string name="input_password_handle_sdcard_fs">Dezactivați \"Optimizarea cardului SD emulat\" din Setări>Setări adiționale>Opțiuni dezvoltator înainte de a accesa Spațiul Secundar.</string>
+    <string name="input_password_handle_sdcard_fs">"Nu se poate accesa Spațiul secundar din Blocarea ecranului. Accesați-l din Spațiul principal."</string>
     <string name="input_password_hint_text">Introduceţi parola</string>
     <string name="input_pattern_hint_text">Desenați modelul de deblocare</string>
     <string name="input_pin_code">Introduceţi codul PIN</string>

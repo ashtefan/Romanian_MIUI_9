@@ -206,6 +206,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">"Ațteptați %d secunde și încercați din nou. "</item>
         <item quantity="one">"Așteptați %d secundă și încercați din nou. "</item>
     </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d aplicații</item>
+        <item quantity="one">%d aplicație</item>
+    </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d aplicații blocate</item>
         <item quantity="one">o aplicație blocată</item>
@@ -213,6 +217,14 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="number_to_lock">
         <item quantity="other">%d aplicații neblocate</item>
         <item quantity="one">o aplicație neblocată</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d notificări au fost ascunse</item>
+        <item quantity="one">%d notificare a fost ascunsă</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d notificări sunt vizibile</item>
+        <item quantity="one">%d notificare este vizibilă</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Căutați printre %d aplicații</item>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="action_add_to_workspace">Adăugați la Spațiul de lucru</string>
     <string name="activity_not_found">"Aplicaţia nu este instalată pe telefon"</string>
     <string name="add_screen">Adăugați un ecran</string>
     <string name="app_already_exist">Aplicaţia există deja</string>
