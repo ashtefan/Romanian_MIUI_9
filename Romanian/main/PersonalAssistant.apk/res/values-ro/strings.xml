@@ -139,7 +139,7 @@
     <string name="express_open">Arată cardurile livrării</string>
     <string name="express_other_app">Urmăriți comenzile prin aplicațiile de cumpărături</string>
     <string name="express_setting_brief">Urmăriți pachetele cu livrare expres</string>
-    <string name="express_setting_brief">Obțineți carduri din aplicațiile de cumpărături pentru a vă urmări comenzile.</string>
+    <string name="express_setting_brief_detail">Urmăriți toate pachetele utilizând numărul de telefon și informațiile despre comandă.</string>
     <string name="express_setting_phone">Permite solicitarea informațiilor utilizând numărul de telefon</string>
     <string name="express_support_app">Aplicații suportate</string>
     <string name="express_taobao">Taobao</string>
