@@ -447,7 +447,6 @@
     <string name="steps_sport_des">Obțineți informații precise din aplicația Mi Fit.</string>
     <string name="steps_vip">Pași</string>
     <string name="steps_vip_des">Contorizați pașii fără a instala o altă aplicație.</string>
-    <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">Schema de culoare</string>
     <string name="stock_list_empty_text">Nu urmăriți nicio companie.</string>
     <string name="stock_search_empty">Nu s-au găsit rezultate</string>
