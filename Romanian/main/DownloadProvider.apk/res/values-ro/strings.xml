@@ -71,7 +71,7 @@
     <string name="privacy_notif_content">Atingeţi pentru a vizualiza detaliile.</string>
     <string name="privacy_notif_title">Accelerator Xunlei activat</string>
     <string name="privacy_tip_cancel">Anulaţi</string>
-    <string name="privacy_tip_content">Utilizaţi Acceleratorul Xunlei pentru a accelera descărcările? URL-ul de descărcare va fi încărcat pe serverele Xunlei. Detaliile contului dvs. Mi vor fi, de asemenea, încărcate pentru a verifica dacă aveți abonament activ la acest serviciu.</string>
+    <string name="privacy_tip_content">"Utilizaţi Acceleratorul Xunlei pentru a accelera descărcările? URL-ul de descărcare va fi încărcat pe serverele Xunlei. Detaliile contului dvs. Mi vor fi, de asemenea, încărcate pentru a verifica dacă aveți abonament activ la acest serviciu."</string>
     <string name="privacy_tip_ok">OK</string>
     <string name="privacy_tip_title">Utilizaţi acceleratorul Xunlei?</string>
     <string name="recommended_file_size_download_in_mobile">Utilizaţi %s din datele mobile pentru a descărca acest fişier?</string>

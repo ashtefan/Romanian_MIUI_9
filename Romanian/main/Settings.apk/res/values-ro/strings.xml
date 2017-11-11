@@ -1471,7 +1471,6 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="edge_mode_photo_summary">În aplicația Cameră foto, apăsați marginea superioară a ecranului pentru a activa obturatorul și apăsați din nou pentru a realiza o fotografie</string>
     <string name="edge_mode_screenshot">Captură de ecran</string>
     <string name="edge_mode_screenshot_summary">Apăsați de două ori ambele margini pentru a realiza o captură de ecran</string>
-    <string name="edge_touch_volume">Ajustați volumul de la margini</string>
     <string name="edit_rule">Editați regulile</string>
     <string name="edit_rules">Editați</string>
     <string name="eighthours">8 ore</string>
@@ -2449,7 +2448,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="miui_lab_taplus_desc">Apăsați și mențineți apăsat un element pentru a declanșa scurtăturile</string>
     <string name="miui_lab_taplus_title">Declanșare aplicații?</string>
     <string name="miui_screen_config_title">Setări Ecran principal</string>
-    <string name="miui_updater">Actualizare</string>
+    <string name="miui_updater">Actualizare de sistem</string>
     <string name="mms_breathing_light_color_title">Mesaje</string>
     <string name="mms_breathing_light_freq_title">Frecvenţă pulsare indicator luminos intermitent pentru mesaje</string>
     <string name="mms_privacy_password_role_instruction">Conversațiile private vor fi stocate aici.</string>
@@ -2809,7 +2808,6 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="page_layout_page2_small_title">Foarte mic</string>
     <string name="page_layout_page2_title">Previzualizaţi</string>
     <string name="page_layout_small_title">Foarte mic</string>
-    <string name="palm_enabled">Acoperiți ecranul pentru a o dezactiva</string>
     <string name="paper_mode_auto_twilight_summary">Comută la modul Lectură la apus în mod automat</string>
     <string name="paper_mode_auto_twilight_title">"Mod de citire seara"</string>
     <string name="paper_mode_customize_time_summary">Comută la modul Lectură pentru o anumită perioadă</string>
@@ -4167,7 +4165,6 @@ Luați în calcul utilizarea unui ^1 mai rapid pentru o mai bună performanță.
     <string name="supl_not_set">&lt;Nu este setat&gt;</string>
     <string name="supplicant_state_label">Stare supplicant:</string>
     <string name="sure_sync_now">Sincronizați elementele acum?</string>
-    <string name="suspend_gesture_enabled">Răsturnați telefonul pentru a închide ecranul</string>
     <string name="suw_back_button_label">Înapoi</string>
     <string name="suw_more_button_label">Mai multe</string>
     <string name="suw_next_button_label">Următorul</string>

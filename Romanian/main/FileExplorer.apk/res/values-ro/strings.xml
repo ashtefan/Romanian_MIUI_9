@@ -121,7 +121,7 @@
     <string name="create_shortcut_success">Scurtătură adăugată cu succes</string>
     <string name="daily_clockin">Verificați</string>
     <string name="data_consumption_cancel">Ieşire</string>
-    <string name="data_consumption_checkbox_hint">Nu se afişează din nou</string>
+    <string name="data_consumption_checkbox_hint">"Nu se afişează din nou"</string>
     <string name="data_consumption_confirm">OK</string>
     <string name="data_consumption_message">Această aplicație necesită o conexiune la internet prin Wi-Fi pentru a funcţiona în mod normal.</string>
     <string name="data_consumption_message1">Exploratorul de fișiere trebuie să se conecteze la internet pentru a putea vedea stickerele și videoclipurile populare.</string>
@@ -191,6 +191,13 @@
     <string name="error_invalid_path">Cale incorectă</string>
     <string name="error_not_support">Nesuportat</string>
     <string name="error_open_file_failed_no_app_found">Nu a fost găsită nicio aplicaţie pt. a finaliza această acţiune</string>
+    <string name="exo_controls_fastforward_description">Repede înainte</string>
+    <string name="exo_controls_next_description">Piesa următoare</string>
+    <string name="exo_controls_pause_description">Pauză</string>
+    <string name="exo_controls_play_description">Redare</string>
+    <string name="exo_controls_previous_description">Piesa anterioară</string>
+    <string name="exo_controls_rewind_description">Înapoi</string>
+    <string name="exo_controls_stop_description">Stop</string>
     <string name="extended_storage_file_can_not_open">"Nu s-a putut deschide fișierul. Copiați fișierul în memoria internă."</string>
     <string name="extract">Extragere</string>
     <string name="fail_to_create_folder_unknown">Imposibil de creat dosarul</string>
