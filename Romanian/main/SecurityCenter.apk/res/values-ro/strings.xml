@@ -103,6 +103,7 @@
     <string name="adjust_traffic_data">Setaţi utilizarea datelor</string>
     <string name="after_the_lock_screen">Blochează aplicațiile odată cu blocarea ecranului.</string>
     <string name="all_address_choose_hint">Toate numerele din acest județ</string>
+    <string name="already_close_gamebooster">Creșterea vitezei în jocuri este dezactivată</string>
     <string name="anim_gamebooster_text">Doar o secundă…</string>
     <string name="anti_disturb_msg_detail">Dezactivați toate notificările cu excepția apelurilor primite</string>
     <string name="anti_disturb_msg_title">Nu deranjați</string>
@@ -467,6 +468,7 @@
     <string name="block_message_number">Mesaje: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="block_phone_number">Apeluri: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="boost_done">Accelerat cu succes</string>
+    <string name="boost_stop">Dezactivați Creșterea vitezei</string>
     <string name="booster_immediately">Accelerați</string>
     <string name="booster_suc">Accelerat cu succes</string>
     <string name="boostering">Accelerare viteză…</string>
@@ -671,6 +673,8 @@
     <string name="data_usage_warning_body">Atingeți pentru a vizualiza detaliile despre utilizarea datelor.</string>
     <string name="data_usage_warning_body_notify">Atingeți pentru a vedea detalii</string>
     <string name="data_usage_warning_title">Avertizare utilizare date</string>
+    <string name="databooster_tips_message">Activați pentru a restricționa cartelele SIM, cu excepția cardului de date. Dezactivați această caracteristică dacă întâmpinați erori în jocuri.</string>
+    <string name="databooster_tips_title">Atenție</string>
     <string name="data_usage_warning_title_notify">Ați atins limita planului dvs. de date</string>
     <string name="declaration_dialog_msg">Această caracteristică vă poate ajuta să urmăriți utilizarea datelor, dar nu vă garantează prevenirea costurilor suplimentare. Pentru rezultate optime, setați o limită conservatoare.</string>
     <string name="deep_clean_disconnect_data_title">Dezactivați datele mobile atunci când telefonul este blocat</string>
@@ -832,6 +836,7 @@
     <string name="firewall_wifi_dialog_message">"Aplicația instalată nu se va putea conecta la internet utilizând Wi-Fi cât timp acest comutator este inactiv.​"</string>
     <string name="five_percent_total_pkg">%s (5%% din datele lunare)</string>
     <string name="flow_rank_title">Utilizare date mobile</string>
+    <string name="forbid_autobright_summary">"Iluminarea ecranului va rămâne constantă când vă jucați"</string>
     <string name="forbid_autobright_title">Depanați iluminarea ecranului</string>
 
     <string name="foreground_traffic">În prim plan: %s</string>
@@ -853,6 +858,7 @@
     <string name="game_ad_recommendation">Toată lumea joacă</string>
     <string name="game_anti_disturb_msg">Nu deranjați Jocurile</string>
     <string name="game_booster">Creșterea vitezei în jocuri</string>
+    <string name="game_booster_close">Creșterea vitezei în jocuri dezactivată</string>
     <string name="game_booster_intro">Despre Creșterea vitezei în jocuri</string>
     <string name="game_booster_jump_webview">Doar o secundă…</string>
     <string name="game_booster_tab_top">Top</string>
@@ -2412,6 +2418,8 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="wlan_booster">Optimizare Wi-Fi</string>
     <string name="wlan_change_protection_detail">"Nu comuta în mod automat la Wi-Fi când este conectat la rețeaua de date mobile"</string>
     <string name="wlan_change_protection_title">Preveniți comutarea rețelelor</string>
+    <string name="xunyou_net_booster">Creșterea vitezei rețelei</string>
+    <string name="xunyou_net_booster_detail">Utilizați serviciul de creștere a vitezei rețelei Xunyou în jocuri</string>
     <string name="xunyou_pay_webview">Servicii Xunyou</string>
     <string name="xunyou_server_expired">Sesiunea a expirat.</string>
 </resources>

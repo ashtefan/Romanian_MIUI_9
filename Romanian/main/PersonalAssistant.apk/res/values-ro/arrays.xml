@@ -18,8 +18,8 @@
         <item>doar</item>
     </string-array>
     <string-array name="day_time_space">
-        <item>Miezul nopții</item>
-        <item>Înainte de zorii zilei</item>
+        <item>Noapte</item>
+        <item>Dimineața devreme</item>
         <item>Dimineață</item>
         <item>Amiază</item>
         <item>După amiază</item>
@@ -49,6 +49,20 @@
         <item>moderat</item>
         <item>sever</item>
         <item>serios</item>
+    </string-array>
+    <string-array name="express_status_detail">
+        <item>Pe drum</item>
+        <item>În livrare</item>
+    </string-array>
+    <string-array name="express_status_all">
+        <item>Pe drum</item>
+        <item>În livrare</item>
+        <item>Livrat</item>
+        <item>Necunoscut</item>
+        <item>Primit</item>
+        <item>Respins</item>
+        <item>Returnat</item>
+        <item>Necunoscut</item>
     </string-array>
     <string-array name="express_watched_app_filter">
         <item>Curier:</item>

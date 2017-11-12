@@ -165,7 +165,7 @@ Notă: atingerea triplă pentru mărire funcţionează peste tot, cu excepţia t
     <string name="add_fingerprint_success_msg">Adăugată cu succes</string>
     <string name="add_fingerprint_text">Adăugați o amprentă</string>
     <string name="add_fingerprint_toast_text">Plasați degetul pe scanerul de amprente</string>
-    <string name="add_front_fingerprint_instruction_msg">Senzorul de amprentă se află pe partea posterioară a telefonului.</string>
+    <string name="add_front_fingerprint_instruction_msg">Senzorul de amprentă este încorporat în butonul Acasă al telefonului.</string>
     <string name="add_new">Adăugați</string>
     <string name="add_rule">Adăugați reguli</string>
     <string name="add_virtual_keyboard">Gestionați tastaturile</string>

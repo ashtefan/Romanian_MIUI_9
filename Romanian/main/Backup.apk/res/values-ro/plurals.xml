@@ -29,19 +29,19 @@
         <item quantity="one">element</item>
     </plurals>
     <plurals name="save_item_saving_summary">
-        <item quantity="other">%d elemente sunt restaurate</item>
-        <item quantity="one">%d element este restaurat</item>
+        <item quantity="other">S-au restaurat %d elemente</item>
+        <item quantity="one">S-a restaurat %d element</item>
     </plurals>
     <plurals name="save_item_saved_summary">
-        <item quantity="other">%d elemente sunt importate și restaurate</item>
-        <item quantity="one">%d element este importat și restaurat</item>
+        <item quantity="other">S-au importat și s-au restaurat %d elemente</item>
+        <item quantity="one">S-a importat și s-a restaurat %d element</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"%d elemente importate, "</item>
-        <item quantity="one">"%d element importat, "</item>
+        <item quantity="other">"S-au importat %d elemente. "</item>
+        <item quantity="one">"S-a importat %d element. "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">%d elemente trebuie importate din nou</item>
-        <item quantity="one">%d element trebuie importat din nou</item>
+        <item quantity="other">Importați din nou %d elemente.</item>
+        <item quantity="one">Importați din nou %d element.</item>
     </plurals>
 </resources>
