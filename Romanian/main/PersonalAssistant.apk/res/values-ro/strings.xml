@@ -666,7 +666,6 @@ Verificați numărul de urmărire."</string>
     <string name="paycode_parent">Alipay</string>
     <string name="paycode_sdk_parent">Scurtătură pentru plăți (nu este necesară nicio aplicație)</string>
     <string name="payment">Plățile mele</string>
-    <string name="payment_amount_empty">0.00</string>
     <string name="payment_app_name">Plățile mele</string>
     <string name="payment_card_title">Plățile mele</string>
     <string name="payment_clear_records_dialog_message">Ștergeți întreg istoricul de plată?</string>
@@ -888,7 +887,6 @@ Verificați numărul de urmărire."</string>
     <string name="steps_vip_des">Contorizați pașii fără a instala o altă aplicație.</string>
     <string name="stock_card_add">Adăugați companii</string>
     <string name="stock_card_title">Stocuri</string>
-    <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">Schema de culoare</string>
     <string name="stock_list_empty_text">Nu urmăriți nicio companie.</string>
     <string name="stock_search_empty">Nu s-au găsit rezultate</string>
