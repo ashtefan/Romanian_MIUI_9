@@ -215,7 +215,7 @@
     <string name="file_name_invalid">"Numele fișierelor nu pot conține următoarele caractere: /\\:*?&lt;&gt;"</string>
     <string name="file_not_exist">Nu există</string>
     <string name="finish_str">Finalizat</string>
-    <string name="folder_name_empty">Numele dosarului nu poate fi gol</string>
+    <string name="folder_name_empty">"Numele dosarului nu poate fi gol"</string>
     <string name="folder_name_illegal">Nume dosar greşit</string>
     <string name="follow_fail">"Nu s-a putut urmări, încercați din nou mai târziu"</string>
     <string name="follow_success_tip">Urmărit cu succes</string>
@@ -289,7 +289,7 @@
     <string name="login_account_bind_wb">Contul Weibo</string>
     <string name="login_account_bind_wx">Utilizați contul WeChat</string>
     <string name="login_account_bind_xm">Utilizați contul Mi</string>
-    <string name="login_expired">Autentificarea a expirat; conectați-vă din nou</string>
+    <string name="login_expired">Sesiunea a expirat. Conectați-vă din nou</string>
     <string name="login_failed_tip">"Nu s-a putut conecta; încercați din nou mai târziu"</string>
     <string name="login_success_tip">Conectat cu succes</string>
     <string name="make_private">Ascundeți</string>

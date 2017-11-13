@@ -2138,6 +2138,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="lock_screen_notifications_summary_show">Afișează toate notificările și conținutul acestora</string>
     <string name="lock_screen_notifications_summary_show_profile">Afișează toate notificările de Servici</string>
     <string name="lock_screen_notifications_title">Când dispozitivul este blocat</string>
+    <string name="lock_screen_secure_after_timeout_immediately_never">Nu solicita parola niciodată</string>
     <string name="lock_screen_secure_after_timeout_immediately_summary">Solicită parola imediat</string>
     <string name="lock_screen_secure_after_timeout_summary">Solicită parola: %1$s</string>
     <string name="lock_screen_secure_after_timeout_title">Solicită parola</string>
@@ -2732,10 +2733,10 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="open_miui_optimization_title">Activați optimizarea MIUI</string>
     <string name="open_miui_optimization_warning_message">Telefonul va reporni pentru a se aplica modificarea</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Renunțați</string>
-    <string name="open_personal_assistant_dialog_btn_confirm">Închideți</string>
-    <string name="open_personal_assistant_dialog_desc">"Nu veți mai putea utiliza QuickCard și nici primi actualizări pentru acesta. Îl dezactivați acum?"</string>
-    <string name="open_personal_assistant_dialog_title">Dezactivați QuickCard</string>
-    <string name="open_personal_assistant_title">Activați QuickCard</string>
+    <string name="open_personal_assistant_dialog_btn_confirm">Dezactivați</string>
+    <string name="open_personal_assistant_dialog_desc">"Nu veți mai putea utiliza Asistentul inteligent și nici primi actualizări pentru acesta. Îl dezactivați acum?"</string>
+    <string name="open_personal_assistant_dialog_title">Dezactivați Asistentul inteligent</string>
+    <string name="open_personal_assistant_title">Activați Asistentul inteligent</string>
     <string name="open_sdcard_optimization_title">Activați optimizarea emulată a cardului SD</string>
     <string name="open_sdcard_optimization_warning_message">Telefonul va reporni pentru a intra în vigoare această modificare.</string>
     <string name="open_wifi_connect_summary">Atingeţi pentru a vizualiza detalii</string>
@@ -2849,6 +2850,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="phone_language">Limba</string>
     <string name="phone_language_summary" />
     <string name="physical_keyboard_title">Tastatură fizică</string>
+    <string name="pick_up_gesture_wakeup_title">Ridicați telefonul pentru a-l trezi</string>
     <string name="picture_color_mode">Mod culoare</string>
     <string name="picture_color_mode_desc">Utilizați sRGB</string>
     <string name="pin_failed">Codul PIN este incorect!</string>

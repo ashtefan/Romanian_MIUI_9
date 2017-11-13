@@ -137,5 +137,6 @@
     <string name="unlockscreen_low_battery">Conectaţi încărcătorul</string>
     <string name="unlockscreen_recharge_completed">Încărcare finalizată</string>
     <string name="unlockscreen_recharging_message">Încărcat: %d%%</string>
+    <string name="wallpaper_global_des_drop_down_notify_text">Eliberați pentru a vedea detaliile</string>
     <string name="wrong_password">Parolă incorectă</string>
 </resources>

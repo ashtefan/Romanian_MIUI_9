@@ -26,7 +26,7 @@
     <string name="application_name">Lansator de sistem</string>
     <string name="apply">Aplicați</string>
     <string name="apply_action">Aplicaţi</string>
-    <string name="apply_as_lock_screen">Aplicați ca imagine de blocare ecran</string>
+    <string name="apply_as_lock_screen">Setați ca Blocare a ecranului</string>
     <string name="apply_as_wallpaper">Setați ca Ecran de pornire</string>
     <string name="apply_both">Ambele</string>
     <string name="aqi_quality_index_dangerous">Periculos</string>
@@ -39,7 +39,7 @@
     <string name="buffering">Încărcare memorie tampon…</string>
     <string name="cancel_action">Anulaţi</string>
     <string name="cancel_btn_label">Anulaţi</string>
-    <string name="cant_edit_lock_screen">"Nu se poate edita stilul ecranului de blocare."</string>
+    <string name="cant_edit_lock_screen">"Nu se poate edita stilul Ecranului de blocare."</string>
     <string name="cant_remove_folder">"Nu se poate elimina dosarul"</string>
     <string name="cant_remove_retained_app">"Nu a putut fi eliminată această aplicație"</string>
     <string name="cant_remove_system_app">"Nu se poate elimina o aplicație de sistem"</string>
@@ -51,7 +51,7 @@
     <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Aplicațiile clonate vor fi dezinstalate împreună cu acestea.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Aplicația clonată va fi dezinstalată împreună cu aceasta.</string>
-    <string name="confirm_uninstall_dialog_title">Aplicațiile clonate corespunzătoare vor fi eliminate.</string>
+    <string name="confirm_uninstall_dialog_title">Aplicațiile clonate vor fi dezinstalate.</string>
     <string name="current_preview">Previzualizare</string>
     <string name="current_wallpaper">Actuală</string>
     <string name="custom_wallpaper_picker">Răsfoiţi</string>
@@ -151,8 +151,8 @@
     <string name="loading_wallpaper">Doar o secundă…</string>
     <string name="local_wallpaper">Descărcate</string>
     <string name="lock_screen">Blocarea ecranului</string>
-    <string name="lock_screen_failed_message">"Nu se poate seta imaginea de fundal"</string>
-    <string name="lock_screen_success_message">Aplicată</string>
+    <string name="lock_screen_failed_message">"Nu se poate seta imaginea de fundal pentru Blocarea ecranului"</string>
+    <string name="lock_screen_success_message">Aplicată la Blocarea ecranului</string>
     <string name="lock_screen_wallpaper">Imagine de fundal în blocarea ecranului</string>
     <string name="menu_add">Adăugaţi</string>
     <string name="menu_auto_fill">Umple celulele goale</string>

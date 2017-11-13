@@ -657,7 +657,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="photo_editor_crop_reset">Resetare</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Mâzgălitură</string>
-    <string name="photo_editor_filter">Filtru</string>
+    <string name="photo_editor_filter">Filtre</string>
     <string name="photo_editor_label">Editați</string>
     <string name="photo_editor_long_crop">Decupare</string>
     <string name="photo_editor_miui_beauty">Înfrumusețare</string>
@@ -687,7 +687,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="photo_editor_remover">Ștergeți</string>
     <string name="photo_editor_rotate">Rotire</string>
     <string name="photo_editor_saving">Se salvează…</string>
-    <string name="photo_editor_sticker">Miniatură</string>
+    <string name="photo_editor_sticker">Miniaturi</string>
     <string name="photo_editor_text">Text</string>
   <string name="photo_editor_transition_image_view">photo_view</string>
   <string name="photo_editor_transition_menu_view">menu_view</string>
