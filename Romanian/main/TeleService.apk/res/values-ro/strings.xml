@@ -327,7 +327,7 @@
     <string name="call_record_add_numbers">Adăugaţi numere</string>
     <string name="call_record_auto_always">Toate numerele</string>
     <string name="call_record_auto_scenario_title">Înregistrare apeluri de la</string>
-    <string name="call_record_auto_summary">Înregistrările vor fi salvate în dosarul MIUI/sound_recorder/call_rec din memoria internă a telefonului</string>
+    <string name="call_record_auto_summary">"Înregistrările vor fi salvate în dosarul MIUI/sound_recorder/call_rec din stocarea internă a telefonului"</string>
     <string name="call_record_auto_title">Înregistrare apeluri în mod automat</string>
     <string name="call_record_auto_unknown_number">Numere necunoscute</string>
     <string name="call_record_auto_whitelist">Listă personalizată</string>

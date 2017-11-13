@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="account_info">Eu</string>
+    <string name="account_info">Contul meu</string>
     <string name="account_name_not_login">Conectaţi-vă</string>
     <string name="account_unactivated">Contul nu este activat</string>
     <string name="ad_app_download_start">Pornire descărcare…</string>
@@ -39,7 +39,7 @@
     <string name="component_title_wallpaper">Imagini de fundal</string>
     <string name="current_using_desktop_wallpaper_text">Ecranul principal</string>
     <string name="current_using_lockscreen_wallpaper_text">Blocarea ecranului</string>
-    <string name="current_version_incompatible">Incompatibilitate de versiune</string>
+    <string name="current_version_incompatible">Această temă nu este compatibilă</string>
     <string name="deleting">Ştergere…</string>
     <string name="description_author">Autor</string>
     <string name="description_designer">Designer</string>
@@ -92,8 +92,8 @@
     <string name="gift_use_confirmation_dlg_title">Trimiteţi acest cadou?</string>
     <string name="gift_use_fail_dlg_title">Ceva a mers prost</string>
     <string name="gift_used">Trimis</string>
-    <string name="hide_free">"Ascundeți-le pe cele gratuite "</string>
-    <string name="hide_incompatible">"Ascundeți-le pe cele incompatibile "</string>
+    <string name="hide_free">Ascundeți temele gratuite</string>
+    <string name="hide_incompatible">Ascundeți temele incompatibile</string>
     <string name="home_apply_failured">"Nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
     <string name="home_apply_success">Imagine de fundal pentru Ecranul principal aplicată</string>
     <string name="in_the_end">Nu mai sunt elemente de afișat</string>
@@ -149,8 +149,8 @@
     <string name="online_precust_scenery">Scenariu</string>
     <string name="online_precust_tiny">Mic</string>
     <string name="online_search_hint">Căutaţi resurse online</string>
-    <string name="present_local_themes">Resursele mele de Teme</string>
-    <string name="present_official_themes">Selecție oficială</string>
+    <string name="present_local_themes">Temele mele</string>
+    <string name="present_official_themes">Selecția noastră</string>
     <string name="present_online_themes">Obțineți mai multe teme online</string>
     <string name="provision_default_theme_title">Implicit</string>
     <string name="provision_loading_tips">Doar o secundă…</string>
@@ -160,7 +160,7 @@
     <string name="purchased_list_current">Teme optimizate</string>
     <string name="purchased_list_legacy">Teme achiziționate</string>
     <string name="recently_used">Utilizate recent</string>
-    <string name="region_not_support">Ne pare rău, aplicația Teme nu este suportată în regiunea dumneavoastră.</string>
+    <string name="region_not_support">"Aplicația Teme nu este suportată în regiunea dumneavoastră."</string>
     <string name="reload">Încercați din nou</string>
     <string name="resource_account_abnormal_state">Eroare de cont. Aşteptaţi un minut sau două şi încercaţi din nou.</string>
     <string name="resource_account_fail_to_add">Adăugarea contului a eşuat</string>

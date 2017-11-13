@@ -962,7 +962,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="too_many_recipients">Nu puteţi adăuga mai mult de %2$s destinatari (aţi adăugat %1$s).</string>
     <string name="trash_bin">Coș de gunoi</string>
     <string name="trash_bin_summary">Vedeți fotografiile salvate care au fost șterse recent</string>
-    <string name="try_again_later">reîncercați mai târziu.</string>
+    <string name="try_again_later">Încercați din nou mai târziu.</string>
     <string name="try_to_send">Trimiteţi</string>
     <string name="turn_off_and_move">Dezactivați și mutați</string>
     <string name="turn_on_and_remove">Activați și mutați</string>

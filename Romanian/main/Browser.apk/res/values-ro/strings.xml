@@ -23,14 +23,14 @@
     <string name="action_menu_account_not_login_hint">Conectați-vă pentru a sincroniza cu Mi Cloud</string>
     <string name="action_menu_bookshelf">Raftul cu cărți</string>
     <string name="action_menu_current_version">Versiune curentă</string>
-    <string name="action_menu_request_desktop_site">Solicită versiunea desktop</string>
-    <string name="action_menu_request_desktop_site_off">Solicită versiunea desktop/oprită</string>
-    <string name="action_menu_request_desktop_site_on">Solicită versiunea desktop/pornită</string>
+    <string name="action_menu_request_desktop_site">Acces site desktop</string>
+    <string name="action_menu_request_desktop_site_off">Versiunea desktop este oprită</string>
+    <string name="action_menu_request_desktop_site_on">Versiunea desktop este pornită</string>
     <string name="action_menu_text_add_bookmark">Adăugaţi un marcaj</string>
     <string name="action_menu_text_bandwidth">Economisire date</string>
     <string name="action_menu_text_bandwidth_off">Economisire date</string>
     <string name="action_menu_text_bandwidth_on">Economisire date</string>
-    <string name="action_menu_text_bookmark_add_off">Nu poate fi adăugată nicio pagină web.</string>
+    <string name="action_menu_text_bookmark_add_off">"Nu s-a putut adăuga site-ul"</string>
     <string name="action_menu_text_bookmark_added">Marcaj adăugat</string>
     <string name="action_menu_text_copy_url">Copiaţi URL</string>
     <string name="action_menu_text_create_qr_code">Cod QR</string>
@@ -65,7 +65,7 @@
     <string name="add_favorites_to">Adăugați la Favorite</string>
     <string name="add_new_bookmark">Adăugaţi un marcaj</string>
     <string name="add_new_quicklink">Adăugaţi la pagina de pornire</string>
-    <string name="add_pwa_to_homescreen">Adăugați această pagină la Ecranul principal?</string>
+    <string name="add_pwa_to_homescreen">Adăugați o scurtătură la Ecranul principal?</string>
     <string name="add_ql_bm_title">Adăugaţi</string>
     <string name="add_quicklink_to_popular">Adăugaţi la pagina de pornire</string>
     <string name="add_quicklinks">Adăugaţi</string>
@@ -79,7 +79,7 @@
     <string name="added_to_bookmarks">Adăugat la marcaje</string>
     <string name="adjust_text_zoom_toast">Modificarea dimensiunii textului poate provoca afișarea incorectă a unor site-uri</string>
     <string name="agree">De acord</string>
-    <string name="agree_permissions_request">De acord</string>
+    <string name="agree_permissions_request">Permiteți</string>
     <string name="alert_tips">Acest site poate prezenta un risc de securitate</string>
     <string name="allow">Permiteţi</string>
     <string name="app_new_version">Cea mai recentă versiune a aplicației este instalată deja</string>
@@ -154,8 +154,8 @@
     <string name="close_all_tab_alert_title">Închideţi toate filele</string>
     <string name="close_cloud_tab_tip">Închideți filele Cloud din %s?</string>
     <string name="cloud_loading_tips">Glisați în jos pentru a sincroniza</string>
-    <string name="cloud_no_new_data_toast">"Totul este la zi"</string>
-    <string name="cloud_sync_closed_toast">"Nu se poate actualiza deoarece sincronizarea este dezactivată"</string>
+    <string name="cloud_no_new_data_toast">Totul este la zi</string>
+    <string name="cloud_sync_closed_toast">Activați sincronizarea pentru a putea actualiza</string>
     <string name="cloud_sync_failed_toast">"Nu se poate actualiza"</string>
     <string name="cloud_tab">File din Cloud</string>
     <string name="cloud_time_tips">Ultima sincronizare</string>
@@ -295,8 +295,8 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="empty_app_name">altă aplicație</string>
     <string name="empty_bookmark">Gol</string>
     <string name="empty_cloud_tab_login_hint">Nicio filă cloud</string>
-    <string name="empty_cloud_tab_logout_hint">"Filele deschise
- pe alte dispozitive conectate vor fi afișate aici"</string>
+    <string name="empty_cloud_tab_logout_hint">"Conectați-vă la contul Mi
+pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="empty_history_hint">Istoric gol</string>
     <string name="empty_snapshot_hint">Gol</string>
     <string name="enable_geolocation_confirm_message">Oprirea serviciilor de localizare va afecta recomandările pe care le primiți.</string>
@@ -324,7 +324,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="find_on_page_next">Înainte</string>
     <string name="find_on_page_prev">Înapoi</string>
     <string name="find_previous">Găsiți precedentul</string>
-    <string name="finish_sync_cloud_tabs">Sincronizarea s-a încheiat</string>
+    <string name="finish_sync_cloud_tabs">Sincronizare încheiată cu succes</string>
     <string name="firstUsingSearchEngineTips">Schimbați motorul de căutare?</string>
     <string name="fling_on_border_gesture_hint">Puteți selecta funcția acestui gest din Setări</string>
     <string name="force_quick_search_title">Căutați</string>
@@ -336,7 +336,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="geolocation_permissions_prompt_remember">Memoraţi preferinţele</string>
     <string name="geolocation_permissions_prompt_share">Distribuiţi locaţia</string>
     <string name="geolocation_permissions_prompt_toast_allowed">Acest site poate accesa locaţia dvs. Puteţi modifica acest lucru în Setări.</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">Acest site nu poate accesa locaţia dvs.</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">"Acest site nu vă poate accesa locaţia"</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Anulaţi</string>
     <string name="geolocation_settings_page_dialog_message">Blocaţi accesul la locaţie al acestui site web?</string>
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
@@ -359,7 +359,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="homepage_more_sites">Mai multe site-uri web</string>
     <string name="homepage_search_hint">Căutaţi</string>
     <string name="homepage_top_card_menu">Top</string>
-    <string name="ignore_add_pwa_dialog_today">Nu arăta astăzi</string>
+    <string name="ignore_add_pwa_dialog_today">"Nu arăta astăzi"</string>
     <string name="in_incognito">"Sunteţi incognito! Paginile web pe care le deschideţi în această filă nu vor apărea în istoricul browserului."</string>
     <string name="in_secureaccess">Browser comutat la modul sigur</string>
     <string name="isReplacePage">Fișierul există deja, îl înlocuiți?</string>
@@ -545,7 +545,7 @@ Părăsiţi această pagină?"</string>
     <string name="no_space_alert_clean">Obțineți spațiu suplimentar</string>
     <string name="no_space_alert_text">Nu există spațiu suficient de stocare</string>
     <string name="no_space_alert_title">Descărcare întreruptă</string>
-    <string name="no_space_clean_failed">Nu s-a putut obține spațiu suplimentar de stocare pe dispozitiv​</string>
+    <string name="no_space_clean_failed">"Nu s-a putut obține spațiu suplimentar de stocare pe dispozitiv​"</string>
     <string name="not_allowed_open">"Nu s-a putut utiliza Browser-ul în modul OutOfBand"</string>
     <string name="not_remind_again">Memorează alegerea mea</string>
     <string name="notif_install_successful">Descărcare finalizată</string>
@@ -568,12 +568,12 @@ Părăsiţi această pagină?"</string>
     <string name="pay_failed_toast">"Nu s-a putut finaliza plata"</string>
     <string name="pay_success_toast">Plata s-a efectuat cu succes</string>
     <string name="permission_alert_window">Permiteți afișarea ferestrelor pop-up pentru a utiliza această caracteristică.</string>
-    <string name="permission_notification">vă trimită notificări</string>
+    <string name="permission_notification">trimită notificări.</string>
     <string name="permission_unknown">Acțiune necunoscută</string>
-    <string name="permissions_prompt_message">"%s dorește să "</string>
+    <string name="permissions_prompt_message">%s dorește să</string>
     <string name="popup_window_attempt">Permiteţi acestui site să deschidă o fereastră de tip pop-up?</string>
     <string name="positive_confirm_message">Opriți oricum</string>
-  <string name="pref_accept_quicklink_push">Start page push</string>
+    <string name="pref_accept_quicklink_push">Flux de știri</string>
     <string name="pref_accessibility">Accesibilitate</string>
     <string name="pref_accessibility_title">Accesibilitate</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">Combinații de litere comune pot fi introduse printr-o singură apăsare în bara de adrese</string>
@@ -613,7 +613,7 @@ Părăsiţi această pagină?"</string>
     <string name="pref_extras_reset_default_summary">Restabiliţi setările prestabilite</string>
     <string name="pref_extras_reset_default_title">Altele</string>
     <string name="pref_extras_send_feedback">Trimiteți un comentariu</string>
-    <string name="pref_extras_title">Setări avansate</string>
+    <string name="pref_extras_title">Setări adiționale</string>
     <string name="pref_extras_title_version">Informaţii despre versiune</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">"Salvați fișierele în locația prestabilită a browser-ului"</string>
     <string name="pref_file_downlaod_save_reset_default_settings">Restabiliţi locaţia implicită</string>
@@ -684,14 +684,14 @@ Părăsiţi această pagină?"</string>
     <string name="progress_dialog_setting_wallpaper">Se aplică imaginea de fundal…</string>
     <string name="pull_to_refresh_pull_label">Trageți în jos pentru actualizare</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a merge la Recomandate și actualizare</string>
-    <string name="pwa_app_name">Aplicație Web</string>
+    <string name="pwa_app_name">Aplicații Web</string>
     <string name="qr_code_title">Cod QR</string>
     <string name="qr_description">Scanați codul QR</string>
     <string name="quicklink_bookmark_save">Salvați la</string>
     <string name="quicklink_cannot_save_url">"Nu se poate adăuga acest URL."</string>
     <string name="quicklink_folder_text">Aplicații de top</string>
     <string name="quicklink_not_saved">"Nu s-a putut adăuga la pagina de start"</string>
-    <string name="quicklink_push_confirm_message">Dezactivarea acestei caracteristici va afecta start page push.</string>
+    <string name="quicklink_push_confirm_message">"Nu veți mai primi noutăți după ce veți dezactiva această caracteristică. O dezactivați acum?"</string>
     <string name="quicklink_saved">Salvat pe pagina de pornire</string>
     <string name="quicklink_saved_before">Acest site web a fost adăugat deja</string>
     <string name="quicklink_user_define_webpage_title">Nume</string>
@@ -714,7 +714,7 @@ Părăsiţi această pagină?"</string>
     <string name="readmode_recommend_message">"Aţi citit deja această carte :)"</string>
     <string name="readmode_refresh">Reîmprospătaţi</string>
     <string name="readmodelist_bookmarks_to_show">Listă de lectură</string>
-    <string name="refuse_permissions_request">Refuzați</string>
+    <string name="refuse_permissions_request">Restricționați</string>
     <string name="remember_passwords_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
     <string name="remove_bookmark">Ştergeţi marcajul</string>
     <string name="remove_bookmark_group">Ştergeţi grupul</string>
@@ -799,7 +799,7 @@ Părăsiţi această pagină?"</string>
     <string name="skip_current_version">Omiteţi această versiune</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Nu s-a putut salva pagina"</string>
-    <string name="snapshot_successed">Deschideți Semne de carte/Istoric-&gt;LOCAL pentru a vedea pagina</string>
+    <string name="snapshot_successed">Deschideți Semne de carte &amp; Istoric -&gt;LOCAL pentru a vedea pagina</string>
     <string name="ssl_bad_clock_date_settings">Setați data</string>
     <string name="ssl_bad_clock_warning" formatted="false">"Nu se poate stabili o conexiune privată cu %s1 deoarece data și ora sistemului dumneavoastră (%s2) sunt incorecte."</string>
     <string name="ssl_certificate">Certificat de securitate</string>
@@ -895,7 +895,7 @@ Părăsiţi această pagină?"</string>
     <string name="version_check_button_no_network">"Nu se poate conecta la reţea"</string>
     <string name="version_check_button_resume_download">Reluaţi descărcarea</string>
     <string name="version_check_button_update">Actualizaţi</string>
-    <string name="version_check_failed">Nu s-a reușit căutarea actualizărilor</string>
+    <string name="version_check_failed">"Nu s-au putut căuta actualizări"</string>
     <string name="version_dialog_buttion_ok">OK</string>
     <string name="version_dialog_buttion_update">Actualizaţi</string>
     <string name="version_update_file_download_toast">Descărcare</string>

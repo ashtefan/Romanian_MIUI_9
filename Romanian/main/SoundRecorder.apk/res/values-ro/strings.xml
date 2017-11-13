@@ -24,7 +24,7 @@
     <string name="delete_dialog_message">Ştergeţi înregistrarea?</string>
     <string name="deleting_message">Ştergere…</string>
     <string name="details">Detalii</string>
-    <string name="dialog_content_storage_full">Din cauza lipsei spațiului de stocare, înregistrarea a fost oprită. Eliminaţi fișierele inutile prin intermediul Explorer-ului.</string>
+    <string name="dialog_content_storage_full">"Înregistrarea a fost oprită deoarece nu există spațiu de stocare suficient în memoria telefonului."</string>
     <string name="dialog_title_storage_full">Spaţiu insuficient</string>
     <string name="duration_format_hour">%s h</string>
     <string name="duration_format_minute">%s m</string>

@@ -1881,7 +1881,7 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="install_applications_title">Permiteți instalarea aplicațiilor provenite din orice sursă</string>
     <string name="install_no_market_app_summary">Permiteţi instalarea aplicațiilor din alte surse decât Magazin Play</string>
     <string name="install_no_market_app_title">Surse necunoscute</string>
-    <string name="install_preinstall_app">Încărcare aplicaţii…</string>
+    <string name="install_preinstall_app">Schimbare regiune…</string>
     <string name="install_text">Instalaţi</string>
     <string name="install_unknown_applications">Permiteţi instalarea aplicaţiilor din alte surse decât Magazin Play</string>
     <string name="install_unknown_applications_title">Vă permite instalarea aplicaţiilor din alte surse decât Magazin Play</string>
@@ -2906,7 +2906,8 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Aplicații preinstalate</string>
     <string name="pref_button_light">Iluminare butoane</string>
-    <string name="pref_button_light_summary">Iluminarea butoanelor Meniu, Acasă şi Înapoi</string>
+    <string name="pref_button_light_summary">Iluminarea butoanelor Meniu, %1$sşi Înapoi</string>
+    <string name="pref_button_light_summary_sub">Acasă,</string>
     <string name="pref_edge_handgrip">Controale la margini</string>
     <string name="pref_operational_key">Butoane de navigare</string>
     <string name="pref_title_lang_selection">Preferințe pentru limbă</string>

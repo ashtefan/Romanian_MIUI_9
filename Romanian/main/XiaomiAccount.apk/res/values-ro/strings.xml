@@ -26,7 +26,7 @@
     <string name="account_none">Nimic</string>
     <string name="account_none_binded_info">Niciunul</string>
     <string name="account_none_user_name">Nimic</string>
-    <string name="account_notification_message">autentificarea în contul Mi a expirat; vă rugăm conectați-vă din nou!</string>
+    <string name="account_notification_message">Sesiunea a expirat. Vă rugăm conectați-vă din nou.</string>
     <string name="account_protection">Protecție cont</string>
     <string name="account_protection_off">Dezactivată</string>
     <string name="account_protection_on">Activată</string>
@@ -170,7 +170,7 @@
     <string name="my_device_title">Dispozitiv actual</string>
     <string name="no_network_btn">Reîmprospătaţi</string>
     <string name="no_network_title">Nu se poate conecta la rețea.</string>
-    <string name="no_response_retry">Niciun răspuns, reîncercaţi.</string>
+    <string name="no_response_retry">Niciun răspuns, încercaţi din nou.</string>
     <string name="no_sim_card_or_unactivated">"Lipsește cartela SIM sau aceasta nu este activată"</string>
     <string name="nobind">Neconectat</string>
     <string name="notify_network_restricted_content_bg_network">"Conectarea la internet pentru Contul Mi este restricționată. Atingeți pentru a permite conectarea."</string>
@@ -417,7 +417,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="sms_send_success">Trimis</string>
     <string name="sns_access_token_expired_warning">Conectarea contului a expirat. Logați-vă din nou pentru a reconecta acest cont.</string>
-    <string name="talkback_scan_barcode">scanați codul QR</string>
+    <string name="talkback_scan_barcode">Scanați codul QR</string>
     <string name="trusted_browsers">Browsere de încredere</string>
     <string name="trusted_browsers_prompt">Acest browser nu va mai fi considerat de încredere dacă veți șterge cookie-urile.</string>
     <string name="turn_off_find_device_failed_title">"Nu se poate dezactiva Localizarea dispozitivului"</string>

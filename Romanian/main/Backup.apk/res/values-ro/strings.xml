@@ -67,7 +67,7 @@ După crearea unei noi întrebări de securitate și confirmarea datei de naște
     <string name="close_twice_auth_operation">"URL:
 https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="close_twice_auth_step_1">1. Deschideți orice browser de pe orice PC și accesați appleid.apple.com.</string>
-    <string name="close_twice_auth_step_2">2. Conectați-vă la contul Apple pentru care doriți dezactivarea autentificării în doi pași, accesați secțiunea \"Securitate\" din setările contului și alegeți \"Editare\"</string>
+    <string name="close_twice_auth_step_2">2. Conectați-vă la contul Apple pentru care doriți dezactivarea autentificării în doi pași, accesați secțiunea \"Securitate\" din setările contului și alegeți \"Editare\".</string>
     <string name="close_twice_auth_step_3">3. Atingeți \"Dezactivare autentificare în doi pași\". Apăsați din nou pentru a confirma</string>
     <string name="close_twice_auth_steps">Urmați pașii de mai jos pentru a dezactiva autentificarea în doi pași la contul Apple:</string>
     <string name="close_twice_auth_tutor">Dezactivați autentificarea în doi pași Apple ID</string>
@@ -95,7 +95,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="current_sim">Cardul SIM actual</string>
     <string name="custom_progress">%d elemente</string>
     <string name="data_item_desc">Date</string>
-    <string name="data_no_enough_space_message">"Spațiu insuficient în memoria internă a telefonului."</string>
+    <string name="data_no_enough_space_message">"Nu există spațiu de stocare suficient în memoria internă a telefonului."</string>
     <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_backup_process">Ştergere…</string>
