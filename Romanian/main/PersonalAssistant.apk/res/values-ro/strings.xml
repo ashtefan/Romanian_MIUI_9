@@ -661,7 +661,6 @@ Verificați numărul de urmărire."</string>
     <string name="order_price_label">Prețul comenzii: %1$s</string>
     <string name="order_product_name_label">Numele produsului: %1$s</string>
     <string name="order_status_label">Starea comenzii: %1$s</string>
-    <string name="opened">Activați</string>
     <string name="pay_card_pack">Plăți Mi</string>
     <string name="paycode_parent">Alipay</string>
     <string name="paycode_sdk_parent">Scurtătură pentru plăți (nu este necesară nicio aplicație)</string>
