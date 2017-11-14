@@ -50,7 +50,7 @@
     <string name="access_control_need_password">"%s a fost blocată
 "</string>
     <string name="access_control_need_to_unlock">Introduceţi parola</string>
-    <string name="access_control_no_back_footer">Apăsaţi [pictograma] pt. a ieşi</string>
+    <string name="access_control_no_back_footer">Atingeți [pictograma] pt. a ieşi</string>
     <string name="access_control_password_title">Activaţi parola</string>
     <string name="access_control_recording_intro_header">Desenaţi un model pentru a crea parola de blocare</string>
     <string name="access_control_reset_by_account">Conectaţi-vă la contul Mi pentru a reseta parola</string>
@@ -818,7 +818,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="button_text_next_step">Mai departe</string>
     <string name="button_text_next_step_timer">Pasul următor (%d)</string>
     <string name="button_text_ok">OK</string>
-    <string name="button_text_ok_timer">OK(%d)</string>
+    <string name="button_text_ok_timer">OK (%d)</string>
     <string name="button_text_reboot_now">Repornire</string>
     <string name="button_text_reject">Renunț</string>
     <string name="cache_header_label">Memorie cache</string>
@@ -1281,7 +1281,7 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="device_admin_status">Acest administrator este activ şi permite aplicaţiei %1$s să efectueze următoarele operaţiuni:</string>
     <string name="device_admin_title">Administrarea dispozitivelor</string>
     <string name="device_admin_warning">Activarea acestui administrator va permite aplicaţiei %1$s să efectueze următoarele operaţiuni:</string>
-    <string name="device_available_memory">Memorie disponibilă</string>
+    <string name="device_available_memory">Spațiu de stocare disponibil</string>
     <string name="device_battery">Acumulator</string>
     <string name="device_build_id">Număr versiune</string>
     <string name="device_complete_parameters">Specificații complete</string>
@@ -1298,7 +1298,7 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="device_info_label">Informaţii despre dispozitiv</string>
     <string name="device_info_not_available">Indisponibil</string>
     <string name="device_info_settings">Stare telefon</string>
-    <string name="device_internal_memory">Memorie internă</string>
+    <string name="device_internal_memory">Stocare internă</string>
     <string name="device_memory">Memorie RAM</string>
     <string name="device_miui_more">Vedeți mai multe</string>
     <string name="device_miui_version">Versiune MIUI</string>
@@ -1318,7 +1318,7 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="device_status">Stare</string>
     <string name="device_status_activity_title">Stare</string>
     <string name="device_status_summary">Număr de telefon, semnal etc.</string>
-    <string name="device_total_memory">Memorie totală</string>
+    <string name="device_total_memory">Spațiu de stocare total</string>
     <string name="dial_application_title">Apelare</string>
     <string name="dial_pad_tones_title">Tonuri tastatură</string>
     <string name="dialog_content_login">Vă conectaţi la contul dvs. Mi pentru a actualiza?</string>
@@ -2611,7 +2611,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="nfc_se_route_title">Poziția elementului de siguranţă</string>
     <string name="nfc_se_wallet_title">Portofel implicit</string>
     <string name="no">Nu</string>
-    <string name="no_account_found">Nicio aplicație nu suportă adăugarea de conturi</string>
+    <string name="no_account_found">"Nu s-a găsit nicio aplicație care suportă adăugarea de conturi"</string>
     <string name="no_application">Niciuna</string>
     <string name="no_applications">Nu există aplicaţii.</string>
     <string name="no_battery_summary">Fără utilizare a acumulatorului de la ultima încărcare completă</string>
@@ -3431,7 +3431,7 @@ Pentru a utiliza fixarea ecranului:
     <string name="se_wallet_ese">Plăți Mi și carduri NFC de transport</string>
     <string name="se_wallet_hce">Utilizați HCE Wallet</string>
     <string name="se_wallet_uicc">Utilizați SIM%1$s Wallet</string>
-    <string name="search_about_settings">Informații telefon;Număr model;Versiune Android;Versiune MIUI;Procesor;RAM;Memorie internă;Versiunea benzii de bază;Versiune Kernel;Numărul versiunii</string>
+    <string name="search_about_settings">Informații telefon;Număr model;Versiune Android;Versiune MIUI;Procesor;RAM;Memorie internă;Memorie;Stocare;Stocare internă;Versiunea benzii de bază;Versiune Kernel;Numărul versiunii</string>
     <string name="search_accelerometer_title">Rotire automată a ecranului;Rotirea ecranului;Orientare;Portret;Peisaj</string>
     <string name="search_access_control">Setări confidențialitate;Securitatea confidențialității;Vizitator;Mod vizitator</string>
     <string name="search_accessibility_captioning_title">Subtitrări</string>
@@ -3722,7 +3722,7 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="settings_backup">Setări copie de rezervă</string>
     <string name="settings_backup_summary">Creaţi o copie de rezervă a setărilor dvs.</string>
     <string name="settings_button">Setări</string>
-    <string name="settings_forbidden_message">Această setare este dezactivată</string>
+    <string name="settings_forbidden_message">Această setare este restricționată</string>
     <string name="settings_label">Setări</string>
     <string name="settings_label_launcher">Setări</string>
     <string name="settings_license_activity_loading">Se încarcă…</string>
