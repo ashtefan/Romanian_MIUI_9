@@ -215,7 +215,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_copy_message_text_success">Copiat cu succes</string>
     <string name="passport_copy_message_vcode">Copiați codul</string>
     <string name="passport_delete_account">Deconectaţi-vă</string>
-    <string name="passport_downlink_reg">Creați un cont folosind numărul de telefon</string>
+    <string name="passport_downlink_reg">Număr de telefon</string>
     <string name="passport_email">Adresă de e-mail</string>
     <string name="passport_email_or_id_hint_text">Adresa de e-mail sau ID-ul contului Mi</string>
     <string name="passport_email_reg_success_summary">%1$s a fost asociat contului dvs. Puteți să-l utilizați pentru a vă conecta sau pentru a vă reseta parola.</string>

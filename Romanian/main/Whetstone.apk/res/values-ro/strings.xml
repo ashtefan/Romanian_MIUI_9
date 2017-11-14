@@ -3,6 +3,4 @@
     <string name="app_name">Whetstone</string>
     <string name="permstep_description">"Permiteți aplicației să citească informațiile despre telefon"</string>
     <string name="permstep_label">Citire pași</string>
-    <string name="whetstone_accessibility_desc">Funcția de asistență Whetstone</string>
-    <string name="whetstone_accessibility_label">Serviciul de asistență Whetstone</string>
 </resources>

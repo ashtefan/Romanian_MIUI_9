@@ -231,7 +231,7 @@
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">accesarea dispozitivului NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Accesare aplicație de Telefon</string>
-    <string name="HIPS_Perm_process_outgoing_calls_Desc">monitorizarea și încheierea apelurilor</string>
+    <string name="HIPS_Perm_process_outgoing_calls_Desc">preluarea, monitorizarea și încheierea apelurilor</string>
     <string name="HIPS_Perm_read_notification_sms">Serviciu SMS</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">Citire date despre serviciul SMS</string>
     <string name="HIPS_Perm_service_foreground">Servicii în fundal</string>
@@ -279,23 +279,23 @@
     <string name="SysOpt_Boost_Receiver">În fundal</string>
     <string name="app_name">Gestionare permisiuni</string>
     <string name="current_permission_template">%1$s din %2$s</string>
-    <string name="default_permission_description">executare acțiune necunoscută</string>
+    <string name="default_permission_description">executarea de acțiuni necunoscute</string>
     <string name="grant_confirm_question">Doriți să acordați următoarele permisiuni? Va avea acces la:</string>
     <string name="grant_dialog_button_allow">Permite</string>
     <string name="grant_dialog_button_deny">Revoc</string>
     <string name="location_settings">Setări legate de locație</string>
     <string name="location_warning">%1$s este un furnizor de servicii de localizare pentru acest dispozitiv. Accesul la localizare poate fi modificat din Setări.</string>
-    <string name="never_ask_again">Nu întreba din nou</string>
+    <string name="never_ask_again">"Nu întreba din nou"</string>
     <string name="ok">OK</string>
     <string name="permission_group_title_charges_related">Taxe</string>
     <string name="permission_group_title_media_related">Multimedia</string>
     <string name="permission_group_title_privacy_related">Confidenţialitate</string>
     <string name="permission_group_title_settings_related">Setări</string>
     <string name="permission_request_title">Solicitare de acordare permisiuni</string>
-    <string name="permission_warning_template">Permiteți %1$s pentru %2$s ?</string>
-    <string name="permission_warning_template_ask">Acordați %1$s următoarele permisiuni？</string>
+    <string name="permission_warning_template">Permiteți %1$s să %2$s ?</string>
+    <string name="permission_warning_template_ask">Acordați %1$s următoarele permisiuni?</string>
     <string name="permisson_reject_notice_toast_text2">"nu are permisiunea de %1$s."</string>
     <string name="screen_overlay_button">Accesați Setările</string>
-    <string name="screen_overlay_message">Pentru a modifica această setare de permisiune, va trebui să opriți suprapunerea de elemente vizuale din Setări &gt; Aplicații</string>
+    <string name="screen_overlay_message">Pentru a modifica această permisiune, va trebui să opriți suprapunerea de elemente vizuale din Setări &gt; Aplicații.</string>
     <string name="screen_overlay_title">Suprapunere elemente vizuale detectată</string>
 </resources>
