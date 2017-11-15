@@ -531,7 +531,7 @@
     <string name="search_file_type_music">Muzică</string>
     <string name="search_file_type_picture">Fotografii</string>
     <string name="search_file_type_video">Videoclipuri</string>
-    <string name="search_guid_hint">Vă rugăm căutați fișierul</string>
+    <string name="search_guid_hint">Căutați fișiere</string>
     <string name="search_hint">Căutare</string>
     <string name="search_history">Istoricul de căutare</string>
     <string name="search_hot_sticker">Stickere; Descărcați stickere</string>

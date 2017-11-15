@@ -2066,7 +2066,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="summary_cleaner_cloudscan">Încărcați și comparați numele de dosare cu definițiile on-line</string>
     <string name="summary_cloud_account">Obțineți mai mult de la dispozitivul dvs. Mi</string>
     <string name="summary_cloud_service">Sincronizaţi fotografiile, contactele și altele între toate dispozitivele dvs.</string>
-    <string name="summary_cloud_space_almost_full">Obțineți mai mult spațiu de stocare</string>
+    <string name="summary_cloud_space_almost_full">Obțineți spațiu</string>
     <string name="summary_cloud_space_full">Obțineți mai mult spațiu de stocare și acces la funcții noi</string>
     <string name="summary_cmcc_app_check">Unele aplicații nu au putut fi verificate</string>
     <string name="summary_consume_power">Au fost semnalate creșteri ale temperaturii ce pot afecta durata de viață a acumulatorului</string>

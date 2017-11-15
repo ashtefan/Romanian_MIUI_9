@@ -2906,8 +2906,8 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Aplicații preinstalate</string>
     <string name="pref_button_light">Iluminare butoane</string>
-    <string name="pref_button_light_summary">Iluminarea butoanelor Meniu, %1$sşi Înapoi</string>
-    <string name="pref_button_light_summary_sub">Acasă,</string>
+    <string name="pref_button_light_summary">Iluminarea butoanelor Meniu, %1$s şi Înapoi</string>
+    <string name="pref_button_light_summary_sub">Acasă</string>
     <string name="pref_edge_handgrip">Controale la margini</string>
     <string name="pref_operational_key">Butoane de navigare</string>
     <string name="pref_title_lang_selection">Preferințe pentru limbă</string>
