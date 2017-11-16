@@ -20,6 +20,7 @@
     <string name="auto_start_warning_allow">Permiteţi</string>
     <string name="auto_start_warning_deny">Refuzaţi</string>
     <string name="auto_start_warning_title">Permiteţi %s să pornească în mod automat?</string>
+    <string name="autofill">Completare automată</string>
     <string name="button_text_cancel">Renunțați</string>
     <string name="button_text_delete">Dezinstalați</string>
     <string name="button_text_delete_timer">Dezinstalați (%d)</string>

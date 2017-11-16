@@ -203,7 +203,7 @@
     <string name="onscreen_add_call_text">Adăugaţi un apel</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
     <string name="onscreen_audio_mode_conference">Conferinţă</string>
-    <string name="onscreen_audio_mode_handset">Hands-free</string>
+    <string name="onscreen_audio_mode_handset">Difuzor telefon</string>
     <string name="onscreen_audio_mode_headset">Căşti</string>
     <string name="onscreen_audio_mode_speaker">Difuzor</string>
     <string name="onscreen_audio_switch_mode">Comutare audio</string>

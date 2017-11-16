@@ -381,7 +381,7 @@
     <string name="pref_hide_verification_code_summary">Ascunde în mod automat notificările mesajelor ce conțin parole de unică utilizare în Blocarea ecranului</string>
     <string name="pref_messages_to_save">Setaţi numărul de mesaje pentru salvare</string>
     <string name="pref_mms_settings_title">Mesaje multimedia (MMS)</string>
-    <string name="pref_msg_trash_bin_title">Coș de gunoi</string>
+    <string name="pref_msg_trash_bin_title">Mesaje șterse</string>
     <string name="pref_notification_settings_title">Notificări</string>
     <string name="pref_other_title">Setări suplimentare</string>
     <string name="pref_show_blocked_messages_summary">Afişare SMS blocate în lista de conversaţii</string>
