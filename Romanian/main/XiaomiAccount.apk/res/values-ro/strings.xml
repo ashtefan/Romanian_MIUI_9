@@ -5,12 +5,9 @@
     <string name="access_token_invalid_warning">Contul Weibo nu este valid</string>
     <string name="account">Cont</string>
     <string name="account_bind_devices">Dispozitive</string>
-    <string name="account_bind_new_phone">Adăugaţi un telefon nou</string>
-    <string name="account_bind_phone_notice">Utilizați acest număr de telefon pentru a vă conecta la contul dvs., pentru a reseta parola sau pentru a modifica setările de securitate.</string>
     <string name="account_bind_secure_email_title">Adăugaţi un e-mail</string>
     <string name="account_bind_secure_phone_title">Adăugaţi un număr de telefon</string>
     <string name="account_bind_settings">Conturi</string>
-    <string name="account_binded_phone">Telefon %d</string>
     <string name="account_crop_user_avatar">Decupaţi fotografia</string>
     <string name="account_empty_user_name">Introduceți numele de utilizator al contului Mi</string>
     <string name="account_error_all_space_user_name">"Numele nu poate conține numai spații goale"</string>
@@ -59,6 +56,8 @@
     <string name="account_user_using_qq_avatar">Utilizați fotografia de profil QQ</string>
     <string name="account_user_using_weibo_avatar">Utilizați fotografia de profil Sina Weibo</string>
     <string name="account_xiaomi_service">Servicii</string>
+    <string name="action_add_phone">Adăugați numărul de telefon</string>
+    <string name="action_update_phone">Modificați numărul de telefon</string>
     <string name="activate_email_notice">Activați contul în cel mult 24 de ore!</string>
     <string name="activity_not_found_notice">"Nu s-a putut găsi aplicația"</string>
     <string name="add_account">Adăugaţi un cont</string>
@@ -79,7 +78,6 @@
     <string name="change_email_address">Schimbaţi adresa de e-mail</string>
     <string name="change_password">Schimbați parola</string>
     <string name="change_phone_number">Schimbaţi numărul de telefon</string>
-    <string name="checking_phone_num_availible">Verificare telefon…</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="completed">Finalizat</string>
     <string name="confirm_activate_email">Verificată</string>
@@ -137,10 +135,12 @@
     <string name="find_device_request_prepare_error">"Nu s-a putut obține starea; încercați din nou mai târziu"</string>
     <string name="find_device_unknown_error">"Nu s-a putut obține starea dispozitivului; așteptați un minut sau două și reîncercați"</string>
     <string name="first_login_time">Prima tentativă de conectare: %s</string>
+    <string name="get_back_pwd">Resetare parolă</string>
     <string name="get_device_list_failed">"Nu se poate obține lista dispozitivelor"</string>
     <string name="get_phone_bind_exceed_limit">"Puteți asocia cel mult 3 conturi Mi cu un număr de telefon. Nu se pot adăuga conturi noi</string>
     <string name="get_phone_verifycode_exceed_limit">Prea multe coduri de verificare au fost trimise la acest număr. Așteptați 24 de ore și încercați din nou.</string>
     <string name="guest_account_label">Cont gazdă Mi</string>
+    <string name="identity">Identificare</string>
     <string name="input_email_address_notice">"Vom folosi această adresă de e-mail pentru verificarea contului"</string>
     <string name="io_error_title">Confirmați rețeaua personală</string>
     <string name="just_a_second">Doar o secundă…</string>
@@ -170,6 +170,7 @@
     <string name="my_device_title">Dispozitiv actual</string>
     <string name="no_network_btn">Reîmprospătaţi</string>
     <string name="no_network_title">Nu se poate conecta la rețea.</string>
+    <string name="no_phone">Niciun număr de telefon</string>
     <string name="no_response_retry">Niciun răspuns, încercaţi din nou.</string>
     <string name="no_sim_card_or_unactivated">"Lipsește cartela SIM sau aceasta nu este activată"</string>
     <string name="nobind">Neconectat</string>
@@ -377,6 +378,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_wrong_vcode">Codul introdus nu este corect</string>
     <string name="passport_yes">Da</string>
     <string name="phone_activated">%s activat</string>
+    <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
     <string name="push_notification_content">Obțineți codul de verificare</string>
     <string name="push_notification_title">V-ați conectat la contul Mi de pe un dispozitiv necunoscut</string>
@@ -414,6 +416,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="select_location_title">Selectați locația dumneavoastră</string>
     <string name="send_email_activate_message">E-mailul de verificare a fost trimis</string>
     <string name="service_error">Eroare serviciu</string>
+    <string name="set_success">Modificat cu succes</string>
+    <string name="sign_in">Autentificare</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="sms_send_success">Trimis</string>
     <string name="sns_access_token_expired_warning">Conectarea contului a expirat. Logați-vă din nou pentru a reconecta acest cont.</string>
@@ -429,6 +433,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="update_contacts">Actualizaţi contactele</string>
     <string name="update_email_address_dialog_message">Trebuie să vă verificați identitatea înainte de a actualiza e-mailul.</string>
     <string name="update_email_address_dialog_title">Actualizare adresă de e-mail</string>
+    <string name="update_phone_notice">Modificați setările de securitate</string>
     <string name="update_phone_number_notice_message">Trebuie să vă verificăm identitatea înainte de a actualiza numărul de telefon.</string>
     <string name="updated_nothing">Actualizat</string>
     <string name="user_avatar_update_title">Schimbaţi imaginea de profil</string>

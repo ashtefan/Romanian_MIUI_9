@@ -469,6 +469,7 @@ Faceți mai multe fotografii prietenilor!"</string>
 %s
  pentru a funcționa normal, atingeți \"Setări\" pentru a merge la Permisiuni."</string>
     <string name="grant_permission_title">Permiteți accesul</string>
+    <string name="grant_permission_unlock_and_set">Deblocați și setați</string>
     <string name="has_invalid_recipient">Destinatari greşiţi: &lt;%1$s></string>
     <string name="have_known">Am înțeles</string>
     <string name="hidden_album_display_name">Album ascuns</string>
@@ -796,10 +797,12 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="search_feedback_false_positive_title">Se pare că acestea sunt \"%s\"</string>
     <string name="search_feedback_likely_check_title">Verificați</string>
     <string name="search_feedback_likely_title">Se pare că aceste fotografii pot conține \"%s\"</string>
-    <string name="search_feedback_task_finish_title">Atingeți pentru a primi recompensa!</string>
-    <string name="search_feedback_task_progress">%1$d/%2$d</string>
+    <string name="search_feedback_task_complete">Toate misiunile sunt finalizate</string>
+    <string name="search_feedback_task_progress">Misiuni %1$d/%2$d</string>
     <string name="search_feedback_task_request_award_failed">"Nu s-a putut primi recompensa. Încercați din nou mai târziu.​"</string>
     <string name="search_feedback_task_requesting_award">Primire recompensă​…</string>
+    <string name="search_feedback_user_notice">"Am citit și sunt de acord cu %s."</string>
+    <string name="search_feedback_user_policy">Politica de confidențialitate a algoritmului Galeriei MIUI</string>
     <string name="search_hint">Căutați imagini​</string>
     <string name="search_image_result_title">Căutați rezultate</string>
     <string name="search_login_now">Conectați-vă</string>
@@ -952,6 +955,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="tip_not_download">Nicio descărcare. Se va descărca în mod automat în timpul rulării.</string>
     <string name="tip_screenshot_package_info">Numele aplicației:</string>
     <string name="title_set_name">Setaţi numele</string>
+    <string name="title_tip">Sfat</string>
     <string name="title_warn">Atenționare</string>
     <string name="to_count">În total %d</string>
     <string name="to_enable_gallery_sync_dialog_message">Activați mai întâi sincronizarea fotografiilor din Galerie</string>

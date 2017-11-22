@@ -1625,6 +1625,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="fingerprint_manage_tittle">Amprentă</string>
     <string name="fingerprint_not_identified_msg">"Nu s-a putut citi amprenta. Introduceți parola"</string>
     <string name="fingerprint_not_recognized">Nerecunoscută</string>
+    <string name="fingerprint_payment">Plăți prin amprentă</string>
     <string name="fingerprint_removal_failed">"Nu s-a putut elimina amprenta; încercați din nou mai târziu"</string>
     <string name="fingerprint_unlock_set_unlock_password">Amprentă + Parolă</string>
     <string name="fingerprint_unlock_set_unlock_pattern">Amprentă + Model</string>

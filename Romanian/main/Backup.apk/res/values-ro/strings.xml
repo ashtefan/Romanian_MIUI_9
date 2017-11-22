@@ -159,7 +159,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="icloud_backup_tip">Conectați-vă la iCloud utilizând vechiului telefon iOS</string>
     <string name="icloud_how_to_backup_tip_steps">"1. Accesați Setări din telefonul dvs. iOS și apoi alegeți iCloud.
 2. Comutați butoanele pentru contacte și alte elemente.
-3.Selectați Fotografii și activați butonul iCloud Photo Library."</string>
+3. Selectați Fotografii și activați butonul iCloud Photo Library."</string>
     <string name="icloud_how_to_backup_tip_summary">Pentru a importa date din iOS, trebuie să creați o copie de rezervă în iCloud.</string>
     <string name="icloud_how_to_backup_tip_title">Sfaturi:</string>
     <string name="icloud_login_title">Conectați-vă la iCloud</string>
