@@ -41,7 +41,7 @@ Actualizaţi acum?"</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Conectarea dvs. la %s a eşuat; motivul invocat de server a fost: %s Doriţi să actualizaţi numele de utilizator şi/sau parola?</string>
     <string name="account_settings_login_dialog_title">"Nu s-a putut conecta"</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Trebuie să reîmprospătați manual E-mailurile pentru a sincroniza mesajele</string>
-    <string name="account_settings_mail_check_frequency_dialog_title_eas">Când treceți la modul manual, trebuie să reîmprospătați în mod manual pentru a sincroniza mesajele și calendarul</string>
+    <string name="account_settings_mail_check_frequency_dialog_title_eas">"Va trebui să reîmprospătați în mod manual pentru a sincroniza mesajele și evenimentele din Calendar"</string>
     <string name="account_settings_mail_check_frequency_label">Frecvența sincronizării</string>
     <string name="account_settings_mibill_resolve_label">Gestionare automată a facturilor</string>
     <string name="account_settings_name_label">Pseudonim</string>
@@ -81,8 +81,8 @@ Actualizaţi acum?"</string>
     <string name="account_setup_basics_mi_mail_login_help">Este posibil să trebuiască să vă verificați contul prin SMS pentru a primi e-mailuri</string>
     <string name="account_setup_basics_password_label">Introduceți parola</string>
     <string name="account_setup_basics_title">Adăugaţi un cont</string>
-    <string name="account_setup_check_settings_check_incoming_msg">"    Se validează setările serverului…"</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">"    Se validează setările SMTP…"</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Se validează setările serverului…</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">Se validează setările SMTP…</string>
     <string name="account_setup_check_settings_retr_info_msg">"    Se preiau informaţiile despre cont…"</string>
     <string name="account_setup_correct_address_tips">Introduceţi adresa de e-mail</string>
     <string name="account_setup_creating_account_msg">"    Creare cont…"</string>
@@ -230,7 +230,7 @@ Actualizaţi acum?"</string>
     <string name="auto_remind_unbind">Opriți</string>
     <string name="auto_sync_off">Sincronizare automată dezactivată.</string>
     <string name="automatic_remind_text">Reamintește în mod automat</string>
-    <string name="back">înapoi</string>
+    <string name="back">Înapoi</string>
     <string name="bank_card_detail">Detaliile cardului de credit</string>
     <string name="bank_card_list_card_num_fmt">****%s</string>
     <string name="battery_saver">Economisire acumulator</string>
@@ -422,7 +422,7 @@ Actualizaţi acum?"</string>
     <string name="email_feedback_uri" />
     <string name="email_setting">E-mail</string>
     <string name="email_setting_keywords">Conturi;Adăugare cont;conturi de e-mail;adăugare cont de e-mail;confirmare înainte de ștergere;confirmare ștergere;confirmare înainte de a trimite;confirmare trimitere;ștergere flux de mesaje;delete redirect;vizualizare conversații;mail conversation;economisire acumulator;acumulator e-mail;trimitere comentariu;încărcare jurnale</string>
-    <string name="eml_parse_message">Se rezolvă lent fișierele .eml; vă rugăm așteptați…</string>
+    <string name="eml_parse_message">Se deschide fișierul EML…</string>
     <string name="empty_account_tip">Nu s-a putut găsi contul</string>
     <string name="empty_email_tip">Nu se poate trimite un mesaj gol</string>
     <string name="empty_spam">Ștergeți mesajele spam</string>
@@ -442,7 +442,7 @@ Actualizaţi acum?"</string>
     <string name="expand_recipient_details">Extindeți detaliile destinatarului</string>
     <string name="fail_get_email_message">Nu s-a putut obține mesajul.</string>
     <string name="failed">Nu se poate încărca imaginea</string>
-    <string name="failed_parse_eml_file">Rezolvarea e-mailului a eșuat; vă rugăm încercați din nou</string>
+    <string name="failed_parse_eml_file">"Nu s-a putut deschide fișierul EML; vă rugăm încercați din nou"</string>
     <string name="failed_read_phone_state_permission">"Nu aveți permisiunea de a accesa starea telefonului"</string>
     <string name="failed_read_write_calendar_permission">"Nu aveți permisiunea de a accesa Calendarul"</string>
     <string name="failed_read_write_contacts_permission">"Nu aveți permisiunea de a accesa Agenda"</string>
@@ -537,7 +537,7 @@ Actualizaţi acum?"</string>
     <string name="help_config">Configurare automată</string>
     <string name="hide_atts_remaining">Ascundeţi %1$d ataşamente</string>
     <string name="hide_elided">▼ Ascundeți textul citat</string>
-    <string name="hide_password">ascundeți parola</string>
+    <string name="hide_password">Ascundeți parola</string>
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="hierarchical_folder_top">%1$s∕</string>
@@ -689,7 +689,7 @@ Actualizaţi acum?"</string>
     <string name="move_to_selection_dialog_title">Mutaţi în alt dosar</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b> %2$s</string>
     <string name="mute">Suprimaţi</string>
-    <string name="navigation_menu">meniu de navigare</string>
+    <string name="navigation_menu">Meniu de navigare</string>
     <string name="network_error">Nicio conexiune</string>
     <string name="network_invaild">"Nu s-a putut conecta la rețea"</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
@@ -990,6 +990,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="security_unsupported_ticker_fmt">"Contul \"%s\" nu poate fi sincronizat din cauza cerințelor de securitate.</string>
     <string name="select_attachment_type">Alegeţi ataşamentul din</string>
     <string name="select_no_file">Niciun ataşament selectat</string>
+    <string name="select_path">Selectați calea</string>
     <string name="send">Trimiteţi</string>
     <string name="send_failed">Mesaj netrimis.</string>
     <string name="send_feed_back">Trimiteţi feedback</string>
@@ -1023,7 +1024,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="shortcut_name_title">Denumiţi o comandă rapidă pentru dosar</string>
     <string name="show_elided">▶ Afişaţi textul citat</string>
     <string name="show_images">Afişaţi fotografiile</string>
-    <string name="show_password">arată parola</string>
+    <string name="show_password">Arată parola</string>
     <string name="signature">"
 
 
@@ -1152,7 +1153,7 @@ Atingeţi \"Sincronizaţi acum\" pentru a sincroniza e-mailurile, sau modificaţ
     <string name="wipe_account_fail_title">"Nu s-au putut șterge informațiile personale"</string>
     <string name="wrong_password">Parola introdusă este incorectă</string>
     <string name="yes">Da</string>
-    <string name="you_are_in_mobile_network">Trimiteţi jurnalul utilizând conexiunea de date mobile? Dacă depăşiţi limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
+    <string name="you_are_in_mobile_network">Utilizați datele mobile pentru a încărca jurnalele cu erori?</string>
     <string name="youfuli">Promoții</string>
     <string name="zip_viewer_no_file">Niciun fişier.</string>
 </resources>
