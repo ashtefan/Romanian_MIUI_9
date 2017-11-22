@@ -16,7 +16,11 @@
         <item quantity="other">%1$d din %2$d</item>
         <item quantity="one">1 potrivire</item>
     </plurals>
-	<plurals name="v5_edit_mode_title">
+    <plurals name="transfer_prompt">
+        <item quantity="other">Redă videoclipul în %1$d secunde</item>
+        <item quantity="one">Redă videoclipul în %1$d secundă</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d selectate</item>
         <item quantity="one">%1$d selectat</item>
     </plurals>

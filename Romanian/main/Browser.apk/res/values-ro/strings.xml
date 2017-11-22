@@ -35,6 +35,7 @@
     <string name="action_menu_text_copy_url">Copiaţi URL</string>
     <string name="action_menu_text_create_qr_code">Cod QR</string>
     <string name="action_menu_text_download">Administrați descărcările</string>
+    <string name="action_menu_text_drop">Ieșiți din meniu</string>
     <string name="action_menu_text_exit">Ieşire</string>
     <string name="action_menu_text_find_in_page">Găsiţi în pagină</string>
     <string name="action_menu_text_fullscreen">Ecran complet</string>
@@ -114,6 +115,7 @@
     <string name="bookmark_cannot_save_url">"Această adresă URL nu poate fi marcată"</string>
     <string name="bookmark_folder_needs_title">Introduceţi numele grupului</string>
     <string name="bookmark_group_lable">Grup</string>
+    <string name="bookmark_move_to">Mutați în</string>
     <string name="bookmark_needs_title">Marcajul trebuie să poarte un nume</string>
     <string name="bookmark_needs_url">Marcajul trebuie să conţină un URL</string>
     <string name="bookmark_not_saved">"Marcajul nu a putut fi salvat"</string>
@@ -140,6 +142,8 @@
     <string name="cancel">Anulaţi</string>
     <string name="cancle_sync_cloud_tabs">Opriți sincronizarea</string>
     <string name="cannot_download">Puteţi descărca numai de la adrese URL care încep cu „http” sau „https”</string>
+    <string name="check_security_tip_privacy_policy">Politica de confidențialitate</string>
+    <string name="check_security_tip_user_agreement">Acordul utilizatorului</string>
     <string name="choosertitle_sharevia">Distribuiţi prin</string>
     <string name="clear_history">Ştergeţi istoricul</string>
     <string name="clear_most_visited">Istoric recent</string>
@@ -211,8 +215,6 @@
     <string name="current_version_pc">Desktop</string>
     <string name="current_version_phone">Telefon</string>
     <string name="custom_head_card_text">Crede întotdeauna că ceva minunat urmează să se întâmple</string>
-    <string name="custom_head_card_text_incognito">"Navigați incognito!
-Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</string>
     <string name="data_traffic_prompt_change">Utilizarea conexiunii de date mobile pentru a viziona videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="data_traffic_prompt_message">Utilizarea conexiunii de date mobile pentru a naviga pe internet va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="data_traffic_prompt_message_short">Utilizarea conexiunii de date mobile pentru a viziona videoclipuri online poate determina depășirea planului de date inclus.</string>
@@ -224,6 +226,7 @@ Paginile pe care le accesați nu vor fi stocate în istoricul de navigare​"</s
     <string name="date_time_picker_dialog_title">Setaţi data şi ora</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_bookmark">Ștergeți</string>
+    <string name="delete_bookmark_action_warning">Ștergeți marcajele?</string>
     <string name="delete_bookmark_group_warning">Ştergeţi \"%s\"? Toate marcajele din acest grup vor fi șterse.</string>
     <string name="delete_bookmark_warning">Ştergeţi marcajul \"%s\"?</string>
     <string name="delete_download">Ștergeți</string>
@@ -343,6 +346,7 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="geolocation_settings_page_summary_allowed">Acest site poate accesa locația dvs.</string>
     <string name="geolocation_settings_page_summary_not_allowed">Acest site nu poate accesa locaţia dvs.</string>
     <string name="geolocation_settings_page_title">Opriţi accesul la locaţie</string>
+    <string name="go_back_descirption">Mergeți înapoi</string>
     <string name="go_supermarket_button">Mergeți</string>
     <string name="go_supermarket_title">Mai multe aplicații, viteză crescută și trafic de date mai redus în Magazinul Play</string>
     <string name="gold_medals">Medalii de aur</string>
@@ -360,7 +364,6 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="homepage_search_hint">Căutaţi</string>
     <string name="homepage_top_card_menu">Top</string>
     <string name="ignore_add_pwa_dialog_today">"Nu arăta astăzi"</string>
-    <string name="in_incognito">"Sunteţi incognito! Paginile web pe care le deschideţi în această filă nu vor apărea în istoricul browserului."</string>
     <string name="in_secureaccess">Browser comutat la modul sigur</string>
     <string name="isReplacePage">Fișierul există deja, îl înlocuiți?</string>
     <string name="is_first_history_item">Acesta este primul element din istoric</string>
@@ -530,9 +533,14 @@ Părăsiţi această pagină?"</string>
     <string name="more_option">Mai multe opțiuni</string>
     <string name="nav_bottom_bar_back">Înapoi</string>
     <string name="nav_bottom_bar_close_all">Închideţi tot</string>
+    <string name="nav_bottom_bar_close_description">Închideți</string>
     <string name="nav_bottom_bar_new_tab">Filă nouă</string>
     <string name="nav_screen_container_tab_incognito">Filă incognito</string>
     <string name="nav_screen_container_tab_normal">Filă obişnuită</string>
+    <string name="nav_screen_incognito_message">"Istoricul de navigare și al căutărilor nu va fi salvat în modul Incognito.
+Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși salvate."</string>
+    <string name="nav_screen_incognito_time">După %s secunde se va crea o nouă pagină în mod automat</string>
+    <string name="nav_screen_incognito_title">Mod Incognito</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Renunță</string>
     <string name="navigationbar_rightbutton_actiontext_go">Accesați</string>
     <string name="navigationbar_rightbutton_actiontext_search">Căutați</string>
@@ -788,18 +796,25 @@ Părăsiţi această pagină?"</string>
     <string name="send_comment_title">Comentariu</string>
     <string name="senddesktop">Ecranul principal</string>
     <string name="sendstartpage">Pagina de pornire</string>
+    <string name="sequence_bookmark_description">Modificați secvența marcajului</string>
     <string name="share_image_text">Uite ce am partajat! @MIUI</string>
     <string name="share_page_text">Uite ce am partajat: %1$s @MIUI| %2$s</string>
-    <string name="show_check_security_url_check_tip_dialog_description">Browser-ul trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a îmbunătăți securitatea și pentru a primi recomandări mai relevante, permiteți Browser-ului să obțină URL-urile site-urilor pe care le vizitați și accesul la locație.</string>
-    <string name="show_check_security_url_check_tip_dialog_description_international">Browser-ul trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a primi recomandări mai relevante, permiteți Browser-ului să obțină URL-urile site-urilor pe care le vizitați și accesul la locație.</string>
-    <string name="show_security_tip_dialog_title">Termenii serviciului</string>
-    <string name="show_weather_location_getter_tip_dialog_description">Browser-ul trebuie să se conecteze la internet pentru a funcționa în mod normal. Pentru a îmbunătăți securitatea, pentru a primi recomandări mai relevante și informații despre starea vremii, permiteți Browser-ului să obțină URL-urile site-urilor pe care le vizitați și accesul la locație.</string>
+    <string name="show_check_security_url_check_tip_dialog_description">"Vom colecta și utiliza datele dvs. personale dacă alegeți să utilizați serviciile noastre.
+Iată datele pe care le vom colecta:
+1. URL-uri sigure: Vom colecta URL-urile site-urilor pe care le vizitați utilizând serviciile noastre.
+2. Date despre localizare: Vom accesa datele despre locația dumneavoastră.
+Iată și cum vom folosi datele colectate:
+1. Securitate: Folosim datele dvs. când vă protejăm telefonul de fraude și viruși, ca și pentru crearea de copii de rezervă și stocare.
+2. Conținut: Datele dumneavoastră ne ajută să vă furnizăm noutăți cu un conținut relevant și localizat.
+Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în mod normal. Trebuie să fiți de acord cu %2$s și %1$s pentru a putea utiliza aplicația.​"</string>
+    <string name="show_security_tip_dialog_title">Politica de confidențialitate</string>
     <string name="sign_in_to" formatted="false">Conectaţi-vă la %s1 \"%s2\"</string>
     <string name="skip_button_label">Omiteţi</string>
     <string name="skip_current_version">Omiteţi această versiune</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Nu s-a putut salva pagina"</string>
     <string name="snapshot_successed">Deschideți Semne de carte &amp; Istoric -&gt;LOCAL pentru a vedea pagina</string>
+    <string name="soft_toast_see_view">Vedeți</string>
     <string name="ssl_bad_clock_date_settings">Setați data</string>
     <string name="ssl_bad_clock_warning" formatted="false">"Nu se poate stabili o conexiune privată cu %s1 deoarece data și ora sistemului dumneavoastră (%s2) sunt incorecte."</string>
     <string name="ssl_certificate">Certificat de securitate</string>
@@ -829,14 +844,14 @@ Părăsiţi această pagină?"</string>
     <string name="suggest_access_item_app_mark">APP</string>
     <string name="suggest_access_item_app_size">%.2fMB</string>
     <string name="suggest_access_item_app_update">Actualizare: %s</string>
-    <string name="suggest_access_item_book_mark">CARTE</string>
-    <string name="suggest_access_item_mina_mark">SERVICIU DIRECT</string>
+    <string name="suggest_access_item_book_mark">CĂRȚI</string>
+    <string name="suggest_access_item_mina_mark">APLICAȚII INSTANT</string>
     <string name="suggest_access_item_music_mark">MUZICĂ</string>
     <string name="suggest_access_item_singer_albums">%d albume</string>
     <string name="suggest_access_item_singer_pop">%d melodii populare</string>
     <string name="suggest_access_item_site_mark">SITE-URI</string>
-    <string name="suggest_access_item_video_mark">VIDEO</string>
-    <string name="suggest_access_item_website_mark">WEBSITE</string>
+    <string name="suggest_access_item_video_mark">VIDEOCLIPURI</string>
+    <string name="suggest_access_item_yellow_mark">PAGINI AURII</string>
     <string name="suggest_access_music">Muzică Mi</string>
     <string name="suggest_item_delete_text">Ștergeți</string>
     <string name="suggest_open_app_failed">"Nu s-a putut deschide această aplicație"</string>
@@ -861,6 +876,8 @@ Părăsiţi această pagină?"</string>
     <string name="title_bar_loading">Se încarcă…</string>
     <string name="too_many_windows_dialog_message">Browser-ul nu mai poate deschide o filă nouă până când nu închideţi alta.</string>
     <string name="too_many_windows_dialog_title">A fost atinsă limita pentru numărul de file deschise</string>
+    <string name="transfer_prompt_0">Redă videoclipul</string>
+    <string name="transfer_restart">Reporniți</string>
     <string name="unSwitchText">NU</string>
     <string name="undo">Anulează acțiunea</string>
     <string name="unknown_title">Necunoscut</string>
@@ -905,7 +922,8 @@ Părăsiţi această pagină?"</string>
     <string name="video_buffering_percent_string">"Se încarcă memoria tampon "</string>
     <string name="video_collect_cancel">Eliminaţi din favorite</string>
     <string name="video_collect_success">Adăugat la favorite</string>
-    <string name="video_download_complete">Descărcare finalizată.</string>
+    <string name="video_doenload_complete">Videoclip descărcat cu succes</string>
+    <string name="video_download_complete">Descărcat cu succes</string>
     <string name="video_download_empty">Nu există videoclipuri</string>
     <string name="video_download_error">Eroare</string>
     <string name="video_download_error_http_gone">"Nu s-a găsit fișierul"</string>
@@ -915,7 +933,7 @@ Părăsiţi această pagină?"</string>
     <string name="video_download_finding_address">Se obține adresa de descărcare</string>
     <string name="video_download_pause">Întrerupt</string>
     <string name="video_download_start">Descărcare…</string>
-    <string name="video_download_success">Finalizat</string>
+    <string name="video_download_success">Descărcat cu succes</string>
     <string name="video_download_unknown_name">Nume necunoscut</string>
     <string name="video_download_unknown_size">Dimensiune necunoscută</string>
     <string name="video_download_unsupport">Nu este suportat</string>
@@ -941,6 +959,7 @@ Părăsiţi această pagină?"</string>
     <string name="video_push_multi_message">%1$d actualizări disponibile.</string>
     <string name="video_push_multi_title">Actualizări disponibile</string>
     <string name="video_push_single_message">Apăsaţi pentru a actualiza la %1$d.</string>
+    <string name="video_service_notification_title">Se redă videoclipul pop-up</string>
     <string name="video_subtitle_last_message1">A rămas mai puțin de un minut</string>
     <string name="video_subtitle_prefix1">Urmărit</string>
     <string name="video_subtitle_prefix2">"Urmărit "</string>

@@ -1446,19 +1446,6 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="doze_title">Ecran Ambient</string>
     <string name="draw_overlay">Afișare peste alte aplicații</string>
     <string name="draw_overlay_title">Aplicațiile care pot fi afișate peste alte aplicații</string>
-    <string name="drive_mode">Mod Automobil</string>
-    <string name="drive_mode_auto_reply">Răspuns automat</string>
-    <string name="drive_mode_auto_sms_reply_content">Nu pot vorbi acum ... Este ceva urgent?</string>
-    <string name="drive_mode_auto_sms_reply_content_title">Răspuns rapid</string>
-    <string name="drive_mode_calling_auto_sms_reply">Răspuns automat cu SMS</string>
-    <string name="drive_mode_invert_stop_report">Întoarceţi pentru a opri semnalarea</string>
-    <string name="drive_mode_only_contact_reply">Răspuns doar la persoanele din agendă</string>
-    <string name="drive_mode_phone_report">Semnalare apel</string>
-    <string name="drive_mode_settings">Setări mod Automobil</string>
-    <string name="drive_mode_sms_auto_sms_reply">Răspuns automat la SMS</string>
-    <string name="drive_mode_sms_report">Semnalare SMS</string>
-    <string name="drive_mode_title">Setaţi semnalarea vocală şi răspunsul automat</string>
-    <string name="drive_mode_voice_report">Semnalare vocală</string>
     <string name="dtmf_tone_enable_title">Tonuri taste numerice</string>
     <string name="edge_mode_back">Înapoi</string>
     <string name="edge_mode_back_summary">Apăsați de două ori partea de sus a ecranului pentru a reveni</string>
@@ -1485,7 +1472,6 @@ Această setare afectează toți utilizatorii acestui telefon."</string>
     <string name="enable_adb">Depanare USB</string>
     <string name="enable_adb_summary">Mod de depanare când este conectat USB</string>
     <string name="enable_compatibility">Scalaţi aplicaţia</string>
-    <string name="enable_drive_mode">Activaţi modul Automobil</string>
     <string name="enable_freeform_support">Activați ferestrele cu formă liberă</string>
     <string name="enable_freeform_support_summary">Activați suportul pentru efectul experimental de ferestre cu formă liberă.</string>
     <string name="enable_mobile_data_when_opening_hotspot">Activaţi, de asemenea, conexiunea de date mobile?</string>
@@ -4230,7 +4216,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="tether_and_hotspot_title">Tethering și hotspot</string>
     <string name="tether_devices_management_title">Gestionați dispozitivele</string>
     <string name="tether_devices_max_number">Limita dispozitivelor conectate</string>
-    <string name="tether_settings_disabled">Hotspot-ul personal este oprit</string>
+    <string name="tether_settings_disabled">Hotspot-ul portabil este oprit</string>
     <string name="tether_settings_disabled_on_data_saver">Nu se poate partaja sau utiliza hotspotul portabil cât timp Economisirea datelor este activă</string>
     <string name="tether_settings_launch_title">HotSpot mobil</string>
     <string name="tether_settings_title_all">Tethering şi hotspot portabil</string>
@@ -5173,7 +5159,7 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori"</string>
     <string name="wifi_tether_failed_subtext">Eroare de hotspot Wi-Fi portabil</string>
     <string name="wifi_tether_first_use_message">Setați HotSpot-ul mobil la prima utilizare</string>
     <string name="wifi_tether_setting_title">Setări de bază</string>
-    <string name="wifi_tether_settings_title">Hotspot personal</string>
+    <string name="wifi_tether_settings_title">Hotspot portabil</string>
     <string name="wifi_tether_starting">Se activează hotspotul…</string>
     <string name="wifi_tether_stopping">Se dezactivează hotspotul…</string>
     <string name="wifi_type_approval" />

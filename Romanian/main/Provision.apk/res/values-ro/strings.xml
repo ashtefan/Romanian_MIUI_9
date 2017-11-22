@@ -23,7 +23,6 @@
     <string name="enable_accessibility_dialog_message">Ați activat TalkBack atingând ecranul cu 2 degete pentru mai mult de 10 secunde. TalkBack oferă feedback vocal persoanelor cu probleme de vedere. Dacă ați activat acest serviciu accidental, apăsați butonul Renunțare și apoi atingeți de două ori ecranul.</string>
     <string name="enable_accessibility_dialog_negative_btn">Renunțare</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
-    <string name="fail_to_generate_qr_code">"Nu s-a putut genera codul QR. Vă rugăm să deschideți din nou pagina."</string>
     <string name="ime_privacy_policy">Politica de confidențialitate pentru tastatura selectată</string>
     <string name="ime_privacy_policy_no_network">Nu există conexiune de rețea. Vizualizaţi Politica de confidențialitate pentru această tastatură la %s.</string>
     <string name="input_method_category">Selectați tastatura prestabilită pe care o veți utiliza pentru scriere e-mailuri, note, etc. Rețineți că puteți instala alte tastaturi mai târziu.</string>
@@ -70,8 +69,6 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     
 Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialitate înainte de a putea utiliza MIUI. Serviciile Mi, serviciile Mi de activare SIM, Mi Cloud, Localizarea dispozitivului, Ecranul principal, Centrul de jocuri, componentele de sistem MAB și MSA, aplicațiile web, quick cards, componentele statistice, smart cards, Mi Link și componentele contului Mi se vor conecta la internet și vor obține locația dvs."</string>
     <string name="title_fingerprint">Setați parola</string>
-    <string name="two_dimensional_code_scan">Scanați codul QR</string>
     <string name="user_agreement">Termenii serviciului</string>
-    <string name="user_strayed_warning">Această pagină este destinată testării. Apăsați butonul Înapoi pentru a ieși.</string>
     <string name="welcome">Bine aţi venit</string>
 </resources>

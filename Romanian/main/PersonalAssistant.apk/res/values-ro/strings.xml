@@ -739,6 +739,8 @@ Verificați numărul de urmărire."</string>
     <string name="payment_method_credit">Card de credit</string>
     <string name="payment_method_other">Altele</string>
     <string name="payment_method_wechat">WeChat</string>
+    <string name="payment_month_next">Luna viitoare</string>
+    <string name="payment_month_prev">Luna trecută</string>
     <string name="payment_pref_basic_category_title">Setări generale</string>
     <string name="payment_pref_clear_records_title">Ștergeți istoricul de plată</string>
     <string name="payment_pref_enabled_summary">Înregistrați toate plățile în mod automat</string>
@@ -747,6 +749,8 @@ Verificați numărul de urmărire."</string>
     <string name="payment_pref_privacy_category_title">Confidențialitate</string>
     <string name="payment_pref_privacy_security_summary">Utilizați protecția confidențialității MIUI pentru a ascunde detaliile contului</string>
     <string name="payment_pref_privacy_security_title">Parolă</string>
+    <string name="payment_pref_report_category_title">Raportați</string>
+    <string name="payment_pref_report_failed_record_title">Raportați facturile neprocesate</string>
     <string name="payment_pref_source_alipay_summary">Obțineți informații despre plăți din Alipay</string>
     <string name="payment_pref_source_alipay_title">Alipay</string>
     <string name="payment_pref_source_category_title">Sursa informațiilor despre plăți</string>
@@ -768,6 +772,10 @@ Verificați numărul de urmărire."</string>
     <string name="payment_record_new_lable">Adăugați istoricul înregistrărilor</string>
     <string name="payment_record_recent_title">Plăți recente</string>
     <string name="payment_record_show_more">Vedeți mai multe</string>
+    <string name="payment_report_failed_record_dialog_cancel">Renunțați</string>
+    <string name="payment_report_failed_record_dialog_message">"Raportați facturile neprocesate pentru a ne ajuta să îmbunătățim precizia de calcul.
+"&lt;b&gt;Elementele pe care le partajați vor fi utilizate doar pentru a îmbunătăți Asistentul inteligent.&lt;/b&gt;</string>
+    <string name="payment_report_failed_record_dialog_ok">Raportați</string>
     <string name="payment_setting">setare</string>
     <string name="payment_total_month_desc">Luna aceasta</string>
     <string name="payment_total_today_desc">Astăzi</string>

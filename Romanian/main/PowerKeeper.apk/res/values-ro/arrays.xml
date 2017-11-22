@@ -91,4 +91,8 @@
         <item>Modul curent control temperatură</item>
         <item>Modul curent cu prioritate pentru performanță</item>
     </string-array>
+    <string-array name="power_mode_entries">
+        <item>Performanță</item>
+        <item>Echilibrat</item>
+    </string-array>
 </resources>

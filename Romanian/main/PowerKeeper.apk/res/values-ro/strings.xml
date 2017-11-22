@@ -88,6 +88,8 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="normal">Mod Prestabilit</string>
     <string name="operation_create_group">Nume</string>
     <string name="operation_create_group_message">Introduceți numele noului grup</string>
+    <string name="performance_category">Performanță</string>
+    <string name="power_center">Pornire?</string>
     <string name="power_checker_background_cpu_multi_apps_title">%1$s rulează anormal</string>
     <string name="power_checker_background_cpu_title">%1$s rulează anormal</string>
     <string name="power_checker_background_gps_multi_apps_title">%1$s utilizează frecvent localizarea</string>
@@ -164,8 +166,9 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="power_event_view_event_title">Declanșări</string>
     <string name="power_hide_mode_app_list_summary">Economisire acumulator în fundal</string>
     <string name="power_hide_mode_summary">Economisiţi acumulatorul prin limitarea pentru aplicații individuale a proceselor de fundal, conexiunilor Wi-Fi și datelor mobile, precum și a GPS-ului</string>
-    <string name="power_hide_mode_title">Gestionare utilizare acumulator de către aplicații</string>
+    <string name="power_hide_mode_title">Acumulator și performanță</string>
     <string name="power_keeper">Economisire acumulator</string>
+    <string name="power_mode">Setări energie</string>
     <string name="power_mode_cpu_state_high">Performanţă</string>
     <string name="power_mode_cpu_state_high_desc">Performanţa este prioritară faţă de durata de viaţă a acumulatorului</string>
     <string name="power_mode_cpu_state_low">Economisire acumulator</string>
@@ -176,6 +179,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="power_mode_view_event_title">Evenimente</string>
     <string name="power_mode_view_user_define_title">Eveniment nou</string>
     <string name="power_optimize_activity_profile_file_error">Eroare economisire acumulator</string>
+    <string name="power_usage">Utilizare energie</string>
     <string name="ragment_sys_listempty">Nicio aplicație de sistem</string>
     <string name="reading">Mod Citire</string>
     <string name="scenario_policies_summary">Aplică diferite strategii de economisire a energiei pentru scenarii diferite</string>
