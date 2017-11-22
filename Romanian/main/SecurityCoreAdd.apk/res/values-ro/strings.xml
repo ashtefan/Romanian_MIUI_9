@@ -29,6 +29,7 @@ această opțiune va fi activată în mod automat în spațiul secundar."</strin
     <string name="closeSecondSpace">Eliminați Spațiul Secundar</string>
     <string name="closeSecondSpaceSummary">Eliminați Spațiul Secundar împreună cu datele conținute</string>
     <string name="closeSuccess">Dezactivat</string>
+    <string name="close_second_space">Spațiul secundar a fost șters</string>
     <string name="close_second_space_success">Spațiul Secundar a fost eliminat</string>
     <string name="closed">Oprit</string>
     <string name="complete_setting">Finalizat</string>
@@ -129,6 +130,7 @@ Le puteți de asemenea descărca separat."</string>
     <string name="input_space_password">Setați acum</string>
     <string name="invalid_qr_code">Cod QR invalid</string>
     <string name="list_empty_text">Gol</string>
+    <string name="list_empty_text_xspace">Instalați WeChat/QQ/Weibo, creați aplicații clonate și reîncercați.</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_apps">Se încarcă aplicațiile…</string>
     <string name="loading_space">Doar o secundă…</string>
@@ -175,6 +177,7 @@ Altfel nu veți putea accesa Spațiul secundar din Blocarea ecranului."</string>
     <string name="private_sms_show_title">Mesajele private sunt vizibile în Spațiul Secundar</string>
     <string name="private_space_setting">Gestionare</string>
     <string name="public_app">Ambele spații de lucru</string>
+    <string name="qq_send">Trimiteți prietenilor/dispozitivelor QQ</string>
     <string name="removeSuccess">Șters cu succes</string>
     <string name="remove_second_space_msg">Toate datele aplicațiilor din Spațiul Secundar vor fi șterse după ce veți elimina Spațiul Secundar. Continuați?</string>
     <string name="remove_user_click_message">"*Dacă nu aveți elemente importante în Spațiul secundar, %s"</string>
@@ -305,10 +308,17 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="transferMessage">Mesajele din Spațiul Secundar vor fi mutate în Spațiul Principal</string>
     <string name="tryNow">Încercați acum</string>
     <string name="wating">Doar o secundă…</string>
+    <string name="weibo_send">Trimiteți în Weibo</string>
+    <string name="weixin_pay">Plată WeChat</string>
+    <string name="weixin_share">Partajați în Momente</string>
     <string name="xpsace_guide_button">Creați</string>
     <string name="xspace_account">Conturi aplicații clonate</string>
     <string name="xspace_chocie">Suport pentru aplicațiile clonate</string>
     <string name="xspace_creating">Se crează aplicația clonată…</string>
+    <string name="xspace_default_app_summary">Setați aplicația implicită pentru plăți, partajare, favorite și altele.</string>
+    <string name="xspace_default_app_title">Aplicația implicită</string>
+    <string name="xspace_default_setting_dialog_title">Implicită</string>
+    <string name="xspace_default_setting_label">Aplicația implicită</string>
     <string name="xspace_description">"Aplicațiile clonate sunt copii ale aplicațiilor care pot fi utilizate separat cu un alt cont.
 
 Unele aplicații clonate necesită suportul Google Services Framework. În aceste cazuri, se crează două aplicații Google Services Framework."</string>
@@ -321,9 +331,12 @@ Unele aplicații clonate necesită suportul Google Services Framework. În acest
     <string name="xspace_introduce">Recomandate</string>
     <string name="xspace_label">Aplicații clonate</string>
     <string name="xspace_loading_msg">Se încarcă aplicațiile…</string>
+    <string name="xspace_qq_title">QQ</string>
     <string name="xspace_setting_label">Setări aplicații clonate</string>
     <string name="xspace_uninstall_completed">Aplicația clonată a fost dezinstalată cu succes</string>
     <string name="xspace_uninstall_dialog_content">Dezinstalarea unei aplicații clonate va șterge și toate datele acesteia.</string>
     <string name="xspace_uninstall_dialog_title">Dezinstalați aplicația clonată</string>
     <string name="xspace_uninstalling">Se dezinstalează…</string>
+    <string name="xspace_weibo_title">Weibo</string>
+    <string name="xspace_weixin_title">WeChat</string>
 </resources>

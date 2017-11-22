@@ -1487,7 +1487,7 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="tty_mode_not_allowed_video_call">Schimbarea modului TTY nu este permisă în timpul unui apel video</string>
     <string name="tty_mode_option_summary">Setaţi modul TTY</string>
     <string name="tty_mode_option_title">Mod TTY</string>
-    <string name="turnover_mute_summary">Când telefonul este rotit în plan orizontal, întoarcerea lui cu ecranul în jos va dezactiva soneria</string>
+    <string name="turnover_mute_summary">Când telefonul este așezat pe o suprafață orizontală, întoarcerea lui cu ecranul în jos va dezactiva soneria</string>
     <string name="turnover_mute_title">Întoarcere pentru a dezactiva soneria</string>
     <string name="ui_default_package">com.android.dialer</string>
     <string name="undefined">Nimic</string>

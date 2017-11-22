@@ -15,4 +15,9 @@
         <item>Datele aplicațiilor vor fi pierdute după mutarea în Spațiul curent.</item>
         <item>Aplicațiile sunt utilizate în ambele spații.</item>
     </string-array>
+    <string-array name="choose_ask_type">
+        <item>Întreabă întotdeauna</item>
+        <item>Aplicația implicită</item>
+        <item>Aplicația duală</item>
+    </string-array>
 </resources>

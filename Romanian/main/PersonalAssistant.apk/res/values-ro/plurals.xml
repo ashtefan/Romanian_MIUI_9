@@ -58,9 +58,9 @@
         <item quantity="other">cu %1$dz în urmă</item>
     </plurals>
     <plurals name="steps">
-        <item quantity="other">%d|pași</item>
-        <item quantity="zero">%d|pas</item>
-        <item quantity="one">%d|pas</item>
+        <item quantity="other">%d pași</item>
+        <item quantity="zero">%d pas</item>
+        <item quantity="one">%d pas</item>
     </plurals>
     <plurals name="assistant_day">
         <item quantity="other">În %d zile</item>

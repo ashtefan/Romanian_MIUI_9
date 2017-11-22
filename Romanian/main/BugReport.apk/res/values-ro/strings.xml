@@ -55,12 +55,14 @@
     <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
     <string name="feedback_choose_module">Selectați elementul</string>
     <string name="feedback_choose_module_hint">Necesar</string>
+    <string name="feedback_choose_third_app_name">Selectați numele aplicației</string>
     <string name="feedback_collect_log_failed">"Nu s-au putut obține rapoartele de eroare"</string>
     <string name="feedback_contact_info_hint">Număr de telefon/E-mail</string>
     <string name="feedback_continue">Continuați expunerea problemei</string>
     <string name="feedback_delete_images">Ștergeți imaginile</string>
     <string name="feedback_description">Descriere</string>
     <string name="feedback_description_bugreport_hint">În unele situații (…) telefonul meu se comportă anormal (…).</string>
+    <string name="feedback_description_hint">"Descrieți problema pe care o întâmpinați"</string>
     <string name="feedback_description_label">Descriere</string>
     <string name="feedback_description_suggest_hint">"Doresc să adăugați o funcție nouă () deoarece îmi este folositoare pentru ()."</string>
     <string name="feedback_detail_tile">Progres</string>
@@ -93,6 +95,7 @@
     <string name="feedback_status_recorded">S-a primit feedback</string>
     <string name="feedback_status_replyed">Răspuns</string>
     <string name="feedback_status_reresolved">Rezolvat</string>
+    <string name="feedback_status_submit_attachment">Atașamentul a fost trimis cu succes</string>
     <string name="feedback_status_supplement">Descrieți în detaliu problema</string>
     <string name="feedback_status_supplement_more">Adăugați un comentariu</string>
     <string name="feedback_submit_failed_notification_desc">Vedeți detaliile</string>
@@ -257,6 +260,7 @@
     <string name="section_description">Descriere</string>
     <string name="section_err_type">Tip de eroare</string>
     <string name="section_screenshot">Captură de ecran</string>
+    <string name="select_system_app_tag">Selectați etichetele</string>
     <string name="submit_dialog_cancel">Anulaţi</string>
     <string name="submit_dialog_confirm">Trimiteţi</string>
     <string name="submit_dialog_content">"Feedback-ul dvs., împreună cu jurnalele cu erori și imagini atașate, vor fi încărcate pe serverele MIUI. Acestea pot conține informații personale și date despre locația dumneavoastră."</string>

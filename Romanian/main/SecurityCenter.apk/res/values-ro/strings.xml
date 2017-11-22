@@ -411,6 +411,7 @@
     <string name="auto_task_operation_vibration">Vibrații</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
     <string name="back_app_name">Înapoi la Blocarea aplicației</string>
+    <string name="back_description_securitycenter">Înapoi</string>
     <string name="back_modifypassword">Înapoi la modificarea parolei</string>
     <string name="background_restrict_app_dialog_message">Restricționarea accesului la rețea în fundal pentru această aplicație poate împiedica funcționarea corectă a acesteia, primirea mesajelor, descărcarea conținutului, etc. Restricționați oricum?</string>
     <string name="background_traffic">În fundal: %s</string>

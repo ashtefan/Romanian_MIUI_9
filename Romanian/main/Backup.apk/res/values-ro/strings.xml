@@ -123,6 +123,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="err_unknown">Eroare necunoscută</string>
     <string name="err_version_too_old">Fișierul copiei de rezervă este prea vechi.</string>
     <string name="err_version_unsupported">"Versiunea copiei de rezervă nu este susţinută."</string>
+    <string name="error_permissions">"Această aplicație nu are permisiunile necesare pentru accesarea Calendarului. Mergeți la Setări și verificați permisiunile pentru a putea continua."</string>
     <string name="every_day">În fiecare zi</string>
     <string name="exchange_account">Comutați conturile</string>
     <string name="fail">Eşuat</string>
@@ -157,7 +158,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="hsa_verify_shutdown">Dezactivați</string>
     <string name="icloud_backup_tip">Conectați-vă la iCloud utilizând vechiului telefon iOS</string>
     <string name="icloud_how_to_backup_tip_steps">"1. Accesați Setări din telefonul dvs. iOS și apoi alegeți iCloud.
-2. Activați butonul Contacte.
+2. Comutați butoanele pentru contacte și alte elemente.
 3.Selectați Fotografii și activați butonul iCloud Photo Library."</string>
     <string name="icloud_how_to_backup_tip_summary">Pentru a importa date din iOS, trebuie să creați o copie de rezervă în iCloud.</string>
     <string name="icloud_how_to_backup_tip_title">Sfaturi:</string>
@@ -173,7 +174,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
 2.\u0009Accesaţi setările MiTalk şi alegeţi ”Creare copie de rezervă pentru contacte în contul Mi””</string>
     <string name="import_from_xiaomi_account_hint2">2. Dacă aveţi deja o copie de rezervă apăsaţi Următorul.</string>
     <string name="import_from_xiaomi_account_hint_title">Utilizaţi MiTalk pt. a efectua copii de rezervă ale contactelor dvs. între dispozitive.</string>
-    <string name="import_tip_summary">Datorită problemelor de compatibilitate, puteți transfera doar contactele și fotografiile de pe dispozitivele iOS. Asigurați-vă că ați creat o copie de rezervă în iCloud înainte de a începe transferul.</string>
+    <string name="import_tip_summary">Datorită problemelor de compatibilitate, puteți transfera doar parțial date de pe dispozitivele iOS. Asigurați-vă că ați creat o copie de rezervă în iCloud înainte de a începe transferul.</string>
     <string name="import_tip_title">Sfaturi:</string>
     <string name="loading_data">Se încarcă datele</string>
     <string name="local_app_name">Copie de rezervă</string>
@@ -285,8 +286,10 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="select_all">Selectaţi tot</string>
     <string name="select_backup_item">Selectaţi elementele</string>
     <string name="select_empty">Selectați elementele de importat</string>
+    <string name="select_item_calendar">Calendar</string>
     <string name="select_item_contacts">Contacte</string>
     <string name="select_item_empty_summary">Niciun element</string>
+    <string name="select_item_notes">Notițe</string>
     <string name="select_item_photos">Fotografii</string>
     <string name="select_item_summary_loading">Încărcare date…</string>
     <string name="select_item_summary_wait">Se așteaptă…</string>
