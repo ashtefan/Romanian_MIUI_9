@@ -232,11 +232,8 @@ Actualizaţi acum?"</string>
     <string name="automatic_remind_text">Reamintește în mod automat</string>
     <string name="back">Înapoi</string>
     <string name="bank_card_detail">Detaliile cardului de credit</string>
-    <string name="bank_card_list_card_num_fmt">****%s</string>
     <string name="battery_saver">Economisire acumulator</string>
     <string name="battery_saver_keywords">economisire acumulator; consumul de acumulator pentru e-mailuri</string>
-    <string name="bcc">BCC</string>
-    <string name="bcc_heading">"BCC: "</string>
     <string name="bill_center_setting">Setări pentru plată</string>
     <string name="bill_center_setting_head">Importați din aceste conturi</string>
     <string name="bill_cycle_text">Ciclu de plată</string>
@@ -258,9 +255,6 @@ Actualizaţi acum?"</string>
     <string name="cancel_action">Anulaţi</string>
     <string name="cancel_pop3_attchemt_downloading">"Nu se poate opri descărcarea în curs a atașamentelor pentru conturile de tip POP3"</string>
     <string name="cant_move_or_change_labels">"Nu se pot muta elemente din mai multe conturi."</string>
-    <string name="cc">CC</string>
-    <string name="cc_attribution">CC: %1$s\n</string>
-    <string name="cc_bcc">CC/BCC</string>
     <string name="cc_heading">"CC: "</string>
     <string name="change_folders_selection_dialog_title">Modificaţi dosarele</string>
     <string name="change_sync_settings">Modificaţi setările de sincronizare</string>
@@ -557,7 +551,6 @@ Actualizaţi acum?"</string>
     <string name="invalid_recipient">Adresa %s este greşită.</string>
     <string name="invalid_recipient_title">Eroare destinatar</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker" formatted="false">%s: %s</string>
     <string name="load_from_remote">Căutaţi pe server</string>
     <string name="load_more">Încărcaţi mai multe</string>
     <string name="loading_conversation">Încărcare…</string>
@@ -1073,7 +1066,6 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="tablet">tabletă</string>
     <string name="tap_to_configure">Atingeţi pentru a configura.</string>
     <string name="tap_to_enable_sync">Atingeți pentru a activa.</string>
-    <string name="to">Către</string>
     <string name="to_heading">"Către: "</string>
     <string name="toast_bar_fail_synchronization">Nu se poate conecta la rețea</string>
     <string name="toast_bar_insufficient_memory_space">"Nu se pot primi mesaje noi. Spaţiul de stocare este insuficient."</string>
@@ -1102,9 +1094,6 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="translation_query_failure">"Nu s-a găsit niciun rezultat"</string>
     <string name="translation_technology_support">Suport tehnic oferit de iciba.com</string>
     <string name="trash_folder_selection_title">Dosarul Coş de gunoi pentru %s</string>
-    <string name="trigger_compose_char">c</string>
-    <string name="trigger_refresh_char">u</string>
-    <string name="trigger_y_char">y</string>
     <string name="try_exchange_login">Încercați să vă conectați cu un cont exchange</string>
     <string name="turn_auto_sync_on_dialog_body">"Modificările pe care le efectuați
           în toate aplicațiile și conturile, nu doar în Gmail, vor fi sincronizate

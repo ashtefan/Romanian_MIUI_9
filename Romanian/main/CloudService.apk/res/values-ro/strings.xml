@@ -89,8 +89,6 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_disabling">Dezactivare…</string>
     <string name="find_device_dspt">Localizați, blocaţi sau resetați dispozitivul de la distanță</string>
     <string name="find_device_dspt_provision">"Dacă pierdeți dispozitivul, puteţi să accesaţi %s pentru a-l localiza, bloca, sau reseta. Puteți activa sau dezactiva această opţiune în Setări."</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">. Puteți activa sau dezactiva această caracteristică oricând în Setări.</string>
     <string name="find_device_dspt_provision_4">Dacă veţi schimba cartela SIM, un mesaj SMS va fi trimis automat pentru a reactiva această funcție.</string>
     <string name="find_device_enabling">Activare…</string>
@@ -99,7 +97,6 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_error_server">Eroare de server</string>
     <string name="find_device_error_unknown">Eroare necunoscută.</string>
     <string name="find_device_notice_p1">Accesaţi</string>
-    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"pentru a localiza, bloca, sau restabili telefonul dvs.
 Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reactiva această funcție."</string>
     <string name="find_device_operation_failure_rpc">"Nu s-a putut realiza operațiunea datorită unei erori RPC."</string>
@@ -267,8 +264,6 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_find_device_open_fail">"Nu s-a putut activa localizarea dispozitivului"</string>
     <string name="micloud_find_device_opened">Localizarea dispozitivului este pornită</string>
     <string name="micloud_find_device_opened_content">Localizați dispozitivul accesând %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-    <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
     <string name="micloud_find_device_verify_button">Reactivați Localizarea dispozitivului</string>
     <string name="micloud_find_device_verify_close">Dezactivați Localizarea dispozitivului</string>
     <string name="micloud_find_device_verify_fail">"Nu s-a putut reactiva Localizarea dispozitivului"</string>
@@ -527,8 +522,6 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="sync_dspt_entrance_provision_network">Această aplicație trebuie să se conecteze la internet pentru a funcționa în mod normal. Sincronizarea datelor poate necesita conectarea la rețeaua de date mobile și activarea Wi-Fi.</string>
     <string name="sync_dspt_entrance_provision_skip"><u>Omiteţi acest pas</u></string>
     <string name="sync_dspt_provision">"Sincronizaţi fotografiile, contactele, notele și altele pe toate dispozitivele, sau accesați-le la "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Puteți activa sau dezactiva această funcţie oricând în Setări.
 "</string>
     <string name="sync_dspt_provision_header">Sincronizare</string>

@@ -162,7 +162,6 @@
     <string name="dialog_type_image">Imagine</string>
     <string name="dialog_type_text">Document</string>
     <string name="dialog_type_video">Videoclip</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Disponibil: </string>
     <string name="disk_total">Total: </string>
     <string name="dislike_toast">"Asemenea videoclipuri nu vă vor fi recomandate."</string>
@@ -313,11 +312,9 @@
     <string name="message_comment_prefix">"Comentariu: "</string>
     <string name="message_my_received_notification">Mesaj nou</string>
     <string name="message_my_received_praise">Like-uri primite</string>
-    <string name="message_my_received_praise_count">+%1$s</string>
     <string name="message_praise_comment">" au apreciat acest comentariu"</string>
     <string name="message_praise_video">" au apreciat acest videoclip"</string>
     <string name="message_reply_prefix">Răspuns</string>
-    <string name="message_reply_suffix">": "</string>
     <string name="mi_router_label">Router</string>
     <string name="midrop_msg_1">Porniți Mi Drop pe celălalt telefon</string>
     <string name="midrop_msg_2">Când Mi Drop este pornit, puteți căuta alte dispozitive din apropiere și trimite fișiere</string>

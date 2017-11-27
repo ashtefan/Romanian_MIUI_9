@@ -27,7 +27,6 @@ Contactați agentul de vânzări pentru mai multe detalii."</string>
     <string name="find_device_error_unknown">Eroare necunoscută (%s).</string>
     <string name="find_device_noise_title">Alarmă pentru localizare dispozitiv</string>
     <string name="find_device_notice_p1">Accesați</string>
-    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"pentru a localiza, bloca sau restaura telefonul.
 Dacă schimbați cartela SIM, un alt SMS va fi trimis în mod automat pentru a reactiva această caracteristică."</string>
     <string name="find_device_stop_noise">Apăsați OK pentru a opri sunetul</string>

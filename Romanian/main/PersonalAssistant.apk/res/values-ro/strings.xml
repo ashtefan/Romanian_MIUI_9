@@ -276,7 +276,6 @@
     <string name="express_company_phone_prefix">"Contact: "</string>
     <string name="express_company_pricing_details">Detalii preț</string>
     <string name="express_complete">Acceptat</string>
-    <string name="express_complete_flag">3</string>
     <string name="express_contact_address">Introduceți adresa</string>
     <string name="express_contact_address_finding">Localizare…</string>
     <string name="express_contact_label">Informații despre serviciul de ridicare</string>
@@ -287,7 +286,6 @@
     <string name="express_copy_number">Copiați</string>
     <string name="express_delete_order">Ștergeți</string>
     <string name="express_delivery">Livrare</string>
-    <string name="express_delivery_flag">5</string>
     <string name="express_dest_city_label">Destinație</string>
     <string name="express_detailed_address">Adresă</string>
     <string name="express_field_empty">Gol</string>
@@ -549,7 +547,6 @@ Verificați numărul de urmărire."</string>
     <string name="hour24_format_en">HH:mm</string>
     <string name="http_stock_error">"Nu s-au putut încărca informațiile"</string>
     <string name="immediate_recommendation">Recomandări</string>
-    <string name="info_divider">|</string>
     <string name="item_type_custom">Personalizați</string>
     <string name="item_type_suggestion">Sugestii</string>
     <string name="just_now">Chiar acum</string>
@@ -785,7 +782,6 @@ Verificați numărul de urmărire."</string>
     <string name="payment_upload_data_success">Date încărcate cu succes</string>
     <string name="payment_user_notice_bar_text">Despre \"Plățile mele\"</string>
     <string name="personalAssistant_mainpage">Pagina Acasă</string>
-    <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
     <string name="pie_chart_label_atm">Retrageri de la ATM:</string>
     <string name="pie_chart_label_catering">Mâncare:</string>
     <string name="pie_chart_label_education">Educație:</string>

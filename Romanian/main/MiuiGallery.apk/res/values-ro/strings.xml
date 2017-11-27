@@ -464,7 +464,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Setați</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Galeria necesită accesul la 
 %s
  pentru a funcționa normal, atingeți \"Setări\" pentru a merge la Permisiuni."</string>
@@ -798,7 +797,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="search_feedback_likely_check_title">Verificați</string>
     <string name="search_feedback_likely_title">Se pare că aceste fotografii pot conține \"%s\"</string>
     <string name="search_feedback_task_complete">Toate misiunile sunt finalizate</string>
-    <string name="search_feedback_task_progress">Misiuni %1$d/%2$d</string>
     <string name="search_feedback_task_request_award_failed">"Nu s-a putut primi recompensa. Încercați din nou mai târziu.​"</string>
     <string name="search_feedback_task_requesting_award">Primire recompensă​…</string>
     <string name="search_feedback_user_notice">"Am citit și sunt de acord cu %s."</string>
