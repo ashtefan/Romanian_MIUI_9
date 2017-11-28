@@ -411,8 +411,8 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="oem_preferred_feedback_reporter"/>
     <string name="oem_unlock_enable">Deblocare OEM</string>
     <string name="oem_unlock_enable_summary">Permite deblocarea bootloader-ului</string>
-    <string name="oldman_airplane_mode_text">avion</string>
-    <string name="oldman_incall_text">În apel</string>
+    <string name="oldman_airplane_mode_text">Avion</string>
+    <string name="oldman_incall_text">Reluare apel</string>
     <string name="oldman_status_bar_time_format_12">h:mm</string>
     <string name="oldman_status_bar_time_format_24">HH:mm</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>

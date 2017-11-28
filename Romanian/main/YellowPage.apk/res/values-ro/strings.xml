@@ -287,6 +287,7 @@ Verificați numărul de urmărire."</string>
     <string name="mark_number_feedback_success">Comentariul a fost trimis; numărul va fi verificat.</string>
     <string name="mark_number_marked_maintitle">Modificați raportul despre acest număr</string>
     <string name="mark_number_marked_subtitle">Ați raportat acest număr ca %s</string>
+    <string name="mark_number_notification_title">Raportați numărul suspect</string>
     <string name="mark_number_remove">Eliminați eticheta</string>
     <string name="mark_title_null_hint">Introduceți o etichetă</string>
     <string name="menu_add_black_list">Adăugați în lista blocărilor</string>

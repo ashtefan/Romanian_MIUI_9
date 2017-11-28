@@ -43,6 +43,7 @@
     <string name="audio_chat">Chat vocal</string>
     <string name="auto_nickname">Automat</string>
     <string name="auto_set_nickname">Automat</string>
+    <string name="back_description">Înapoi</string>
     <string name="back_view_description">Apăsați pentru a reveni la ecranul anterior</string>
     <string name="batch_delete">Ştergere în serie</string>
     <string name="blacklist">Blocaţi</string>
@@ -89,7 +90,6 @@
     <string name="call_radio">Apelaţi un număr radio</string>
     <string name="call_record_setting_miui">Setări înregistrare</string>
     <string name="call_settings">Setări</string>
-    <string name="call_settings_primary_user_only">Setările pentru apeluri pot fi modificate doar de către utilizatorul principal.</string>
     <string name="call_sim1_description">SIM 1</string>
     <string name="call_sim1_menu_title">Apelaţi prin SIM1</string>
     <string name="call_sim2_description">SIM 2</string>
@@ -101,6 +101,8 @@
     <string name="call_work">Apelaţi numărul de serviciu</string>
     <string name="call_work_mobile">Apelaţi numărul de mobil de la serviciu</string>
     <string name="call_work_pager">Apelaţi pagerul de serviciu</string>
+    <string name="calllog_call_note_menu">Notițe apeluri</string>
+    <string name="calllog_call_record_menu">Apeluri înregistrate</string>
     <string name="calllog_menu_blacklist">Blocaţi</string>
     <string name="calllog_menu_edit_before_call">Editaţi</string>
     <string name="calllog_menu_send_sms">Trimiteţi un mesaj</string>
@@ -207,7 +209,7 @@
     <string name="contactSavedErrorToast">Nu s-au putut salva modificările făcute contactului</string>
     <string name="contactSavedToast">Contactul a fost salvat</string>
     <string name="contact_clear_search_history">Goliți istoricul</string>
-    <string name="contact_delete_toast">Contact şters</string>
+    <string name="contact_delete_toast">Contact şters cu succes</string>
     <string name="contact_detail_action_item_calllog">Istoric apeluri</string>
     <string name="contact_detail_action_item_nocalllog">Nu există istoric</string>
     <string name="contact_detail_calllog_call_note_tips">Note</string>
@@ -247,6 +249,9 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="contact_editor_prompt_multiple_accounts">Salvaţi contactul la</string>
     <string name="contact_editor_prompt_one_account">Contactul nou va fi sincronizat cu %1$s.</string>
     <string name="contact_editor_prompt_zero_accounts">Stocaţi în telefon sau într-un cont nou on-line</string>
+    <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
+    <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
+    <string name="contact_import_methods_dialog_title">Selectați metoda de import</string>
     <string name="contact_is_readOnly">Imposibil de editat contactele doar în citire</string>
     <string name="contact_list_loading">Se încarcă…</string>
     <string name="contact_pick_photo">Fotografii</string>
@@ -265,6 +270,8 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="contacts_unavailable_add_account">Conectaţi-vă la un cont</string>
     <string name="contacts_unavailable_create_contact">Creaţi o intrare nouă în Agendă</string>
     <string name="contacts_unavailable_import_contacts">Importaţi dintr-un fişier</string>
+    <string name="contacts_unavailable_import_from_old_device">Importați dintr-un dispozitiv mai vechi</string>
+    <string name="contacts_unavailable_import_sim_contacts">Importați contactele SIM</string>
     <string name="convenient_service">Servicii</string>
     <string name="copy_number">Copiați</string>
     <string name="copy_text">Copiaţi în clipboard</string>
@@ -449,7 +456,7 @@ Pentru a evita solicitările repetate, vom actualiza soldul o dată pe zi."</str
     <string name="export_to_sim2">Exportaţi pe cartela SIM2</string>
     <string name="export_to_sim_title">Export…</string>
     <string name="export_to_storage">Exportați în spațiul de stocare</string>
-    <string name="export_vcard_description">Exportaţi vCard pe cardul SD</string>
+    <string name="export_vcard_description">"Exportaţi vCard în stocarea telefonului"</string>
     <string name="exporting_contact_failed_message">"Datele de contact nu au fost exportate.
 Motivul: „%s”"</string>
     <string name="exporting_contact_failed_title">Nu s-a putut exporta</string>
@@ -540,6 +547,7 @@ Motivul: „%s”"</string>
     <string name="import_one_vcard_string">Importaţi un fişier vCard</string>
     <string name="import_percent">0%</string>
     <string name="import_selected_sim_entries_miui">Importaţi contactele selectate</string>
+    <string name="import_sim_contacts_hint_title">Importați contactele SIM</string>
     <string name="import_sim_entries_finish">Contacte SIM importate</string>
     <string name="import_sim_entry_miui">Importaţi</string>
     <string name="import_to_xiaomi_account_confirm">Importaţi</string>
@@ -547,17 +555,8 @@ Motivul: „%s”"</string>
     <string name="import_to_xiaomi_account_progress_message">Import…</string>
     <string name="import_to_xiaomi_account_progress_title">Importaţi contacte în contul Mi</string>
     <string name="import_to_xiaomi_account_title">Doriţi să importaţi următoarele contacte în contul Mi?</string>
-    <string name="import_vcard_description">Importaţi contacte de pe cardul SD</string>
+    <string name="import_vcard_description">"Importaţi contacte din stocarea telefonului"</string>
     <string name="import_vcard_dialog_message">Importați vCard?</string>
-    <string name="import_weibo_dialog_title">Importaţi contactele Weibo</string>
-    <string name="import_weibo_error_no_matched_contacts">Niciun contact potrivit</string>
-    <string name="import_weibo_error_no_network">Eroare de reţea</string>
-    <string name="import_weibo_error_no_xiaomi_phone">Nu există numere de telefon stocate în contul dvs. Mi.</string>
-    <string name="import_weibo_error_unknown">Eroare necunoscută</string>
-    <string name="import_weibo_error_user_cancel">Anulat de utilizator</string>
-    <string name="import_weibo_fetch_followers">Preluare contacte…</string>
-    <string name="import_weibo_notification_title_done">Actualizate: %s contacte</string>
-    <string name="import_weibo_progress_name">Potrivire \"%1$s\"…</string>
     <string name="importing_sim_contacts_miui">Import contacte SIM…</string>
     <string name="importing_sim_contacts_miui_prepare">Pregătire contacte…</string>
     <string name="importing_vcard_canceled_title">Importul fişierului %s a fost anulat</string>
@@ -753,56 +752,6 @@ Motivul: „%s”"</string>
     <string name="noContactHelpTextAccountsInfo">Sincronizaţi contactele Xiaomi, Google, Exchange</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restabiliţi datele contactelor utilizând contul Xiaomi</string>
     <string name="noContacts">Niciun contact</string>
-    <string name="noContactsHelpText">"Nu există contacte din agendă de afişat.
-    
-    Dacă doriţi să adăugaţi contacte în agendă, atingeţi "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Meniu&lt;/font&gt;&lt;/b&gt;", apoi atingeţi:
-    
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importaţi/Exportaţi pentru a importa contacte de pe cartela SIM sau de pe cardul SD
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
-"</string>
-    <string name="noContactsHelpTextForCreateShortcut">"Niciun contact din agendă de afişat."</string>
-    <string name="noContactsHelpTextWithSync">"Nu există contacte din agendă de afişat. (Dacă aţi adăugat recent un cont, poate dura câteva minute până la finalizarea sincronizării contactelor.)
-
-Dacă doriţi să adăugaţi contacte în agendă, atingeţi "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Meniu&lt;/font&gt;&lt;/b&gt;", apoi atingeţi:
-
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Opţiuni de afişare pentru a modifica contactele din agendă care sunt vizibile
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importaţi/Exportaţi pentru a importa contactele de pe cartela SIM sau de pe cardul SD
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
-"</string>
-    <string name="noContactsHelpTextWithSyncForCreateShortcut">Niciun contact în agendă de afişat. (Dacă tocmai aţi adăugat un cont, poate dura câteva minute sincronizarea contactelor.)</string>
-    <string name="noContactsNoSimHelpText">"Nu aveţi contacte din agendă de afişat.
-
-Pentru a adăuga contacte în agendă, atingeţi "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Meniu&lt;/font&gt;&lt;/b&gt;", apoi atingeţi:
-
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importaţi/exportaţi pentru a importa contacte de pe cardul SD
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
-"</string>
-    <string name="noContactsNoSimHelpTextWithSync">"Nu există contacte din agendă de afişat. (Dacă aţi adăugat recent un cont, poate dura câteva minute până la finalizarea sincronizării contactelor.)
-
-{Dacă doriţi să adăugaţi contacte în agendă, atingeţi "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Meniu&lt;/font&gt;&lt;/b&gt;", apoi atingeţi:
-
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Conturi pentru a adăuga sau a configura un cont cu contacte din agendă, pe care le puteţi sincroniza cu cele de pe telefon
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Opţiuni de afişare pentru a modifica contactele din agendă care sunt vizibile
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Contact nou în agendă pentru a crea de la zero o intrare nouă în agendă
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Importaţi/exportaţi pentru a importa contacte de pe cardul SD
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
-"</string>
     <string name="noContactsWithPhoneNumbers">Niciun contact cu numere de telefon</string>
     <string name="noFavoritesHelpText">"Nu aveţi numere favorite.
     

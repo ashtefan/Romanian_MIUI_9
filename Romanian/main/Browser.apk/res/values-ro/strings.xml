@@ -208,16 +208,16 @@
     <string name="contextmenu_webpage_capture">Captură de ecran</string>
     <string name="contextmenu_webpage_html">Salvați ca fișier HTML</string>
     <string name="contextmenu_webpage_snapshot">Salvați pagina</string>
-    <string name="copy_to_clipboard_failure_message">Nu s-a putut copia în clipboard</string>
+    <string name="copy_to_clipboard_failure_message">"Nu s-a putut copia în clipboard."</string>
     <string name="copy_url">Copiaţi URL</string>
     <string name="create_qr_code">Cod QR</string>
     <string name="current_version_pad">Tabletă</string>
     <string name="current_version_pc">Desktop</string>
     <string name="current_version_phone">Telefon</string>
     <string name="custom_head_card_text">Crede întotdeauna că ceva minunat urmează să se întâmple</string>
-    <string name="data_traffic_prompt_change">Utilizarea conexiunii de date mobile pentru a viziona videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
-    <string name="data_traffic_prompt_message">Utilizarea conexiunii de date mobile pentru a naviga pe internet va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
-    <string name="data_traffic_prompt_message_short">Utilizarea conexiunii de date mobile pentru a viziona videoclipuri online poate determina depășirea planului de date inclus.</string>
+    <string name="data_traffic_prompt_change">"Utilizarea conexiunii de date mobile pentru a viziona videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul vă poate taxa suplimentar."</string>
+    <string name="data_traffic_prompt_message">"Utilizarea conexiunii de date mobile pentru a căuta videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul vă poate taxa suplimentar."</string>
+    <string name="data_traffic_prompt_message_short">"Utilizarea conexiunii de date mobile pentru a viziona videoclipuri online poate determina depășirea planului de date inclus."</string>
     <string name="data_traffic_prompt_title">Avertisment de utilizare a datelor</string>
     <string name="date_picker_dialog_clear">Curăţaţi</string>
     <string name="date_picker_dialog_other_button_label">Altele</string>
@@ -262,7 +262,7 @@
     <string name="download_default_path_txt">Memorează această alegere</string>
     <string name="download_dialog_default_path_invalid">"Locația de descărcare selectată nu este validă. Se salvează în locaţia prestabilită…"</string>
     <string name="download_dialog_file_length_hint_txt">"Mărime fişier: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">mai puţin de 1 kb</string>
+    <string name="download_dialog_file_length_lessthan1kb">Mai puţin de 1 KB</string>
     <string name="download_dialog_file_length_nolength_error_txt">"Descărcare eşuată"</string>
     <string name="download_dialog_file_length_nolength_txt">Doar o secundă…</string>
     <string name="download_failed">"Nu s-a putut descărca"</string>
@@ -295,7 +295,7 @@
     <string name="edit">Editaţi</string>
     <string name="edit_bookmark">Editați marcajul</string>
     <string name="edit_quicklink">Editaţi</string>
-    <string name="empty_app_name">altă aplicație</string>
+    <string name="empty_app_name">Altă aplicație</string>
     <string name="empty_bookmark">Gol</string>
     <string name="empty_cloud_tab_login_hint">Nicio filă cloud</string>
     <string name="empty_cloud_tab_logout_hint">"Conectați-vă la contul Mi
@@ -387,7 +387,7 @@ Părăsiţi această pagină?"</string>
     <string name="loading_tips">Glisați în jos pentru a actualiza</string>
     <string name="local_bookmarks">Mi</string>
     <string name="login_failed_toast">"Conectarea a eșuat; vă rugăm reîncărcați pagina și reîncercați."</string>
-    <string name="low_memory_error">Imposibil de finalizat operaţiunea anterioară din cauza memoriei insuficiente</string>
+    <string name="low_memory_error">"Imposibil de finalizat operaţiunea anterioară din cauza memoriei insuficiente."</string>
     <string name="low_memory_toast">"Nu se poate utiliza browser-ul din cauza memoriei insuficiente"</string>
     <string name="max_tabs_warning">"Limită maximă de file atinsă"</string>
     <string name="maximum_input_alert">"Nu se pot introduce mai mult de 2048 de caractere"</string>
@@ -401,9 +401,9 @@ Părăsiţi această pagină?"</string>
     <string name="media_error_timeout">Conexiune la rețea expirată</string>
     <string name="media_error_video_not_exist">"Videoclipul nu există"</string>
     <string name="media_player_error_button">OK</string>
-    <string name="media_player_error_text_invalid_progressive_playback">Ne pare rău însă acest videoclip nu poate fi vizionat online pe acest dispozitiv.</string>
-    <string name="media_player_error_text_unknown">Ne pare rău însă acest videoclip nu poate fi redat</string>
-    <string name="media_player_error_title">Nu se poate reda videoclipul</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Acest videoclip nu poate fi vizionat online pe acest dispozitiv."</string>
+    <string name="media_player_error_text_unknown">"Acest videoclip nu poate fi redat."</string>
+    <string name="media_player_error_title">"Nu se poate reda videoclipul"</string>
     <string name="media_player_loading_video">Încărcare video</string>
     <string name="menu_addtodesk">Plasaţi pe ecranul principal</string>
     <string name="menu_exit_nightmode">Ieşire</string>
@@ -562,7 +562,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="open_app_confirm_message">Permiteți acestei pagini să deschidă %s?</string>
     <string name="open_file_explorer_failed">"Nu s-a putut deschide Exploratorul de fișiere"</string>
     <string name="open_voice_permission">Permiteți microfonului să se conecteze la internet</string>
-    <string name="opening_file_error">Nu se poate deschide fișierul selectat</string>
+    <string name="opening_file_error">"Nu s-a putut deschide fișierul selectat"</string>
     <string name="page_info">Informaţii pagină</string>
     <string name="page_info_address">Adresă:</string>
     <string name="page_info_view">Vizualizaţi informaţiile paginii</string>
@@ -684,9 +684,9 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="pref_ua_string">Agent utilizator</string>
     <string name="pref_version_info">Informaţii despre versiune</string>
     <string name="pref_volume_key_action">Derulare cu ajutorul butoanelor de volum</string>
-    <string name="private_browsing_warning">Această funcționalitate nu este disponibilă în versiunea Android curentă.</string>
-    <string name="profiler_error_toast">Nu se poate porni Profiler</string>
-    <string name="profiler_no_storage_toast">Nu se poate porni Profiler deoarece stocarea externă nu este pregătită</string>
+    <string name="private_browsing_warning">"Această funcționalitate nu este disponibilă în versiunea Android curentă."</string>
+    <string name="profiler_error_toast">"Nu s-a putut porni Profiler-ul."</string>
+    <string name="profiler_no_storage_toast">"Nu se poate porni Profiler deoarece stocarea externă nu este pregătită."</string>
     <string name="profiler_started_toast">Profiler pornit</string>
     <string name="profiler_stopped_toast">Profiler finalizat. Rezultatele sunt în %1$s.</string>
     <string name="progress_dialog_setting_wallpaper">Se aplică imaginea de fundal…</string>
@@ -985,6 +985,6 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="weather_location_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
     <string name="webpage_title">Marcaje şi istoric</string>
     <string name="webview_find_on_page">Găsiți în pagină</string>
-    <string name="webviewchromium_private_browsing_warning">Această funcţionalitate nu este disponibilă în versiunea Android curentă.</string>
+    <string name="webviewchromium_private_browsing_warning">"Această funcţionalitate nu este disponibilă în versiunea Android curentă."</string>
     <string name="week_picker_dialog_title">Setaţi săptămâna</string>
 </resources>

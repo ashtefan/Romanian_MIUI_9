@@ -1003,6 +1003,7 @@ După ce apăsaţi „Activaţi”, ascultaţi instrucţiunile furnizate pentru 
 Vă recomandăm să găsiţi o zonă cu acoperire mai bună (lângă fereastră sau afară).
 
 Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."</string>
+    <string name="other_available_phone_accounts">Alte conturi disponibile</string>
     <string name="other_settings">Alte setări de apel</string>
     <string name="other_settings_category">Altele</string>
     <string name="overlay_display_devices_title">Simulare ecran secundar</string>
@@ -1052,6 +1053,7 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
     <string name="payphone">Telefon public</string>
     <string name="phoneAppLabel">Telefon</string>
     <string name="phoneIconLabel">Telefon</string>
+    <string name="phone_account_settings">Conturi apelare</string>
     <string name="phone_accounts">Setări cont telefon</string>
     <string name="phone_accounts_add_sip_account">Adăugați un cont SIP</string>
     <string name="phone_accounts_all_calling_accounts">Toate conturile de apelare</string>
@@ -1181,6 +1183,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_type_pref_entries_only_3g">Numai 3G</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title">Tipul de reţea preferat</string>
+    <string name="preferred_phone_account">Cont de apelare preferat</string>
     <string name="private_num">Număr privat</string>
     <string name="process_kernel_label">S. O. Android</string>
     <string name="progress_dialog_exiting_ecm">Se iese din modul Apelare inversă de urgenţă</string>
@@ -1216,7 +1219,7 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="registration_status_server_unreachable">Înregistrarea contului nu a reuşit: verificaţi numele serverului.</string>
     <string name="registration_status_still_trying">Se încearcă în continuare…</string>
     <string name="reject_via_sms">Răspunsuri rapide</string>
-    <string name="reject_via_sms_summary">Editaţi textul răspunsurilor</string>
+    <string name="reject_via_sms_summary">Afișează butoane pentru respingerea apelurilor și trimiterea de mesaje SMS</string>
     <string name="reject_via_sms_title">Răspunsuri rapide</string>
     <string name="remaining_length_format">%1$s rămas</string>
     <string name="remove">Eliminaţi</string>

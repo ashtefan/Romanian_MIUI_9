@@ -55,6 +55,7 @@
     <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
     <string name="feedback_choose_module">Selectați elementul</string>
     <string name="feedback_choose_module_hint">Necesar</string>
+    <string name="feedback_choose_reproductivity">Reproductivitate</string>
     <string name="feedback_choose_third_app_name">Selectați numele aplicației</string>
     <string name="feedback_collect_log_failed">"Nu s-au putut obține rapoartele de eroare"</string>
     <string name="feedback_contact_info_hint">Număr de telefon/E-mail</string>
@@ -112,6 +113,7 @@
     <string name="feedback_third_packagename_hint">Care aplicație terță cauzează probleme?</string>
     <string name="feedback_title">Titlu</string>
     <string name="feedback_title_hint">Descrieți pe scurt problema</string>
+    <string name="feedback_title_reproductivity">Selectați frecvența de apariție</string>
     <string name="feedback_tracking">Urmăriți problemele</string>
     <string name="feedback_version_label">Versiunea</string>
     <string name="feesback_list">Rapoarte</string>

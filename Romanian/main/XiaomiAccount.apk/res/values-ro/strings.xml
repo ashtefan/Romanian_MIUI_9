@@ -15,6 +15,7 @@
     <string name="account_error_longer_user_name">Numele nu poate depăși 20 de caractere</string>
     <string name="account_error_shorter_user_name">Numele trebuie să conţină mai mult de 2 caractere</string>
     <string name="account_error_user_birthday">Ziua de naștere introdusă nu este validă</string>
+    <string name="account_global_region">Străinătate</string>
     <string name="account_has_been_set">Modificați</string>
     <string name="account_limit_update_birthday">"Nu se poate actualiza ziua de naștere acum"</string>
     <string name="account_mibi_center">Credite Mi</string>
@@ -305,7 +306,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_reg_recycle_account_yes">Da</string>
     <string name="passport_reg_success">Cont creat</string>
     <string name="passport_reg_success_summary">%1$s a fost asociat contului dvs. Puteți să-l utilizați pentru a vă conecta sau pentru a vă reseta parola.</string>
-    <string name="passport_reg_type_email">Utilizaţi adresa de e-mail</string>
+    <string name="passport_reg_type_email">Adresa de e-mail</string>
     <string name="passport_reg_using_other_phone"><u>Utilizaţi un număr de telefon alternativ</u></string>
     <string name="passport_reg_using_other_phone_number_prompt">"Creați un cont nou utilizând "</string>
     <string name="passport_reg_using_phone_number_prompt">Creați un cont nou utilizând un număr de telefon</string>
