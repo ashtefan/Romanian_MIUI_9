@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="accept_modify_call_request_prompt">Acceptați modificarea solicitării de apel?</string>
     <string name="antispam_local_marked">Marcat local</string>
     <string name="antispam_marked_count">Etichetat de %1$d utilizatori MIUI</string>
     <string name="antispam_notification_title">Număr necunoscut</string>
@@ -29,7 +28,6 @@
     <string name="callFailed_timedOut">Fără răspuns de la server</string>
     <string name="callFailed_unobtainable_number">Număr greşit</string>
     <string name="callFailed_userBusy">Linie ocupată</string>
-    <string name="callUnanswered_forwarded">Apel pierdut redirecţionat</string>
     <string name="call_button_conference_manager_text">Gestionare conferință</string>
     <string name="call_button_dialer_text">Tastatură</string>
     <string name="call_button_mute_text">Mut</string>
@@ -52,7 +50,6 @@
     <string name="call_recording_notification_title_error">Nu s-a putut înregistra apelul</string>
     <string name="call_title_redialing_with_times">Reapelat de %d ori</string>
     <string name="caller_manage_header">Teleconferinţă %s</string>
-    <string name="calling_via_template">Se apelează prin %s</string>
     <string name="can_not_call_oneself">"Nu se poate apela acest număr"</string>
     <string name="can_not_use">"Nu se poate utiliza"</string>
     <string name="cancel">Anulaţi</string>
@@ -68,7 +65,6 @@
     <string name="card_title_in_call">În timpul apelului</string>
     <string name="card_title_in_call_short">Apel</string>
     <string name="card_title_in_video">Video </string>
-    <string name="card_title_incoming_call">Apel</string>
     <string name="card_title_incoming_conference">Invitație la conferință</string>
     <string name="card_title_on_hold">"Apel menţinut "</string>
     <string name="card_title_threeway_call">Apel cu trei căi</string>
@@ -87,7 +83,6 @@
     <string name="conference_call_number">%s persoane</string>
     <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
     <string name="conference_caller_info_name">"Apelul în conferință al %1$s"</string>
-    <string name="conference_caller_name_me">Eu</string>
     <string name="conference_callers_exceeded">"Nu se mai pot adăuga persoane"</string>
     <string name="contacts_icon_label">Contacte</string>
     <string name="default_area_code_setting">Codul zonal implicit</string>
@@ -114,7 +109,6 @@
     <string name="description_target_answer">Răspundeţi</string>
     <string name="dialog_activate_livetalk">Verificați numărul</string>
     <string name="dialog_call_ordinary_telephone">Apel obișnuit</string>
-    <string name="dialog_purchase">Suplimentați</string>
     <string name="dialpad_abc">ABC</string>
     <string name="dialpad_def">DEF</string>
     <string name="dialpad_eight">8</string>
@@ -154,32 +148,15 @@
     <string name="incoming_circle_text_message_p">Glisați în sus</string>
     <string name="incoming_circle_text_reject">Eliberați</string>
     <string name="incoming_circle_text_reject_p">Glisați în sus</string>
-    <string name="ivr_menu_dialing_msg">Redirecţionare…</string>
-    <string name="ivr_menu_dialing_msg_no_mute">Mergeţi la serviciul selectat…[Corecția automată a erorilor este activată]</string>
-    <string name="ivr_menu_list_sub_menu_count_format">Apăsaţi %s</string>
-    <string name="ivr_menu_list_title">Meniu voce</string>
     <string name="keep_wait_call_back">Mai așteptați</string>
     <string name="livetalk_dial">Utilizare Pachete de suplinire</string>
     <string name="livetalk_hangup">Încheiați apelul</string>
     <string name="manageConferenceLabel">Gestionaţi teleconferinţa</string>
-    <string name="modify_call_failure_str">"Modificarea solicitării de apel nu a reușit
-"</string>
-    <string name="modify_call_option_title">Ce tip de apel?</string>
-    <string name="modify_call_option_voice">Doar voce</string>
-    <string name="modify_call_option_vt">Video</string>
-    <string name="modify_call_option_vt_rx">Recepţionare video</string>
-    <string name="modify_call_option_vt_tx">Transmitere video</string>
-    <string name="modify_call_prompt_no">Nu</string>
-    <string name="modify_call_prompt_yes">Da</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="network_error_message">Încercați să efectuaţi un apel obișnuit. Acesta va fi taxat de către operator.</string>
     <string name="network_error_title">Eroare de reţea</string>
-    <string name="no_balance_message">Nu sunt suficiente fonduri în pachetul de suplinire. Puteți încerca să efectuaţi un apel obişnuit.</string>
-    <string name="no_balance_title">Fonduri insuficiente</string>
     <string name="no_call_back_message">Conectarea durează prea mult. Efectuați un apel obișnuit(veți fi taxat de către operator).</string>
     <string name="no_call_back_title">Atenție</string>
-    <string name="non_ivr_menu_collapse_menu">Restrângere meniu</string>
-    <string name="non_ivr_menu_view_menu">Vizualizare meniu</string>
     <string name="not_activate_sim_card_content">Verificați-vă numărul de telefon pentru a putea utiliza Pachetul de suplinire. Puteți efectua în continuare apeluri obișnuite, pentru care veți fi taxat de către operator.</string>
     <string name="not_activate_sim_card_content_title">Numărul de telefon nu este verificat</string>
     <string name="not_activate_sim_card_content_with_operator">Verificați SIM %1$s (%2$s) pentru a putea efectua apeluri utilizând Pachetul de suplinire. Puteți efectua în continuare apeluri obișnuite, pentru care veți fi taxat de către operator.</string>
@@ -206,7 +183,6 @@
     <string name="onscreen_audio_mode_handset">Difuzor telefon</string>
     <string name="onscreen_audio_mode_headset">Căşti</string>
     <string name="onscreen_audio_mode_speaker">Difuzor</string>
-    <string name="onscreen_audio_switch_mode">Comutare audio</string>
     <string name="onscreen_call_record">Înregistrare</string>
     <string name="onscreen_change_to_video">Apel video</string>
     <string name="onscreen_change_to_voice">Apel vocal</string>
@@ -239,9 +215,7 @@
     <string name="unlock_phone">Deblocați telefonul</string>
     <string name="upgrade_vt_prompt">Doriți să treceţi la apel video?</string>
     <string name="user_locked_prompt">Deblocați telefonul pentru a accesa agenda.</string>
-    <string name="video_call_not_allowed_if_tty_enabled">Opriți mai întâi modul TTY</string>
     <string name="video_conference_caller_info_name">"Apel videoconferință al lui %1$s"</string>
-    <string name="video_switch_to_voice_call_prompt">Comutați la apel vocal</string>
     <string name="voicemail">Căsuța vocală</string>
     <string name="wait_prompt_str">"Trimiteţi următoarele tonuri?
 "</string>

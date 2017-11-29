@@ -309,8 +309,8 @@
     <string name="no_network">"Nu se poate conecta la rețea, încercați mai târziu"</string>
     <string name="no_network_btn">Reîncercați</string>
     <string name="notification_summary_after_auto_cleanup">Curăţat %s.</string>
-    <string name="notification_summary_of_garbage_cleanup">Dimensiunea coşului de reciclare este peste %s.</string>
-    <string name="notification_title_of_garbage_cleanup">Dimensiune coş de reciclare</string>
+    <string name="notification_summary_of_garbage_cleanup">Atingeți pentru a elibera spațiu.</string>
+    <string name="notification_title_of_garbage_cleanup">Dimensiune coş de reciclare: %s</string>
     <string name="notify_when">Atenționează-mă când dimensiunea coșului de gunoi atinge 100 MB</string>
     <string name="ok">OK</string>
     <string name="open">Porniți</string>
@@ -463,7 +463,7 @@
     <string name="total_clean">Curățat în total: %s</string>
     <string name="total_clean_text">Curățat</string>
     <string name="update_date_format">dd/MM/yyyy</string>
-    <string name="virus_scan">Scanare pentru viruși</string>
+    <string name="virus_scan">Scanare de securitate</string>
   <string name="vungle_ad_name">ad-Vungle</string>
     <string name="wechat_cache_files">Cache WeChat</string>
     <string name="wechat_chat_clean_done">Totul arată bine</string>

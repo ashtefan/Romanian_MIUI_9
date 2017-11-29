@@ -27,6 +27,10 @@
     <string name="downloading">Se descarcă</string>
     <string name="downloading_in_3g">Se descarcă în 3G…</string>
     <string name="downloading_in_wifi">Descărcare…</string>
+    <string name="drive_low_memory_description_content">Spațiul de stocare din telefon este insuficient; vă rugăm mergeți la secțiunea Curățare pentru a elibera spațiu.</string>
+    <string name="drive_low_memory_description_title">Avertisment spațiu de stocare redus</string>
+    <string name="drive_low_memory_description_toast">Spațiul de stocare din telefon este insuficient; vă rugăm eliberați spațiu după utilizarea Mi Drive</string>
+    <string name="drive_low_memory_positive_content">Curățați</string>
     <string name="empty_file_download">"Nu se pot descărca fișiere fără conținut."</string>
     <string name="empty_file_upload">"Nu se pot încărca fișiere fără conținut."</string>
     <string name="file_already_downlaoded">Fișier salvat în \"%1$s\"</string>
@@ -109,6 +113,7 @@
     <string name="sd_invalid">Cardul SD este corupt.</string>
     <string name="send_to_midrive_failed">"Acest tip de fișier nu este suportat."</string>
     <string name="slashes">/</string>
+    <string name="source_file_missing">Fișierul lipsește.</string>
     <string name="space_full">Spațiul de stocare din cloud este insuficient.</string>
     <string name="start_use_xiaomi_account">Începeți să utilizați Mi Drive</string>
     <string name="system_alert">Conexiune la internet</string>

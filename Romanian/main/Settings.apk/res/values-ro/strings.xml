@@ -1851,6 +1851,9 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="incoming_call_breathing_light_color_title">Apeluri</string>
     <string name="incoming_call_breathing_light_freq_title">Frecvenţă pulsare indicator luminos intermitent pt. apeluri</string>
     <string name="incoming_call_volume_title">Ton de apel</string>
+    <string name="infinity_display_settings">Afișare ecran complet</string>
+    <string name="infinity_display_slogan">Creștere continuă în tehnologia neexplorată</string>
+    <string name="infinity_display_title">Afișare ecran complet</string>
     <string name="information_dialog_button_text">Am înțeles</string>
     <string name="input_method">Tastatură</string>
     <string name="input_method_selector">Selector al metodei de intrare</string>
@@ -2451,6 +2454,7 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="mock_location_app_set">Aplicația de locație fictivă: %1$s</string>
     <string name="mode_disable">Dezactivat</string>
     <string name="mode_enable">Activat</string>
+    <string name="model_name">Nume model</string>
     <string name="model_number">Număr model</string>
     <string name="modify_instruction_password_settings">Setați parola</string>
     <string name="modify_privacy_password">Modificați parola</string>
@@ -2514,6 +2518,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_dirac_mode_piston_color">Color Edition</string>
     <string name="music_dirac_mode_piston_standard">Ediţie Standard</string>
     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
+    <string name="music_dirac_mode_reduction_noise">Reducere zgomot Tip C</string>
     <string name="music_dolby_mode_movie">Video</string>
     <string name="music_dolby_mode_music">Muzică</string>
     <string name="music_dolby_mode_off">Dezactivat</string>
@@ -3920,7 +3925,6 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_key_position_custom">Modificați pozițiile butoanelor</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_screen_button_force_immersive_desc">Glisați în sus de la marginea de jos a ecranului pentru a afișa butoanele virtuale</string>
-    <string name="status_bar_screen_button_key">Butoane virtuale</string>
     <string name="status_bar_screen_button_key_force_immersive">Ascundeți butoanele virtuale</string>
     <string name="status_bar_screen_key_back">Butonul Înapoi</string>
     <string name="status_bar_screen_key_home">Butonul Acasă</string>

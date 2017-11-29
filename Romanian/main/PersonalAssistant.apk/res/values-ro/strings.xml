@@ -685,8 +685,8 @@ Verificați numărul de urmărire."</string>
     <string name="not_install_c3">Descărcați</string>
     <string name="not_install_c4">Nu, mulțumesc</string>
     <string name="not_installed">Nu este instalată</string>
-    <string name="note_name">Creați o notă nouă</string>
-    <string name="note_parent">O notiță rapidă</string>
+    <string name="note_name">Creați</string>
+    <string name="note_parent">Notițe</string>
     <string name="notification_content_fail_not_support">"Nu s-au putut obține informațiile despre plată; adăugați înregistrarea în mod manual."</string>
     <string name="notification_content_fail_stay_longer">Rămâneți pe pagina de plăți cel puțin o secundă</string>
     <string name="notification_content_success">Plată de %2$s CNY în %1$s</string>
