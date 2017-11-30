@@ -195,6 +195,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="settings_safetylegal_activity_loading">Doar o secundă…</string>
     <string name="show_system_app">Arată aplicațiile de sistem</string>
     <string name="sleep_config_enhance_description">"De câte ori MIUI detectează că dormiți,va închide aplicațiile din fundal, va restricționa NFC-ul, Bluetooth-ul, GPS-ul, datele mobile și utilizarea Wi-Fi și nu va trezi ecranul pentru notificări.</string>
+    <string name="sleep_config_enhance_description_non_nfc">"De fiecare dată când MIUI detectează că dormiți, va închide aplicațiile din fundal, va restricționa utilizarea Bluetooth-ului, a GPS-ului, datele mobile și utilizarea Wi-Fi și nu va trezi ecranul pentru notificări."</string>
     <string name="sleep_config_enhance_title">Mod Sleep</string>
     <string name="still">Imagine</string>
     <string name="sucess">Finalizat</string>

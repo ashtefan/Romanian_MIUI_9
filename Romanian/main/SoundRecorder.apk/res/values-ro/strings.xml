@@ -13,6 +13,7 @@
     <string name="clear_records">Ștergeți înregistrările sincronizate</string>
     <string name="cloud_record_open">Sincronizare înregistrări</string>
     <string name="cloud_record_tip">Sincronizare înregistrări cu Mi Cloud.</string>
+    <string name="cloud_service_state_open_reminder">Activați sincronizarea cu Mi Cloud pentru a sincroniza fișierele cu înregistrări.</string>
     <string name="cloud_status_full_dialog_cancel">Nu acum</string>
     <string name="cloud_status_full_dialog_msg">Stocarea în cloud este plină, înregistrările nu se pot sincroniza. Actualizaţi contul dvs. pentru a obține mai mult spațiu de stocare.</string>
     <string name="cloud_status_full_dialog_ok">Actualizaţi</string>

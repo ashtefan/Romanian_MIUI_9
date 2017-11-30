@@ -8,6 +8,7 @@
     <string name="ble_device_rename">Redenumiți</string>
     <string name="bluetooth_connected">Asociat</string>
     <string name="bluetooth_connecting">Asociere…</string>
+    <string name="bluetooth_device_context_unpair">Eliminați asocierea</string>
     <string name="bluetooth_disconnected">Asociere anulată</string>
     <string name="bluetooth_disconnecting">Anulare asociere…</string>
     <string name="bluetooth_preference_connected_devices">Dispozitive asociate</string>

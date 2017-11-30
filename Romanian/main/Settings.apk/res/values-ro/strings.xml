@@ -759,6 +759,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bluetooth_unlock_turned_on">Pornit</string>
     <string name="bluetooth_untether_blank">%1$s va fi deconectat.</string>
     <string name="bluetooth_visibility_timeout">Timp limită pentru vizibilitate</string>
+    <string name="bluetooth_wake">Trezește cu un dispozitiv audio Bluetooth</string>
     <string name="bootloader">Modul fastboot</string>
     <string name="bootloader_apply_step_1">Activați modul Fastboot?</string>
     <string name="bootloader_apply_step_2">Când telefonul este în modul Fastboot și este conectat la computer</string>
@@ -3713,6 +3714,8 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="settings_license_activity_unavailable">A apărut o problemă la încărcarea licenţelor.</string>
     <string name="settings_manual_activity_title">Manual</string>
     <string name="settings_manual_activity_unavailable">A apărut o problemă la încărcarea manuală.</string>
+    <string name="settings_notify_need_backup">Faceți o copie de rezervă a setărilor în Mi Cloud pentru a le accesa după ce vă schimbați telefonul.</string>
+    <string name="settings_notify_phone_recycled">Numărul dvs. de telefon a fost eliminat. Atingeți pentru a adăuga un alt număr de telefon.</string>
     <string name="settings_package">com.android.settings</string>
     <string name="settings_safetylegal_activity_loading">Se încarcă…</string>
     <string name="settings_safetylegal_activity_title">Informaţii privind siguranţa</string>
@@ -3904,6 +3907,7 @@ Codul PIN poate fi incorect."</string>
     <string name="spellchecker_security_warning">Acest instrument de verificare a ortografiei poate, de asemenea, să culeagă în întregime textul pe care îl introduceţi, inclusiv datele personale, cum ar fi parolele şi numerele cardurilor de credit. Instrumentul provine de la aplicaţia %1$s. Utilizaţi acest instrument de verificare ortografică?</string>
     <string name="spellchecker_switch_title">Activați corectorul ortografic</string>
     <string name="spellcheckers_settings_title">Corector ortografic</string>
+    <string name="split_screen">Accesați Ecran scindat</string>
     <string name="ssid_label">SSID:</string>
     <string name="ssl_ca_cert_warning">Rețeaua poate fi monitorizată</string>
     <string name="ssl_ca_cert_warning_message">"O terță parte vă poate monitoriza activitatea în rețea, inclusiv e-mailurile, aplicațiile și site-urile securizate.
@@ -4142,6 +4146,7 @@ Luați în calcul utilizarea unui ^1 mai rapid pentru o mai bună performanță.
     <string name="suggested_lock_settings_title">Blocare ecran</string>
     <string name="suggestion_additional_fingerprints">Adăugați altă amprentă</string>
     <string name="suggestion_additional_fingerprints_summary">Deblocați utilizând altă amprentă</string>
+    <string name="suggestion_for_phone_recycled">Adăugați un alt număr de telefon</string>
     <string name="suggestion_remove">Eliminați</string>
     <string name="suggestions_title">Sugestii (%1$d)</string>
     <string name="sum_carrier_select">Selectaţi un operator de reţea</string>
@@ -4194,6 +4199,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="system_backup_section_title">Copii de rezervă</string>
     <string name="system_default_app">(Implicit de sistem)</string>
     <string name="system_package">Actualizările de sistem nu pot fi instalate pe suportul extern.</string>
+    <string name="system_shortcut_wake">Trezește utilizând scurtături de butoane</string>
     <string name="system_storage">Stocare internă</string>
     <string name="system_ui_settings">Afișează personalizarea SystemUI</string>
     <string name="system_update_settings_list_item_summary" />
@@ -4673,6 +4679,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="vision_settings_description">Puteți personaliza acest dispozitiv pentru a vă satisface nevoile. Aceste caracteristici de accesibilitate pot fi modificate mai târziu în Setări.</string>
     <string name="vision_settings_title">Setări Vision?</string>
     <string name="voice_category">Voce</string>
+    <string name="voice_helper_title">Asistent vocal</string>
     <string name="voice_input_output_settings">Intrare şi ieşire voce</string>
     <string name="voice_input_output_settings_title">Setări de intrare şi de ieşire a vocii</string>
     <string name="voice_input_settings">Setări de intrare voce</string>

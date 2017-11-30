@@ -852,6 +852,7 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="missed_call_notify_times_summary">Selectaţi de câte ori doriţi să vi se amintească despre apelurile nepreluate (memento-urile sunt separate de intervale a câte 5 minute)</string>
     <string name="missed_call_notify_times_title">Memento apel nepreluat</string>
     <string name="missed_call_notify_twice">De 2 ori</string>
+    <string name="miui_notification_network_selection_text" formatted="false">SIM %s Rețeaua selectată (%s) este indisponibilă</string>
     <string name="mmiCancelled">Cod MMI anulat</string>
     <string name="mmiStarted">Cod MMI pornit</string>
     <string name="mobile_data_always_on">Date celulare active permanent</string>

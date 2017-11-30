@@ -92,8 +92,8 @@
     <string name="gift_use_confirmation_dlg_title">Trimiteţi acest cadou?</string>
     <string name="gift_use_fail_dlg_title">Ceva a mers prost</string>
     <string name="gift_used">Trimis</string>
-    <string name="hide_free">Ascundeți temele gratuite</string>
-    <string name="hide_incompatible">Ascundeți temele incompatibile</string>
+    <string name="hide_free">Ascundeți %1$s gratuite</string>
+    <string name="hide_incompatible">Ascundeți %1$s incompatibile</string>
     <string name="home_apply_failured">"Nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
     <string name="home_apply_success">Imagine de fundal pentru Ecranul principal aplicată</string>
     <string name="in_the_end">Nu mai sunt elemente de afișat</string>

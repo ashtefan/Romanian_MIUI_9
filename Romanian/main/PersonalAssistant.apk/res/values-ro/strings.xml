@@ -9,14 +9,14 @@
     <string name="add_to_desktop">Adăugați la ecranul principal</string>
     <string name="address_name_spell">Introduceți adresa</string>
     <string name="agenda">Memento-uri</string>
-    <string name="agenda_assistant">Evenimente din calendar</string>
+    <string name="agenda_assistant">Evenimente din Calendar</string>
     <string name="agenda_assistant_account_num">Cont</string>
     <string name="agenda_assistant_add">Adăugați un eveniment</string>
     <string name="agenda_assistant_allday">Toată ziua</string>
     <string name="agenda_assistant_credit_payment">Extrase card de credit</string>
     <string name="agenda_assistant_electricity">Factura de electricitate este depășită</string>
     <string name="agenda_assistant_empty">Niciun eveniment pentru astăzi.</string>
-    <string name="agenda_assistant_finish">Toate sarcinile sunt îndeplinite pentru astăzi.</string>
+    <string name="agenda_assistant_finish">Toate sarcinile pentru astăzi sunt îndeplinite.</string>
     <string name="agenda_assistant_gas">Facturi de gaz</string>
     <string name="agenda_assistant_loan_payment">Rambursare credit</string>
     <string name="agenda_assistant_more">Toate evenimentele</string>
@@ -34,7 +34,7 @@
     <string name="agenda_settings_loan">Arată informațiile despre ratele bancare</string>
     <string name="agree">De acord</string>
     <string name="alipay_init">Inițializare Alipay…</string>
-    <string name="alipay_init_success">Alipay a fost inițializat cu succes​</string>
+    <string name="alipay_init_success">Alipay a fost inițializată cu succes​</string>
     <string name="alipay_scan">Scaner</string>
     <string name="alipay_sdk_minute_refresh">Reîmprospătează în fiecare minut</string>
     <string name="alipay_sdk_payed_desc">Preț original: %1$s CNY | Ați economisit %2$s CNY</string>
@@ -179,7 +179,7 @@
     <string name="cta_title">Păstrați lucrurile importante în Asistentul inteligent</string>
     <string name="currency_china">CNY</string>
     <string name="daily_greeting">Salutări zilnice</string>
-    <string name="data_error">Ne pare rău, serviciul este indisponibil momentan. Vă rugăm să încercați din nou mai târziu.</string>
+    <string name="data_error">A apărut o eroare; așteptați un minut sau două și reîncercați.</string>
     <string name="data_error_show">"Comanda este finalizată, nu se pot afișa detalii"</string>
     <string name="delete">Ștergeți</string>
     <string name="detail_action_delete">Ștergeți</string>
@@ -491,7 +491,7 @@ Verificați numărul de urmărire."</string>
     <string name="function_mistore_title">Magazin Mi</string>
     <string name="function_music_recognize">Recunoaștere melodii</string>
     <string name="function_music_title">Muzică</string>
-    <string name="function_not_support">"Această caracteristică nu este suportată pe acest dispozitiv"</string>
+    <string name="function_not_support">"Această caracteristică nu este suportată pe acest dispozitiv."</string>
     <string name="function_open_error_content">"Această scurtătură nu funcționează deoarece aplicația a fost dezinstalată. Selectați o altă scurtătură sau instalați aplicația din nou."</string>
     <string name="function_open_error_content_app">Această aplicație a fost dezinstalată. Selectați o altă scurtătură sau instalați aplicația din nou.</string>
     <string name="function_open_error_content_app_xspace">"Această scurtătură nu funcționează deoarece aplicația duală a fost dezinstalată. Selectați o altă scurtătură sau creați o nouă aplicație clonată."</string>
@@ -711,7 +711,7 @@ Verificați numărul de urmărire."</string>
     <string name="order_status_label">Starea comenzii: %1$s</string>
     <string name="pay_card_pack">Plăți Mi</string>
     <string name="paycode_parent">Alipay</string>
-    <string name="paycode_sdk_parent">Scurtătură pentru plăți (nu este necesară nicio aplicație)</string>
+    <string name="paycode_sdk_parent">Scurtătură pentru plăți</string>
     <string name="paycode_sdk_parent_title">Plată rapidă</string>
     <string name="payment">Plățile mele</string>
     <string name="payment_app_name">Plățile mele</string>
@@ -842,7 +842,7 @@ Verificați numărul de urmărire."</string>
     <string name="search_category_video">Videoclipuri</string>
     <string name="search_change_header">Înlocuiți coperta</string>
     <string name="search_clear_header">Eliminați coperta</string>
-    <string name="search_hint">Căutați în Favorite</string>
+    <string name="search_hint">Căutați în telefon și online</string>
     <string name="search_label">Căutare…</string>
     <string name="search_setting_description">Titluri în Favorite</string>
     <string name="search_tip">Căutare…</string>
@@ -952,7 +952,7 @@ Verificați numărul de urmărire."</string>
     <string name="steps_get_misport">Instalați Mi Fit</string>
     <string name="steps_misport">Selectată Mi Fit</string>
     <string name="steps_misport_dialog_content">"Nu ați instalat Mi Fit. Pentru a putea număra pașii, descărcați și instalați aplicația."</string>
-    <string name="steps_misport_dialog_title">"Nu ați instalat încă Mi Fit."</string>
+    <string name="steps_misport_dialog_title">"Nu ați instalat Mi Fit încă."</string>
     <string name="steps_misport_download">Descărcați</string>
     <string name="steps_misport_go">Permiteți</string>
     <string name="steps_misport_ok">Am înțeles</string>
