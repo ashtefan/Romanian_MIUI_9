@@ -1,5 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aqi_title">
+        <item>excelent</item>
+        <item>bun</item>
+        <item>moale</item>
+        <item>moderat</item>
+        <item>sever</item>
+        <item>serios</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$scontaminare</item>
+        <item>%1$scontaminare</item>
+        <item>%1$scontaminare</item>
+        <item>%1$scontaminare</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>aer%1$s</item>
+        <item>aer%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Noapte</item>
+        <item>Dimineața devreme</item>
+        <item>Dimineață</item>
+        <item>Amiază</item>
+        <item>După amiază</item>
+        <item>Seară</item>
+        <item>În timpul nopții</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Mic</item>
+        <item>Normal</item>
+        <item>Mare</item>
+    </string-array>
+    <string-array name="express_status_all">
+        <item>Pe drum</item>
+        <item>În livrare</item>
+        <item>Livrat</item>
+        <item>Necunoscut</item>
+        <item>Primit</item>
+        <item>Respins</item>
+        <item>Returnat</item>
+        <item>Necunoscut</item>
+    </string-array>
+    <string-array name="express_status_detail">
+        <item>Pe drum</item>
+        <item>În livrare</item>
+    </string-array>
+    <string-array name="payment_chooser">
+        <item>SMS (carduri de debit și de credit)</item>
+        <item>WeChat</item>
+        <item>Alipay</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Roșu - sus, verde - jos</item>
+        <item>Verde - sus, roșu - jos</item>
+    </string-array>
+    <string-array name="keyword_recommend_unit">
+        <item>dori</item>
+        <item>doar</item>
+    </string-array>
     <string-array name="map_keyword">
         <item>congestie</item>
         <item>km congestie</item>
@@ -12,66 +77,5 @@
         <item>fluxul de trafic</item>
         <item>Nici o congestie semnificativă</item>
         <item>trafic anormal</item>
-    </string-array>
-    <string-array name="keyword_recommend_unit">
-        <item>dori</item>
-        <item>doar</item>
-    </string-array>
-    <string-array name="day_time_space">
-        <item>Noapte</item>
-        <item>Dimineața devreme</item>
-        <item>Dimineață</item>
-        <item>Amiază</item>
-        <item>După amiază</item>
-        <item>Seară</item>
-        <item>În timpul nopții</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>aer%1$s</item>
-        <item>aer%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$scontaminare</item>
-        <item>%1$scontaminare</item>
-        <item>%1$scontaminare</item>
-        <item>%1$scontaminare</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>excelent</item>
-        <item>bun</item>
-        <item>moale</item>
-        <item>moderat</item>
-        <item>sever</item>
-        <item>serios</item>
-    </string-array>
-    <string-array name="express_status_detail">
-        <item>Pe drum</item>
-        <item>În livrare</item>
-    </string-array>
-    <string-array name="express_status_all">
-        <item>Pe drum</item>
-        <item>În livrare</item>
-        <item>Livrat</item>
-        <item>Necunoscut</item>
-        <item>Primit</item>
-        <item>Respins</item>
-        <item>Returnat</item>
-        <item>Necunoscut</item>
-    </string-array>
-    <string-array name="express_watched_app_filter">
-        <item>Curier:</item>
-        <item>Numărul AWB:</item>
-        <item>Sursa:</item>
-        <item>Informații de logistică:</item>
-    </string-array>
-        <string-array name="stock_color_schema">
-        <item>Roșu - sus, verde - jos</item>
-        <item>Verde - sus, roșu - jos</item>
     </string-array>
 </resources>
