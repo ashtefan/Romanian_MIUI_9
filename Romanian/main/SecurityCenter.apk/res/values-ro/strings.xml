@@ -185,13 +185,18 @@
     <string name="app_manager_as_dlg_title">Atenție</string>
     <string name="app_manager_back">Înapoi</string>
     <string name="app_manager_bipartition">Aplicații clonate</string>
+    <string name="app_manager_cache_size">Cache</string>
     <string name="app_manager_card_permission_title">Permisiuni</string>
+    <string name="app_manager_clear_all_data">Ștergeți toate datele</string>
     <string name="app_manager_clear_cache">Goliți memoria cache</string>
-    <string name="app_manager_clear_data_dlg_message">Toate datele acestei aplicații vor fi șterse permanent. Acest lucru include toate fișierele, setările, conturile, bazele de date, etc.</string>
-    <string name="app_manager_clear_data_dlg_title">Ștergeți datele aplicației?</string>
+    <string name="app_manager_clear_data_dlg_message">Toate datele acestei aplicații, inclusiv fișierele, setările, conturile, bazele de date și memoria cache vor fi șterse permanent.</string>
+    <string name="app_manager_clear_data_dlg_title">Ștergeți toate datele?</string>
+    <string name="app_manager_clear_dlg_title">Ștergeți datele</string>
     <string name="app_manager_clear_failed_dlg_message">Nu s-au putut șterge datele aplicației.</string>
-    <string name="app_manager_clear_failed_dlg_title">Ștergeți datele</string>
+    <string name="app_manager_code_size">Dimensiunea aplicației</string>
+    <string name="app_manager_comuting_size">Calculare…</string>
     <string name="app_manager_copy_pkg_to_clip">Copiat în clipboard</string>
+    <string name="app_manager_data_size">Date utilizator</string>
     <string name="app_manager_default_cleared">Golit</string>
     <string name="app_manager_default_close_summary">Nicio valoare predefinită setată.</string>
     <string name="app_manager_default_open_summary">Ați ales să lansați această aplicație în mod implicit pentru anumite acțiuni.</string>
@@ -207,6 +212,7 @@
     <string name="app_manager_disabled">Dezactivată</string>
     <string name="app_manager_disabled_by_admin">Dezactivată de către administrator</string>
     <string name="app_manager_dlg_cancel">Renunțați</string>
+    <string name="app_manager_dlg_clear_cache_title">Goliți memoria cache?</string>
     <string name="app_manager_dlg_ok">OK</string>
     <string name="app_manager_enable_text">Activați</string>
     <string name="app_manager_enabled">Activată</string>
@@ -232,7 +238,7 @@
     <string name="app_manager_net_mobile">Date</string>
     <string name="app_manager_net_wifi">Wi-Fi</string>
     <string name="app_manager_not_allow">Nu</string>
-    <string name="app_manager_not_record">"Nu s-a găsit nicio aplicație care solicită permisiuni"</string>
+    <string name="app_manager_not_support_uninstall">"Nu se pot dezinstala aceste aplicații"</string>
     <string name="app_manager_notify_bar">Pictograme</string>
     <string name="app_manager_notify_floating">Notificări plutitoare</string>
     <string name="app_manager_notify_keyguard">Blocarea ecranului</string>
@@ -277,7 +283,6 @@
     <string name="app_manager_reset_app_preferences_title">Resetați preferințele aplicației?</string>
     <string name="app_manager_show_all_apps">Arată toate aplicațiile</string>
     <string name="app_manager_show_detail_infos">Vedeți tot</string>
-    <string name="app_manager_sort">Sortați după</string>
     <string name="app_manager_start_by">Lansată de către %s</string>
     <string name="app_manager_start_count_over">De peste 100.000 de ori</string>
     <string name="app_manager_stop_wakepath_dialog_summary">Dezinstalați %s pentru a restricționa durata de pornire?</string>
@@ -286,8 +291,10 @@
     <string name="app_manager_stop_wakepath_success">Restricționată cu succes</string>
     <string name="app_manager_stop_wp_dialog_cancel">Renunțați</string>
     <string name="app_manager_stop_wp_dialog_uninstall">Dezinstalați</string>
+    <string name="app_manager_support_uninstall">Puteți dezinstala aceste aplicații</string>
     <string name="app_manager_system_mobile_disable">Opriți datele mobile</string>
     <string name="app_manager_title">Gestionare aplicații</string>
+    <string name="app_manager_total_size">Total</string>
     <string name="app_manager_uninstall_protected_dlg_msg">Dezinstalarea aplicațiilor de sistem poate împiedica buna funcționare a unor componente MIUI. Dezinstalați oricum?</string>
     <string name="app_manager_uninstall_protected_dlg_title">Dezinstalare aplicații de sistem</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Aplicațiile clonate corespunzătoare vor fi eliminate împreună cu datele aplicației.</string>

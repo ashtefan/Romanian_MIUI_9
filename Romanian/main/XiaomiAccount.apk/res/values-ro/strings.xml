@@ -15,6 +15,7 @@
     <string name="account_error_longer_user_name">Numele nu poate depăși 20 de caractere</string>
     <string name="account_error_shorter_user_name">Numele trebuie să conţină mai mult de 2 caractere</string>
     <string name="account_error_user_birthday">Ziua de naștere introdusă nu este validă</string>
+    <string name="account_error_user_name">Numele introdus nu este valid</string>
     <string name="account_global_region">Străinătate</string>
     <string name="account_has_been_set">Modificați</string>
     <string name="account_limit_update_birthday">"Nu se poate actualiza ziua de naștere acum"</string>
@@ -24,7 +25,7 @@
     <string name="account_none">Nimic</string>
     <string name="account_none_binded_info">Niciunul</string>
     <string name="account_none_user_name">Nimic</string>
-    <string name="account_notification_message">Sesiunea a expirat. Vă rugăm conectați-vă din nou.</string>
+    <string name="account_notification_message">&gt;Sesiunea a expirat. Vă rugăm conectați-vă din nou.</string>
     <string name="account_protection">Protecție cont</string>
     <string name="account_protection_off">Dezactivată</string>
     <string name="account_protection_on">Activată</string>
@@ -213,6 +214,7 @@ Pentru a vă activa contul, accesați
 link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_completed">Finalizare</string>
     <string name="passport_confirm_recycle_account">Da</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Se pare că&lt;/font&gt; numărul %s a fost reciclat de către operatorul dvs. și există un cont Mi asociat acestuia. Acest cont este al dumneavoastră?"</string>
     <string name="passport_continue">Continuați</string>
     <string name="passport_copy_message_text_success">Copiat cu succes</string>
     <string name="passport_copy_message_vcode">Copiați codul</string>
@@ -250,6 +252,10 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_forget_password"><u>Am uitat parola</u></string>
     <string name="passport_forget_password_no_underline">Am uitat parola</string>
     <string name="passport_get_back_pwd">Recuperaţi parola contului</string>
+    <string name="passport_get_innetdate_agree">Verificați</string>
+    <string name="passport_get_innetdate_disagree">Nu</string>
+    <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Se pare că &lt;/font&gt; numărul %s a fost reciclat de către operatorul dvs. Verificați când numărul a fost activ?</string>
+    <string name="passport_get_innetdate_title">Verificați când a fost activ numărul</string>
     <string name="passport_get_verify_code">Obţineţi codul</string>
     <string name="passport_getting_activator_phone">Se obțin informații despre cartela SIM…</string>
     <string name="passport_getting_verify_code">Obţinere</string>
@@ -386,6 +392,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="push_notify_dialog_message">"Un dispozitiv necunoscut este folosit pentru conectarea la contul dumneavoastră Mi. Introduceți acest cod de verificare pe dispozitiv. Dacă nu ați fost dumneavoastră, schimbați parola contului Mi imediat. Nu transmiteți codul de verificare altor persoane."</string>
     <string name="push_notify_dialog_title">Verificare cont</string>
     <string name="qq">QQ</string>
+    <string name="recycle_phone_notification_msg">Se pare că numărul dvs. de telefon a fost reciclat. Atingeți pentru a actualiza.</string>
+    <string name="recycle_phone_notification_title">Risc de securitate cont Mi</string>
     <string name="remove_device_success_notice">Dacă eliminați acest dispozitiv din lista dispozitivelor de încredere, ar putea fi necesar să parcurgeţi din nou procesul de verificare atunci când vă conectați.​</string>
     <string name="remove_trust_btn">Eliminați din lista dispozitivelor de încredere</string>
     <string name="remove_trust_notice">Eliminați din lista dispozitivelor de încredere și deconectaţi-vă</string>
@@ -419,6 +427,8 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="service_error">Eroare serviciu</string>
     <string name="set_success">Modificat cu succes</string>
     <string name="sign_in">Autentificare</string>
+    <string name="sim_changed_notification_msg">Atingeți pentru a actualiza numărul de telefon pentru recuperare și pentru a vă menține contul în siguranță.</string>
+    <string name="sim_changed_notification_title">V-ați schimbat numărul de telefon?</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="sms_send_success">Trimis</string>
     <string name="sns_access_token_expired_warning">Conectarea contului a expirat. Logați-vă din nou pentru a reconecta acest cont.</string>

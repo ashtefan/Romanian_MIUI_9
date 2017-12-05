@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Sincronizați datele aplicației</item>
+        <item>Salvați dispunerea ecranului Acasă</item>
+        <item>Salvați setările de sistem</item>
+        <item>Găsiți telefonul</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Sincronizați contactele, mesajele, notițele, calendarul și multe altele</item>
+        <item>Creați o copie de rezervă pentru aplicații, dispunerea Ecranului principal și imaginea de fundal</item>
+        <item>Creați o copie de rezervă pentru setările importante, inclusiv Wi-Fi și ecran</item>
+        <item>"Blocați telefonul de la distanță dacă îl pierdeți"</item>
+    </string-array>
+</resources>

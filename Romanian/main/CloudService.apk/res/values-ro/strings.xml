@@ -71,7 +71,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="enable_cloud_service_notification">Trebuie să activați Mi Cloud</string>
     <string name="enable_find_device_error">Nu se poate opri localizarea dispozitivului. %1$s</string>
     <string name="enable_find_device_success">Localizarea telefonului este pornită.</string>
-    <string name="enable_micloud">Utilizaţi Mi Cloud</string>
+    <string name="enable_micloud">Conectați-vă pentru a utiliza Mi Cloud</string>
     <string name="enable_sync">Sincronizare</string>
     <string name="enable_sync_dspt">Nu se sincronizează</string>
     <string name="error_data_in_transfer">Sincronizarea se va finaliza peste %s ore.</string>
@@ -542,6 +542,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="sync_sub_dspt">Operatorul dvs. vă poate taxa pentru un mesaj SMS utilizat pentru a activa acest serviciu.</string>
     <string name="sync_sub_dspt_provision">Sincronizaţi fotografiile, contactele, muzica, aplicațiile și altele între toate dispozitivele dvs.</string>
     <string name="sync_sub_int_dspt">Operatorul dvs. vă poate taxa pentru un mesaj SMS internaţional utilizat pentru a activa acest serviciu.</string>
+    <string name="title_back">Înapoi</string>
     <string name="title_reg">Creaţi un cont Mi</string>
     <string name="total_space_upgraded_to">Spaţiu total: %s</string>
     <string name="trying_to_connect_to_network">Se conectează la rețea…</string>
@@ -571,5 +572,6 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="wipe_data_dialog_title">"Unele elemente nu s-au sincronizat"</string>
     <string name="wipe_secret_photo_dialog_title">"Fotografiile ascunse nu sunt sincronizate"</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="xiaomi_cloud_service_subtitle">Toate lucrurile importante într-un singur loc</string>
     <string name="xmpp_server_addr"/>
 </resources>

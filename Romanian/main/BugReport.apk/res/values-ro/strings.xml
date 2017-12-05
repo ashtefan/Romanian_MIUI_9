@@ -3,9 +3,10 @@
     <string name="action_cancel">Anulaţi</string>
     <string name="action_submit">Trimiteţi</string>
     <string name="announcement">Atenţie</string>
-    <string name="app_empty">"Nu ați descărcat nicio aplicaţie."</string>
+    <string name="app_empty">"Nu s-a găsit nicio aplicaţie."</string>
     <string name="app_label">Raportare probleme</string>
     <string name="app_name">Raportare probleme</string>
+    <string name="app_search">Căutați aplicații</string>
     <string name="btn_send">Trimiteţi</string>
     <string name="bugreport_dialog_not_show_again">"Nu arăta din nou"</string>
     <string name="bugreport_dialog_submit_content">Comentariul poate conține informații personale și date despre locație.</string>

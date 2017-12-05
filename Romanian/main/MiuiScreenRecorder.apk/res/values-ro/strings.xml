@@ -18,6 +18,8 @@
     <string name="date_day"/>
     <string name="date_month">/</string>
     <string name="date_year">/</string>
+    <string name="description_content">Aplicația Înregistrare ecran furnizează capabilități de înregistrare la nivel de sistem. Această acțiune înseamnă că renunțați la această caracteristică. Confirmați că doriți sa continuați.</string>
+    <string name="description_title">Despre aplicația de Înregistrare ecran</string>
     <string name="deselect_all">Deselectați tot</string>
     <string name="error_open_file_failed_no_app_found">"Nu s-a găsit nicio aplicație pentru a deschide acest fișier"</string>
     <string name="frames">Frecvență cadre</string>

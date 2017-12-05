@@ -21,7 +21,6 @@
     <string name="create_new_folder_failed">"Nu s-a putut crea dosarul."</string>
     <string name="delete_failed">"Nu s-a putut șterge"</string>
     <string name="delete_failed_retry">"Nu s-a putut șterge; așteptați %1$s și încercați din nou"</string>
-    <string name="delete_file">Ștergeți acest fișier?</string>
     <string name="delete_success">Fișier șters</string>
     <string name="download_failed">"Nu s-a putut descărca"</string>
     <string name="downloading">Se descarcă</string>
