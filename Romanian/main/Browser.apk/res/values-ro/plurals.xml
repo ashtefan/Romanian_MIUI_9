@@ -16,6 +16,10 @@
         <item quantity="other">%1$d din %2$d</item>
         <item quantity="one">1 potrivire</item>
     </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">După %d secunde se va crea în mod automat o nouă pagină</item>
+        <item quantity="one">După %d secundă se va crea în mod automat o nouă pagină</item>
+    </plurals>
     <plurals name="transfer_prompt">
         <item quantity="other">Redă videoclipul în %1$d secunde</item>
         <item quantity="one">Redă videoclipul în %1$d secundă</item>
@@ -43,9 +47,5 @@
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d minute rămase</item>
         <item quantity="one">%d minut rămas</item>
-    </plurals>
-    <plurals name="nav_screen_incognito_time">
-        <item quantity="other">După %d secunde se va crea în mod automat o nouă pagină</item>
-        <item quantity="one">După %d secundă se va crea în mod automat o nouă pagină</item>
     </plurals>
 </resources>

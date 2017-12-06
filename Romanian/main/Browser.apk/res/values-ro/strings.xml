@@ -516,6 +516,7 @@ Părăsiţi această pagină?"</string>
     <string name="miuishare_account_need_activate">Contul Weibo ar trebui să fie asociat cu contul dvs. Mi. Vă conectați cu contul dvs. Mi?</string>
     <string name="miuishare_account_need_login">Contul Weibo ar trebui să fie asociat cu contul dvs. Mi. Vă conectați pentru a distribui acum?</string>
     <string name="miuishare_app_name">Partajare MIUI</string>
+    <string name="miuishare_dialog_cancel">Renunțați</string>
     <string name="miuishare_no_network">"Nu s-a putut conecta la reţea"</string>
     <string name="miuishare_publish">Trimiteţi</string>
     <string name="miuishare_share_done">Distribuit</string>
