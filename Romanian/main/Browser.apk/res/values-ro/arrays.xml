@@ -46,59 +46,6 @@
         <item>Mesaj din Browser</item>
         <item>Urmăriți olimpiada cu Mi</item>
     </string-array>
-    <string-array name="baidu">
-        <item>百度</item>
-        <item>baidu.com</item>
-        <item>http://m.baidu.com/favicon.ico</item>
-        <item>http://m.baidu.com/s?from=1269a&amp;word={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-    </string-array>
-    <string-array name="bing">
-        <item>Bing</item>
-        <item>bing.com</item>
-        <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?q={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
-    </string-array>
-    <string-array name="bookmarks">
-        <item>Google</item>
-        <item>http://www.google.ro/</item>
-        <item>Picasa</item>
-        <item>http://picasaweb.google.com/</item>
-        <item>Yahoo!</item>
-        <item>http://www.yahoo.com/</item>
-        <item>MSN</item>
-        <item>http://www.msn.com/</item>
-        <item>Twitter</item>
-        <item>http://twitter.com/</item>
-        <item>Facebook</item>
-        <item>http://www.facebook.com/</item>
-        <item>Wikipedia</item>
-        <item>http://www.wikipedia.org/</item>
-        <item>eBay</item>
-        <item>http://www.ebay.com/</item>
-        <item>CNN</item>
-        <item>http://www.cnn.com/</item>
-        <item>NY Times</item>
-        <item>http://www.nytimes.com/</item>
-        <item>ESPN</item>
-        <item>http://espn.com/</item>
-        <item>Amazon</item>
-        <item>http://www.amazon.com/</item>
-        <item>Weather Channel</item>
-        <item>http://www.weather.com/</item>
-        <item>BBC</item>
-        <item>http://www.bbc.co.uk/</item>
-    </string-array>
-        <item>团购</item>
-        <item>dianping.com</item>
-        <item>http://developer.dianping.com/favicon.ico</item>
-        <item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
-        <item>UTF-8</item>
-        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
-    </string-array>
     <string-array name="google">
         <item>Google</item>
         <item>google.com</item>
