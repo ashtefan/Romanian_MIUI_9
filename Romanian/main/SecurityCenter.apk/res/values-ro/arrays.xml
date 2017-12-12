@@ -50,22 +50,6 @@
         <item>Când telefonul este blocat sau după ieșirea din aplicație</item>
         <item>Când telefonul este blocat sau după un minut de la părăsirea aplicației</item>
     </string-array>
-    <string-array name="sort_type">
-        <item>Stare</item>
-        <item>Numele aplicației</item>
-        <item>Frecvența utilizării</item>
-        <item>Spațiul utilizat</item>
-        <item>Data instalării</item>
-        <item>Puteți dezinstala aceste aplicații</item>
-    </string-array>
-    <string-array name="sort_title">
-        <item>Sortare după stare</item>
-        <item>Sortare după numele aplicației</item>
-        <item>Sortare după frecvența utilizării</item>
-        <item>Sortare după spațiul utilizat</item>
-        <item>Sortare după data instalării</item>
-        <item>Arată aplicațiile care pot fi dezinstalate mai întâi</item>
-    </string-array>
     <string-array name="title_app_info">
         <item>Sursa instalării</item>
         <item>Ora instalării</item>
