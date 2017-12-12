@@ -99,6 +99,7 @@
     <string name="keyguard_torch_cover_text">Pentru a păstra lanterna pornită, țineți apăsat butonul de alimentare</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="lock_screen_no_sim_card">Nicio cartelă SIM</string>
     <string name="lock_wallpaper_enter">Accesați</string>
     <string name="lock_wallpaper_learn_more">Mai multe</string>
     <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>

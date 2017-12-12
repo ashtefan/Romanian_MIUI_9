@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="__leak_canary_analysis_failed">Analiza erorilor a eșuat</string>
-    <string name="__leak_canary_class_has_leaked">%s a eșuat</string>
-    <string name="__leak_canary_delete">Ștergeți</string>
-    <string name="__leak_canary_delete_all">Ștergeți tot</string>
-    <string name="__leak_canary_display_activity_label">Erori</string>
-    <string name="__leak_canary_failure_report">"Vă rugăm raportați această eroare accesând http://github.com/square/leakcanary
-"</string>
-    <string name="__leak_canary_leak_list_title">Erori în %s</string>
-    <string name="__leak_canary_notification_message">Apăsați aici pentru mai multe detalii</string>
-  <string name="__leak_canary_share_heap_dump">Partajați raportul de eroare</string>
-    <string name="__leak_canary_share_leak">Partajați informațiile</string>
-    <string name="__leak_canary_share_with">Partajați cu…</string>
-    <string name="__leak_canary_toast_heap_dump">Golirea memoriei va bloca aplicația. Brrrr.</string>
     <string name="accept">Acceptaţi</string>
     <string name="accept_or_deny">%1$s a distribuit albumul %2$s.</string>
     <string name="add_automatically_alert_msg">Adăugaţi fotografiile din \"%1$s\" în acest album în mod automat?</string>
@@ -93,8 +80,10 @@
     <string name="app_name_view_picture">Vizualizare imagini</string>
     <string name="app_name_view_video">Vizualizare videoclipuri</string>
     <string name="apply">Aplicaţi</string>
+    <string name="assistant_page_label">Asistent</string>
     <string name="associate_face_album">Selectați un album</string>
     <string name="auto_backup_introduce">Faceți în mod automat o copie de rezervă pentru fotografii și videoclipuri. Pentru ca această caracteristică să funcționeze în mod normal este necesar un cont Mi.</string>
+    <string name="auto_download_media_title">Descărcați fotografiile din Mi Cloud în mod automat</string>
     <string name="auto_update_face">Adăugați fotografii în mod automat</string>
     <string name="auto_update_face_summary">Se potrivesc și se adaugă în mod automat fotografii la Albumul Copilului</string>
     <string name="auto_update_off">Dezactivat</string>
@@ -186,6 +175,7 @@
     <string name="camera_needs_auto_backup_tip">Albumul fotografiilor captate trebuie să fie salvat</string>
     <string name="cancel">Renunță</string>
     <string name="cancel_baby_lock_wallpaper_confirm_msg">Restabiliţi imaginea implicită de blocare a ecranului?</string>
+    <string name="cancel_download_btn_text">Opriți</string>
     <string name="cancel_hint">Operaţiune anulată</string>
     <string name="cannot_remove_creator">Nu se poate elimina creatorul</string>
     <string name="cannot_send_message">Imposibil de trimis mesajul</string>
@@ -238,7 +228,7 @@
     <string name="collage_title_poster">Poster</string>
     <string name="collaps_people">Ascundeți</string>
     <string name="confirm">OK</string>
-    <string name="confirm_download_video_message">Este necesară finalizarea descărcării acestui videoclip înainte de a putea fi vizionat. Descărcarea va fi reluată atunci când Wi-Fi va fi disponibil.</string>
+    <string name="confirm_download_video_message">Este necesară finalizarea descărcării acestui videoclip înainte de a putea fi vizionat. Descărcarea va fi reluată atunci când rețeaua Wi-Fi va fi disponibil.</string>
     <string name="confirm_download_video_title">Descărcaţi videoclipul</string>
     <string name="confirm_face">Potrivire</string>
     <string name="confirm_hidden_recommend_group">OK</string>
@@ -302,13 +292,23 @@
     <string name="double_tap_to_higher_definition">Atingeți din nou de 2 ori pentru previzualizarea HD</string>
     <string name="download_canceled">Descărcarea a fost întreruptă</string>
     <string name="download_error_format">"Nu s-a putut descărca %s"</string>
+    <string name="download_error_tip">. Descărcările au fost întrerupte.</string>
+    <string name="download_origin_dialog_message">"Imaginile originale vor fi descărcate din Mi Cloud. Fotografiile locale nu vor fi optimizate."</string>
     <string name="download_retry_message">"Nu s-au putut descărca fișierele; verificați conexiunea la rețea și reîncercați."</string>
     <string name="download_retry_text">Încercați din nou</string>
     <string name="download_retry_title">"Nu s-au putut descărca fișierele"</string>
     <string name="download_tip">Descărcaţi</string>
-    <string name="download_title">Se pregătesc fișierele...</string>
+    <string name="download_title">Se pregătesc fișierele…</string>
+    <string name="download_type_origin">Fișierele originale</string>
+    <string name="download_type_origin_desc">Fișierele originale</string>
+    <string name="download_type_thumbnail">Calitate ridicată</string>
+    <string name="download_type_thumbnail_desc">Calitate ridicată</string>
+    <string name="download_type_title">Calitatea descărcărilor</string>
     <string name="download_without_wifi_msg">"Utilizarea conexiunii de date mobile pentru a descărca fișiere va crește utilizarea datelor. Dacă treceţi peste limita de date din planul dvs., operatorul ar putea percepe taxe suplimentare.</string>
     <string name="download_without_wifi_title">Avertizare utilizare date</string>
+    <string name="downloading_desc">%1$d/%2$d</string>
+    <string name="downloading_dialog_message">Puteți selecta calitatea imaginilor descărcate sau dezactiva descărcarea automată din Setări.</string>
+    <string name="downloading_title">Se descarcă fotografiile din Mi Cloud</string>
     <string name="edit_baby_info">Vizualizaţi informaţiile despre copil</string>
     <string name="email_picker_title">Adăugaţi un e-mail distribuit</string>
     <string name="empty_query_text_msg">"Nu știu ce să caut…"</string>
@@ -474,7 +474,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="hidden_album_display_name">Album ascuns</string>
     <string name="home_menu_cleaner">Eliberați spațiu</string>
     <string name="home_menu_collage">Colaj</string>
-    <string name="home_menu_photo_movie">Uite</string>
+    <string name="home_menu_photo_movie">Clip</string>
     <string name="home_menu_print">Printați fotografiile</string>
     <string name="home_page_empty_action">Realizați o fotografie</string>
     <string name="home_page_label">Fotografii</string>
@@ -657,7 +657,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="photo_editor_crop_reset">Resetare</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Mâzgălitură</string>
-    <string name="photo_editor_filter">Filtre</string>
+    <string name="photo_editor_filter">Filtru</string>
     <string name="photo_editor_label">Editați</string>
     <string name="photo_editor_long_crop">Decupare</string>
     <string name="photo_editor_miui_beauty">Înfrumusețare</string>
@@ -687,7 +687,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="photo_editor_remover">Ștergeți</string>
     <string name="photo_editor_rotate">Rotire</string>
     <string name="photo_editor_saving">Se salvează…</string>
-    <string name="photo_editor_sticker">Miniaturi</string>
+    <string name="photo_editor_sticker">Miniatură</string>
     <string name="photo_editor_text">Text</string>
   <string name="photo_editor_transition_image_view">photo_view</string>
   <string name="photo_editor_transition_menu_view">menu_view</string>
@@ -696,6 +696,26 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="photo_print_menu_loading">Încărcare extensie…</string>
     <string name="photo_print_package_finish">Încărcată cu succes</string>
     <string name="photo_print_package_installing">Încărcare extensie…</string>
+    <string name="photomovie_audio_custom">Local</string>
+    <string name="photomovie_audio_none">Nimic</string>
+    <string name="photomovie_audio_unsupport">Acest format audio nu este suportat</string>
+    <string name="photomovie_cancel_download">Opriți descărcarea</string>
+    <string name="photomovie_delete_disable">Vă trebuie cel puțin 3 fotografii pentru a crea un clip.</string>
+    <string name="photomovie_download">Descărcați</string>
+    <string name="photomovie_download_failed">"Nu s-a putut descărca"</string>
+    <string name="photomovie_download_failed_for_notwork">"Nu s-a putut descărca. Verificați conexiunea la rețea."</string>
+    <string name="photomovie_download_without_wifi_msg">"Utilizarea datelor mobile pentru a descărca fișiere va crește utilizarea datelor. Dacă depășiți planul de date, operatorul vă poate taxa suplimentar."</string>
+    <string name="photomovie_download_without_wifi_title">Avertisment utilizare date</string>
+    <string name="photomovie_item_name">Clip</string>
+    <string name="photomovie_return">Înapoi</string>
+    <string name="photomovie_save">Salvați</string>
+    <string name="photomovie_save_failed">"Nu s-a putut salva"</string>
+    <string name="photomovie_save_successfully">Salvat cu succes</string>
+    <string name="photomovie_saving">Creare clip…</string>
+    <string name="photomovie_tab_edit">Editați</string>
+    <string name="photomovie_tab_music">Muzică</string>
+    <string name="photomovie_tab_template">Șablon</string>
+    <string name="photomovie_template_default">Lent</string>
     <string name="pick_from_contact">Alegeţi din Contacte</string>
     <string name="pick_too_many_recipients">Prea mulţi destinatari</string>
     <string name="picker_cancel_download">Întrerupeți descărcarea</string>
@@ -879,6 +899,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="slideshow_interval_value">%1$d secunde</string>
     <string name="slim_after_backuped_summary">Înlocuiește fotografiile la rezoluție maximă de pe dispozitiv cu unele cu o rezoluție optimizată după ce vor fi salvate în Mi Cloud. Imaginile la rezoluție maximă vor fi stocate în continuare în Mi Cloud. Astfel puteți economisi spațiu de stocare pe telefon.</string>
     <string name="slim_after_backuped_title">Optimizează spațiul de stocare de pe telefon după ce salvarea s-a încheiat cu succes</string>
+    <string name="slim_dialog_message">Fotografiile HD vor fi descărcate din Mi Cloud în locul fișierelor originale.</string>
     <string name="slim_introduce">Înlocuiește fotografiile la rezoluție maximă de pe dispozitiv cu unele cu o rezoluție optimizată după ce au fost salvate în Mi Cloud. Imaginile și videoclipurile la rezoluție maximă vor fi stocate în continuare în Mi Cloud. Astfel puteți economisi spațiu de stocare pe telefon. Pentru ca această caracteristică să funcționeze în mod normal, este necesar un cont Mi.</string>
     <string name="slim_introduce_with_specific_size">Înlocuiește fotografiile la rezoluție maximă de pe dispozitiv cu unele cu o rezoluție optimizată după ce au fost salvate în Mi Cloud. Imaginile și videoclipurile la rezoluție maximă vor fi stocate în continuare în Mi Cloud. Astfel puteți economisi până la %1$s spațiu de stocare(este necesar un cont Mi).</string>
     <string name="slim_now">Optimizați acum</string>

@@ -1852,8 +1852,8 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="incoming_call_breathing_light_color_title">Apeluri</string>
     <string name="incoming_call_breathing_light_freq_title">Frecvenţă pulsare indicator luminos intermitent pt. apeluri</string>
     <string name="incoming_call_volume_title">Ton de apel</string>
-    <string name="infinity_display_settings">Afișare ecran complet</string>
-    <string name="infinity_display_slogan">Creștere continuă în tehnologia neexplorată</string>
+    <string name="infinity_display_settings">Ecran complet</string>
+    <string name="infinity_display_slogan">Inovație în tehnologia neexplorată</string>
     <string name="infinity_display_title">Afișare ecran complet</string>
     <string name="information_dialog_button_text">Am înțeles</string>
     <string name="input_method">Tastatură</string>
@@ -2135,8 +2135,8 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="lock_screen_secure_after_timeout_title">Solicită parola</string>
     <string name="lock_screen_signature_summary">Acest mesaj va fi afișat în Blocarea ecranului</string>
     <string name="lock_screen_signature_title">Informații proprietar în Blocarea ecranului</string>
-    <string name="lock_screen_unlock_show">Salt peste glisare</string>
-    <string name="lock_screen_unlock_show_summary">Accesaţi direct ecranul de pornire sau interfaţa introducerii parolei</string>
+    <string name="lock_screen_unlock_show">Salt peste Blocarea ecranului</string>
+    <string name="lock_screen_unlock_show_summary">Deschideți Ecranul de pornire sau introduceți direct parola</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Apăsați pentru a modifica</string>
     <string name="lock_settings">Blocare ecran și parolă</string>
     <string name="lock_settings_common_title">Setări blocare</string>
@@ -3869,7 +3869,7 @@ Codul PIN poate fi incorect."</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Omiteți oricum</string>
     <string name="skip_label">Omiteţi</string>
-    <string name="skip_lock_screen_confirm_msg">Notificările, controalele muzicale, Camera și Mi Home vor fi dezactivate pe blocarea ecranului.</string>
+    <string name="skip_lock_screen_confirm_msg">"Notificările, controalele playerului muzical și scurtăturile nu vor fi afișate în Blocarea ecranului."</string>
     <string name="skip_step">Omiteţi</string>
     <string name="slot_number">(Slot %1$d)</string>
     <string name="slot_status_title">Informaţie IMEI</string>
@@ -4773,7 +4773,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="vr_listeners_title">Servicii de ajutor VR</string>
     <string name="wait_for_debugger">Aşteptaţi depanatorul</string>
     <string name="wait_for_debugger_summary">Înaintea executării, aplicaţia aşteaptă ataşarea depanatorului</string>
-    <string name="wakeup_for_keyguard_notification_title">Trezire ecran pentru notificări</string>
+    <string name="wakeup_for_keyguard_notification_title">Trezește ecranul pentru notificări</string>
     <string name="wallpaper_attributions">Imagini de fundal</string>
     <string name="wallpaper_attributions_values">"Furnizori imagini din satelit:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>

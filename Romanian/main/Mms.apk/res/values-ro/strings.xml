@@ -65,7 +65,7 @@
     <string name="class_0_message_activity">Mesaje clasa 0</string>
     <string name="close">Închideţi</string>
     <string name="cloud_recommend_msg">Atingeţi pentru a sincroniza mesajele cu Mi Cloud.</string>
-    <string name="cloud_state_disabled">Sincronizarea cu Mi Cloud este dezactivată</string>
+    <string name="cloud_state_disabled">Activați sincronizarea cu Mi Cloud pentru a sincroniza mesajele</string>
     <string name="cloud_state_sync_finished">Sincronizat cu Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizare cu Mi Cloud…</string>
     <string name="compressing">Imaginea este prea mare. Se comprimă…</string>

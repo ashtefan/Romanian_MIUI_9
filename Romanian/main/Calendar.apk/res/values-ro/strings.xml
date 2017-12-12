@@ -10,9 +10,10 @@
     <string name="accessibility_sync_cal">Sincronizaţi calendarul</string>
     <string name="account_and_calendar">Cont şi calendar</string>
     <string name="accounts">Conturi şi sincronizare</string>
-    <string name="acct_not_synced">Acest cont nu este sincronizat, prin urmare calendarele dvs. pot să nu fie actualizate.</string>
+    <string name="acct_not_synced">"Acest cont nu a fost sincronizat. Calendarul dvs. poate să nu fie actualizat."</string>
     <string name="acessibility_selected_marker_description">Eveniment selectat</string>
-    <string name="action_bar_more_menu_view_description">mai  mult</string>
+    <string name="action_bar_more_menu_view_description">Mai  mult</string>
+    <string name="action_bar_return">Reveniți</string>
     <string name="action_text_card_manager">Canal</string>
     <string name="action_text_today">Astăzi</string>
   <string name="ad_card_connecting">conexiune</string>
@@ -89,10 +90,10 @@
     <string name="countdown_today">Astăzi</string>
     <string name="create_an_account_desc">"Calendarul funcţionează mai bine cu un Cont Xiaomi.
 
-• Accesaţi serviciul din orice browser web
+• Accesaţi serviciul din orice browser web.
 • Creaţi în siguranţă copii de rezervă pentru evenimentele dvs."</string>
     <string name="creating_event">Eveniment creat</string>
-    <string name="creating_event_with_guest">Invitaţiile vor fi trimise</string>
+    <string name="creating_event_with_guest">Trimitere invitații…</string>
   <string name="credit">card de credit</string>
   <string name="credit_card_date_label">Data de rambursare:</string>
   <string name="credit_card_number_label">Număr card:</string>
@@ -107,6 +108,7 @@
     <string name="date_calculate_days">Introduceți numărul de zile</string>
     <string name="date_calculate_description">Aflați ce dată este înainte sau după o anumită zi</string>
     <string name="date_calculate_direction">Direcție</string>
+    <string name="date_calculate_direction_content_description">Direcție, cea curentă este %1s</string>
     <string name="date_calculate_result">Rezultat</string>
     <string name="date_calculate_tab">Calcul dată</string>
     <string name="date_calculate_today">0 zile</string>
@@ -170,10 +172,10 @@
     <string name="edit_event_tab_event">Eveniment</string>
     <string name="edit_event_to_label">Până la</string>
     <string name="email_guests_label">Trimiteţi e-mailuri invitaţilor</string>
-    <string name="email_install_hint">Aplicația de E-mail a fost dezinstalată. Reinstalând-o, puteți restaura datele contului calendar sau să adăugați un cont nou.</string>
+    <string name="email_install_hint">Aplicația de E-mail a fost dezinstalată. Reinstalați-o pentru a restaura conturile calendar sau să adăugați un cont nou.</string>
     <string name="email_picker_label">E-mail cu</string>
     <string name="email_subject_prefix">"Re: "</string>
-    <string name="empty_event">Evenimentul gol nu a fost creat</string>
+    <string name="empty_event">"Evenimentul gol nu a fost creat"</string>
     <string name="english_premium_league">English premier league</string>
     <string name="event_account">Cont</string>
     <string name="event_action_delete">Ştergeţi</string>
@@ -247,8 +249,8 @@
     <string name="insert_event_toast_add_failed">"Nu s-a putut adăuga"</string>
     <string name="insert_event_toast_add_success">Eveniment creat</string>
     <string name="install_email_app">Instalați aplicația de e-mail</string>
-    <string name="install_email_finished">Aplicația de E-mail instalată</string>
-    <string name="installing_email">Instalare...</string>
+    <string name="install_email_finished">Instalată cu succes</string>
+    <string name="installing_email">Instalare…</string>
     <string name="item_num_selected">%1$d selectate</string>
   <string name="joke_card_click_toast">Apăsați lung pentru a copia bancuri</string>
   <string name="joke_card_icon_text">clovn %1$s</string> 
@@ -319,7 +321,7 @@
   <string name="more_match">Mai multe evenimente</string>
     <string name="more_string">+%1$s</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
-    <string name="new_event_description">nou</string>
+    <string name="new_event_description">Nou</string>
     <string name="new_event_dialog_label">Eveniment nou</string>
     <string name="new_event_dialog_option">Eveniment nou</string>
     <string name="no_contact_birthday_hint">Nicio zi de naștere de importat</string>
@@ -328,9 +330,9 @@
 Verificați setările de rețea și încercați din nou."</string>
     <string name="no_network_btn">Reîncercați</string>
     <string name="no_title_label">(Fără titlu)</string>
-    <string name="no_visiable_calendar_message">Trebuie să selectați un cont pentru calendar; apăsați Selectare cont pentru a continua.</string>
-    <string name="no_visiable_calendar_select_account">Selectare cont</string>
-    <string name="no_visiable_calendar_title">Selectați un cont pentru Calendar</string>
+    <string name="no_visiable_calendar_message">Trebuie să adăugați un cont pentru calendar. Apăsați Adăugare cont pentru a continua.</string>
+    <string name="no_visiable_calendar_select_account">Adăugare cont</string>
+    <string name="no_visiable_calendar_title">Adăugați un cont</string>
     <string name="not_synced">nesincronizat</string>
   <string name="olympic_rank">Clasament</string>
   <string name="olympic_total">Total</string>
@@ -418,7 +420,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="response_yes">Da</string>
     <string name="rest_day_indication">: )</string>
     <string name="saving_event">Eveniment salvat</string>
-    <string name="saving_event_with_guest">Actualizările vor fi trimise</string>
+    <string name="saving_event_with_guest">Trimitere actualizări…</string>
     <string name="search">Căutaţi</string>
     <string name="search_calendar">"Dată;Faze lunare;Lunar;Almanac;Fortune;Agendă;Întâlnire;Memento;Zile libere;Vacanță;Zi de naștere;2016;2017;Spring Festival;Anul Nou;Ziua internațională a muncii;Mid-Autumn Festival"</string>
     <string name="search_calendar_edit_event">Întâlnire;Memento;Agendă</string>
@@ -471,6 +473,7 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
   <string name="swipe_up_guide_hint_text">Glisați pentru a afla mai multe</string>
     <string name="synced">sincronizat</string>
   <string name="taishen">Copil al lui Dumnezeu</string>
+    <string name="talk_back_read_date">Data curentă este %1$s,%2$s,</string>
     <string name="template_announce_item_index">Evenimentul %1$s din %2$s.</string>
     <string name="template_week_num">Săpt. %1$s</string>
   <string name="text_year">An</string>

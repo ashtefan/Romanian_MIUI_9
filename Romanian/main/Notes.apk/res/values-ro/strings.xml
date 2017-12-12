@@ -17,6 +17,7 @@
     <string name="app_widget">Note</string>
     <string name="call_folder_name">Note apel</string>
     <string name="cancel_alarm_description">Anulați alarma</string>
+    <string name="cloud_service_state_open_reminder">Activați sincronizarea cu Mi Cloud pentru a sincroniza notițele.</string>
     <string name="cloud_trash_bin_title">Ștergeți notițele din Mi Cloud</string>
     <string name="cta_reminder">Această aplicație trebuie să se conecteze la internet pentru a sincroniza notițele în Mi Cloud, și de asemenea să poate citi contactele pentru a eticheta notițele pe care le faceți în timpul apelurilor.</string>
     <string name="db_downgrade_clear_button">Ștergeți datele aplicației</string>
