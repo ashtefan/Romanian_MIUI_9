@@ -786,7 +786,6 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="bootloader_status_unlocked">Deblocat</string>
     <string name="bootloader_status_unlocked_info">Acest telefon este deblocat</string>
     <string name="bootloader_summary">Actualizați dispozitivul prin USB</string>
-    <string name="bootloader_unlock_webhome">http://en.miui.com/unlock/</string>
     <string name="breathing_light_color_menu_title">Culoare indicator luminos intermitent</string>
     <string name="breathing_light_color_summary">Culoare indicator luminos intermitent pt. notificări</string>
     <string name="breathing_light_freq_summary">Pulsare indicator luminos intermitent la notificări noi</string>
