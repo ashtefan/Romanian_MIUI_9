@@ -370,6 +370,7 @@
     <string name="qq_cache_files">Cache QQ</string>
     <string name="qq_clean">Curățare QQ</string>
     <string name="qq_clean_exit_confirm_msg">Opriți scanarea și ieșiți acum?</string>
+    <string name="qq_clean_finish_summary">Fișierele selectate au fost șterse cu succes</string>
     <string name="qq_data_type_cache">Cache QQ</string>
     <string name="qq_data_type_cache_desc">"Veți putea restaura aceste fișiere după ce vă veți conecta la internet."</string>
     <string name="qq_data_type_chat">Istoric chat</string>
@@ -462,11 +463,11 @@
     <string name="toast_uninstall_success">Dezinstalare finalizată</string>
     <string name="total_clean">Curățat în total: %s</string>
     <string name="total_clean_text">Curățat</string>
+    <string name="unlike">Nu, mulțumesc</string>
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="virus_scan">Scanare de securitate</string>
   <string name="vungle_ad_name">ad-Vungle</string>
     <string name="wechat_cache_files">Cache WeChat</string>
-    <string name="wechat_chat_clean_done">Totul arată bine</string>
     <string name="wechat_chat_data_type_cache">Cache WeChat</string>
     <string name="wechat_chat_data_type_cache_desc">"Veți putea restaura aceste fișiere după ce vă veți conecta la internet."</string>
     <string name="wechat_chat_data_type_chat">Istoric chat</string>
@@ -477,8 +478,11 @@
     <string name="wechat_chat_data_type_other">Altele</string>
     <string name="wechat_chat_data_type_other_desc">Atenție, nu veți mai putea restaura aceste fișiere după ce le veți elimina.</string>
     <string name="wechat_clean">Curățare WeChat</string>
+    <string name="wechat_clean_canceled_empty_summary">"Curățarea nu s-a încheiat; reluați procesul."</string>
     <string name="wechat_clean_exit_confirm">Ieșiți?</string>
     <string name="wechat_clean_exit_confirm_msg">Opriți scanarea și ieșiți acum?</string>
+    <string name="wechat_clean_finish_empty_summary">Totul arată bine</string>
+    <string name="wechat_clean_finish_summary">Fișierele selectate au fost șterse cu succes</string>
     <string name="wechat_clean_stop_confirm">Opriți scanarea?</string>
     <string name="wechat_clean_stop_confirm_msg">Opriți scanarea acum?</string>
     <string name="wechat_content_bad_pic_file">Fișierul este corupt</string>
@@ -487,11 +491,16 @@
     <string name="wechat_copy_video_failed_dialog_title">"Nu s-a putut exporta"</string>
     <string name="wechat_copying_video">Exportare…</string>
     <string name="wechat_copying_video_dialog_checkbox">Ștergeți fișierele după exportare</string>
-    <string name="wechat_copying_video_dialog_msg">Fișierele vor fi salvate în dosarul: /DCIM/WeChat</string>
+    <string name="wechat_copying_video_dialog_msg">Fișierele vor fi salvate în acest dosar: %s</string>
     <string name="wechat_copying_video_dialog_title">Exportați în Galerie</string>
     <string name="wechat_copying_video_empty">Niciun videoclip de exportat</string>
     <string name="wechat_copying_video_success">Exportat cu succes</string>
+    <string name="wechat_qq_celan_tab_file">Fișier</string>
+    <string name="wechat_qq_celan_tab_image">Imagine</string>
+    <string name="wechat_qq_celan_tab_video">Video</string>
+    <string name="wechat_qq_celan_tab_voice">Voce</string>
     <string name="wechat_qq_chat_files">Istoric chat</string>
+    <string name="wechat_qq_deep_clean_button_text">Curățare profundă</string>
     <string name="wechat_qq_normal_files">Gunoi</string>
     <string name="white_list_ad_header">Fișiere inutile: %d</string>
     <string name="white_list_apk_header">Pachete de instalare: %d</string>
@@ -499,6 +508,15 @@
     <string name="white_list_large_file_header">Fișiere și videoclipuri mari: %d</string>
     <string name="white_list_residual_header">Reziduuri: %d</string>
     <string name="white_list_title">Excepţii</string>
+    <string name="wq_deep_clean_filter_all">Toate</string>
+    <string name="wq_deep_clean_filter_month_ago">Cu o lună în urmă</string>
+    <string name="wq_deep_clean_filter_three_month_ago">Cu trei luni în urmă</string>
+    <string name="wq_deep_clean_filter_week_ago">Cu o săptămână în urmă</string>
+    <string name="wq_deep_clean_filter_years_ago">Cu o jumătate de an în urmă</string>
+    <string name="wqfile_group_chat_file">Alt fișier</string>
+    <string name="wqfile_group_chat_pic">Imagine chat</string>
+    <string name="wqfile_group_chat_video">Videoclip chat</string>
+    <string name="wqfile_group_chat_voice">Voce chat</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="yesterday">Ieri</string>
 </resources>

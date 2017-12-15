@@ -186,7 +186,7 @@
     <string name="oauth_title">Conectați-vă utilizând contul Mi</string>
     <string name="other_devices_title">Alte dispozitive</string>
     <string name="passport_access_denied">Acces refuzat</string>
-    <string name="passport_account_hint_text">Adresă de e-mail, număr de telefon sau ID cont Mi</string>
+    <string name="passport_account_hint_text">Adresă de e-mail/Număr de telefon/ID cont Mi</string>
     <string name="passport_account_identity_title">Verificaţi identitatea dvs.</string>
     <string name="passport_account_label">Cont Mi</string>
     <string name="passport_account_name">Cont: %1$s</string>
@@ -221,7 +221,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_delete_account">Deconectaţi-vă</string>
     <string name="passport_downlink_reg">Număr de telefon</string>
     <string name="passport_email">Adresă de e-mail</string>
-    <string name="passport_email_or_id_hint_text">Adresa de e-mail sau ID-ul contului Mi</string>
+    <string name="passport_email_or_id_hint_text">Adresa de e-mail/ID-ul contului Mi</string>
     <string name="passport_email_reg_success_summary">%1$s a fost asociat contului dvs. Puteți să-l utilizați pentru a vă conecta sau pentru a vă reseta parola.</string>
     <string name="passport_error_auth_fail">Sesiunea a expirat; conectați-vă din nou mai târziu</string>
     <string name="passport_error_device_id">Nu se poate obține ID-ul dispozitivului</string>

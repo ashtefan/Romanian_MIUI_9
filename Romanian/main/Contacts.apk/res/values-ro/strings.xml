@@ -179,7 +179,7 @@
     <string name="cloud_antispam_marked">Marcat</string>
     <string name="cloud_antispam_title">Identificarea numerelor necunoscute</string>
     <string name="cloud_recommend_msg">Atingeți pentru a sincroniza contactele cu Mi Cloud.</string>
-    <string name="cloud_state_disabled">Sincronizarea cu Mi Cloud este dezactivată</string>
+    <string name="cloud_state_disabled">Activați Mi Cloud</string>
     <string name="cloud_state_loading">Doar o secundă…</string>
     <string name="cloud_state_sync_finished">Sincronizat cu Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizat cu Mi Cloud</string>

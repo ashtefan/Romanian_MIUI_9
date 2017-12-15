@@ -4215,6 +4215,8 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="testing_usage_stats">Statistici de utilizare</string>
     <string name="testing_wifi_info">Informaţii Wi-Fi</string>
     <string name="tether_and_hotspot_title">Tethering și hotspot</string>
+    <string name="tether_data_usage_limit">Limită singulară utilizare date</string>
+    <string name="tether_data_usage_limit_summary">Limita utilizării datelor va fi aplicată la următoarea pornire a hotspot-ului</string>
     <string name="tether_devices_management_title">Gestionați dispozitivele</string>
     <string name="tether_devices_max_number">Limita dispozitivelor conectate</string>
     <string name="tether_settings_disabled">Hotspot-ul portabil este oprit</string>

@@ -372,7 +372,6 @@ Actualizaţi acum?"</string>
     <string name="device_not_activiey_lint2">Serviciile de e-mail nu funcționează cu Exchange</string>
     <string name="dialog_account_auto_sync_setting_no_open">Ați ales să sincronizați manual e-mailurile. Reîmprospătați pentru a sincroniza.</string>
     <string name="dialog_change_sync_lookback">E-mailul primit cu %s în urmă va fi șters în mod automat. Apăsați pentru a modifica acțiunea.</string>
-    <string name="dialog_gmail_proxy_server_is_error">Eroare server proxy Gmail.</string>
     <string name="dialog_insufficient_space_on_external">Nu se poate descărca ataşamentul. Spațiu insuficient în stocarea externă.</string>
     <string name="dialog_insufficient_space_on_internal">Spațiu insuficient în stocarea internă.</string>
     <string name="dialog_system_auto_sync_account_no_open">Activați sincronizarea contului pentru a primi e-mailuri în mod automat</string>

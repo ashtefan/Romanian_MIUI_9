@@ -123,6 +123,7 @@
     <string name="from">de la %1$s</string>
     <string name="goon_feedback_main">Continuați</string>
     <string name="hint_feedback_main">Descrieți problema</string>
+    <string name="issue_search">Căutați</string>
     <string name="loading_apps">Încărcare listă…</string>
     <string name="login_system_failed">"Nu s-a putut conecta; încercați din nou"</string>
     <string name="logo_title">Centrul de raportare probleme</string>

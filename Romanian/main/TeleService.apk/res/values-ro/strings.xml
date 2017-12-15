@@ -589,6 +589,8 @@
     <string name="dtmf_tone_entries_normal">Normal</string>
     <string name="dtmf_tones_summary">Setaţi lungimea tonurilor DTMF</string>
     <string name="dtmf_tones_title">Tonuri DTMF</string>
+    <string name="dual_4g_switch_summary">Permiteți conectivitate 4G pentru ambele sloturi SIM.</string>
+    <string name="dual_4g_switch_title">Dual 4G</string>
     <string name="dual_mic_summary">Suprimaţi zgomotul de fundal pe durata apelurilor</string>
     <string name="dual_mic_title">Reducere zgomot microfon dual</string>
     <string name="ecm_exit_dialog">EcmExitDialog</string>
@@ -629,6 +631,7 @@
     <string name="enable_disable_retail_directory">Registrul comercianţilor</string>
     <string name="enable_disable_stock_quotes">Cotaţii bursiere</string>
     <string name="enable_disable_technology_news">Știri din tehnologie</string>
+    <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE necesită conectivitate 4G pentru ambele sloturi SIM. Comutați la Dual 4G acum?</string>
     <string name="enable_fdn">Activaţi FDN</string>
     <string name="enable_fdn_ok">Dezactivaţi FDN</string>
     <string name="enable_freeform_support">Activați ferestre cu formă liberă</string>
@@ -1482,6 +1485,8 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="tty_mode_not_allowed_video_call">Schimbarea modului TTY nu este permisă în timpul unui apel video</string>
     <string name="tty_mode_option_summary">Setaţi modul TTY</string>
     <string name="tty_mode_option_title">Mod TTY</string>
+    <string name="turn_off_dual_4g_failed">"Nu s-a putut opri modul Dual 4G."</string>
+    <string name="turn_on_dual_4g_failed">"Nu s-a putut activa modul Dual 4G."</string>
     <string name="turnover_mute_summary">Când telefonul este așezat pe o suprafață orizontală, întoarcerea lui cu ecranul în jos va dezactiva soneria</string>
     <string name="turnover_mute_title">Întoarcere pentru a dezactiva soneria</string>
     <string name="ui_default_package">com.android.dialer</string>

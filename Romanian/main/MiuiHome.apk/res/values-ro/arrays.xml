@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="transformation_entries">
-        <item>Glisare cu salt</item>
-        <item>Glisare</item>
-        <item>Rostogolire</item>
-        <item>Pagină</item>
-        <item>Cascadă</item>
-        <item>Rotire</item>
-        <item>Cub</item>
-     </string-array>
-    <string-array name="wallpaper_scroll_entries">
-        <item>Setată de temă</item>
-        <item>În centru</item>
-        <item>La stânga</item>
-        <item>La dreapta</item>
-     </string-array>
-    <string-array name="cell_layout_size_entries">
+       <string-array name="cell_layout_size_entries">
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
-      <string-array name="gadget_weather_theme_type_entries">
-        <item>Prestabilită</item>
-        <item>Clasică</item>
-     </string-array>
-     <string-array name="gadget_weather_image">
+    <string-array name="editing_mode_entries">
+        <item>Imagine de fundal</item>
+        <item>Obiecte widget</item>
+        <item>Setări</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
         <item>Senin</item>
         <item>Înnorat</item>
         <item>Ceaţă</item>
@@ -50,13 +36,25 @@
         <item>Praf</item>
         <item>Ceaţă</item>
      </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Imagine de fundal</item>
-        <item>Obiecte widget</item>
-        <item>Setări</item>
-        <item>Efecte</item>
-        <item>Dispunere</item>
-    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Prestabilită</item>
+        <item>Clasică</item>
+     </string-array>
+    <string-array name="transformation_entries">
+        <item>Glisare cu salt</item>
+        <item>Glisare</item>
+        <item>Rostogolire</item>
+        <item>Pagină</item>
+        <item>Cascadă</item>
+        <item>Rotire</item>
+        <item>Cub</item>
+     </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Setată de temă</item>
+        <item>În centru</item>
+        <item>La stânga</item>
+        <item>La dreapta</item>
+     </string-array>
     <string-array name="quality_business_devices">
         <item>litiu</item>
     </string-array>

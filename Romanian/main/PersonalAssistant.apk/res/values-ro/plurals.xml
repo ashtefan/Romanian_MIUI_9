@@ -58,7 +58,7 @@
         <item quantity="other">cu %1$d z în urmă</item>
     </plurals>
     <plurals name="steps">
-        <item quantity="other">%d|ași</item>
+        <item quantity="other">%d|pași</item>
         <item quantity="zero">%d|pași</item>
         <item quantity="one">%d|pas</item>
     </plurals>

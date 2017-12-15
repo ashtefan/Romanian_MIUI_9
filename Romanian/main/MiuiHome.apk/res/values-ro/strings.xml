@@ -70,6 +70,11 @@
     <string name="durationformatshort">%2$2d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="edit_folder_title">Editaţi numele dosarului</string>
+    <string name="edit_mode_group">Grupați</string>
+    <string name="edit_mode_group_error_full">Spațiu insuficient</string>
+    <string name="edit_mode_group_error_in_folder">Închideți dosarul înainte de a grupa pictogramele</string>
+    <string name="edit_mode_group_error_one_folder">"Nu se poate multiplica un dosar cu pictogramele selectate"</string>
+    <string name="edit_mode_uninstall">Dezinstalați</string>
     <string name="editing_add_widget_tips">Editaţi obiectele widget</string>
     <string name="editing_mode_enter_tip_text">Ciupiți pentru a edita ecranul de pornire</string>
     <string name="editing_mode_title_empty">0 selectate</string>
@@ -154,6 +159,8 @@
     <string name="lock_screen_failed_message">"Nu se poate seta imaginea de fundal pentru Blocarea ecranului"</string>
     <string name="lock_screen_success_message">Aplicată la Blocarea ecranului</string>
     <string name="lock_screen_wallpaper">Imagine de fundal în blocarea ecranului</string>
+    <string name="memory_clear_nothing_result">Nimic de golit în memoria cache</string>
+    <string name="memory_clear_result">%1$s B goliți</string>
     <string name="menu_add">Adăugaţi</string>
     <string name="menu_auto_fill">Umple celulele goale</string>
     <string name="menu_back_desktop">Înapoi la ecranul de pornire</string>
