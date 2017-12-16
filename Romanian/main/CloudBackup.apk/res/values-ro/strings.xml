@@ -91,6 +91,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="desktop_installing">Instalare</string>
     <string name="desktop_wait_wifi">În aşteptare</string>
     <string name="desktop_waiting">În așteptare</string>
+    <string name="device_corrupt">Telefon Mi (Date corupte)</string>
     <string name="device_delete_prompt">Ștergeți copia de rezervă a %s?</string>
     <string name="device_xiaomi">Telefon Mi</string>
     <string name="dialog_cancel_backup_cancel">Renunțați</string>
@@ -147,10 +148,10 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="restore_task_cancelling">Renunțare…</string>
     <string name="restore_task_in_process">Restaurare…</string>
     <string name="restore_unfinished">Restaurare; încercați din nou mai târziu</string>
-    <string name="restoring_file_tile">Se restabilesc %d fișiere</string>
     <string name="retry">Reîncercaţi</string>
     <string name="self_phone">Acest telefon</string>
     <string name="settings_backup">Setări de sistem</string>
+    <string name="size_unknown">Dimensiune necunoscută</string>
     <string name="start_backup_to_micloud">Creare copie de rezervă pentru aplicații în Mi Cloud</string>
     <string name="start_recover">Restabiliţi %s</string>
     <string name="success_open_cloudbackup">A fost activată crearea copiilor de rezervă pentru aplicațiile din ecranul principal</string>
