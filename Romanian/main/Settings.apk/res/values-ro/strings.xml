@@ -2518,7 +2518,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_dirac_mode_piston_color">Color Edition</string>
     <string name="music_dirac_mode_piston_standard">Ediţie Standard</string>
     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-    <string name="music_dirac_mode_reduction_noise">Reducere zgomot Tip C</string>
+    <string name="music_dirac_mode_reduction_noise">Reducere zgomot (USB-C)</string>
     <string name="music_dolby_mode_movie">Video</string>
     <string name="music_dolby_mode_music">Muzică</string>
     <string name="music_dolby_mode_off">Dezactivat</string>
@@ -4393,6 +4393,9 @@ Amprentele salvate vor fi de asemenea eliminate de pe acest dispozitiv și nu ve
 
 Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți mai putea debloca profilul, să autorizați plăți sau să vă conectați în aplicații cu acestea."</string>
     <string name="unlock_disable_frp_warning_content_pin_profile">Caracteristicile de protecție a profilului nu vor funcționa fără codul PIN.</string>
+    <string name="unlock_disable_frp_warning_content_profile">"Caracteristicile de protecție a profilului nu vor funcționa fără parola dumneavoastră.
+
+Nu vă veți putea debloca profilul, autoriza achiziții sau să vă autentificați în aplicații cu acestea."</string>
     <string name="unlock_disable_frp_warning_content_unknown">Caracteristicile de protecție a dispozitivului nu vor funcționa fără modelul de deblocare a ecranului.</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Caracteristicile de protecție a dispozitivului nu vor funcționa fără modelul de deblocare a ecranului.
 
@@ -4426,6 +4429,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="unlock_set_unlock_none_title">Nimic</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_off_title">Fără</string>
+    <string name="unlock_set_unlock_password_none">Niciuna</string>
     <string name="unlock_set_unlock_password_summary">Introduceți 4 sau mai multe litere și cifre pentru a debloca telefonul</string>
     <string name="unlock_set_unlock_password_title">Parolă complexă</string>
     <string name="unlock_set_unlock_pattern_summary">Desenați cu degetul un model simplu pentru a debloca telefonul</string>

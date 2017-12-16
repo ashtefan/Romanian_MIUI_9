@@ -495,10 +495,10 @@
     <string name="wechat_copying_video_dialog_title">Exportați în Galerie</string>
     <string name="wechat_copying_video_empty">Niciun videoclip de exportat</string>
     <string name="wechat_copying_video_success">Exportat cu succes</string>
-    <string name="wechat_qq_celan_tab_file">Fișier</string>
+    <string name="wechat_qq_celan_tab_file">Fișiere</string>
     <string name="wechat_qq_celan_tab_image">Imagine</string>
-    <string name="wechat_qq_celan_tab_video">Video</string>
-    <string name="wechat_qq_celan_tab_voice">Voce</string>
+    <string name="wechat_qq_celan_tab_video">Videoclipuri</string>
+    <string name="wechat_qq_celan_tab_voice">Mesaje vocale</string>
     <string name="wechat_qq_chat_files">Istoric chat</string>
     <string name="wechat_qq_deep_clean_button_text">Curățare profundă</string>
     <string name="wechat_qq_normal_files">Gunoi</string>
@@ -513,10 +513,10 @@
     <string name="wq_deep_clean_filter_three_month_ago">Cu trei luni în urmă</string>
     <string name="wq_deep_clean_filter_week_ago">Cu o săptămână în urmă</string>
     <string name="wq_deep_clean_filter_years_ago">Cu o jumătate de an în urmă</string>
-    <string name="wqfile_group_chat_file">Alt fișier</string>
-    <string name="wqfile_group_chat_pic">Imagine chat</string>
-    <string name="wqfile_group_chat_video">Videoclip chat</string>
-    <string name="wqfile_group_chat_voice">Voce chat</string>
+    <string name="wqfile_group_chat_file">Fișiere trimise prin servicii de mesaje</string>
+    <string name="wqfile_group_chat_pic">Imagini din servicii de mesaje</string>
+    <string name="wqfile_group_chat_video">Videoclipuri din servicii de mesaje</string>
+    <string name="wqfile_group_chat_voice">Mesaje vocale</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="yesterday">Ieri</string>
 </resources>

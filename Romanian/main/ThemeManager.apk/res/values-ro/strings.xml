@@ -372,8 +372,8 @@
     <string name="theme_apply_audio_dialog_item_alarm">Alarmă</string>
     <string name="theme_apply_audio_dialog_item_notification">Notificări</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Sunet de apel</string>
-    <string name="theme_apply_failured">"Nu se poate aplica fundalul ecranului de blocare"</string>
-    <string name="theme_apply_success">Fundal aplicat</string>
+    <string name="theme_apply_failured">"Nu s-a putut aplica"</string>
+    <string name="theme_apply_success">Aplicat cu succes</string>
     <string name="theme_applying">Aplicare…</string>
     <string name="theme_batch_update_all">Actualizaţi tot</string>
     <string name="theme_batch_update_dlg_content">Actualizaţi acum %1$s şi încă %2$d alte teme?</string>

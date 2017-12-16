@@ -7,6 +7,8 @@
     <string name="custom_lock_wallpaper_enter">Intrați</string>
     <string name="default_lockscreen_unlock_hint_text">Glisați în sus pentru a debloca</string>
     <string name="delete">Ştergeţi</string>
+    <string name="do_disclosure_generic">Acest dispozitiv este gestionat de către organizația dumneavoastră</string>
+    <string name="do_disclosure_with_name">Acest dispozitiv este gestionat de către %s</string>
     <string name="emergency_call_string">Apel de urgenţă</string>
     <string name="face_data_input_camera_fail">"Nu s-a putut încărca Camera"</string>
     <string name="face_data_input_camera_ok">Încărcare cameră…</string>
