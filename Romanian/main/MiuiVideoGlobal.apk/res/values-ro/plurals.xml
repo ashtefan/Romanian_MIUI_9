@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Subtitrarea este decalată cu %.1f secunde înainte</item>
+        <item quantity="one">Subtitrarea este decalată cu %.1f secundă înainte</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Subtitrarea este decalată cu %.1f secunde în urmă</item>
+        <item quantity="one">Subtitrarea este decalată cu %.1f secundă în urmă</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Dimensiune: %.2fKB</item>
+        <item quantity="one">Dimensiune: %.2fKB</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d videoclipuri</item>
+        <item quantity="one">%d videoclip</item>
+    </plurals>
+</resources>

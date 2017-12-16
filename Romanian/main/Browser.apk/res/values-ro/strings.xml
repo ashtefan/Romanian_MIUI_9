@@ -51,6 +51,9 @@
     <string name="action_menu_toolbox">Unelte</string>
     <string name="action_menu_useful_page">Adaugă la Utile</string>
     <string name="action_menu_useful_page_added">Adăugat în pagina de start</string>
+    <string name="action_menu_user_center">Centru utilizator</string>
+    <string name="action_modify_bookmark">Modificați semnul de carte</string>
+    <string name="action_put_in_search_box">Puneți %s în căsuța de căutare</string>
     <string name="actionbar_share">Partajaţi</string>
     <string name="actionbar_textselection_title">Selectați textul</string>
     <string name="actionbar_web_search">Căutare Web</string>
@@ -500,7 +503,7 @@ Părăsiţi această pagină?"</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Goliți memoria cache și cookie-urile (%s1Setări%s2 - Ștergeți datele, informațiile contului pot fi pierdute).</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Goliți memoria cache și cookie-urile (informațiile despre contul dvs. pot fi pierdute).</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Goliți memoria cache.</string>
-    <string name="miuichromium_error_page_suggestion_connect_and_retry">Reîncărcați după conectarea la Internet</string>
+    <string name="miuichromium_error_page_suggestion_connect_and_retry">Reîncărcați după conectarea la Internet.</string>
     <string name="miuichromium_error_page_suggestion_contact_admin">Contactați administratorul de sistem.</string>
     <string name="miuichromium_error_page_suggestion_correct_url">"Verificați adresa introdusă și încercați din nou utilizând URL-ul corect."</string>
     <string name="miuichromium_error_page_suggestion_grant_permission">Reîncărcați după acordarea permisiunii de accesare a Internetului pentru aplicația Browser.</string>
@@ -559,7 +562,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="open_app_confirm_message">Permiteți acestei pagini să deschidă %s?</string>
     <string name="open_file_explorer_failed">"Nu s-a putut deschide Exploratorul de fișiere"</string>
     <string name="open_voice_permission">Permiteți microfonului să se conecteze la internet</string>
-    <string name="opening_file_error">"Nu s-a putut deschide fișierul selectat"</string>
+    <string name="opening_file_error">"Nu s-a putut deschide fișierul selectat."</string>
     <string name="page_info">Informaţii pagină</string>
     <string name="page_info_address">Adresă:</string>
     <string name="page_info_view">Vizualizaţi informaţiile paginii</string>
