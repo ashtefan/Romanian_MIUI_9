@@ -698,12 +698,12 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="photo_print_package_installing">Încărcare extensie…</string>
     <string name="photomovie_audio_custom">Local</string>
     <string name="photomovie_audio_none">Nimic</string>
-    <string name="photomovie_audio_unsupport">Acest format audio nu este suportat</string>
-    <string name="photomovie_cancel_download">Opriți descărcarea</string>
+    <string name="photomovie_audio_unsupport">"Acest format audio nu este suportat."</string>
+    <string name="photomovie_cancel_download">Renunțați</string>
     <string name="photomovie_delete_disable">Vă trebuie cel puțin 3 fotografii pentru a crea un clip.</string>
     <string name="photomovie_download">Descărcați</string>
     <string name="photomovie_download_failed">"Nu s-a putut descărca"</string>
-    <string name="photomovie_download_failed_for_notwork">"Nu s-a putut descărca. Verificați conexiunea la rețea."</string>
+    <string name="photomovie_download_failed_for_notwork">"Nu s-a putut descărca. Conectați-vă la rețea și reîncercați."</string>
     <string name="photomovie_download_without_wifi_msg">"Utilizarea datelor mobile pentru a descărca fișiere va crește utilizarea datelor. Dacă depășiți planul de date, operatorul vă poate taxa suplimentar."</string>
     <string name="photomovie_download_without_wifi_title">Avertisment utilizare date</string>
     <string name="photomovie_item_name">Clip</string>

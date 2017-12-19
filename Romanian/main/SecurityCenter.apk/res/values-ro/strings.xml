@@ -758,7 +758,8 @@
     <string name="dlg_import_whitelist">Adăugare…</string>
     <string name="dlg_keyword_ok">Salvați</string>
     <string name="dlg_message_not_open_stranger_identify">Pentru a activa această caracteristică mergeți la Setări/Telefon.</string>
-    <string name="dlg_no_block">Deblocați acest număr și restaurați lista apelurile provenite de la acesta în istoricul de apelare?</string>
+    <string name="dlg_no_block">"Deblocați acest număr și restaurați lista apelurilor provenite de la acesta în istoricul de apelare?
+ (Numărul va fi adăugat în lista apelurior permise)"</string>
     <string name="dlg_no_block_ok">Deblocați</string>
     <string name="dlg_remove_address_blacklist">Eliminați această locație din lista blocărilor?</string>
     <string name="dlg_remove_address_whitelist">Eliminați această locație din lista excepțiilor?</string>
@@ -1995,7 +1996,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_filter_keywords_setting_summary1">Mesajele de la numere necunoscute care conțin cuvintele din această listă vor fi blocate.</string>
     <string name="st_filter_keywords_setting_summary2">"
 (Folosiți virgula pentru a separa cuvintele cheie)"</string>
-    <string name="st_filter_keywords_setting_title">Configurare filtru cuvinte cheie</string>
+    <string name="st_filter_keywords_setting_summary3">Mesajele de la numere necunoscute care conțin cuvintele din listă vor fi permise.</string>
     <string name="st_group_list_management">Gestionare blocări</string>
     <string name="st_hint_add_head_number">Introduceți prefixul</string>
     <string name="st_hint_add_phonenumber">Introduceți numărul de telefon</string>
@@ -2004,12 +2005,13 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_message_phone_AntiSpam">Blocați apeluri</string>
     <string name="st_message_phonepass">Permiteți apeluri</string>
     <string name="st_msg_intercept_contacts">Blocare SMS-uri de la contacte</string>
-    <string name="st_msg_keyword_group">Blocare după cuvinte cheie</string>
+    <string name="st_msg_keyword_black">Listă blocare după cuvinte cheie</string>
+    <string name="st_msg_keyword_group">Cuvinte cheie</string>
+    <string name="st_msg_keyword_white">Cuvinte excepții</string>
     <string name="st_msg_other_group">Altele</string>
-    <string name="st_msg_settings">Blocare SMS-uri</string>
-    <string name="st_msg_stranger_group">Blocare SMS-uri de la necunoscuți</string>
-    <string name="st_settings_name">Setări listă de blocare</string>
-    <string name="st_show_block_notification">Arată o notificare despre elementele blocate</string>
+    <string name="st_msg_settings">Listă blocări SMS-uri</string>
+    <string name="st_msg_stranger_group">Blocați SMS-urile de la necunoscuți</string>
+    <string name="st_settings_name">Setări listă blocare</string>
     <string name="st_share_settings">Utilizați setările SIM 1</string>
     <string name="st_sub_title_customize_mode_name">Nume</string>
     <string name="st_sub_title_whiteblack_list_group">Listă blocare</string>
@@ -2038,7 +2040,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="st_title_call_wait_setting">Apel în așteptare</string>
     <string name="st_title_editblacklist">Editați lista blocărilor</string>
     <string name="st_title_editwhitelist">Editați excepțiile</string>
-    <string name="st_title_keywords_blacklist">Filtru cuvinte cheie</string>
+    <string name="st_title_keywords_blacklist">Listă blocare după cuvinte cheie</string>
+    <string name="st_title_keywords_whitelist">Listă cuvinte cheie permise</string>
     <string name="st_title_man_addblacklist">Adăugați numărul în lista blocărilor</string>
     <string name="st_title_man_addwhitelist">Adăugați numărul de telefon în lista excepțiilor</string>
     <string name="st_title_man_editblacklist">Selectați un prefix pentru a-l adăuga în lista blocărilor</string>
