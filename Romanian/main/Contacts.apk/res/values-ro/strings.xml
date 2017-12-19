@@ -179,7 +179,7 @@
     <string name="cloud_antispam_marked">Marcat</string>
     <string name="cloud_antispam_title">Identificarea numerelor necunoscute</string>
     <string name="cloud_recommend_msg">Atingeți pentru a sincroniza contactele cu Mi Cloud.</string>
-    <string name="cloud_state_disabled">Activați Mi Cloud</string>
+    <string name="cloud_state_disabled">Sincronizați contactele în Mi Cloud</string>
     <string name="cloud_state_loading">Doar o secundă…</string>
     <string name="cloud_state_sync_finished">Sincronizat cu Mi Cloud</string>
     <string name="cloud_state_syncing">Sincronizat cu Mi Cloud</string>
@@ -1143,8 +1143,8 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="type_voicemail">Mesaj vocal</string>
     <string name="unable_get_device_id">Nu s-a putut obține IMEI-ul</string>
     <string name="unfold_all">Afișați tot</string>
-    <string name="unknow_phone_number_call_failed">Nu se poate apela un număr necunoscut</string>
-    <string name="unknow_phone_number_mms_failed">Nu se poate trimite mesaj la un număr necunoscut</string>
+    <string name="unknow_phone_number_call_failed">"Nu se poate apela numerele necunoscute"</string>
+    <string name="unknow_phone_number_mms_failed">"Nu se pot trimite mesaje la numere necunoscute"</string>
     <string name="unknown">Necunoscut</string>
     <string name="unknown_contact_name">Contact necunoscut</string>
     <string name="unknown_details_add_to_contact">Existent</string>

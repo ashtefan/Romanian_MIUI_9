@@ -56,15 +56,15 @@
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
     <string name="dont_enable">Dezactivați</string>
     <string name="download_completed">Descărcare salvată în %s</string>
-    <string name="download_failed">Descărcarea a eșuat</string>
+    <string name="download_failed">"Nu s-a putut descărca"</string>
     <string name="download_failed_blocked">"Nu se poate conecta la rețea"</string>
     <string name="download_failed_cannot_resume">"Nu se poate descărca"</string>
     <string name="download_failed_file_exists">Fișierul există deja</string>
     <string name="download_failed_gone">"Fișierul nu a fost găsit"</string>
     <string name="download_failed_network">"Nu se poate conecta la rețea"</string>
-    <string name="download_failed_server">Descărcarea a eșuat</string>
+    <string name="download_failed_server">"Nu s-a putut descărca"</string>
     <string name="download_failed_space">Spațiu insuficient</string>
-    <string name="download_failed_storage">Descărcarea a eșuat. Verificați cardul SD.</string>
+    <string name="download_failed_storage">"Nu s-a putut descărca. Verificați cardul SD."</string>
     <string name="downloading">Se descarcă…</string>
     <string name="enable_now">Activați</string>
     <string name="exapress_save_address_to_contact">Salvați această adresă în Contacte</string>
@@ -417,7 +417,7 @@ Total: %3$s RMB"</string>
     <string name="search_keywords_express">express;shunfeng;shentong;debang;kuaidi;danhao;</string>
     <string name="search_title_express">Primiți sau trimiteți expres</string>
     <string name="select_package_before_buy">Selectați pachetul</string>
-    <string name="send_shortcut_already_exists">Ecranul există deja</string>
+    <string name="send_shortcut_already_exists">Scurtătura pentru Ecranul principal există deja</string>
     <string name="send_shortcut_failed">"Nu s-a putut trimite"</string>
     <string name="send_shortcut_success">Plasat pe ecranul principal</string>
     <string name="sending_shortcut">Se trimite…</string>

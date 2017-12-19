@@ -74,7 +74,7 @@
     <string name="confirm_delete_SIM_message">Ştergeţi acest mesaj de pe cartela SIM?</string>
     <string name="confirm_delete_all_SIM_messages">Ştergeţi toate conversaţiile de pe SIM?</string>
     <string name="confirm_delete_all_conversations">Ştergeţi toate conversaţiile?</string>
-    <string name="confirm_delete_conversation">Ștergeți toată această conversaţie?</string>
+    <string name="confirm_delete_conversation">Ștergeți această conversaţie?</string>
     <string name="confirm_delete_group_message">Ştergeţi mesajele grupului?</string>
     <string name="confirm_delete_locked_message">Ştergeţi acest mesaj blocat?</string>
     <string name="confirm_delete_message">Ştergeţi mesajul?</string>

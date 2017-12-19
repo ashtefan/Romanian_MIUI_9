@@ -263,10 +263,6 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">%d ori</item>
         <item quantity="one">%d dată</item>
     </plurals>
-    <plurals name="app_manager_reject_count">
-        <item quantity="other">Blocată de %d ori</item>
-        <item quantity="one">Blocată %d dată</item>
-    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Utilizată cu %d zile în urmă</item>
         <item quantity="one">Utilizată cu %d zi în urmă</item>

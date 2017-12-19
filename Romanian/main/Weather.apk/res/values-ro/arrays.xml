@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aqi_detail_title">
+        <item>Bună</item>
+        <item>Moderată</item>
+        <item>Cu risc pentru persoanele sensibile</item>
+        <item>Nocivă</item>
+	<item>Foarte nocivă</item>
+	<item>Periculoasă pentru sănătate</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bună</item>
+        <item>Satisfăcătoare</item>
+        <item>Poluată moderat</item>
+        <item>Rea</item>
+        <item>Foarte rea</item>
+        <item>Severă</item>
+        <item>Peste indice</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Forța 2</item>
+        <item>&lt;6.0 km/h</item>
+        <item>&lt;1.7 m/s</item>
+        <item>&lt;3.7 mph</item>
+        <item>&lt;3.2 kn</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Bucharest</item>
         <item>Iasi</item>
@@ -25,37 +73,32 @@
         <item>Prague</item>
         <item>Kuala Lumpur</item>
     </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>ICA %1$s</item>
-        <item>ICA %1$s</item>
-        <item>ICA %1$s</item>
-        <item>ICA %1$s</item>
-        <item>ICA %1$s</item>
-        <item>ICA %1$s</item>
+    <string-array name="indices_car_wash">
+        <item>Potrivit</item>
+        <item>Nepotrivit</item>
     </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
+    <string-array name="indices_sport">
+        <item>Potrivit</item>
+        <item>Nepotrivit</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
+    <string-array name="indices_uv_level">
+        <item>Scăzut</item>
+        <item>Moderat</item>
+        <item>Ridicat</item>
     </string-array>
-    <string-array name="aqi_detail_title">
-        <item>Bună</item>
+    <string-array name="minute_rain_array">
+        <item>Torențială</item>
         <item>Moderată</item>
-        <item>Cu risc pentru persoanele sensibile</item>
-        <item>Nocivă</item>
-        <item>Foarte nocivă</item>
-        <item>Periculoasă pentru sănătate</item>
+        <item>Ușoară</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excelent</item>
+        <item>Bun</item>
+        <item>Poluat ușor</item>
+        <item>Poluat moderat</item>
+        <item>Poluat grav</item>
+        <item>Poluat sever</item>
+        <item>Peste indice</item>
     </string-array>
     <string-array name="weather_type">
         <item>Senin</item>
@@ -85,19 +128,6 @@
         <item>Negură</item>
         <item>Ploaie ce îngheaţă</item>
         <item></item>
-     </string-array>
-    <string-array name="indices_uv_level">
-        <item>Scăzut</item>
-        <item>Moderat</item>
-        <item>Ridicat</item>
-    </string-array>
-    <string-array name="indices_sport">
-        <item>Potrivit</item>
-        <item>Nepotrivit</item>
-    </string-array>
-    <string-array name="indices_car_wash">
-        <item>Potrivit</item>
-        <item>Nepotrivit</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Nord</item>
@@ -134,29 +164,6 @@
         <item>11</item>
         <item>12</item>
     </string-array>
-    <string-array name="aqi_value">
-        <item>Bună</item>
-        <item>Satisfăcătoare</item>
-        <item>Poluată moderat</item>
-        <item>Rea</item>
-        <item>Foarte rea</item>
-        <item>Severă</item>
-        <item>Peste indice</item>
-    </string-array>
-    <string-array name="wind_unit_simple">
-        <item>Scala Beaufort</item>
-        <item>km/h</item>
-        <item>m/s</item>
-        <item>mph</item>
-        <item>kn</item>
-    </string-array>
-    <string-array name="breeze">
-        <item>&lt;Forța 2</item>
-        <item>&lt;6.0 km/h</item>
-        <item>&lt;1.7 m/s</item>
-        <item>&lt;3.7 mph</item>
-        <item>&lt;3.2 kn</item>
-    </string-array>
     <string-array name="wind_unit_detail">
         <item>Scala Beaufort</item>
         <item>Kilometri pe oră (km/h)</item>
@@ -171,18 +178,11 @@
         <item>%1$s mph</item>
         <item>%1$s kn</item>
     </string-array>
-    <string-array name="minute_rain_array">
-        <item>Torențială</item>
-        <item>Moderată</item>
-        <item>Ușoară</item>
-    </string-array>
-    <string-array name="pollution_level_desc_arr">
-        <item>Excelent</item>
-        <item>Bun</item>
-        <item>Poluat ușor</item>
-        <item>Poluat moderat</item>
-        <item>Poluat grav</item>
-        <item>Poluat sever</item>
-        <item>Peste indice</item>
+    <string-array name="wind_unit_simple">
+        <item>Scala Beaufort</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
     </string-array>
 </resources>

@@ -179,7 +179,7 @@
     <string name="cta_title">Păstrați lucrurile importante în Asistentul inteligent</string>
     <string name="currency_china">CNY</string>
     <string name="daily_greeting">Salutări zilnice</string>
-    <string name="data_error">A apărut o eroare; așteptați un minut sau două și reîncercați.</string>
+    <string name="data_error">A apărut o eroare; așteptați un minut sau două și reîncercați</string>
     <string name="data_error_show">"Comanda este finalizată, nu se pot afișa detalii"</string>
     <string name="delete">Ștergeți</string>
     <string name="detail_action_delete">Ștergeți</string>
@@ -457,6 +457,11 @@ Verificați numărul de urmărire."</string>
     <string name="fav_support_more">Toate aplicațiile suportate</string>
     <string name="fav_support_not_title">"Favoritele nu vor apărea în listă"</string>
     <string name="fav_support_title">Favoritele vor apărea în listă</string>
+    <string name="fav_tab_all">Taote</string>
+    <string name="fav_tab_article">Articole</string>
+    <string name="fav_tab_new">Nou</string>
+    <string name="fav_tab_shopping">Produse</string>
+    <string name="fav_tab_video">Videoclipuri</string>
     <string name="favorite">Favorite</string>
     <string name="favorite_add_home">Adăugați la ecranul principal</string>
     <string name="favorite_add_home_add">Adăugați</string>
@@ -470,7 +475,9 @@ Verificați numărul de urmărire."</string>
     <string name="favorite_important">Important</string>
     <string name="favorite_label">Favorite</string>
     <string name="favorite_main">Istoric</string>
-    <string name="favorite_mark_important">Marcat ca important</string>
+    <string name="favorite_title_limit">Introduceți până la 40 de caractere</string>
+    <string name="favorite_title_modify">Modificați</string>
+    <string name="favorite_title_modify_success">Modificat cu succes</string>
     <string name="flow_open">Arată cardul pentru date mobile</string>
     <string name="flow_setting_brief">Vedeți informațiile despre traficul de date mobile(Adăugați planul de date în Securitate>Utilizare date).</string>
     <string name="focus">Urmărește starea</string>

@@ -264,7 +264,7 @@
     <string name="section_description">Descriere</string>
     <string name="section_err_type">Tip de eroare</string>
     <string name="section_screenshot">Captură de ecran</string>
-    <string name="select_system_app_tag">Selectați etichetele</string>
+    <string name="select_system_app_tag">Selectați o problemă</string>
     <string name="submit_dialog_cancel">Anulaţi</string>
     <string name="submit_dialog_confirm">Trimiteţi</string>
     <string name="submit_dialog_content">"Feedback-ul dvs., împreună cu jurnalele cu erori și imagini atașate, vor fi încărcate pe serverele MIUI. Acestea pot conține informații personale și date despre locația dumneavoastră."</string>

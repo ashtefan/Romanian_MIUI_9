@@ -177,7 +177,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="import_from_xiaomi_account_hint2">2. Dacă aveţi deja o copie de rezervă apăsaţi Următorul.</string>
     <string name="import_from_xiaomi_account_hint_title">Utilizaţi MiTalk pt. a efectua copii de rezervă ale contactelor dvs. între dispozitive.</string>
     <string name="import_tip_summary">Datorită problemelor de compatibilitate, puteți transfera doar parțial date de pe dispozitivele iOS. Asigurați-vă că ați creat o copie de rezervă în iCloud înainte de a începe transferul.</string>
-    <string name="import_tip_title">Sfaturi:</string>
+    <string name="list_footer_tip_title">Sfaturi:</string>
     <string name="loading_data">Se încarcă datele</string>
     <string name="local_app_name">Copie de rezervă</string>
     <string name="local_backup_window_title">Date copie de rezervă locală</string>
@@ -358,10 +358,30 @@ Vă rugăm eliberați cel puțin %s."</string>
     <string name="trans_connect_failed_toast">"Nu s-a putut conecta"</string>
     <string name="trans_connecting_toast">Conectare…</string>
     <string name="trans_connection_failed">Conexiunea a fost întreruptă</string>
+    <string name="trans_detail_app_apk_list_title">Aplicații instalate</string>
+    <string name="trans_detail_app_apk_page_title">Selectați aplicațiile</string>
+    <string name="trans_detail_app_data_list_title">Datele aplicației</string>
+    <string name="trans_detail_app_data_page_title">Selectați datele aplicației</string>
+    <string name="trans_detail_app_data_useless_tip">Le puteți restaura din aplicație, nu este nevoie de transfer.</string>
+    <string name="trans_detail_audio_video_doc_list_title">Audio, video și fișiere</string>
+    <string name="trans_detail_audio_video_doc_page_title">Selectați audio, video și fișiere</string>
     <string name="trans_detail_category_account">Conturi și contacte</string>
+    <string name="trans_detail_category_audio_video_doc">Audio, video și fișiere</string>
     <string name="trans_detail_category_files">Fișiere</string>
-    <string name="trans_detail_category_sysdata">Date de sistem</string>
+    <string name="trans_detail_category_sysdata">Date de sistem(inclusiv mesaje, contacte și istoricul de apelare)</string>
+    <string name="trans_detail_category_user_app_data">Datele aplicației</string>
     <string name="trans_detail_category_userdata">Aplicații</string>
+    <string name="trans_detail_category_wechat_qq">Datele WeChat și QQ (inclusiv istoricul chat-ului)</string>
+    <string name="trans_detail_item_app_data_selected_tip">De asemenea și aplicațiile corespunzătoare.</string>
+    <string name="trans_detail_item_app_data_too_large_tip">Se pare că elementul este prea mare pentru a fi transferat.</string>
+    <string name="trans_detail_list_footer">Notă: Puteți alege să transferați aplicațiile separat. Totuși, dacă selectați datele aplicației, aplicațiile corespunzătoare vor fi transferate de asemenea.</string>
+    <string name="trans_detail_page_tip">Cu cât selectați mai multe elemente, cu atât transferul va dura mai mult.</string>
+    <string name="trans_detail_qq_data">Datele QQ (inclusiv istoricul chat-ului)</string>
+    <string name="trans_detail_sys_data_list_title">Aplicații de sistem</string>
+    <string name="trans_detail_sys_data_page_title">Selectați aplicațiile de sistem</string>
+    <string name="trans_detail_wechat_data">Datele WeChat (inclusiv istoricul chat-ului)</string>
+    <string name="trans_detail_wechat_qq_list_title">WeChat și QQ</string>
+    <string name="trans_detail_wechat_qq_page_title">Selectați WeChat, QQ și datele aplicației</string>
     <string name="trans_device_auto_reconnecting">Dispozitiv deconectat. Reconectare automată…</string>
     <string name="trans_device_disconnected">Conexiunea a fost întreruptă</string>
     <string name="trans_device_wait_for_reconnecting">Conexiunea a fost întreruptă. Conectați-vă din nou pentru a continua.</string>
@@ -414,6 +434,7 @@ Apăsați [Sunt destinatar] pentru a crea un cod QR"</string>
 Apoi atingeți \"Reconectare\" pentru a crea codul QR."</string>
     <string name="trans_operate_reconnect_old_tips">"Așteptați până când vechiul telefon afișează \"Conexiunea a fost întreruptă\".
 Apoi atingeți \"Reconectare\" pentru a scana codul QR."</string>
+    <string name="trans_pausing">Oprire…</string>
     <string name="trans_please_waiting">Doar o secundă…</string>
     <string name="trans_progress_subdescript_br_receiver">Restabilire %1$s, %2$s completat</string>
     <string name="trans_progress_subdescript_br_sender">Creare copie de rezervă %1$s, %2$s completat</string>

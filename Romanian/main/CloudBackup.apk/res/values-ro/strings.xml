@@ -20,6 +20,7 @@
     <string name="backup_to_cloud">Creaţi o copie de rezervă în Mi Cloud</string>
     <string name="btn_back">Înapoi</string>
     <string name="btn_continue">Continuați</string>
+    <string name="btn_retry">Verificați din nou</string>
     <string name="btn_skip">Omiteți acest pas</string>
     <string name="button_cancel">Anulaţi</string>
     <string name="button_delete">Ștergeţi</string>
@@ -126,6 +127,8 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="open_wifi_description">Conectaţi-vă la o rețea Wi-Fi pentru a restabili aplicațiile</string>
     <string name="open_wifi_setting">Setări Wi-Fi</string>
     <string name="process_whole_recovery">Restabilire \"%s\"</string>
+    <string name="provision_error_connect_msg">Puteți testa rețeaua și să încercați din nou. Funcția backup nu va rula fără conectare la rețea.</string>
+    <string name="provision_error_connect_title">Nu se poate conecta</string>
     <string name="query_restore_description">Restaurați aplicațiile și setările ecranului de pornire utilizând această copie de rezervă. Această operațiune va suprascrie datele aplicațiilor deja instalate pe dispozitiv. Aplicațiile neincluse în această copie de rezervă vor fi mutate pe ultima pagină din ecranul principal.</string>
     <string name="query_restore_summary">A fost găsită o copie de rezervă Mi Cloud pentru acest dispozitiv. Restaurați aplicațiile și setările din ecranul principal sau utilizați ca dispozitiv nou și ștergeți copiile de rezervă anterioare din Mi Cloud?</string>
     <string name="recover_from_micloud">Restabilire dintr-o copie de rezervă Mi Cloud</string>

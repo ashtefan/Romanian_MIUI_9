@@ -213,6 +213,7 @@
 Pentru a vă activa contul, accesați
 link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_completed">Finalizare</string>
+    <string name="passport_confirm_login">Continuați</string>
     <string name="passport_confirm_recycle_account">Da</string>
     <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Se pare că&lt;/font&gt; numărul %s a fost reciclat de către operatorul dvs. și există un cont Mi asociat acestuia. Acest cont este al dumneavoastră?"</string>
     <string name="passport_continue">Continuați</string>

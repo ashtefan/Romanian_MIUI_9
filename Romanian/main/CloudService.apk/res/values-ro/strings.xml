@@ -165,7 +165,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="micloud_battery_low_notification_message">Conectați încărcătorul pentru a putea sincroniza</string>
     <string name="micloud_battery_low_notification_title">Nivel scăzut al acumulatorului</string>
     <string name="micloud_buy_member">Cumpărați titlu de membru Mi Cloud</string>
-    <string name="micloud_buy_member_safe">Cumpărați titlul de membru Mi Cloud</string>
+    <string name="micloud_buy_member_safe">Creșteți spațiul de stocare în Mi Cloud</string>
     <string name="micloud_check_sim_notify_text">"Se pare că aţi schimbat cardurile SIM. Conectaţi-vă
 la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Reactivare Mi Cloud</string>
@@ -270,6 +270,8 @@ la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_find_device_verify_progress">Se reactivează Localizarea dispozitivului…</string>
     <string name="micloud_first_login_summary" />
     <string name="micloud_first_login_title" />
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_full_influence_dspt">"Toate fotografiile, videoclipurile, notele și aplicațiile vor rămâne rezervate în Cloud.
 
 În acest fel, dacă pierdeţi sau se deteriorează dispozitivul, datele dvs. vor fi în continuare în siguranță.
@@ -289,6 +291,11 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_error_activated_fail">Vă rugăm activați cartela SIM.</string>
     <string name="micloud_main_error_network_disallowed">Asigurați-vă că ați acordat permisiunea de acces la Internet.</string>
     <string name="micloud_main_error_permission_limit">Permiteți Mi Cloud să acceseze stocarea.</string>
+    <string name="micloud_main_head_menu_cloud_backup">Copie de rezervă în Cloud</string>
+    <string name="micloud_main_head_menu_recycle_bin_summary">Refaceți copia de rezervă pentru Contacte, Fotografii</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Coș de gunooi</string>
+    <string name="micloud_main_head_menu_state_close">Închis</string>
+    <string name="micloud_main_head_menu_state_open">Deschis</string>
     <string name="micloud_main_last_sync_time">Ultima sincronizare: %s</string>
     <string name="micloud_main_master_sync_on">Sincronizare pornită</string>
     <string name="micloud_main_memory_low_message">"Pentru a realiza sincronizarea, ștergeți din datele inutile stocate în Mi Cloud."</string>
@@ -337,6 +344,7 @@ Utilizați alt cont"</string>
     <string name="micloud_main_wait_wlan_charge">Conectați-vă la Wi-Fi și încărcați complet acumulatorul pentru a relua sincronizarea</string>
     <string name="micloud_main_wait_wlan_charge_sleep">Conectați-vă la Wi-Fi, închideți ecranul și încărcați complet acumulatorul pentru a relua sincronizarea</string>
     <string name="micloud_main_wlan_sync_data_count">Elemente care aşteaptă sincronizarea: %d</string>
+    <string name="micloud_manage_space_data">gestionați datele micloud</string>
     <string name="micloud_member">Apartenență Mi Cloud</string>
     <string name="micloud_member_advantage">Obțineţi mai mult spațiu de stocare.</string>
     <string name="micloud_member_buy_content" formatted="false">"Valid până la %s-%s-%s
@@ -566,7 +574,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="virtual_sim_desc">Activați Mi SIM pentru a vă localiza telefonul fără a utiliza o cartelă SIM</string>
     <string name="voip_choose_sim">Selectaţi numărul de telefon pentru a activa Mi Voice</string>
     <string name="wipe_data_dialog_button_check_sync">Verificați dacă s-au sincronizat</string>
-    <string name="wipe_data_dialog_msg">"Unele elemente (%s) nu sunt sincronizate. Vor fi salvate în telefon și nu vor fi șterse."</string>
+    <string name="wipe_data_dialog_msg">"%s nu s-au sincronizat și vor rămâne în telefon."</string>
     <string name="wipe_data_dialog_msg_and_on">, și alte elemente</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">"Unele elemente nu s-au sincronizat"</string>
