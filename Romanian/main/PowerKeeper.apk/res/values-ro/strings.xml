@@ -46,7 +46,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="enable_hide_mode">Activați Economisirea acumulatorului</string>
     <string name="error_filename_too_long">Numele de fișier introdus este prea lung.</string>
     <string name="extreme_power_config_mode_category">Mod extrem</string>
-    <string name="extreme_power_config_mode_desc">Comutați la modul Extrem pentru a dezactiva sincronizarea, Bluetooth-ul, GPS-ul, NFC, double tapping, iluminarea butoanelor, afișarea notificărilor în blocarea ecranului, luminile de notificare etc, iar modul de economisire al acumulatorului va fi cel mai sever</string>
+    <string name="extreme_power_config_mode_desc">Comutați la modul Extrem pentru a dezactiva sincronizarea, Bluetooth-ul, GPS-ul, NFC, double tapping, iluminarea butoanelor, pornirea ecranului pentru afișarea notificărilor în blocarea ecranului dar și luminile de notificare. MIUI va acționa pentru economisirea acumulatorului.</string>
     <string name="extreme_power_config_mode_title">Mod Extrem</string>
     <string name="failure">Eșuat</string>
     <string name="foreground_change">Aplicaţia rulează în prim-plan</string>

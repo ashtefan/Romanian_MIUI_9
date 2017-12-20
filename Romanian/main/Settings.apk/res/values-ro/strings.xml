@@ -397,6 +397,7 @@ Administratorul dumneavoastră poate monitoriza și administra setările, accesu
     <string name="average_used">Medie utilizare (%)</string>
     <string name="avoid_ui">Blocare atingere</string>
     <string name="awake">Durată de activitate a dispozitivului</string>
+    <string name="back_button">Înapoi</string>
     <string name="back_key">Înapoi</string>
     <string name="background_check_pref">Verificare în fundal</string>
     <string name="background_check_title">Acces complet în fundal</string>

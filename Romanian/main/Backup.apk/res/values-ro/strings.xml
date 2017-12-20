@@ -464,6 +464,8 @@ Mențineți telefoanele apropiate unul de celălalt."</string>
 Modificați fișierele selectate sau eliberați %s spațiu de stocare"</string>
     <string name="trans_select_data_tips">"Selectați elementele pentru transfer
 Fișierele similare de pe telefonul nou vor fi suprascrise"</string>
+    <string name="trans_select_data_too_large">"Ați selectat prea multe elemente pentru transfer.
+Selectați doar elementele importante pentru a realiza transferul mai rapid."</string>
     <string name="trans_select_device_receive">Selectați dispozitivul destinatar.</string>
     <string name="trans_select_device_send">Selectați dispozitivul de pe care doriți să transferați datele.</string>
     <string name="trans_sender">"Sunt expeditor"</string>
