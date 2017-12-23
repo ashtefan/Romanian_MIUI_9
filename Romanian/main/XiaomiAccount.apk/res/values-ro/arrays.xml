@@ -14,11 +14,11 @@
         <item>"Doctorat"</item>
     </string-array>
     <string-array name="income">
-        <item>&lt; 1 500</item>
-        <item>1 501~2 000</item>
-        <item>2 001~3 000</item>
-        <item>3 001~4 000</item>
-        <item>4 001~6 000</item>
-        <item>> 6 000(EȘTI BAZAT!)</item>
+        <item>&lt; 1 200 RON</item>
+        <item>1 201~2 500 RON</item>
+        <item>2 501~3 500 RON</item>
+        <item>3 501~5 000 RON</item>
+        <item>5 001~7 000 RON</item>
+        <item>> 7 000 RON(EȘTI BAZAT!)</item>
     </string-array>
 </resources>
