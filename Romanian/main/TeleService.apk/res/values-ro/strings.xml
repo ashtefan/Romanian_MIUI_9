@@ -535,7 +535,9 @@
     <string name="dialerKeyboardHintText">Utilizați tastatura pentru a apela</string>
     <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
     <string name="dialog_alert_title">Atenție</string>
+    <string name="dialog_cancel">Renunțați</string>
     <string name="dialog_network_priority_title">Prioritate</string>
+    <string name="dialog_report">Raportați</string>
     <string name="dialpad_0_letters">+</string>
     <string name="dialpad_1_letters"/>
     <string name="dialpad_2_letters">ABC</string>
@@ -867,6 +869,8 @@ Doriţi să comutaţi oricum către un nou furnizor de servicii?"</string>
     <string name="mock_location_app">Selectați aplicația cu locație fictivă</string>
     <string name="mock_location_app_not_set">Nicio aplicație cu locație fictivă setată</string>
     <string name="mock_location_app_set">Aplicația cu locație fictivă: %1$s</string>
+    <string name="modem_dialog_body">Rețeaua mobilă este instabilă, cauzând întreruperi sau probleme de rețea. Trimiteți jurnalul cu erori către Mi pentru analizare? Acest raport poate conține Informații de Identificare Personală. Raportul va fi utilizat pentru a ne ajuta să reparăm această problemă și nu va fi utilizat în scopuri comerciale.</string>
+    <string name="modem_dialog_title">Rețeaua mobilă este instabilă</string>
     <string name="msim_apn_not_set">Nesetat</string>
     <string name="msim_default_setting">Setări prestabilite</string>
     <string name="msim_disable_sim_card_btn_text">OK</string>

@@ -39,6 +39,7 @@
     <string name="access_control_need_to_unlock_nofingerprint">Introduceţi parola pentru blocarea aplicațiilor</string>
     <string name="access_control_recording_intro_header">Desenaţi un model propriu pentru blocarea aplicaţiilor</string>
     <string name="access_control_reset_by_account">Conectaţi-vă la contul dvs. Mi pentru a reseta parola de blocare a aplicațiilor</string>
+    <string name="accessibility_gameboosterservice_description"/>
     <string name="accessibility_service_description"/>
     <string name="action_button_text_100">Optimizați</string>
     <string name="action_button_text_60">Reparați</string>
@@ -350,6 +351,8 @@
     <string name="apps_list_header_title_sms_access">Restricționați accesul la codurile de verificare</string>
     <string name="auto_atsk_condition_battery_level_text_down">Când nivelul acumulatorului atinge %s</string>
     <string name="auto_atsk_condition_battery_level_text_up">Când acumulatorul este încărcat până la %s</string>
+    <string name="auto_back_booster">Opriți accelerarea</string>
+    <string name="auto_booster_suc">Accelerat cu succes</string>
     <string name="auto_clean_close">Curățarea automată este oprită</string>
     <string name="auto_handle_title">GENERAL</string>
     <string name="auto_import_games">Adăugați toate jocurile într-un singur loc</string>
@@ -665,7 +668,7 @@
     <string name="current_network_state_not_need_diagnose">Conexiunea la internet este normală.</string>
     <string name="customize_limit_pkg">%s (personalizat)</string>
     <string name="customizer_mode_user_define_name">Regulile mele</string>
-    <string name="daily_limit_and_lock_screen">Limita datelor și notificări</string>
+    <string name="daily_limit_and_lock_screen">Avertisment utilizare date</string>
     <string name="daily_limit_network_available_body">Atingeți pentru a vizualiza statisticile de utilizare a datelor.</string>
     <string name="daily_limit_over_message">Ați depășit limita zilnică de utilizare a datelor.</string>
     <string name="daily_pkg_traffic">Limita de utilizare a datelor</string>
@@ -895,6 +898,9 @@
     <string name="gateway_exception_summary">Verificați router-ul și încercați din nou.</string>
     <string name="gateway_exception_summary2">Nu se poate conecta la server</string>
     <string name="gateway_exception_title">Testare router</string>
+    <string name="gb_description_image_button_answer">Răspundeți</string>
+    <string name="gb_description_image_button_reject">Respingeți</string>
+    <string name="gb_description_image_button_video_answer">Apel video</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
     <string name="go_to">Mergeți</string>
@@ -910,6 +916,9 @@
     <string name="gs_app_back_self_start">Economisire acumulator</string>
     <string name="gs_auto_clean_memory">Goliți memoria cache</string>
     <string name="gs_auto_clean_memory_detail">Goliți memoria cache în mod automat pentru a optimiza experiența în jocuri</string>
+    <string name="gs_autobooster">Accelerați în mod automat</string>
+    <string name="gs_autobooster_detail">Creșteți viteza pentru jocurile selectate în mod automat</string>
+    <string name="gs_autobooster_dialog_message">"Dacă utilizați creșterea vitezei Xunyou, deschideți jocurile din pagina dedicată."</string>
     <string name="gs_call_handsfree">Preluați apelurile prin hands free</string>
     <string name="gs_call_handsfree_mute">Mod Silențios</string>
     <string name="gs_dialog_confirm_close_msg">Scurtătura va fi eliminată de pe Ecranul principal. Accesați Securitate &gt; Setări pentru a o restaura.</string>
@@ -1660,7 +1669,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="pref_month_first_day">1</string>
     <string name="pref_more_settings">Setări suplimentare</string>
     <string name="pref_new_installed_preconfig_title">Setările prestabilite pentru aplicaţiile noi</string>
-    <string name="pref_normal_traffic_limit">Când consumați planul de date zilnic</string>
+    <string name="pref_normal_traffic_limit">Când consumați planul de date</string>
     <string name="pref_open_adjust_traffic">Actualizaţi utilizarea datelor în fiecare zi, utilizând statistici de la operatorul dvs.</string>
     <string name="pref_operator_not_set">"Nu ați setat operatorul"</string>
     <string name="pref_over_traffic_limit">Când depășiți planul de date</string>
@@ -1668,7 +1677,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     În afara orelor de vârf: %2$s"</string>
     <string name="pref_package_traffic_normal">Maxim: %s</string>
     <string name="pref_package_traffic_overlay">%1$s | Adiţional: %2$s</string>
-    <string name="pref_package_traffic_settings">Limita datelor mobile</string>
+    <string name="pref_package_traffic_settings">Plan de date mobile</string>
     <string name="pref_pkg_begin_date">Data de resetare a utilizării datelor</string>
     <string name="pref_roaming_daily_limit_setting">Setați limita zilnică de date în roaming</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Limita zilnică de date</string>
