@@ -1,39 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="wallpaper_settings_precust_cover_name">
-        <item>Distracție</item>
-        <item>Peisaje</item>
-        <item>Cer înstelat</item>
-        <item>Plante</item>
-        <item>Animale</item>
-    </string-array>
-    <string-array name="wallpaper_settings_precust_global_cover_name">
-        <item>Peisaje</item>
-        <item>Animale</item>
-        <item>Plante</item>
-        <item>Creativ</item>
-        <item>Stil de viață</item>
-    </string-array>
-    <string-array name="wallpaper_settings_precust_india_cover_name">
-        <item>Animale</item>
-        <item>Clădiri</item>
-        <item>Creativ</item>
-        <item>Desene animate</item>
-        <item>Peisaje</item>
-    </string-array>
-    <string-array name="wallpaper_settings_precust_brazil_cover_name">
-        <item>Decoruri</item>
-        <item>Animale</item>
-        <item>Creativ</item>
-        <item>Plante</item>
-        <item>Stil de viață</item>
-    </string-array>
-    <string-array name="wallpaper_settings_precust_hong_kong_cover_name">
-        <item>Decoruri</item>
-        <item>Animale</item>
-        <item>Creativ</item>
-        <item>Plante</item>
-        <item>Stil de viață</item>
+    <string-array name="audio_effect_file_showing_names">
+        <item>Blocare</item>
+        <item>Deblocare</item>
+        <item>EffectTick</item>
+        <item>Tastă Ștergere</item>
+        <item>Tastă Înapoi</item>
+        <item>Tastă Standard</item>
+        <item>Tastă Spațiu</item>
+        <item>Sunet declanșare Cameră</item>
+        <item>Înregistrare Video</item>
+        <item>Numărătoare înversă Cameră</item>
+        <item>Sunet succes Cameră</item>
+        <item>Sunet eșec Cameră</item>
+        <item>Sunet progres Cameră</item>
+        <item>Sunet 1 progres Cameră</item>
+        <item>Sunet 2 progres Cameră</item>
+        <item>MusicShake</item>
+        <item>Mesaj Complet</item>
+        <item>Redare Sunet Înregistrat</item>
+        <item>Pauză Sunet Înregistrat</item>
+        <item>Derulare Sunet Înregistrat</item>
+        <item>Acumulator descărcat</item>
     </string-array>
     <string-array name="disable_package_replacement">
         <item>dezactivează numele pachetelor</item>

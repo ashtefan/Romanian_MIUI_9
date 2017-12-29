@@ -51,6 +51,28 @@
         <item>Mesaje vechi</item>
         <item>Inbox</item>
      </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresă:</item>
+        <item>Tel:</item>
+        <item>Nume:</item>
+        <item>E-mail:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Cod poştal:</item>
+     </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Mulţumesc,</item>
+        <item>Salutări</item>
+        <item>Trimis de la</item>
+        <item>E-mail original</item>
+        <item>Trimis de la</item>
+        <item>Trimis de la</item>
+        <item>De la</item>
+        <item>Acest e-mail</item>
+        <item>Act de renunțare</item>
+        <item>Act de renunțare e-mail</item>
+     </string-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>
@@ -68,16 +90,6 @@
         <item>QQ:</item>
         <item>MSN:</item>
      </string-array>
-    <string-array name="signature_normal_string_array_next">
-        <item>Adresă:</item>
-        <item>Tel:</item>
-        <item>Nume:</item>
-        <item>E-mail:</item>
-        <item>Mobil:</item>
-        <item>WeChat:</item>
-        <item>Fax:</item>
-        <item>Cod poştal:</item>
-     </string-array>
     <string-array name="signature_special_string_array">
         <item>Act de renunțare:</item>
         <item>Act de renunțare e-mail</item>
@@ -86,17 +98,5 @@
         <item>Trimis cu</item>
         <item>Mulţumesc,</item>
         <item>Salutări</item>
-     </string-array>
-    <string-array name="signature_special_string_array_next">
-        <item>Mulţumesc,</item>
-        <item>Salutări</item>
-        <item>Trimis de la</item>
-        <item>E-mail original</item>
-        <item>Trimis de la</item>
-        <item>Trimis de la</item>
-        <item>De la</item>
-        <item>Acest e-mail</item>
-        <item>Act de renunțare</item>
-        <item>Act de renunțare e-mail</item>
      </string-array>
 </resources>

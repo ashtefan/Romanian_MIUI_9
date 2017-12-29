@@ -53,7 +53,7 @@
     <string name="face_unlock_rise">Lăsați capul mai jos</string>
     <string name="face_unlock_rotated_left">Mișcați capul spre dreapta</string>
     <string name="face_unlock_rotated_right">Mișcați capul spre stănga</string>
-    <string name="face_unlock_stay_away_screen">Stați la 25 - 40cm de ecran</string>
+    <string name="face_unlock_stay_away_screen">Stați la 25 - 40 cm de ecran</string>
     <string name="fingerprint_add_text">Interfața de recunoaștere a amprentei a fost actualizată. Adăugați amprenta din nou.</string>
     <string name="fingerprint_add_title">Adăugați amprenta</string>
     <string name="fingerprint_again_identified_msg">Amprenta este activă acum. Utilizați-o pentru a debloca telefonul sau introduceți parola.</string>

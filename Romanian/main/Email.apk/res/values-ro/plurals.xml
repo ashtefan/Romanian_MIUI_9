@@ -135,4 +135,36 @@
         <item quantity="few">%1$d mesaje vechi</item>
         <item quantity="many">%1$d mesaje vechi</item>
      </plurals>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ necitite</item>
+        <item quantity="one">%1$d+ necitit</item>
+    </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Ascunde %1$d atașamente</item>
+        <item quantity="one">Ascunde %1$d atașament</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s rezultate în mesajele sincronizate</item>
+        <item quantity="one">%s rezultat în mesajele sincronizate</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d în plus</item>
+        <item quantity="one">%1$d în plus</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d mesaje noi</item>
+        <item quantity="one">%1$d mesaj nou</item>
+    </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">Răspundeți la %1$d persoane</item>
+        <item quantity="one">Răspundeți la %1$d persoane</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s rezultate pe server</item>
+        <item quantity="one">%s rezultate pe server</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s netrimise în %2$s</item>
+        <item quantity="one">%1$s netrimis în %2$s</item>
+    </plurals>
 </resources>

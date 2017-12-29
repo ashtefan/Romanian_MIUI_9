@@ -216,6 +216,7 @@
     <string name="upgrade_vt_prompt">Doriți să treceţi la apel video?</string>
     <string name="user_locked_prompt">Deblocați telefonul pentru a accesa agenda.</string>
     <string name="video_conference_caller_info_name">"Apel videoconferință al lui %1$s"</string>
+    <string name="video_crbt_title">%s culoare ton apel înapoi</string>
     <string name="voicemail">Căsuța vocală</string>
     <string name="wait_prompt_str">"Trimiteţi următoarele tonuri?
 "</string>

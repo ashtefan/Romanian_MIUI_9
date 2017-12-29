@@ -927,6 +927,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="clear_uri_btn_text">Revocați accesul</string>
     <string name="clear_user_data_text">Ștergeți datele</string>
     <string name="close_app">Închiderea aplicației curente</string>
+    <string name="close_demo_mode">Renunțați</string>
     <string name="close_gesture">Închidere utilizând gesturi</string>
     <string name="close_miui_optimization_title">Dezactivați optimizarea MIUI</string>
     <string name="close_miui_optimization_warning_message">Telefonul va reporni pentru aplicarea modificării. Notă: dezactivarea acestei caracteristici va produce modificări majore dispunerii și altor elemente ale sistemului.</string>
@@ -2741,6 +2742,8 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="online_resource_entry">Resurse on-line</string>
     <string name="only_one_home_message">Setările pentru ecranul de pornire vor fi ascunse până la instalarea altei aplicații ecran de pornire.</string>
     <string name="onscreen_keyboard_settings_summary">Setări pentru tastatura de pe ecran</string>
+    <string name="open_demo_mode">Activați</string>
+    <string name="open_demo_mode_warning_message">Când modul Demo este activat, ceasul din bara de stare se va opri iar pictogramele pentru acumulator și semnal vor fi afișate ca pline. Puteți dezactiva modul Demo sau reporni telefonul pentru a modifica acest lucru.</string>
     <string name="open_miui_optimization_title">Activați optimizarea MIUI</string>
     <string name="open_miui_optimization_warning_message">Telefonul va reporni pentru a se aplica modificarea</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Renunțați</string>

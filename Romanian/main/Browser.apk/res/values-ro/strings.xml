@@ -560,6 +560,8 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="ok">OK</string>
     <string name="older">Vechi</string>
     <string name="open_app_confirm_message">Permiteți acestei pagini să deschidă %s?</string>
+    <string name="open_cloud_sync">Activați sincronizarea în cloud</string>
+    <string name="open_cloud_sync_desc">Semn de carte adăugat. Activați sincronizarea în cloud și semnele de carte adăugate pe alte dispozitive vor fi sincronizate pe acest telefon. Vă autentificați și activați sincronizarea acum?</string>
     <string name="open_file_explorer_failed">"Nu s-a putut deschide Exploratorul de fișiere"</string>
     <string name="open_voice_permission">Permiteți microfonului să se conecteze la internet</string>
     <string name="opening_file_error">"Nu s-a putut deschide fișierul selectat."</string>
@@ -808,6 +810,7 @@ Iată și cum vom folosi datele colectate:
 2. Conținut: Datele dumneavoastră ne ajută să vă furnizăm noutăți cu un conținut relevant și localizat.
 Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în mod normal. Trebuie să fiți de acord cu %2$s și %1$s pentru a putea utiliza aplicația.​"</string>
     <string name="show_security_tip_dialog_title">Politica de confidențialitate</string>
+    <string name="sign_and_open">Autentificare și activare</string>
     <string name="sign_in_to" formatted="false">Conectaţi-vă la %s1 \"%s2\"</string>
     <string name="skip_button_label">Omiteţi</string>
     <string name="skip_current_version">Omiteţi această versiune</string>
@@ -858,6 +861,8 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="switchText">DA</string>
     <string name="switch_proxy_dialog_msg">"Fraudare rețea detectată. Utilizați aplicația de securitate MIUI încorporată sau raportați atacul către operatorul dumneavoastră."</string>
     <string name="switch_proxy_dialog_title">Fraudare rețea</string>
+    <string name="sync_and_backup_bookmark">Sincronizați și salvați semnele de carte</string>
+    <string name="sync_and_backup_history">Sincronizați și salvați istoricul de navigare</string>
     <string name="sync_cloud_tabs">Sincronizați</string>
     <string name="tab_hotpage">News Feed</string>
     <string name="tab_quicklinks">Pagina de pornire</string>
@@ -867,6 +872,7 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="tae_sdk_login_qr_icon_taobao"></string>
     <string name="tae_sdk_qr_login_icon_password"></string>
     <string name="tae_sdk_qr_login_icon_scan"></string>
+    <string name="temp_refuse">Refuzați</string>
     <string name="time_picker_dialog_am">AM</string>
     <string name="time_picker_dialog_hour_minute_separator">:</string>
     <string name="time_picker_dialog_minute_second_separator">:</string>

@@ -161,7 +161,6 @@ Actualizaţi acum?"</string>
     <string name="account_sync_settings_settings">Sincronizare contacte și calendar</string>
     <string name="account_sync_settingstip_description">Sincronizare</string>
     <string name="account_waiting_for_folders_msg">Încărcare dosare…</string>
-    <string name="actionbar_large_unread_count">%1$d+ necitite</string>
     <string name="activity_folder_selection">Selectaţi dosarul</string>
     <string name="activity_mailbox_selection">Selectaţi contul</string>
     <string name="ad_merge">Reclame și notificări</string>
@@ -216,6 +215,8 @@ Actualizaţi acum?"</string>
     <string name="auto_advance_help_title">După ștergerea unui mesaj, se vizualizează…</string>
     <string name="auto_advance_label">Ștergere flux de mesaje</string>
     <string name="auto_advance_summary">Alegeți la ce mesaj se derulează după ștergerea unui e-mail</string>
+    <string name="auto_login_fail">Autentificarea automată a eșuat</string>
+    <string name="auto_login_fail_to_retry">Autentificarea automată a eșuat; încercați din nou.</string>
     <string name="auto_mail_describe">Configurarea automată a serviciului de e-mail 139 vă poate ajuta să completați datele de conectare ale căsuței de e-mail. Doriți să activați această caracteristică?</string>
     <string name="auto_mail_disable_txt">Dezactivată</string>
     <string name="auto_mail_enable_txt">Setări start</string>
@@ -528,7 +529,6 @@ Actualizaţi acum?"</string>
     <string name="header_label_general_preferences">Generale</string>
     <string name="help_and_info">Ajutor</string>
     <string name="help_config">Configurare automată</string>
-    <string name="hide_atts_remaining">Ascundeţi %1$d ataşamente</string>
     <string name="hide_elided">▼ Ascundeți textul citat</string>
     <string name="hide_password">Ascundeți parola</string>
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -556,7 +556,6 @@ Actualizaţi acum?"</string>
     <string name="loading_conversations">Încărcare…</string>
     <string name="loading_from_remote">Se încarcă…</string>
     <string name="local_search">Căutare locală</string>
-    <string name="local_search_result">%s rezultate găsite în mesajele sincronizate</string>
     <string name="login">Conectaţi-vă</string>
     <string name="login139">Conectare prin China Mobile</string>
     <string name="login_failed_ticker">Conectarea la %s a eşuat</string>
@@ -675,7 +674,6 @@ Actualizaţi acum?"</string>
     <string name="mibill_privacy_policy_link">"Prin utilizarea acestei funcții, sunteți de acord cu "<a href="https://www.mipay.com/res/doc/eula/email.html">Condiţiile de utilizare</a></string>
     <string name="mibill_privacy_policy_title">Gestionarea facturilor în mod automat</string>
     <string name="min_payment_text">Suma minimă de plată</string>
-    <string name="more_atts_remaining">%1$d rămase</string>
     <string name="more_context">Mai multe</string>
     <string name="more_string">+%1$s</string>
     <string name="move_to_selection_dialog_title">Mutaţi în alt dosar</string>
@@ -689,7 +687,6 @@ Actualizaţi acum?"</string>
     <string name="network_try_again">Verificați setările rețelei</string>
     <string name="network_unavailable">Rețea indisponibilă</string>
     <string name="new_incoming_messages_one">Mesaj nou de la %s. Afişaţi.</string>
-    <string name="new_messages">%1$d mesaje noi</string>
     <string name="new_signature_has_saved">Salvată cu succes</string>
     <string name="next_action">Înainte</string>
     <string name="no">Nu</string>
@@ -853,6 +850,9 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="push_wps_confirm_message">Încercaţi să utilizaţi WPS Office pentru a deschide acest atașament.</string>
     <string name="push_wps_confirm_title">Încercaţi WPS Office</string>
     <string name="push_wps_no_response_app">Nu a fost găsită nicio aplicație pentru a gestiona această acţiune</string>
+    <string name="qq_auto_login_failed_cpy_pass_success">Copiat cu succes; reveniți la pagina de autentificare și lipiți în câmpul parolă</string>
+    <string name="qq_auto_login_failed_dialog_message">Copiați codul de autorizare apoi reveniți la pagina de autentificare și apăsați \"Introduceți numele de utilizator și parola pentru autentificare\"; lipiți pentru a completa câmpul parolă și autentificare manuală</string>
+    <string name="qq_auto_login_failed_dialog_positive_label">Copiați codul de autorizare</string>
     <string name="qq_bar_open_imap">Ajutor</string>
     <string name="qq_bar_send_message">Trimiteți SMS</string>
     <string name="qq_login_basecode">Conectare la QQ Email din browser. Introduceți parola independentă.</string>
@@ -878,7 +878,6 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="quick_3">Voi citi mai târziu și revin.</string>
     <string name="quick_4">Să stabilim o întâlnire pentru a discuta aceasta.</string>
     <string name="quick_reply_dialog_title">Selectaţi un răspuns</string>
-    <string name="quick_reply_hint">Răspundeţi la %1$d persoane</string>
     <string name="quick_reply_hint_bcc">(În BCC)</string>
     <string name="quick_reply_hint_cc">(În CC)</string>
     <string name="quick_reply_hint_reply_only_from">Răspuns rapid (doar către expeditor)</string>
@@ -941,7 +940,6 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="refreshing_done">Finalizat</string>
     <string name="release_to_refresh">Eliberați pentru a actualiza</string>
     <string name="remind_attachment_size_limit">Mărimea e-mailurilor ar trebui să fie sub %s MB</string>
-    <string name="remote_search_result">%s e-mailuri găsite în toate e-mailurile de pe server</string>
     <string name="remove_account">Eliminaţi contul</string>
     <string name="remove_folder">Eliminaţi din %1$s</string>
     <string name="remove_star">Eliminaţi steluţa</string>
@@ -954,6 +952,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="request_entity_large">Fișierul este prea mare</string>
     <string name="request_permission_activity">Solicitare permisiune</string>
     <string name="respond_inline">"    Răspundeţi inline"</string>
+    <string name="retry_login">vă rugăm să vă autentificați din nou</string>
     <string name="save_action">Salvaţi</string>
     <string name="save_attachment">Salvaţi</string>
     <string name="save_draft_failed">Salvare mesaj nefinalizat eşuată</string>
@@ -1104,7 +1103,6 @@ Eliminați contul?"</string>
     <string name="undo">Anulaţi</string>
     <string name="unknow">Necunoscut</string>
     <string name="unread_string">conversație necitită</string>
-    <string name="unsent_messages_in_outbox">%1$s netrimise în %2$s</string>
     <string name="unzip_file_failed">Nu s-a putut dezarhiva fişierul</string>
     <string name="update_date_format_templete">HH:mm, dd MMMM</string>
     <string name="update_to_wps_mail">Bucurați-vă de mai multe opțiuni cu WPS-mail</string>

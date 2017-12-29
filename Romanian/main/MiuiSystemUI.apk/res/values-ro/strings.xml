@@ -346,6 +346,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="inactive_apps_title">Aplicații inactive</string>
     <string name="invalid_charger">"Încărcarea USB nu este suportată.
 Utilizați doar încărcătorul furnizat de producător."</string>
+    <string name="ir_mcc">432</string>
     <string name="keep_screen_on">Ecran activ</string>
     <string name="keep_screen_on_summary">Ecranul va rămâne activ pe durata încărcării</string>
     <string name="keyboard_key_back">Înapoi</string>
@@ -433,6 +434,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="mock_location_app_not_set">Nicio aplicație cu locație fictivă setată</string>
     <string name="mock_location_app_set">Aplicația cu locație fictivă: %1$s</string>
     <string name="mount_storage">Da</string>
+    <string name="mx_mcc">334</string>
     <string name="nav_guide_cancel">Ignorați</string>
     <string name="nav_guide_message">Utilizați gesturi pentru a ascunde/afișa butoanele de pe ecran.</string>
     <string name="nav_guide_ok">Setați</string>
@@ -469,13 +471,12 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="notification_otg_unknow_in">Dispozitiv OTG conectat</string>
     <string name="notification_otg_unknow_out">Dispozitiv OTG deconectat</string>
     <string name="notification_template_text">" are o notificare nouă. Atingeți pentru a vizualiza.</string>
+    <string name="np_mcc">429</string>
     <string name="oem_preferred_feedback_reporter"/>
     <string name="oem_unlock_enable">Deblocare OEM</string>
     <string name="oem_unlock_enable_summary">Permite deblocarea bootloader-ului</string>
     <string name="oldman_airplane_mode_text">Avion</string>
     <string name="oldman_incall_text">Reluare apel</string>
-    <string name="oldman_status_bar_time_format_12">h:mm</string>
-    <string name="oldman_status_bar_time_format_24">HH:mm</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
     <string name="picture_color_mode">Mod culoare fotografie</string>
     <string name="picture_color_mode_desc">Utilizați sRGB</string>
