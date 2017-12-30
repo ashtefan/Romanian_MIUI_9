@@ -152,6 +152,7 @@
     <string name="antivirus_update_db">%s</string>
     <string name="apn_exception_summary">Testare configuraţii APN operator</string>
     <string name="apn_exception_title">Verificaţi configuraţiile APN</string>
+    <string name="app_bg_restrict_dialog_message">Restricționarea conectării în fundal poate împiedica funcționarea aplicației. De exemplu, nu se vor mai primi mesaje sau actualiza conținutul. Restricționați oricum?</string>
     <string name="app_check_no_issue">Se pare că nu există probleme legate de acumulator. Bravo!</string>
     <string name="app_check_optimize_title">Optimizați activitățile din fundal</string>
     <string name="app_check_reason_background_cpu">Activitate procesor în fundal</string>
@@ -243,6 +244,7 @@
     <string name="app_manager_notify_bar">Pictograme</string>
     <string name="app_manager_notify_floating">Notificări plutitoare</string>
     <string name="app_manager_notify_keyguard">Blocarea ecranului</string>
+    <string name="app_manager_open_show_all_apps_immediate">Afișează toate rezultatele</string>
     <string name="app_manager_perm">Permisiuni</string>
     <string name="app_manager_perm_monitor_make_calls">Efectuare apeluri</string>
     <string name="app_manager_perm_monitor_read_call_history">Citire istoric de apelare</string>
@@ -282,7 +284,9 @@
 
  Nu veți pierde datele aplicațiilor."</string>
     <string name="app_manager_reset_app_preferences_title">Resetați preferințele aplicației?</string>
+    <string name="app_manager_search_prompt">"Nu s-a găsit niciun rezultat? Încercați să afișați rezultatele din toate aplicațiile."</string>
     <string name="app_manager_show_all_apps">Arată toate aplicațiile</string>
+    <string name="app_manager_show_all_apps_opened">Se afișează rezultatele din toate aplicațiile…</string>
     <string name="app_manager_show_detail_infos">Vedeți tot</string>
     <string name="app_manager_start_by">Lansată de către %s</string>
     <string name="app_manager_start_count_over">De peste 100.000 de ori</string>
@@ -423,6 +427,10 @@
     <string name="back_app_name">Înapoi la Blocarea aplicației</string>
     <string name="back_description_securitycenter">Înapoi</string>
     <string name="back_modifypassword">Înapoi la modificarea parolei</string>
+    <string name="back_sound_data">Necesită rețeaua de date mobile; vă rugăm reîncercați!</string>
+    <string name="back_sound_fail">Eșuat！</string>
+    <string name="back_sound_success">Succes!</string>
+    <string name="back_sound_support">"Operatorul rețelei curente nu suportă această opțiune！"</string>
     <string name="background_restrict_app_dialog_message">Restricționarea accesului la rețea în fundal pentru această aplicație poate împiedica funcționarea corectă a acesteia, primirea mesajelor, descărcarea conținutului, etc. Restricționați oricum?</string>
     <string name="background_traffic">În fundal: %s</string>
     <string name="backsound_set_hint">Setați mesajul pentru perioada cât sunteți plecat ca %s?</string>
@@ -469,6 +477,7 @@
     <string name="battery_temperature_title">Temperatură</string>
     <string name="begin_date">Data de resetare a utilizării</string>
     <string name="best_booster_status">Viteza în jocuri este cea mai bună disponibilă acum.</string>
+    <string name="bg_network_exception_title">Conexiune în fundal restricționată</string>
     <string name="bind_xiaomi_account_cancel">Renunțați</string>
     <string name="bind_xiaomi_account_confirm">Adăugați</string>
     <string name="bind_xiaomi_account_dialog_summery">"Sunteți pe cale să adăugați contul Mi %s. Dacă uitați parola, puteți utiliza acest cont pentru a o reseta. Contul va fi eliminat în mod automat dacă vă deconectați."</string>
@@ -742,6 +751,7 @@
     <string name="dlg_add_blacklist">Blocați acest număr?</string>
     <string name="dlg_add_blacklist_title">Adăugați în lista blocărilor</string>
     <string name="dlg_add_keyword">Adăugați cuvinte cheie</string>
+    <string name="dlg_add_white">"Apelurile noi și mesajele provenite de la numerele adăugate în lista excepțiilor vor fi afișate în istoricul de apelare și în căsuța de mesaje. Totuși, elementele blocate anterior nu vor apărea aici. Adăugați numerele selectate în lista excepțiilor?"</string>
     <string name="dlg_antispam_mode_delete_message">"Nu veți mai putea recupera regulile după ce le veți șterge."</string>
     <string name="dlg_antispam_mode_delete_title">Ștergeți regulile?</string>
     <string name="dlg_antispam_using_mode_delete_message">"Ștergeți regulile utilizate în prezent și reveniți la regulile implicite?"</string>
@@ -761,9 +771,12 @@
     <string name="dlg_import_whitelist">Adăugare…</string>
     <string name="dlg_keyword_ok">Salvați</string>
     <string name="dlg_message_not_open_stranger_identify">Pentru a activa această caracteristică mergeți la Setări/Telefon.</string>
-    <string name="dlg_no_block">"Deblocați acest număr și restaurați lista apelurilor provenite de la acesta în istoricul de apelare?
- (Numărul va fi adăugat în lista apelurior permise)"</string>
+    <string name="dlg_move_to_white">Adăugați în lista excepțiilor</string>
+    <string name="dlg_no_block">"Deblocați acest număr de telefon?
+ Numărul va fi adăugat în lista apelurior permise, dar elementele blocate anterior nu vor apărea în istoricul de apelare."</string>
     <string name="dlg_no_block_ok">Deblocați</string>
+    <string name="dlg_not_block_call">"Deblocați numerele selectate? Ele vor fi adăugate în lista excepțiilor, dar elementele blocate anterior nu vor apărea în istoricul de apelare."</string>
+    <string name="dlg_not_block_sms">"Deblocați numerele selctate? Ele vor fi adăugate în lista excepțiilor, dar elementele blocate anterior nu vor apărea în căsuța de mesaje."</string>
     <string name="dlg_remove_address_blacklist">Eliminați această locație din lista blocărilor?</string>
     <string name="dlg_remove_address_whitelist">Eliminați această locație din lista excepțiilor?</string>
     <string name="dlg_remove_blacklist">Eliminați aceste numere din lista blocărilor?</string>
@@ -903,6 +916,8 @@
     <string name="gb_description_image_button_video_answer">Apel video</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="gmscore_support_remind">Activați această caracteristică dacă întâmpinați probleme în utilizarea Gmail, Hărți Google și în alte aplicații Google. Acest lucru va reduce durata de viață a acumulatorului.</string>
+    <string name="gmscore_support_service">Servicii Google</string>
     <string name="go_to">Mergeți</string>
     <string name="go_to_setting_fingerprint">Setări</string>
     <string name="goto_set">Setați</string>
@@ -1524,8 +1539,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="permission_action_reject">Refuzaţi</string>
     <string name="permission_close_permission_control_dialog_msg">Atunci când Gestionare permisiuni este oprită, aplicațiile nu vor cere permisiunea înainte de a citi contactele, de a vizualiza istoricul apelurilor, de a modifica setările de sistem sau de a accesa camera foto și alte resurse de pe dispozitiv.</string>
     <string name="permission_close_permission_control_dialog_title">Dezactivaţi?</string>
-    <string name="permission_exception_summary">Unele aplicații nu au permisiunea de a se conecta la internet</string>
-    <string name="permission_exception_title">Vizualizaţi permisiunile de reţea</string>
+    <string name="permission_exception_title">Conexiune restricționată pentru aplicații</string>
     <string name="permission_group_title_others">Altele</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Aplicațiile nu vor cere permisiunea înainte de a citi contactele, de a vizualiza istoricul apelurilor, de a modifica setările de sistem sau de a accesa camera foto și alte resurse de pe dispozitiv. Puteți activa această caracteristică în Setări>Permisiuni.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Gestionare permisiuni</string>
@@ -1627,6 +1641,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="pref_auto_adjust_traffic">Ajustare automată a statisticilor utilizării datelor</string>
     <string name="pref_automatic_adjust">Sincronizați utilizarea oferită de către operator</string>
     <string name="pref_avaible_traffic">Plan de date</string>
+    <string name="pref_bg_network_title">Conectare în fundal</string>
     <string name="pref_category_daily_package_tile">Plan de date zilnic</string>
     <string name="pref_category_extra_package_tile">Pachet de suplimentare</string>
     <string name="pref_category_half_year_package_tile">Pachet de date semianual</string>

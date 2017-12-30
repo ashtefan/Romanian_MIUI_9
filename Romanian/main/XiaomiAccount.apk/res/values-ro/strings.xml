@@ -356,6 +356,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_skip_setup_account_msg">Puteți configura un cont Mi mai târziu în Setări.</string>
     <string name="passport_skip_setup_account_title">Omiteţi configurarea</string>
     <string name="passport_sms_send_success">Trimis</string>
+    <string name="passport_sms_verification_code_login">Autentificare prin cod SMS</string>
     <string name="passport_sync_account_data">Sincronizare informații cont…</string>
     <string name="passport_sync_account_data_failed_warning">Informațiile despre contul dumneavoastră se sincronizează acum, vă puteți conecta utilizând ID-ul contului Mi. Dacă doriți să vă conectați utilizând numărul de telefon sau adresa de e-mail, așteptați până când informațiile sunt sincronizate în totalitate.</string>
     <string name="passport_title_reg">Creaţi un cont</string>

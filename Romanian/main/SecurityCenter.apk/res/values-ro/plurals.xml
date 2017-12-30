@@ -32,6 +32,14 @@
         <item quantity="other">%d aplicații</item>
         <item quantity="one">%d aplicație</item>
     </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d aplicații se pot conecta la rețea în fundal</item>
+        <item quantity="one">%d aplicație se poate conecta la rețea în fundal</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d aplicații nu se pot conecta la rețea în fundal"</item>
+        <item quantity="one">"%d aplicație nu se poate conecta la rețea în fundal"</item>
+    </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">"Ați utilizat deja %s din limita zilnică de date."</item>
         <item quantity="one">"Ați utilizat deja %s din limita zilnică de date."</item>
@@ -59,6 +67,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d aplicaţii găsite</item>
         <item quantity="one">%d aplicaţie găsită</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"Accesul la rețea este restricționat pentru &lt;font color='#ff0000'>%d:&lt;/font> aplicații"</item>
+        <item quantity="one">"Accesul la rețea este restricționat pentru &lt;font color='#ff0000'>%d&lt;/font> aplicație"</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">"%d aplicații nu funcționează corect și descarcă acumulatorul"</item>

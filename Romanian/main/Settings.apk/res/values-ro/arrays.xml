@@ -1539,11 +1539,13 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="alarm_repeat_type">
         <item>În fiecare zi</item>
         <item>În zilele săptămânii</item>
+        <item>În weekend</item>
         <item>Personalizat</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>În fiecare zi</item>
         <item>În zilele săptămânii</item>
+        <item>În weekend</item>
         <item>Personalizat</item>
     </string-array>
 

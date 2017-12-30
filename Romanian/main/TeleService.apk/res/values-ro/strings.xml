@@ -253,8 +253,13 @@
     <string name="callFailed_data_limit_reached_description">Apelul s-a încheiat deoarece a fost atinsă limita de date mobile.</string>
     <string name="callFailed_destination_out_of_order">Destinație greșită?</string>
     <string name="callFailed_dialToDial">Cerere de tastatură modificată pentru a forma un alt număr.</string>
+    <string name="callFailed_dialToDialVideo">Solicitarea APELARE a fost modificată la APELARE VIDEO.</string>
     <string name="callFailed_dialToSs">Cerere de tastatură modificată pentru a realiza SS.</string>
     <string name="callFailed_dialToUssd">Cerere de tastatură modificată pentru a rula codul USSD.</string>
+    <string name="callFailed_dialVideoToDial">Solicitarea APEL VIDEO modificată în APELARE.</string>
+    <string name="callFailed_dialVideoToDialVideo">Solicitarea APEL VIDEO a fost modificată în APEL VIDEO către un număr diferit.</string>
+    <string name="callFailed_dialVideoToSs">Solicitarea APEL VIDEO a fost modificată în solicitare SS.</string>
+    <string name="callFailed_dialVideoToUssd">Solicitarea APEL VIDEO a fost modificată în solicitare USSD.</string>
     <string name="callFailed_dsac_restricted">Toate apelurile sunt restricționate de controlul accesului.</string>
     <string name="callFailed_dsac_restricted_emergency">Apelurile de urgență sunt restricționate de controlul accesului.</string>
     <string name="callFailed_dsac_restricted_normal">Apelurile obișnuite sunt restricționate de controlul accesului.</string>

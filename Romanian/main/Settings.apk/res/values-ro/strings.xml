@@ -2552,6 +2552,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">"Căștile USB nu sunt suportate"</string>
     <string name="musicfx_title">Efecte muzicale</string>
+    <string name="mute_music_stream">Opriți muzica prin rețea</string>
     <string name="mvno_match_data">Valoare MVNO</string>
     <string name="mvno_type">Tip MVNO</string>
     <string name="my_device">Telefonul meu</string>
