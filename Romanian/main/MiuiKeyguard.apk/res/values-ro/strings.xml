@@ -9,7 +9,6 @@
     <string name="delete">Ştergeţi</string>
     <string name="do_disclosure_generic">Acest dispozitiv este gestionat de către organizația dumneavoastră</string>
     <string name="do_disclosure_with_name">Acest dispozitiv este gestionat de către %s</string>
-    <string name="doze_pickup_subtype_performs_proximity_check"/>
     <string name="emergency_call_string">Apel de urgenţă</string>
     <string name="face_data_input_camera_fail">"Nu s-a putut încărca Camera"</string>
     <string name="face_data_input_camera_ok">Încărcare cameră…</string>
@@ -29,7 +28,7 @@
     <string name="face_data_manage_delete_title">Date faciale</string>
     <string name="face_data_manage_unlock_msg">Deblocați telefonul utilizând datele faciale</string>
     <string name="face_data_manage_unlock_title">Deblocare utilizând datele faciale</string>
-    <string name="face_data_suggesstion_first">Deblocarea cu ajutorul datelor faciale este mai puțin sigură decât utilizând o parolă. Telefonul poate fi deblocat de persoanele care seamănă cu dvs.</string>
+    <string name="face_data_suggesstion_first">Deblocarea cu ajutorul datelor faciale este mai puțin sigură decât utilizarea unei parole pentru Blocarea ecranului. Telefonul poate fi deblocat de persoanele care seamănă cu dvs.</string>
     <string name="face_data_suggesstion_second">"Asigurați-vă că fața nu vă este acoperită de alte obiecte și că este ușor vizibilă. Fața ar trebui să fie bine iluminată, de asemenea."</string>
     <string name="face_unlock_adjust_distance">Asigurați-vă că distanța dintre fața dumneavoastră și ecran este cea optimă.</string>
     <string name="face_unlock_be_on_the_screen">Țineți telefonul în fața dumneavoastră</string>
