@@ -61,7 +61,6 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="cloud_back_up_task">Rezervare…</string>
     <string name="cloud_backup">Copii de rezervă Mi Cloud</string>
     <string name="cloud_backup_detail_frequence">Program creare copie de rezervă</string>
-    <string name="cloud_backup_detail_frequence">Program creare copie de rezervă</string>
     <string name="cloud_backup_detail_manage">Administrare copii de rezervă</string>
     <string name="cloud_backup_detail_state">Copii de rezervă automate</string>
     <string name="cloud_backup_detail_state_summary">Creați copii de rezervă în Mi Cloud în mod automat atunci când sunteți conectat la Wi-Fi.</string>
