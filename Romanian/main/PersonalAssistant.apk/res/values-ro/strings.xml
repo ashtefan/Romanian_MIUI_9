@@ -167,11 +167,7 @@
     <string name="cta_desc">"Ideal pentru scurtături, informații și caracteristicile favorite"</string>
     <string name="cta_dialog_negative">Ieșiți</string>
     <string name="cta_dialog_positive">De acord</string>
-    <string name="cta_dialog_text1">Pentru a utiliza Asistentul inteligent va trebui să citiți și să fiți de acord cu</string>
-    <string name="cta_dialog_text2">\"Acordul utilizatorului\"</string>
-    <string name="cta_dialog_text3">și</string>
-    <string name="cta_dialog_text4">\"Politica de confidențialitate\".</string>
-    <string name="cta_dialog_text5">Serviciul necesită de asemenea conectarea la internet și accesarea serviciilor de localizare. Sunteți de acord?</string>
+    <string name="cta_dialog_text_all">Pentru a utiliza Asistentul inteligent va trebui să citiți și să fiți de acord cu %1$s\"Acordul Utilizatorului\" %2$s și %3$s \"Politica de Confidențialitate\" %4$s. Serviciul necesită de asemenea conectarea la internet și accesarea serviciilor de localizare. Captarea conținutului utilizată de unele servicii necesită de asemenea conectarea la internet. Sunteți de acord?</string>
     <string name="cta_dialog_title">Termenii și Condițiile</string>
     <string name="cta_negative">Închideți</string>
     <string name="cta_positive">Detalii</string>

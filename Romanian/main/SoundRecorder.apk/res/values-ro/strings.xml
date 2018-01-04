@@ -45,11 +45,12 @@
     <string name="invalid_argument">Argument invalid</string>
     <string name="keywords_search_call_record">Înregistrare apeluri;Înregistrare apel;Call recording;Call recordings</string>
     <string name="keywords_search_record">Înregistrare nouă;Adăugați o înregistrare;Înregistrare;Înregistrări;Transcript;Transcribe;Recorder;Speech recorder;Sound recorder;Recorder app;Recording app;How do I record;How to record sound;Where is recorder;MIUI Reorder</string>
-  <string name="keywords_search_record_list">Recorder;Transcript;Transcripts;Record;Share recording;Share recordings;Recording;Recordings</string>
+    <string name="keywords_search_record_list">Înregistrare sunet;Transcriere;Transcrieri;Înregistrare;Partajare înregistrare;Partajare înregistrări;Înregistrare;Înregistrări</string>
     <string name="low_battery_error">"Acumulatorul telefonului are mai puțin de 5% disponibil. Opriți înregistrarea și salvați-o înainte de a fi pierdută."</string>
     <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_title">Acumulator descărcat</string>
     <string name="mark_point_list_title">Marcaje</string>
+    <string name="menu">Meniu</string>
     <string name="message_file_size_error">Înregistrarea a atins lungimea maximă susţinută de %s</string>
     <string name="network_tip_dialog_cancel">Renunțați</string>
     <string name="network_tip_dialog_content">Aplicația de Înregistrare trebuie să se conecteze la internet, dar și să vă acceseze agenda pentru a funcționa în mod normal. Sunteți de acord?</string>

@@ -105,8 +105,6 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="find_device_pref_alert_positive">OK</string>
     <string name="find_device_pref_alert_title">Rețineți numele de utilizator și parola contului Mi</string>
     <string name="find_device_pref_initializing">Inițializare…</string>
-    <string name="find_device_reading_status">Actualizare stare…</string>
-    <string name="find_device_reading_status_failure">"Nu s-a putut actualiza starea."</string>
     <string name="find_device_send_sms_alert">Dacă veţi schimba cartela SIM, un alt mesaj SMS va fi trimis automat pentru a reactiva această funcție.</string>
     <string name="find_device_service_summary">Accesați i.mi.com pentru a localiza și pentru a bloca de la distanță telefonul</string>
     <string name="find_device_service_summary_international">Accesați i.mi.com pentru a localiza și pentru a bloca de la distanță telefonul</string>
@@ -296,6 +294,7 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_head_menu_recycle_bin_title">Coș de gunooi</string>
     <string name="micloud_main_head_menu_state_close">Închis</string>
     <string name="micloud_main_head_menu_state_open">Deschis</string>
+    <string name="micloud_main_head_menu_state_unavailable">Indisponibil</string>
     <string name="micloud_main_last_sync_time">Ultima sincronizare: %s</string>
     <string name="micloud_main_master_sync_on">Sincronizare pornită</string>
     <string name="micloud_main_memory_low_message">"Pentru a realiza sincronizarea, ștergeți din datele inutile stocate în Mi Cloud."</string>
@@ -480,6 +479,8 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="pref_title_sync_contacts_title">Sincronizare contacte</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Se utilizează doar Wi-Fi pentru sincronizarea fotografiilor</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
+    <string name="reading_status">Încărcare stare…</string>
+    <string name="reading_status_failure">"Nu s-a putut încărca starea."</string>
     <string name="recommend_open_all_sync">Sincronizați toate elementele</string>
     <string name="remind_later">Nu acum</string>
     <string name="restoreSync">Sincronizaţi acum</string>
