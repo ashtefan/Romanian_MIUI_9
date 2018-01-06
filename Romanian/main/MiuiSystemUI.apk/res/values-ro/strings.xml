@@ -397,6 +397,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="launch_defaults_none">Nicio aplicație implicită setată</string>
     <string name="launch_defaults_some">Unele aplicații implicite setate</string>
     <string name="legacy_dhcp_client_summary">Utilizați clientul DHCP din Lollipop în locul noului client Android DHCP.</string>
+    <string name="legacy_vpn_name">VPN</string>
     <string name="list_delimeter">", "</string>
     <string name="lland">L Land</string>
     <string name="loading_desktop">Doar o secundă…</string>
@@ -433,6 +434,32 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="mock_location_app">Selectați aplicația cu locație fictivă</string>
     <string name="mock_location_app_not_set">Nicio aplicație cu locație fictivă setată</string>
     <string name="mock_location_app_set">Aplicația cu locație fictivă: %1$s</string>
+    <string name="monitoring_button_view_policies">Vedeți Politicile</string>
+    <string name="monitoring_description_ca_certificate">O autoritate certificată este instalată pe acest dispozitiv. Traficul în rețea poate fi monitorizat sau modificat.</string>
+    <string name="monitoring_description_managed_profile_ca_certificate">Organizația dumneavoastră a instalat o autoritate certificată în profilul de servici. Traficul în rețea poate fi monitorizat sau modificat.</string>
+    <string name="monitoring_description_managed_profile_named_vpn">Profilul dvs. de servici este conectat la %1$s, care poate monitoriza activitatea în rețea, inclusiv e-mailurile, aplicațiile și site-urile web.</string>
+    <string name="monitoring_description_management">"Dispozitivul dvs. este gestionat de către organizația dumneavoastră.
+
+Administratorul poate monitoriza și gestiona setările, accesul la rețeaua companiei, aplicațiile, datele asociate dispozitivului dvs. și informațiile despre locația dispozitivului.
+
+Pentru mai multe informații, contactați administratorul."</string>
+    <string name="monitoring_description_management_ca_certificate">Organizația dvs. a instalat o autoritate certificată pe acest dispozitiv. Traficul în rețea poate fi monitorizat sau modificat.</string>
+    <string name="monitoring_description_management_network_logging">Administratorul dvs. a activat jurnalizarea rețelei, care monitorizează traficul de pe acest dispozitiv.</string>
+    <string name="monitoring_description_named_management">"Dispozitivul dvs. este gestionat de către %1$s.
+
+Administratorul dvs. poate monitoriza și gestiona setările, accesul la rețeaua corporației, aplicațiile, datele asociate dispozitivului și informațiile despre locația acestuia.
+
+Pentru mai multe informații, contactați administratorul."</string>
+    <string name="monitoring_description_named_vpn">"Sunteți conectat la %1$s, care vă poate monitoriza activitatea în rețea, inclusiv emailurile, aplicațiile și site-urile web."</string>
+    <string name="monitoring_description_personal_profile_named_vpn">Profilul dvs. personal este conectat la %1$s, care vă poate monitoriza activitatea în rețea, inclusiv emailurile, aplicațiile și site-urile web.</string>
+    <string name="monitoring_description_two_named_vpns">"Sunteți conectat la %1$s și %2$s, care vă poate monitoriza activitatea în rețea, inclusiv emailurile, aplicațiile și site-urile web."</string>
+    <string name="monitoring_description_vpn_settings">Setări Open VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
+    <string name="monitoring_subtitle_ca_certificate">Certificate CA</string>
+    <string name="monitoring_subtitle_network_logging">Jurnalizare rețea</string>
+    <string name="monitoring_subtitle_vpn">VPN</string>
+    <string name="monitoring_title">Monitorizare rețea</string>
+    <string name="monitoring_title_device_owned">Gestionare dispozitiv</string>
     <string name="mount_storage">Da</string>
     <string name="mx_mcc">334</string>
     <string name="nav_guide_cancel">Ignorați</string>
@@ -495,6 +522,21 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_connect_success">Conectat</string>
     <string name="quick_settings_connecting">Conectare</string>
+    <string name="quick_settings_disclosure_managed_profile_monitoring">Organizația dvs. poate monitoriza traficul în rețea relizat în profilul Servici</string>
+    <string name="quick_settings_disclosure_managed_profile_named_vpn">Profil Servici conectat la %1$s</string>
+    <string name="quick_settings_disclosure_management">Dispozitivul este gestionat de către organizația dumneavoastră</string>
+    <string name="quick_settings_disclosure_management_monitoring">Organizația dumneavoastră gestionează acest dispozitiv și poate monitoriza traficul în rețea</string>
+    <string name="quick_settings_disclosure_management_named_vpn">Dispozitivul este gestionat de către organizația dumneavoastră și conectat la %1$s</string>
+    <string name="quick_settings_disclosure_management_vpns">Dispozitivul este gestionat de către organizația dumneavoastră și conectat la VPNs</string>
+    <string name="quick_settings_disclosure_monitoring">Rețeaua poate fi monitorizată</string>
+    <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s poate monitoriza traficul în rețea realizat în profilul Servici</string>
+    <string name="quick_settings_disclosure_named_management">Dispozitivul este gestionat de către %1$s</string>
+    <string name="quick_settings_disclosure_named_management_monitoring">%1$s gestionează acest dispozitiv și poate monitoriza traficul în rețea</string>
+    <string name="quick_settings_disclosure_named_management_named_vpn">Dispozitivul este gestionat de către %1$s și conectat la %2$s</string>
+    <string name="quick_settings_disclosure_named_management_vpns">Dispozitivul este gestionat de către %1$s și conectat la VPNs</string>
+    <string name="quick_settings_disclosure_named_vpn">Dispozitiv conectat la %1$s</string>
+    <string name="quick_settings_disclosure_personal_profile_named_vpn">Profil Personal conectat la %1$s</string>
+    <string name="quick_settings_disclosure_vpns">Dispozitiv conectat la VPNs</string>
     <string name="quick_settings_done">Terminat</string>
     <string name="quick_settings_more_settings">Setări suplimentare</string>
     <string name="quick_settings_tiles">implicit</string>

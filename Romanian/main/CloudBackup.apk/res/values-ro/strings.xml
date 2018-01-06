@@ -60,6 +60,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="cloud_back_up_share_activity_title">Actualizați contul Mi</string>
     <string name="cloud_back_up_task">Rezervare…</string>
     <string name="cloud_backup">Copii de rezervă Mi Cloud</string>
+    <string name="cloud_backup_derail_size_summary">Dimensiune: %s</string>
     <string name="cloud_backup_detail_frequence">Program creare copie de rezervă</string>
     <string name="cloud_backup_detail_manage">Administrare copii de rezervă</string>
     <string name="cloud_backup_detail_state">Copii de rezervă automate</string>
