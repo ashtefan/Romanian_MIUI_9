@@ -310,13 +310,16 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
     <string name="wating">Doar o secundă…</string>
     <string name="weibo_send">Trimiteți în Weibo</string>
     <string name="weixin_pay">Plată WeChat</string>
-    <string name="weixin_share">Partajați în Momente</string>
+    <string name="weixin_share_sign">Conectați-vă și partajați</string>
     <string name="xpsace_guide_button">Creați</string>
     <string name="xspace_account">Conturi aplicații clonate</string>
     <string name="xspace_chocie">Suport pentru aplicațiile clonate</string>
     <string name="xspace_creating">Se crează aplicația clonată…</string>
     <string name="xspace_default_app_summary">Setați aplicația implicită pentru plăți, partajare, favorite și altele.</string>
     <string name="xspace_default_app_title">Aplicația implicită</string>
+    <string name="xspace_default_guide_notification_content">Atingeți pentru a modifica</string>
+    <string name="xspace_default_guide_notification_main_title">Utilizând aplicația implicită</string>
+    <string name="xspace_default_guide_notification_xspace_title">Utilizând aplicația clonată</string>
     <string name="xspace_default_setting_dialog_title">Implicită</string>
     <string name="xspace_default_setting_label">Aplicația implicită</string>
     <string name="xspace_description">"Aplicațiile clonate sunt copii ale aplicațiilor care pot fi utilizate separat cu un alt cont.

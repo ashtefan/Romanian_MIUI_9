@@ -114,6 +114,14 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="people_million">
         <item quantity="other">Descărcat de %1$d persoane</item>
     </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">%1$d persoane joacă</item>
+        <item quantity="one">%1$d persoană joacă</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">%1$d persoane joacă</item>
+        <item quantity="one">%1$d persoană joacă</item>
+    </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d vizualizări</item>
         <item quantity="zero">%1$d vizualizări</item>

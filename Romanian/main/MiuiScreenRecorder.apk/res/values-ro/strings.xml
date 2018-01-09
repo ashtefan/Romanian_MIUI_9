@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_info">Se înregistrează, atingeți pentru a opri</string>
     <string name="app_name">Înregistrare ecran</string>
+    <string name="app_notification_info">Înregistrarea ecranului rulează în fundal</string>
     <string name="app_notification_title">Înregistrare ecran</string>
     <string name="auto_stop_title">Videoclip salvat cu succes</string>
     <string name="battery_not_allowed" formatted="false">"Nu se poate înregistra când acumulatorul are mai puțin de 3% disponibil. Asigurați-vă că aveți măcar 20% disponibil."</string>
@@ -37,8 +37,7 @@
     <string name="low_battery">Încărcați acumulatorul înainte de a începe înregistrarea</string>
     <string name="low_battery_title">Acumulator descărcat</string>
     <string name="low_battery_warning">Acumulatorul este descărcat. Înregistrarea s-a oprit și s-a salvat videoclipul.</string>
-    <string name="low_memory">Aveți mai puțin de 200 MB spațiu de stocare disponibil. Mai puteți înregistra timp de 5 minute.</string>
-    <string name="low_memory_dior">Aveți mai puțin de 500 MB spațiu de stocare disponibil. Mai puteți înregistra doar pentru 12 minute.</string>
+    <string name="low_memory">Aveți mai puțin de 1 GB spațiu de stocare disponibil. Mai puteți înregistra timp de 20 de minute.</string>
     <string name="low_memory_title">Spațiu de stocare insuficient</string>
     <string name="low_momery_warning">Spațiu de stocare insuficient. Înregistrarea s-a oprit și s-a salvat videoclipul.</string>
     <string name="memory_not_allowed">Spațiu de stocare insuficient. Eliberați spațiu de stocare pentru a putea înregistra.</string>
@@ -51,6 +50,7 @@
     <string name="quit_recording">Ieșiți din Înregistrare ecran</string>
     <string name="recording_failure">"Nu s-a putut înregistra; reluați înregistrarea"</string>
     <string name="recording_max_size">"Înregistrarea a fost oprită și salvată datorită atingerii dimensiunii maxime a videoclipului. Reluați înregistrarea de unde ați rămas dacă nu ați finalizat captarea."</string>
+    <string name="recording_without_mic">Microfonul este în uz și nu poate înregistra sunetele</string>
     <string name="resolution">Rezoluție</string>
     <string name="resolution_summary">Videoclipurile la rezoluție mai mare arată mai clar</string>
     <string name="screen_orientation">Orientare</string>

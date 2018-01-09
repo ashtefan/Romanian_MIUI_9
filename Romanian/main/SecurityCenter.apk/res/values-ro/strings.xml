@@ -32,7 +32,7 @@
     <string name="ac_summaryOn">Dacă este activată se va solicita parola de deblocare pentru accesarea aplicațiilor</string>
     <string name="ac_unmask_all_apps">Afișați pentru toate aplicațiile</string>
     <string name="access_control_app_is_launching">Aplicația pornește</string>
-    <string name="access_control_failed_need_to_unlock_nofingerprint">Desenați modelul propriu de deblocare pentru a utiliza o nouă amprentă</string>
+    <string name="access_control_failed_need_to_unlock_nofingerprint">Introduceți parola înainte de a debloca cu o nouă amprentă</string>
     <string name="access_control_fingerprint_not_identified_msg">"Nu s-a putut citi amprenta."</string>
     <string name="access_control_need_password">"%s adăugată cu succes
 "</string>
@@ -45,7 +45,8 @@
     <string name="action_button_text_60">Reparați</string>
     <string name="action_button_text_60_80">Reparați</string>
     <string name="action_button_text_80_100">Optimizați</string>
-    <string name="action_source_sms_title">SMS-uri blocate</string>
+    <string name="action_source_call_title">Apeluri Blocate</string>
+    <string name="action_source_sms_title">Mesaje Blocate</string>
     <string name="activity_title_antispam">Listă blocări</string>
     <string name="activity_title_antivirus">Scanare de securitate</string>
     <string name="activity_title_apps_manager">Aplicaţii</string>
@@ -428,7 +429,7 @@
     <string name="back_description_securitycenter">Înapoi</string>
     <string name="back_modifypassword">Înapoi la modificarea parolei</string>
     <string name="back_sound_data">Necesită rețeaua de date mobile; vă rugăm reîncercați!</string>
-    <string name="back_sound_fail">Eșuat！</string>
+    <string name="back_sound_fail">Eșuat！ Datorită modificării interfeței operatorului, puteți încerca să comutați cartela SIM curentă la cartela de rețea și să încercați din nou.</string>
     <string name="back_sound_success">Succes!</string>
     <string name="back_sound_support">"Operatorul rețelei curente nu suportă această opțiune！"</string>
     <string name="background_restrict_app_dialog_message">Restricționarea accesului la rețea în fundal pentru această aplicație poate împiedica funcționarea corectă a acesteia, primirea mesajelor, descărcarea conținutului, etc. Restricționați oricum?</string>
@@ -709,6 +710,7 @@
     <string name="deep_save_ontime_boot_shutdown_summary">Setați intervalul în care telefonul se va închide automat</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_from_manual_item_white_list">Eliminați din excepții</string>
+    <string name="delete_input">Ștergeți</string>
     <string name="deleted_apps">Aplicaţii dezinstalate</string>
     <string name="demo_number">241</string>
     <string name="descx_cleanuping_item">Optimizare %s</string>
@@ -911,9 +913,12 @@
     <string name="gateway_exception_summary">Verificați router-ul și încercați din nou.</string>
     <string name="gateway_exception_summary2">Nu se poate conecta la server</string>
     <string name="gateway_exception_title">Testare router</string>
+    <string name="gb_ad_game_size"> MB</string>
+    <string name="gb_cutoff">|</string>
     <string name="gb_description_image_button_answer">Răspundeți</string>
     <string name="gb_description_image_button_reject">Respingeți</string>
     <string name="gb_description_image_button_video_answer">Apel video</string>
+    <string name="gb_new_feature">Caracteristică nouă</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
     <string name="gmscore_support_remind">Activați această caracteristică dacă întâmpinați probleme în utilizarea Gmail, Hărți Google și în alte aplicații Google. Acest lucru va reduce durata de viață a acumulatorului.</string>
@@ -1029,6 +1034,7 @@
     <string name="info_unantispam_sms">Permiteți SMS-uri</string>
     <string name="information_setting">Recomandări</string>
     <string name="input_aviable_traffic">Setaţi limita de utilizare a datelor</string>
+    <string name="input_password_hint_text">Introduceți parola</string>
     <string name="input_traffic_pkg">Introduceţi utilizarea datelor</string>
     <string name="input_used_hint">Introduceţi utilizarea datelor</string>
     <string name="input_used_max_hint">Introduceţi utilizarea datelor (mai puţin decât %s)</string>
@@ -1284,6 +1290,14 @@ răspunsul operatorului"</string>
     <string name="mi_service_framework">Mi Service Framework</string>
     <string name="mi_service_traffic_detail">Detalii Framework</string>
     <string name="mian_page_primary_txt">Roaming internaţional</string>
+    <string name="mixed_need_to_confirm">Introduceți din nou pentru confirmare</string>
+    <string name="mixed_password_confirmed_header_confirm">Setată cu succes. Atingeți pentru a confirma.</string>
+    <string name="mixed_password_confirmed_header_continue">Setată cu succes. Atingeți \"Următorul\".</string>
+    <string name="mixed_pattern_entered_header">Parolă setată cu succes</string>
+    <string name="mixed_recording_incorrect_too_short">Introduceți cel puțin %d caractere.</string>
+    <string name="mixed_recording_intro_header">Introduceți cel puțin 4 caractere</string>
+    <string name="mixed_retry_button_text">Renunțați</string>
+    <string name="mixed_settings_help_how_to_record">Cum setez parola</string>
     <string name="modify_password_mode">&lt;u&gt;Modificați tipul parolei&lt;/u&gt;</string>
     <string name="modifypassword">Modificați parola</string>
     <string name="monitor_app_add">Adăugați</string>
@@ -1386,6 +1400,14 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="notify_weekly_traffic_body">Pentru a limita în mod automat utilizarea datelor, configuraţi planul lunar de date.</string>
     <string name="notify_weekly_traffic_title">%s utilizaţi în această săptămână</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s a utilizat %2$s în această săptămână</string>
+    <string name="numeric_need_to_confirm">Introduceți din nou pentru confirmare</string>
+    <string name="numeric_password_confirmed_header_confirm">Setat cu succes. Atingeți pentru a confirma.</string>
+    <string name="numeric_password_confirmed_header_continue">Setat cu succes. Apăsați \"Următorul\".</string>
+    <string name="numeric_pattern_entered_header">Cod PIN setat cu succes</string>
+    <string name="numeric_recording_incorrect_too_short">Introduceți cel puțin %d cifre.</string>
+    <string name="numeric_recording_intro_header">Introduceți parola</string>
+    <string name="numeric_retry_button_text">Renunțați</string>
+    <string name="numeric_settings_help_how_to_record">Cum setez codul PIN</string>
     <string name="ok">OK</string>
     <string name="ok_button">OK</string>
     <string name="old_sdk_deny_warning">"Această aplicație nu este compatibilă cu cele mai recente cerințe Android privind permisiunile. Permisiunile neacordate pot afecta modul în care funcționează aplicația."</string>
@@ -1509,6 +1531,8 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="password_promotion_not_login_xiaomi_account_message">Adăugați contul dvs. Mi pentru a vă putea reseta parola în caz că o uitați.</string>
     <string name="password_promotion_postbutton_text">Adăugați</string>
     <string name="password_promotion_title">Adăugați contul Mi</string>
+    <string name="password_type">Schimbați parola</string>
+    <string name="password_type_underline">&lt;u&gt;Schimbați parola&lt;/u&gt;</string>
     <string name="password_xspace_forget_pattern_message">Pentru a modifica parola Spațiului secundar, trebuie să ștergeți Spațiul Secundar curent și să creați un altul.</string>
     <string name="path_antispam">Aplicații de sistem/Securitate/Listă blocări</string>
     <string name="path_antivirus">Aplicații de sistem/Securitate/Scanare pentru viruși</string>
@@ -1757,6 +1781,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="quick_optimize_sub_summary_text">S-a prelungit durata de viață a acumulatorului cu %s</string>
     <string name="quick_optimize_suggest_battery_consume_too_fast">Telefonul se descarcă rapid; rezolvați problema</string>
     <string name="quick_optimize_suggest_battery_over_heat">Telefonul se încălzește excesiv; rezolvați problema</string>
+    <string name="quite_all_string">Renunțați</string>
     <string name="reach_daily_limit_value_body">Reduceți utilizarea datelor mobile.</string>
     <string name="reach_daily_limit_value_title">S-a atins limita zilnică de utilizare a datelor</string>
     <string name="read_all_sms">Citiți-le pe toate</string>
@@ -1853,6 +1878,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sc_allow_network_dialog_message">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
     <string name="sc_allow_network_dialog_tiltle">Nu se poate utiliza această caracteristică</string>
     <string name="sc_system_risk_fix_info_xspace">"Nu se poate rezolva din Spațiul secundar. Încercați din nou în Spațiul principal."</string>
+    <string name="sc_warning_updater_not_found">Aplicația de actualizare nu a fost găsită. Nu se poate actualiza!</string>
     <string name="scan_installed_games">Verificare jocuri instalate…</string>
     <string name="scan_status_risk">Riscant</string>
     <string name="scan_status_safe">Sigur</string>
@@ -1877,6 +1903,9 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="see_more">Mai multe</string>
     <string name="select_pattern">Selectați modelul propriu</string>
     <string name="set_applock_password">Setați parola</string>
+    <string name="set_mixed_password_name">Setați parola</string>
+    <string name="set_numeric_password_name">Setați codul PIN</string>
+    <string name="set_pattern_password_name">Setați modelul</string>
     <string name="setting">Setări</string>
     <string name="setting_privacy_password">Adăugați un model de deblocare</string>
     <string name="settings">Setări utilizare date</string>
@@ -2412,6 +2441,12 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="unlike">Nu, mulțumesc</string>
     <string name="unlock_pattern">&lt;u&gt;Model de deblocare&lt;/u&gt;</string>
     <string name="unlock_pattern_to_bind_fingerprint">Introduceți parola pentru a activa amprenta</string>
+    <string name="unlock_set_unlock_password_summary">Combinați diferite caractere</string>
+    <string name="unlock_set_unlock_password_title">Parolă</string>
+    <string name="unlock_set_unlock_pattern_summary">Uniți cel puțin 4 puncte</string>
+    <string name="unlock_set_unlock_pattern_title">Model</string>
+    <string name="unlock_set_unlock_pin_summary">Introduceți 4 cifre</string>
+    <string name="unlock_set_unlock_pin_title">Cod PIN</string>
     <string name="updating_diagnostic_botton">Se analizează datele…</string>
     <string name="usage_sorted_activity_lable">Utilizare date</string>
     <string name="usage_sorted_empty_text">Gol</string>
@@ -2473,6 +2508,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="wlan_booster">Optimizare Wi-Fi</string>
     <string name="wlan_change_protection_detail">"Nu comuta în mod automat la Wi-Fi când este conectat la rețeaua de date mobile"</string>
     <string name="wlan_change_protection_title">Preveniți comutarea rețelelor</string>
+    <string name="wrong_password">Parolă incorectă</string>
     <string name="xunyou_net_booster">Creșterea vitezei rețelei</string>
     <string name="xunyou_net_booster_detail">Utilizați serviciul de creștere a vitezei rețelei Xunyou în jocuri</string>
     <string name="xunyou_pay_webview">Servicii Xunyou</string>

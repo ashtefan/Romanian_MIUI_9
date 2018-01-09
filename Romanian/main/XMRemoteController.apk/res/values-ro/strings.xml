@@ -478,7 +478,7 @@
     <string name="just_now">Utilizată în prezent</string>
     <string name="just_used">Utilizat chiar acum</string>
     <string name="key_press_vibrate">Vibrează la apăsare</string>
-    <string name="ky_receive_audio_preferred">Recunoaștere automată a serialelor pe care le auziți</string>
+    <string name="ky_receive_audio_preferred">Recunoaștere automată a emisiunilor pe care le ascultați</string>
     <string name="ky_receive_audio_watching_tv">Urmărire</string>
     <string name="laboratory">Experimental</string>
     <string name="last_bak_time">Ultima copie de rezervă: %1$s</string>

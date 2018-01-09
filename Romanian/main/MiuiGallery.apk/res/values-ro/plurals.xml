@@ -8,6 +8,14 @@
         <item quantity="other">S-au adăugat %d fotografii din Cloud, dezactivați \"Arată doar albumele locale\" pentru a le vedea.</item>
         <item quantity="one">S-a adăugat %d fotografie din Cloud, dezactivați \"Arată doar albumele locale\" pentru a o vedea.</item>
     </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">"%2$d elemente nu au putut fi adăugate în album. %1$s."</item>
+        <item quantity="one">"%2$d element nu a putut fi adăugat în album. %1$s."</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">"%2$d elemente nu au putut fi adăugate în albumul ascuns. %1$s."</item>
+        <item quantity="one">"%2$d element nu a putut fi adăugat în albumul ascuns. %1$s."</item>
+    </plurals>
     <plurals name="age_day">
         <item quantity="other">%d zile</item>
         <item quantity="one">%d zi</item>
@@ -120,6 +128,10 @@
         <item quantity="other">%d fotografii în total</item>
         <item quantity="one">%d fotografie în total</item>
     </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Se procesează fotografiile…</item>
+        <item quantity="one">Se procesează fotografia…</item>
+    </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"S-au omis %1$d fotografii care nu au putut fi încărcate."</item>
         <item quantity="one">"S-a omis o fotografie care nu a putut fi încărcată."</item>
@@ -204,6 +216,10 @@
         <item quantity="other">%d fotografii în total</item>
         <item quantity="one">%d fotografie în total</item>
     </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">"%2$d elemente nu au putut fi eliminate din albumul ascuns. %1$s."</item>
+        <item quantity="one">"%2$d element nu a putut fi eliminat din albumul ascuns. %1$s."</item>
+    </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">S-au adăugat %1$d fotografii în \"%2$s\" și s-au adăugat în baza de date.</item>
         <item quantity="one">S-a adăugat %1$d fotografie în \"%2$s\" și s-a adăugat în baza de date.</item>
@@ -219,6 +235,10 @@
     <plurals name="search_feedback_done_mark_false_positive">
         <item quantity="other">S-au eliminat %1$d fotografii din \"%2$s\".</item>
         <item quantity="one">S-a eliminat %1$d fotografie din \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">"Nu s-a putut partaja. Încă se procesează %d fotografii…"</item>
+        <item quantity="one">"Nu s-a putut partaja. Încă se procesează %d fotografie…"</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">"Nu s-au sincronizat %d fotografii și videoclipuri"</item>

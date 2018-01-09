@@ -18,6 +18,14 @@
     <string name="agree_to_turn_on">De acord</string>
     <string name="all_services">Toate serviciile</string>
     <string name="allow">Permiteți</string>
+    <string name="antispam_curr_version">Versiunea curentă: %d</string>
+    <string name="antispam_data_downloading">Se descarcă informațiile ID apelant. Acest lucru poate dura 3-5 secunde.</string>
+    <string name="antispam_data_downloading_error">"Nu s-a putut conecta la rețea"</string>
+    <string name="antispam_local_newest">Versiunea curentă este cea mai recentă.</string>
+    <string name="antispam_network_remind_summary">Descărcați actualizările utilizând datele mobile?</string>
+    <string name="antispam_network_remind_title">Avertisment utilizare date</string>
+    <string name="antispam_pull_newest">Actualizare la versiunea %d cu succes</string>
+    <string name="antispam_update_version">Căutați actualizări</string>
     <string name="app_label">Pagini aurii</string>
     <string name="app_recommendation_install">Instalați</string>
     <string name="average_price">În medie %d RMB</string>
