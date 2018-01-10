@@ -1,44 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="payment_record_menu_select_num">
-        <item quantity="other">Selectate %s elemente</item>
-        <item quantity="one">Selectat %s element</item>
+    <plurals name="assistant_day">
+        <item quantity="other">În %d zile</item>
+        <item quantity="one">În %d zi</item>
     </plurals>
-    <plurals name="payment_record_dialog_delete_message">
-        <item quantity="other">Ștergeți %s elemente din plată?</item>
-        <item quantity="one">Ștergeți %s element din plată?</item>
+    <plurals name="days_ago">
+        <item quantity="other">cu %1$d z în urmă</item>
     </plurals>
-    <plurals name="time_minute_ago">
-        <item quantity="other">cu %d minute în urmă</item>
-        <item quantity="one">cu %d minut în urmă</item>
-    </plurals>
-    <plurals name="time_hour_ago">
-        <item quantity="other">cu %d ore în urmă</item>
-        <item quantity="one">cu %d oră în urmă</item>
+    <plurals name="hours_ago">
+        <item quantity="other">cu %1$d hr în urmă</item>
     </plurals>
     <plurals name="main_delete_desc">
         <item quantity="other">Eliminați %s elemente din Favorite?</item>
         <item quantity="one">Eliminați %s element din Favorite?</item>
     </plurals>
-    <plurals name="main_mark_select_num">
-        <item quantity="other">Selectate %s elemente</item>
-        <item quantity="one">Selectat %s element</item>
-    </plurals>
     <plurals name="main_mark_fav_num">
         <item quantity="other">%s elemente au fost marcate ca importante</item>
         <item quantity="one">%s element a fost marcat ca important</item>
     </plurals>
-    <plurals name="sms_minute_suffix">
-        <item quantity="other">În %d minute</item>
-        <item quantity="one">În %d minut</item>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">Selectate %s elemente</item>
+        <item quantity="one">Selectat %s element</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">cu %1$d min în urmă</item>
+    </plurals>
+    <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">Ștergeți %s elemente din plată?</item>
+        <item quantity="one">Ștergeți %s element din plată?</item>
+    </plurals>
+    <plurals name="payment_record_menu_select_num">
+        <item quantity="other">Selectate %s elemente</item>
+        <item quantity="one">Selectat %s element</item>
+    </plurals>
+    <plurals name="sms_day_suffix">
+        <item quantity="other">În %d zile</item>
+        <item quantity="one">În %d zi</item>
     </plurals>
     <plurals name="sms_hour_suffix">
         <item quantity="other">În %d ore</item>
         <item quantity="one">În %d oră</item>
     </plurals>
-    <plurals name="sms_day_suffix">
-        <item quantity="other">În %d zile</item>
-        <item quantity="one">În %d zi</item>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">În %d minute</item>
+        <item quantity="one">În %d minut</item>
     </plurals>
     <plurals name="sms_title_hours">
         <item quantity="other">%d ore</item>
@@ -48,22 +53,25 @@
         <item quantity="other">%d minute</item>
         <item quantity="one">%d minut</item>
     </plurals>
-    <plurals name="mins_ago">
-        <item quantity="other">cu %1$d min în urmă</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">cu %1$d hr în urmă</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">cu %1$d z în urmă</item>
-    </plurals>
     <plurals name="steps">
         <item quantity="other">%d|pași</item>
         <item quantity="zero">%d|pași</item>
         <item quantity="one">%d|pas</item>
     </plurals>
-    <plurals name="assistant_day">
-        <item quantity="other">În %d zile</item>
-        <item quantity="one">În %d zi</item>
+    <plurals name="time_hour_ago">
+        <item quantity="other">cu %d ore în urmă</item>
+        <item quantity="one">cu %d oră în urmă</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu %d minut în urmă</item>
+    </plurals>
+    <plurals name="express_history_dialog_delete_message">
+        <item quantity="other">Ștergeți %s elemente din express?</item>
+        <item quantity="one">Ștergeți %s element din express?</item>
+    </plurals>
+    <plurals name="express_history_menu_select_num">
+        <item quantity="other">S-au selectat %s elemente</item>
+        <item quantity="one">S-a selectat %s element</item>
     </plurals>
 </resources>

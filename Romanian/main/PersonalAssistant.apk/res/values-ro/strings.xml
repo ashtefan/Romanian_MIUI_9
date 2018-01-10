@@ -114,6 +114,13 @@
     <string name="card_bookall_train_started">A plecat din stație</string>
     <string name="card_detail">Ghid</string>
     <string name="card_example">Card</string>
+    <string name="card_expand_note_clear">Goliți</string>
+    <string name="card_expand_note_dialog_button">Am înțeles</string>
+    <string name="card_expand_note_dialog_message">O notiță nouă este salvată de fiecare dată când apăsați butonul \"Salvare\" în Asistentul inteligent.</string>
+    <string name="card_expand_note_dialog_title">Salvare notițe</string>
+    <string name="card_expand_note_toast_clear_null">Golit cu succes</string>
+    <string name="card_expand_note_toast_save_done">Salvat în Notițe</string>
+    <string name="card_expand_note_toast_save_dup">Salvat cu succes</string>
     <string name="card_hint_noteboard">Atingeți aici pentru a lua o notiță.</string>
     <string name="card_menu_edit">Editați</string>
     <string name="card_menu_setting">Setări</string>
@@ -208,8 +215,9 @@
     <string name="didi_not_installed">Instalați DiDi pentru a utiliza acest card</string>
     <string name="didi_other_dest">Altă destinație</string>
     <string name="didi_price">Cost</string>
-    <string name="didi_price_unit">CNY</string>
+    <string name="didi_price_unit">%sCNY</string>
     <string name="didi_target">Destinație     </string>
+    <string name="didi_taximeter">Calculați prețul cursei</string>
     <string name="didi_trip">Taxi</string>
     <string name="didi_trip_content">Estimați costul și chemați un taxi</string>
     <string name="didi_trip_content_detail">Estimați costul cursei și chemați un taxi.</string>
@@ -328,6 +336,7 @@ Verificați numărul de urmărire."</string>
     <string name="express_inquiry_status_unknown">Necunoscut</string>
     <string name="express_install_cainiao_description">%s necesită instalarea aplicației Cainiao. O instalați acum?</string>
     <string name="express_install_cainiao_hidden">&lt;u&gt;"Nu arăta din nou"&lt;/u&gt;</string>
+    <string name="express_install_cainiao_not_found">Nu s-a găsit Magazinul Mi</string>
     <string name="express_install_cainiao_ok">Instalați</string>
     <string name="express_install_cainiao_title">Instalați aplicația Cainiao</string>
     <string name="express_install_delivery_service">Urmăriți comenzile, contactați curierul și multe altele.</string>
@@ -347,6 +356,7 @@ Verificați numărul de urmărire."</string>
     <string name="express_num_setting_title">Informații comandă accesare</string>
     <string name="express_number_txt">Numărul comenzii:</string>
     <string name="express_open">Arată cardurile livrării</string>
+    <string name="express_open_locker">Deschideți</string>
     <string name="express_open_txt">Deschideți</string>
     <string name="express_order_confirmation">Confirmarea comenzii</string>
     <string name="express_order_failed">Eșuat</string>
@@ -373,8 +383,10 @@ Verificați numărul de urmărire."</string>
     <string name="express_other_app">Permiteți accesul MIUI la informațiile despre comenzi din alte aplicații.</string>
     <string name="express_phone">Telefon</string>
     <string name="express_phone_tip">În livrare, stați conectat</string>
+    <string name="express_pickup_code">Cod: %s</string>
     <string name="express_preview_order">Previzualizați</string>
     <string name="express_region_pick_title">Selectați regiunea</string>
+    <string name="express_schedule_delivery">Serviciul de comandă</string>
     <string name="express_select_address">Adresă</string>
     <string name="express_select_addressee">La</string>
     <string name="express_select_city">Selectați orașul</string>
@@ -428,7 +440,6 @@ Verificați numărul de urmărire."</string>
     <string name="express_track_order">Urmăriți</string>
     <string name="express_tracking_number">Număr de urmărire</string>
     <string name="express_update_cainiao_description">actualizați Cainiao pentru a utiliza această caracteristică.</string>
-    <string name="express_update_cainiao_ok">Actualizați</string>
     <string name="express_update_cainiao_title">Versiunea Cainiao este prea veche</string>
     <string name="express_urge_order">Ciupiți</string>
     <string name="express_view_order">Vedeți comenzile</string>
@@ -519,19 +530,9 @@ Verificați numărul de urmărire."</string>
     <string name="function_zhihu_search">Căutați</string>
     <string name="function_zhihu_title">Zhihu</string>
     <string name="go_to_school">La și de la servici sau școală</string>
-    <string name="greeting_alarm_desc">Alarma va suna mâine la %1$s.</string>
-    <string name="greeting_alarm_desc_with_duration">Alarma va suna mâine la %1$s; mergeți la somn acum pentru a dormi %2$s.</string>
-    <string name="greeting_birth_desc">"Astăzi %1$s își serbează ziua de naștere."</string>
-    <string name="greeting_news_morning">Ce s-a întâmplat pe durata somnului?</string>
-    <string name="greeting_news_night">Astăzi a fost o zi plină de evenimente.</string>
-    <string name="greeting_no_alarm">Nicio alarmă programată; dormiți liniștit!</string>
-    <string name="greeting_no_schedule">Niciun eveniment pentru astăzi.</string>
     <string name="greeting_open">Activați Salutările de zi cu zi</string>
-    <string name="greeting_schedule_desc">Evenimente programate pentru astăzi: %1$d</string>
     <string name="greeting_setting_brief">Primiți notificări despre starea vremii și despre evenimentele programate, alarme, zile de naștere în fiecare dimineață și în fiecare seară</string>
     <string name="greeting_setting_brief_notice">Puteți modifica orașul din aplicația Meteo</string>
-    <string name="greeting_title_morning">Bună dimineața!</string>
-    <string name="greeting_title_night">Bună seara!</string>
     <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
     <string name="greeting_weather_desc_from_to">%1$s la %2$s</string>
     <string name="greeting_weather_prefix_moring">Azi</string>
@@ -621,6 +622,8 @@ Verificați numărul de urmărire."</string>
     <string name="map_title_home">Acasă</string>
     <string name="map_title_office">Servici</string>
     <string name="map_title_smooth">a fluxului</string>
+    <string name="memory_clear_nothing_result">Nimic de golit în memoria cache</string>
+    <string name="memory_clear_result">%1$sB goliți</string>
     <string name="menu_new">Adăugați</string>
     <string name="metre">m</string>
     <string name="mi_agenda">Evenimente din calendar</string>
@@ -712,6 +715,7 @@ Verificați numărul de urmărire."</string>
     <string name="order_price_label">Prețul comenzii: %1$s</string>
     <string name="order_product_name_label">Numele produsului: %1$s</string>
     <string name="order_status_label">Starea comenzii: %1$s</string>
+    <string name="order_type_recharge">Reîncărcați</string>
     <string name="pay_card_pack">Plăți Mi</string>
     <string name="paycode_parent">Alipay</string>
     <string name="paycode_sdk_parent">Scurtătură pentru plăți</string>
@@ -810,9 +814,6 @@ Verificați numărul de urmărire."</string>
     <string name="qq_new">Stare nouă</string>
     <string name="qq_qzone">Qzone</string>
     <string name="quickstart_accessibility_description">"Asistentul inteligent furnizează scurtături pentru aplicațiile terțe selectate. Aceste scurtături nu vor funcționa dacă veți dezactiva această caracteristică."</string>
-    <string name="quickstart_accessibility_dialog_confirm">Activați</string>
-    <string name="quickstart_accessibility_dialog_content">Această scurtătură necesită activarea serviciului de accesibilitate.</string>
-    <string name="quickstart_accessibility_dialog_title">Activați serviciul de accesibilitate</string>
     <string name="quickstart_accessibility_service">Asistentul inteligent</string>
     <string name="recharge_flow">Cumpărați date mobile</string>
     <string name="recharge_tel">Încărcați balanța telefonului</string>
@@ -833,12 +834,11 @@ Verificați numărul de urmărire."</string>
     <string name="scan">Scanați</string>
     <string name="scan_app">Scanați</string>
     <string name="scan_card">Carte de vizită</string>
-    <string name="scan_code">Cod  QR</string>
+    <string name="scan_code">Cod QR</string>
     <string name="scan_doc">Document</string>
     <string name="scan_exercise">Studiu</string>
     <string name="scan_parent">Plătiți</string>
     <string name="scan_trans">Traducere</string>
-    <string name="search">Căutați</string>
     <string name="search_add_header">Adăugați o copertă</string>
     <string name="search_category_article">Articole</string>
     <string name="search_category_shopping">Cumpărături</string>
@@ -890,7 +890,7 @@ Verificați numărul de urmărire."</string>
     <string name="setting_football_edit">Editați</string>
     <string name="setting_football_fav">Echipe</string>
     <string name="setting_football_fav_null">"Nu urmăriți nicio echipă"</string>
-  <string name="setting_football_hupu">Sportskeeda</string>
+    <string name="setting_football_hupu">HuPu Sportsa</string>
     <string name="setting_football_loading">Doar o secundă…</string>
     <string name="setting_football_select_title" formatted="false">Selectați echipele pe care doriți să le urmăriți（%d/%d）</string>
     <string name="setting_football_toast_max">Puteți selecta maxim 4 echipe</string>
@@ -933,8 +933,6 @@ Verificați numărul de urmărire."</string>
     <string name="sms_hao">Loc</string>
     <string name="sms_happened">Finalizat</string>
     <string name="sms_hotel">Hotel</string>
-    <string name="sms_hour_suffix">h rămase</string>
-    <string name="sms_minute_suffix">min rămase</string>
     <string name="sms_passenger">Pasager</string>
     <string name="sms_phone">Număr de telefon</string>
     <string name="sms_platform">Platformă</string>

@@ -1214,6 +1214,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
 Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="puk_requested">Parolă incorectă, codul PIN a fost blocat! Se solicită codul PUK.</string>
     <string name="puk_unlocked">Cartela dvs. SIM a fost deblocată. Telefonul dvs. se deblochează…</string>
+    <string name="quick_dial_setting_title">Apelare rapidă</string>
     <string name="radio_off_during_emergency_call">Nu se poate intra în modul Avion în timpul unui apel de urgență.</string>
     <string name="radio_off_error">Activaţi semnalul radio, înainte de a vizualiza aceste setări.</string>
     <string name="reading_settings">Se citesc setările…</string>

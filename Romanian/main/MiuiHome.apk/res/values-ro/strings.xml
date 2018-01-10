@@ -7,6 +7,7 @@
     <string name="announce_for_close_default_preview">se închide selectarea ecranului Acasă</string>
     <string name="announce_for_close_folder">închidere dosar</string>
     <string name="announce_for_close_launcher_menu">închidere meniu</string>
+    <string name="announce_for_delete_gadget_and_widget">Widget</string>
     <string name="announce_for_delete_item">%1$s a fost șters</string>
     <string name="announce_for_drag_enter_delete_zone">mutare elemente în zona de ștergere</string>
     <string name="announce_for_drag_enter_folder_grid">mutare pictogramă în dosar</string>

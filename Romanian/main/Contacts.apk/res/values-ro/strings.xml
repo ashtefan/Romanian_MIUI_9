@@ -344,6 +344,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="description_minus_button">minus</string>
     <string name="description_plus_button">plus</string>
     <string name="description_quick_contact_for">Contact rapid pentru %1$s</string>
+    <string name="description_quick_dial_button">Apelare rapidă</string>
     <string name="description_search_button">Căutare</string>
     <string name="description_send_message">Trimiteţi un mesaj la %1$s</string>
     <string name="description_send_text_message">Trimiteţi un mesaj text către %1$s</string>
@@ -459,7 +460,7 @@ Pentru a evita solicitările repetate, vom actualiza soldul o dată pe zi."</str
     <string name="export_to_storage">Exportați în spațiul de stocare</string>
     <string name="export_vcard_description">"Exportaţi vCard în stocarea telefonului"</string>
     <string name="exporting_contact_failed_message">"Datele de contact nu au fost exportate.
-Motivul: „%s”"</string>
+Motivul: \"%s\""</string>
     <string name="exporting_contact_failed_title">Nu s-a putut exporta</string>
     <string name="exporting_contact_list_message">Datele dvs. de contact se exportă la: %s.</string>
     <string name="exporting_contact_list_progress" formatted="false">%s din %s contacte din agendă</string>
@@ -821,6 +822,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="path_key_rebuild_t9_index_title">Aplicații de sistem/Contacte/Organizare contacte/Refacere index date</string>
     <string name="path_key_sim_manage">Aplicații de sistem/Contacte/Organizare contacte/Cartele SIM</string>
     <string name="path_preference_contacts_filter">Aplicații de sistem/Contacte/Afișare contacte/Configurare liste de contacte</string>
+    <string name="path_quick_dial_setting">Aplicații de sistem/Contacte/Apelare rapidă</string>
     <string name="path_remove_duplicate">Aplicații de sistem/Contacte/Organizare contacte/Îmbinare contacte dublate</string>
     <string name="path_share_visible_contacts">Aplicații de sistem/Contacte/Import și export/Partajare contacte vizibile</string>
     <string name="path_sim_capacity">Aplicații de sistem/Contacte/Stocare cartelă SIM</string>
@@ -930,6 +932,12 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="pull_to_refresh_release_label">Eliberați pentru a actualiza…</string>
     <string name="qr_card_card">Cod QR</string>
     <string name="qrcode_card_title">Cod QR</string>
+    <string name="quick_dial_setting_delete_dialog_message">Ștergeți numărul pentru apelare rapidă?</string>
+    <string name="quick_dial_setting_delete_dialog_option_delete">Ștergeți</string>
+    <string name="quick_dial_setting_hint">Apăsați un buton pentru a adăuga sau șterge un număr pentru apelare rapidă. Apăsați și mențineți apăsat butonul asociat unui număr de telefon pentru a-l apela.</string>
+    <string name="quick_dial_setting_set_dialog_message">Asociați un număr pentru apelare rapidă acestui buton?</string>
+    <string name="quick_dial_setting_set_dialog_option_set">Da</string>
+    <string name="quick_dial_setting_title">Apelare rapidă</string>
     <string name="quickcontact_missing_app">Nu s-a găsit o aplicaţie care să gestioneze această acţiune</string>
     <string name="quit_dialog_confirm_message">Nu aţi îmbinat niciun contact</string>
     <string name="quit_dialog_confirm_title">Anulaţi îmbinarea contactelor</string>
@@ -998,6 +1006,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="search_key_rebuild_t9_index_title">Organizare;Contacte;t9</string>
     <string name="search_key_sim_manage">Organizare;Contacte</string>
     <string name="search_preference_contacts_filter">Contacte;Afișare</string>
+    <string name="search_quick_dial_setting">Contacte</string>
     <string name="search_remove_duplicate">Organizare;Contacte</string>
     <string name="search_results_searching">Se caută…</string>
     <string name="search_settings_description">Numele contactelor din agenda dvs.</string>
@@ -1105,6 +1114,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="starred_contacts">Favorite</string>
     <string name="status_available">Disponibil</string>
     <string name="status_away">Plecat</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Ocupat</string>
     <string name="strequentList">Favorite</string>
     <string name="success_message_import_from_account">Import finalizat</string>
