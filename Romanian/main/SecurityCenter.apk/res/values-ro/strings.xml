@@ -189,8 +189,10 @@
     <string name="app_manager_manage_space">Gestionare spațiu de lucru</string>
     <string name="app_manager_memory">RAM</string>
     <string name="app_manager_menu_clear_data">Ștergeți datele</string>
+    <string name="app_manager_mobile_slot1">Date mobile (SIM 1)</string>
+    <string name="app_manager_mobile_slot2">Date mobile (SIM 2)</string>
     <string name="app_manager_net_control_title">Restricționați utilizarea datelor</string>
-    <string name="app_manager_net_mobile">Date</string>
+    <string name="app_manager_net_mobile">Date mobile</string>
     <string name="app_manager_net_wifi">Wi-Fi</string>
     <string name="app_manager_not_allow">Nu</string>
     <string name="app_manager_not_support_uninstall">"Nu se pot dezinstala aceste aplicații"</string>

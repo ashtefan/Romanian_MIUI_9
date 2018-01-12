@@ -4,6 +4,10 @@
         <item quantity="other">%1$d apeluri de la %2$s și de la alții</item>
         <item quantity="one">%1$d apel de la %2$s</item>
     </plurals>
+    <plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d apeluri de la %2$s și de la alții</item>
+        <item quantity="one">%1$d apel de la %2$s</item>
+    </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d mesaje</item>
         <item quantity="one">%d mesaj</item>
