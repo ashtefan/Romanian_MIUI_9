@@ -23,7 +23,7 @@
     <string name="access_control_need_password">"%s adăugată cu succes
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">Introduceţi parola pentru blocarea aplicațiilor</string>
-    <string name="accessibility_gameboosterservice_description"/>
+    <string name="accessibility_gameboosterservice_description">"Activați pentru a reduce la tăcere apelurile WeChat atunci când vă jucați"</string>
     <string name="accessibility_service_description"/>
     <string name="action_button_text_100">Optimizați</string>
     <string name="action_button_text_60">Reparați</string>
@@ -78,7 +78,6 @@
     <string name="after_the_lock_screen">Blochează aplicațiile odată cu blocarea ecranului.</string>
     <string name="all_address_choose_hint">Toate numerele din acest județ</string>
     <string name="already_close_gamebooster">Creșterea vitezei în jocuri este dezactivată</string>
-    <string name="anim_gamebooster_text">Doar o secundă…</string>
     <string name="anti_disturb_msg_detail">Dezactivați toate notificările cu excepția apelurilor primite</string>
     <string name="anti_disturb_msg_title">Nu deranjați</string>
     <string name="antispam_mode_details">Detaliile listei de blocări</string>

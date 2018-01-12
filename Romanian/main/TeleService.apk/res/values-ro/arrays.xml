@@ -132,9 +132,9 @@
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Încărcare</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
+        <item>MTP (Protocol Transfer Multimedia)</item>
+        <item>PTP (Protocol Transfer Fotografii)</item>
+        <item>RNDIS (Internet prin USB)</item>
         <item>Sursă audio</item>
         <item>MIDI</item>
     </string-array>
@@ -198,7 +198,7 @@
     <string-array name="cdma_system_select_choices">
         <item>Doar domiciliu</item>
         <item>Automat</item>
-     </string-array>
+    </string-array>
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
