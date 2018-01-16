@@ -297,7 +297,6 @@
     <string name="express_goods_detail">Detaliile comenzii</string>
     <string name="express_icon_tip">Obțineți informații despre livrarea expres utilizând numărul de telefon și numărul comenzii.</string>
     <string name="express_icon_tip_link">Securitate și confidențialitate</string>
-    <string name="express_info_divider">" / "</string>
     <string name="express_inqiury_select_logistics">Serviciu de curierat</string>
     <string name="express_inquiry">Urmărire</string>
     <string name="express_inquiry_and_send">Urmărire și trimitere</string>
@@ -362,7 +361,6 @@ Verificați numărul de urmărire."</string>
     <string name="express_order_failed">Eșuat</string>
     <string name="express_order_ongoing">Comandă…</string>
     <string name="express_order_result">Rezultat</string>
-    <string name="express_order_state">%1$s / %2$s</string>
     <string name="express_order_state_accepted">Aceptată</string>
     <string name="express_order_state_allograph">Semnată</string>
     <string name="express_order_state_cancelled">Anulată</string>
@@ -793,7 +791,6 @@ Verificați numărul de urmărire."</string>
     <string name="pie_chart_label_catering">Mâncare:</string>
     <string name="pie_chart_label_education">Educație:</string>
     <string name="pie_chart_label_entertainment">Divertisment:</string>
-    <string name="pie_chart_label_format">%1$s %2$s%%</string>
     <string name="pie_chart_label_go_dutch">Go Dutch:</string>
     <string name="pie_chart_label_life">Viață:</string>
     <string name="pie_chart_label_medical">Sănătate:</string>
@@ -802,7 +799,6 @@ Verificați numărul de urmărire."</string>
     <string name="pie_chart_label_remain">Rămas:</string>
     <string name="pie_chart_label_remittance">Transferat:</string>
     <string name="pie_chart_label_shopping">Cumpărături:</string>
-    <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
     <string name="pie_chart_label_spending">Plăți:</string>
     <string name="pie_chart_label_telephone_charge">Comunicații:</string>
     <string name="pie_chart_label_tenement">Chirie:</string>

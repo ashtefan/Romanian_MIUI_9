@@ -419,7 +419,6 @@
     <string name="cell_bc_sms_enable">Transmisie celulară a mesajelor SMS activată</string>
     <string name="cell_broadcast_settings">Setările transmisiei celulare</string>
     <string name="cell_broadcast_sms">Transmisie celulară a mesajelor SMS</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="cf_setting_mobile_data_alert">Activați datele mobile și asigurați-vă că Wi-Fi este oprit</string>
     <string name="cf_setting_mobile_data_roaming_alert">Activați utilizarea datelor în roaming</string>
     <string name="cfb_title">Se redirecţionează atunci când este ocupat</string>
@@ -1302,7 +1301,6 @@ Cartela SIM va fi blocată după o altă încercare greşită."</string>
     <string name="set_smsc_address_title">Setaţi numărul centrului SMS</string>
     <string name="set_time_period">Setați perioada de timp</string>
     <string name="settings_label">Setări de reţea</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="show_all_anrs">Arată toate evenimentele ANR</string>
     <string name="show_all_anrs_summary">Arată o fereastră de dialog pentru aplicațiile din fundal care nu răspund</string>
     <string name="show_cpu_usage">Arată utilizarea procesorului</string>
@@ -1501,7 +1499,6 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="turn_on_dual_4g_failed">"Nu s-a putut activa modul Dual 4G."</string>
     <string name="turnover_mute_summary">Când telefonul este așezat pe o suprafață orizontală, întoarcerea lui cu ecranul în jos va dezactiva soneria</string>
     <string name="turnover_mute_title">Întoarcere pentru a dezactiva soneria</string>
-    <string name="ui_default_package">com.android.dialer</string>
     <string name="undefined">Nimic</string>
     <string name="unknown">Necunoscut</string>
     <string name="updating_fdn_contact">Se actualizează numărul cu apelări restricţionate…</string>

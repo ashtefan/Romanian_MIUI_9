@@ -102,7 +102,6 @@
     <string name="can_not_dial_while_vt_prompt">"Nu se poate apela cât timp un apel video este în curs"</string>
     <string name="category_personal">Personal</string>
     <string name="category_work">Servici</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="change_default_dialer_dialog_title">Schimbați aplicația implicită de apelare?</string>
     <string name="change_default_dialer_no_previous_app_set_text">Utilizați %s ca și aplicație implicită de apelare?</string>
     <string name="change_default_dialer_with_previous_app_set_text">Utilizați %1$s în locul %2$s ca și aplicație implicită de apelare?</string>
@@ -277,7 +276,6 @@
     <string name="select_webview_provider_dialog_title">Setați implementarea WebView</string>
     <string name="select_webview_provider_title">Implementare WebView</string>
     <string name="select_webview_provider_toast_text">Această opțiune nu mai este disponibilă. Reîncercați.</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="show_all_anrs">Arată toate închiderile forțate</string>
     <string name="show_all_anrs_summary">Arată o fereastră de închidere forțață pentru aplicațiile din fundal</string>
     <string name="show_cpu_usage">Arată utilizarea procesorului</string>

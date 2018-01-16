@@ -894,7 +894,6 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="cellular_to_wlan_hint_title">Sugestie datemobile-&gt;Wi-Fi</string>
     <string name="cellular_to_wlan_hint_toast">Conexiunea date mobile-&gt;Wi-Fi poate fi afectată</string>
     <string name="cellular_to_wlan_title">Date mobile-&gt;Wi-Fi</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="change">Modificați</string>
     <string name="change_password">Modificaţi parola</string>
     <string name="change_security_lock">Încercați alte modalități de deblocare</string>
@@ -3738,7 +3737,6 @@ Notă: Deblocarea cu amprentă poate fi mai puțin sigură decât utilizarea unu
     <string name="settings_manual_activity_unavailable">A apărut o problemă la încărcarea manuală.</string>
     <string name="settings_notify_need_backup">Faceți o copie de rezervă a setărilor în Mi Cloud pentru a le accesa după ce vă schimbați telefonul.</string>
     <string name="settings_notify_phone_recycled">Numărul dvs. de telefon a fost eliminat. Atingeți pentru a adăuga un alt număr de telefon.</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="settings_safetylegal_activity_loading">Se încarcă…</string>
     <string name="settings_safetylegal_activity_title">Informaţii privind siguranţa</string>
     <string name="settings_safetylegal_activity_unreachable">Nu aveţi o conexiune de date. Pentru a vedea aceste informaţii acum, accesaţi %s de pe orice computer conectat la internet.</string>

@@ -141,7 +141,6 @@
     <string name="continue_backup">Continuați</string>
     <string name="cp_info_first">"Serviciul de streaming
 este oferit în principal de către Ultimate Inc."</string>
-    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">"Nu s-au putut aranja, încercați din nou."</string>
     <string name="create_playlist">Creaţi o listă de redare</string>
     <string name="create_playlist_failure">Nu s-a putut crea lista de redare</string>

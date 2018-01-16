@@ -197,7 +197,6 @@
     <string name="cancel">Renunțați</string>
     <string name="category_personal">Personal</string>
     <string name="category_work">Servici</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="charge_length_format">%1$s în urmă</string>
     <string name="chooseUsbActivity">Selectaţi o aplicaţie pentru dispozitivul USB</string>
     <string name="choose_profile">Selectați profilul</string>
@@ -613,7 +612,6 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="select_webview_provider_title">Implementare WebView</string>
     <string name="select_webview_provider_toast_text">Această opțiune nu mai este disponibilă. Reîncercați.</string>
     <string name="settings_custom_notification">Gestionare notificări</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="settings_toggle_position">Personalizaţi comutatoarele</string>
     <string name="settings_toggle_position_divider_list">Comutatoarele de deasupra barei sunt active</string>
     <string name="settings_toggle_position_reset">Resetaţi comutatoarele</string>

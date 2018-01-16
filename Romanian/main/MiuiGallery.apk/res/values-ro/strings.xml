@@ -709,8 +709,6 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="photo_editor_saving">Se salvează…</string>
     <string name="photo_editor_sticker">Miniatură</string>
     <string name="photo_editor_text">Text</string>
-  <string name="photo_editor_transition_image_view">photo_view</string>
-  <string name="photo_editor_transition_menu_view">menu_view</string>
     <string name="photo_page_save_uri_image_fail">"Nu s-a putut salva în Galerie"</string>
     <string name="photo_page_save_uri_image_ok">Fotografia a fost salvată în Galerie</string>
     <string name="photo_print_menu_loading">Încărcare extensie…</string>
