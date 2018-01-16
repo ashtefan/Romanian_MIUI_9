@@ -26,10 +26,10 @@
     <string name="downloading">Se descarcă</string>
     <string name="downloading_in_3g">Se descarcă în 3G…</string>
     <string name="downloading_in_wifi">Descărcare…</string>
-    <string name="drive_low_memory_description_content">Spațiul de stocare din telefon este insuficient; vă rugăm mergeți la secțiunea Curățare pentru a elibera spațiu.</string>
-    <string name="drive_low_memory_description_title">Avertisment spațiu de stocare redus</string>
-    <string name="drive_low_memory_description_toast">Spațiul de stocare din telefon este insuficient; vă rugăm eliberați spațiu după utilizarea Mi Drive</string>
-    <string name="drive_low_memory_positive_content">Curățați</string>
+    <string name="drive_low_memory_description_content">"Nu se poate utiliza Mi Drive datorită spațiului de stocare insuficient."</string>
+    <string name="drive_low_memory_description_title">Spațiu de stocare insuficient</string>
+    <string name="drive_low_memory_description_toast">"Nu se poate utiliza Mi Drive datorită spațiului de stocare insuficient. Vă rugăm eliberați spațiu și încercați din nou."</string>
+    <string name="drive_low_memory_positive_content">Eliberați</string>
     <string name="empty_file_download">"Nu se pot descărca fișiere fără conținut."</string>
     <string name="empty_file_upload">"Nu se pot încărca fișiere fără conținut."</string>
     <string name="file_already_downlaoded">Fișier salvat în \"%1$s\"</string>

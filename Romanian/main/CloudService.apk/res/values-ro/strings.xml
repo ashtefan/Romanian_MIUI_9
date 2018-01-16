@@ -97,6 +97,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_error_server">Eroare de server</string>
     <string name="find_device_error_unknown">Eroare necunoscută.</string>
     <string name="find_device_notice_p1">Accesaţi</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"pentru a localiza, bloca, sau restabili telefonul dvs.
 Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reactiva această funcție."</string>
     <string name="find_device_operation_failure_rpc">"Nu s-a putut realiza operațiunea datorită unei erori RPC."</string>
@@ -134,9 +135,9 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="ks_download_success">Descărcat cu succes</string>
     <string name="ks_fingerprint_payment">Plăți prin amprentă</string>
     <string name="ks_fingerprint_status">Stare plată</string>
-    <string name="ks_name_alipay">IFAA</string>
+    <string name="ks_name_alipay">Alipay</string>
     <string name="ks_name_fido">FIDO</string>
-    <string name="ks_name_soter">Soter</string>
+    <string name="ks_name_soter">WeChat Pay</string>
     <string name="ks_status_available">Disponibil</string>
     <string name="ks_status_unavailable">Indisponibil</string>
     <string name="ks_update_certificate">Certificat</string>
@@ -163,7 +164,7 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="micloud_battery_low_notification_message">Conectați încărcătorul pentru a putea sincroniza</string>
     <string name="micloud_battery_low_notification_title">Nivel scăzut al acumulatorului</string>
     <string name="micloud_buy_member">Cumpărați titlu de membru Mi Cloud</string>
-    <string name="micloud_buy_member_safe">Creșteți spațiul de stocare în Mi Cloud</string>
+    <string name="micloud_buy_member_safe">Obțineți mai mult spațiu de stocare în Mi Cloud</string>
     <string name="micloud_check_sim_notify_text">"Se pare că aţi schimbat cardurile SIM. Conectaţi-vă
 la contul dvs. Mi pentru a reactiva Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Reactivare Mi Cloud</string>
@@ -289,11 +290,11 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_main_error_activated_fail">Vă rugăm activați cartela SIM.</string>
     <string name="micloud_main_error_network_disallowed">Asigurați-vă că ați acordat permisiunea de acces la Internet.</string>
     <string name="micloud_main_error_permission_limit">Permiteți Mi Cloud să acceseze stocarea.</string>
-    <string name="micloud_main_head_menu_cloud_backup">Copie de rezervă în Cloud</string>
-    <string name="micloud_main_head_menu_recycle_bin_summary">Refaceți copia de rezervă pentru Contacte, Fotografii</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">Coș de gunoi</string>
-    <string name="micloud_main_head_menu_state_close">Închis</string>
-    <string name="micloud_main_head_menu_state_open">Deschis</string>
+    <string name="micloud_main_head_menu_cloud_backup">Copie de rezervă pentru Ecranul principal</string>
+    <string name="micloud_main_head_menu_recycle_bin_summary">Restabiliți elementele șterse</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">Elemente șterse</string>
+    <string name="micloud_main_head_menu_state_close">Oprit</string>
+    <string name="micloud_main_head_menu_state_open">Pornit</string>
     <string name="micloud_main_head_menu_state_unavailable">Indisponibil</string>
     <string name="micloud_main_last_sync_time">Ultima sincronizare: %s</string>
     <string name="micloud_main_master_sync_on">Sincronizare pornită</string>
@@ -343,7 +344,7 @@ Utilizați alt cont"</string>
     <string name="micloud_main_wait_wlan_charge">Conectați-vă la Wi-Fi și încărcați complet acumulatorul pentru a relua sincronizarea</string>
     <string name="micloud_main_wait_wlan_charge_sleep">Conectați-vă la Wi-Fi, închideți ecranul și încărcați complet acumulatorul pentru a relua sincronizarea</string>
     <string name="micloud_main_wlan_sync_data_count">Elemente care aşteaptă sincronizarea: %d</string>
-    <string name="micloud_manage_space_data">gestionați datele micloud</string>
+    <string name="micloud_manage_space_data">Gestionați datele din Mi Cloud</string>
     <string name="micloud_member">Apartenență Mi Cloud</string>
     <string name="micloud_member_advantage">Obțineţi mai mult spațiu de stocare.</string>
     <string name="micloud_member_buy_content" formatted="false">"Valid până la %s-%s-%s
@@ -497,10 +498,10 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="settings_backup_title">Creare copie de rezervă pentru setările de sistem</string>
     <string name="share_cancel">Partajare anulată</string>
     <string name="share_failed">Imposibil de partajat</string>
-    <string name="share_miliao_not_installed">MiTalk nu este instalat.</string>
+    <string name="share_miliao_not_installed">"MiTalk nu este instalată."</string>
     <string name="share_success">Partajat</string>
-    <string name="share_weibo_not_installed">Weibo nu este instalat.</string>
-    <string name="share_weixin_not_installed">Wechat nu este instalat.</string>
+    <string name="share_weibo_not_installed">"Weibo nu este instalată."</string>
+    <string name="share_weixin_not_installed">"Wechat nu este instalat."</string>
     <string name="short_cut_desc">Adăugați pictograma Mi Cloud pe ecranul principal?</string>
     <string name="sina_share_fail">"Nu s-a putut trimite"</string>
     <string name="sina_share_fail_content_repeat">"Ați distribuit deja acest lucru."</string>

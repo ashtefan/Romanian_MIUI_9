@@ -84,8 +84,8 @@
     <string name="confirm_export_dialog_description">Conversațiile anterioare cu acest contact nu vor mai fi ascunse</string>
     <string name="confirm_export_dialog_title">Eliminaţi din contacte private</string>
     <string name="confirm_no_block_positive">Nu blocaţi şi restabiliţi</string>
-    <string name="confirm_no_block_title">"Deblocaţi acest număr şi restabiliţi toate mesajele trimise de la acest număr?
-(Numărul va fi adăugat în lista mesajelor permise)"</string>
+    <string name="confirm_no_block_title">"Deblocaţi şi restabiliţi toate mesajele trimise de la acest număr?
+(Numărul va fi adăugat în lista excepțiilor.)"</string>
     <string name="confirm_rate_limit">Un număr mare de mesaje multimedia sunt trimise.</string>
     <string name="confirm_restore_all_title">Restabiliți toate mesajele trimise de pe acest număr?</string>
     <string name="confirm_restore_checkbox">Restabiliţi mesajele blocate</string>

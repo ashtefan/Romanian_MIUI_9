@@ -73,5 +73,7 @@ Trebuie să acceptați Condiţiile de utilizare și Politica de confidențialita
 Trebuie să acceptați Termenii Serviciului și Politica de Confidențialitate înainte de a utiliza MIUI. Serviciile Mi, Serviciile Mi de activare a cartelei SIM, Mi Cloud, Localizarea dispozitivului, Ecranul Acasă, Centrul de jocuri, componentele de sistem MAB ,MiuiDaemon și MSA, aplicațiile web, quick cards, statisticile, smart cards, Mi Link, contul Mi și componentele serviciilor Google Play se vor conecta la internet și vă vor obține locația."</string>
     <string name="title_fingerprint">Setați parola</string>
     <string name="user_agreement">Termenii serviciului</string>
+    <string name="voice_assist_desp">Rostiți \"Mi AI\" în telefon. Asistentul vocal Mi vă va recunoaște vocea și va putea controla telefonul.</string>
+    <string name="voice_assist_title">Trezire prin voce</string>
     <string name="welcome">Bine aţi venit</string>
 </resources>

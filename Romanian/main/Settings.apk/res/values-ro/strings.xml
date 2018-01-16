@@ -4416,9 +4416,7 @@ Amprentele salvate vor fi de asemenea eliminate de pe acest dispozitiv și nu ve
 
 Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți mai putea debloca profilul, să autorizați plăți sau să vă conectați în aplicații cu acestea."</string>
     <string name="unlock_disable_frp_warning_content_pin_profile">Caracteristicile de protecție a profilului nu vor funcționa fără codul PIN.</string>
-    <string name="unlock_disable_frp_warning_content_profile">"Caracteristicile de protecție a profilului nu vor funcționa fără parola dumneavoastră.
-
-Nu vă veți putea debloca profilul, autoriza achiziții sau să vă autentificați în aplicații cu acestea."</string>
+    <string name="unlock_disable_frp_warning_content_profile">"Caracteristicile de protecție a profilului nu vor funcționa fără parola dumneavoastră."</string>
     <string name="unlock_disable_frp_warning_content_unknown">Caracteristicile de protecție a dispozitivului nu vor funcționa fără modelul de deblocare a ecranului.</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Caracteristicile de protecție a dispozitivului nu vor funcționa fără modelul de deblocare a ecranului.
 
