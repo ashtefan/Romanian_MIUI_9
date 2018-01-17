@@ -21,8 +21,6 @@
         <item>Xerox</item>
         <item>Xerox</item>
     </string-array>
-    <array name="known_print_plugin_vendors">
-        <item>@array/known_print_vendor_info_for_mopria</item>
         <item>@array/known_print_vendor_info_for_hp</item>
         <item>@array/known_print_vendor_info_for_samsung</item>
     </array>
