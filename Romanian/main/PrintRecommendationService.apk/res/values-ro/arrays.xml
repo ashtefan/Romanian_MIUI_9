@@ -23,5 +23,5 @@
     </string-array>
         <item>@array/known_print_vendor_info_for_hp</item>
         <item>@array/known_print_vendor_info_for_samsung</item>
-    </array>
+    </string-array>
 </resources>
