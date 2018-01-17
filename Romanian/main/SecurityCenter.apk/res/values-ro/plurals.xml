@@ -73,7 +73,7 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="one">%d aplicaţie găsită</item>
     </plurals>
     <plurals name="network_restrict_count">
-        <item quantity="other">"Accesul la rețea este restricționat pentru &lt;font color='#ff0000'>%d:&lt;/font> aplicații"</item>
+        <item quantity="other">"Accesul la rețea este restricționat pentru &lt;font color='#ff0000'>%d&lt;/font> aplicații"</item>
         <item quantity="one">"Accesul la rețea este restricționat pentru &lt;font color='#ff0000'>%d&lt;/font> aplicație"</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">

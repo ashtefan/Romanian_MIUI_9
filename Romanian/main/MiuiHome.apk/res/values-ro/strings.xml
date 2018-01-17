@@ -273,6 +273,7 @@
     <string name="sort_by_not_defined">Sortare automată</string>
     <string name="start_activity_failed">"Nu se poate porni lansatorul de sistem"</string>
     <string name="starting_preset_app">Pornire…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">Descărcate</string>
     <string name="status_downloading">Descărcare</string>
     <string name="status_installing">Instalare</string>

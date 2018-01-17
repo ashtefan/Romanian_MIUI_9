@@ -240,6 +240,18 @@
         <item quantity="other">"Nu s-a putut partaja. Încă se procesează %d fotografii…"</item>
         <item quantity="one">"Nu s-a putut partaja. Încă se procesează %d fotografie…"</item>
     </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">S-au optimizat %d fotografii</item>
+        <item quantity="one">S-a optimizat %d fotografie</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">"%d fotografii nu au fost optimizate. Opriți acum?"</item>
+        <item quantity="one">"%d fotografie nu a fost optimizată. Opriți acum?"</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d fotografii rămase</item>
+        <item quantity="one">%d fotografie rămasă</item>
+    </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">"Nu s-au sincronizat %d fotografii și videoclipuri"</item>
         <item quantity="one">"Nu s-a sincronizat %d fotografie sau videoclip"</item>

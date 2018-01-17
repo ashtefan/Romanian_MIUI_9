@@ -499,6 +499,7 @@
     <string name="wechat_copying_video_dialog_title">Exportați în Galerie</string>
     <string name="wechat_copying_video_empty">Niciun videoclip de exportat</string>
     <string name="wechat_copying_video_success">Exportat cu succes</string>
+    <string name="wechat_qq_activity_title">Curățare profundă</string>
     <string name="wechat_qq_celan_tab_file">Fișiere</string>
     <string name="wechat_qq_celan_tab_image">Imagine</string>
     <string name="wechat_qq_celan_tab_video">Videoclipuri</string>

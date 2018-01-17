@@ -29,8 +29,8 @@
     <string name="action_button_text_60">Reparați</string>
     <string name="action_button_text_60_80">Reparați</string>
     <string name="action_button_text_80_100">Optimizați</string>
-    <string name="action_source_call_title">Apeluri Blocate</string>
-    <string name="action_source_sms_title">Mesaje Blocate</string>
+    <string name="action_source_call_title">Apeluri blocate</string>
+    <string name="action_source_sms_title">Mesaje blocate</string>
     <string name="activity_title_antispam">Listă blocări</string>
     <string name="activity_title_antivirus">Scanare de securitate</string>
     <string name="activity_title_apps_manager">Aplicaţii</string>
@@ -117,7 +117,7 @@
     <string name="antivirus_update_btn_update">Actualizați</string>
     <string name="apn_exception_summary">Testare configuraţii APN operator</string>
     <string name="apn_exception_title">Verificaţi configuraţiile APN</string>
-    <string name="app_bg_restrict_dialog_message">Restricționarea conectării în fundal poate împiedica funcționarea aplicației. De exemplu, nu se vor mai primi mesaje sau actualiza conținutul. Restricționați oricum?</string>
+    <string name="app_bg_restrict_dialog_message">Restricționarea conectării în fundal poate împiedica funcționarea aplicației. De exemplu, nu se vor mai primi mesaje sau actualiza conținutul.</string>
     <string name="app_check_no_issue">Se pare că nu există probleme legate de acumulator. Bravo!</string>
     <string name="app_detail">Detalii</string>
     <string name="app_error_tip_for_launcher">"Componentele hardware ale dispozitivului dumneavoastră sau versiunea Android pot cauza probleme de compatibilitate și pot face ca unele aplicații să se comporte necorespunzător, să se blocheze sau să se închidă forțat. Dacă întâmpinați astfel de probleme, împărtășiți-le dezvoltatorilor aplicației."</string>
@@ -347,10 +347,10 @@
     <string name="back_app_name">Înapoi la Blocarea aplicației</string>
     <string name="back_description_securitycenter">Înapoi</string>
     <string name="back_modifypassword">Înapoi la modificarea parolei</string>
-    <string name="back_sound_data">Necesită rețeaua de date mobile; vă rugăm reîncercați!</string>
-    <string name="back_sound_fail">Eșuat！ Datorită modificării interfeței operatorului, puteți încerca să comutați cartela SIM curentă la cartela de rețea și să încercați din nou.</string>
-    <string name="back_sound_success">Succes!</string>
-    <string name="back_sound_support">"Operatorul rețelei curente nu suportă această opțiune！"</string>
+    <string name="back_sound_data">Activați datele mobile și reîncercați.</string>
+    <string name="back_sound_fail">"Nu s-a putut seta. Setările operatorului au fost modificate. Setați cartela SIM curentă ca și SIM pentru date, conectați-vă la rețea și încercați din nou."</string>
+    <string name="back_sound_success">Setat cu succes</string>
+    <string name="back_sound_support">"Operatorul rețelei curente nu suportă această opțiune."</string>
     <string name="background_restrict_app_dialog_message">Restricționarea accesului la rețea în fundal pentru această aplicație poate împiedica funcționarea corectă a acesteia, primirea mesajelor, descărcarea conținutului, etc. Restricționați oricum?</string>
     <string name="background_traffic">În fundal: %s</string>
     <string name="backsound_set_hint">Setați mesajul pentru perioada cât sunteți plecat ca %s?</string>
@@ -630,7 +630,7 @@
     <string name="dlg_keyword_ok">Salvați</string>
     <string name="dlg_message_not_open_stranger_identify">Pentru a activa această caracteristică mergeți la Setări/Telefon.</string>
     <string name="dlg_move_to_white">Adăugați în lista excepțiilor</string>
-    <string name="dlg_no_block">"Deblocați acest număr de telefon?
+    <string name="dlg_no_block">"Deblocați acest număr de telefon ?
  Numărul va fi adăugat în lista apelurior permise, dar elementele blocate anterior nu vor apărea în istoricul de apelare."</string>
     <string name="dlg_no_block_ok">Deblocați</string>
     <string name="dlg_not_block_call">"Deblocați numerele selectate? Ele vor fi adăugate în lista excepțiilor, dar elementele blocate anterior nu vor apărea în istoricul de apelare."</string>
@@ -1608,7 +1608,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sc_allow_network_dialog_message">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
     <string name="sc_allow_network_dialog_tiltle">Nu se poate utiliza această caracteristică</string>
     <string name="sc_system_risk_fix_info_xspace">"Nu se poate rezolva din Spațiul secundar. Încercați din nou în Spațiul principal."</string>
-    <string name="sc_warning_updater_not_found">Aplicația de actualizare nu a fost găsită. Nu se poate actualiza!</string>
+    <string name="sc_warning_updater_not_found">"Aplicația de actualizare nu a fost găsită."</string>
     <string name="scan_installed_games">Verificare jocuri instalate…</string>
     <string name="scan_status_risk">Riscant</string>
     <string name="scan_status_safe">Sigur</string>

@@ -9,6 +9,7 @@
     <string name="cm_terms_content">"Pentru a îmbunătăți serviciile oferite, operatorul de date mobile poate, dacă preferați, să încarce datele dvs. personale și informații despre acest dispozitiv pe serverele sale utilizând rețelele Wi-Fi sau conexiunea de date mobile. Aceste informații vor fi utilizate doar în scopuri statistice, pentru a îmbunătăți calitatea serviciilor și furnizarea unui conținut personalizat. Aceste informații nu vor fi folosite pentru a vă identifica și nu vor fi partajate altor entități."</string>
     <string name="cm_terms_title">Acord Operator rețea mobilă</string>
     <string name="congratulation_label">"Sunteți gata de start!​"</string>
+    <string name="congratulation_swipe">Glisați în sus pentru a accesa sistemul</string>
     <string name="congratulation_title">Configurare finalizată</string>
     <string name="content_description_complete">Finalizat</string>
     <string name="content_description_miui_version">MIUI 9</string>
@@ -37,6 +38,9 @@
     <string name="miui_terms_no_network">Nu aveți conexiune la internet. Vizualizaţi Termenii și condițiile la %s.</string>
     <string name="multisim_settings_category">Setări cartelă SIM</string>
     <string name="multisim_settings_title">2 cartele SIM detectate</string>
+    <string name="navigation_picker_gesture_guide">Ghidare prin gesturi</string>
+    <string name="navigation_picker_radio_text_full_screen">Mod Ecran complet</string>
+    <string name="navigation_picker_radio_text_virtual_key">Mod tastatură virtuală</string>
     <string name="next">Înainte</string>
     <string name="next_fingerprint">Următoarea</string>
     <string name="other_settings">Setări adiţionale</string>
@@ -57,6 +61,7 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="setting_locale">Setare regiune…</string>
     <string name="shut_down">Închidere</string>
     <string name="sim_card_detecting">Verificare cartelă SIM…</string>
+    <string name="sim_card_detecting_check">"Nu s-a găsit cartela SIM. Asigurați-vă că este instalată corect și că aveți credit suficient."</string>
     <string name="sim_card_detecting_title">Verificaţi cartela SIM</string>
     <string name="sim_card_detection">Introduceţi o cartelă SIM</string>
     <string name="sim_card_detection_info"></string>
@@ -64,6 +69,7 @@ Vizualizaţi Politica de confidențialitate a tastaturii selectate</string>
     <string name="sim_redetection">Verificaţi din nou</string>
     <string name="skip_underline">Omiteţi acest pas</string>
     <string name="summary_not_set">Nu este setat</string>
+    <string name="system_navigation_mode">Mod navigare prin sistem</string>
     <string name="terms_of_use">Termeni și condiții</string>
     <string name="terms_of_use_label">"Confidențialitatea datelor dvs. este foarte importantă pentru noi. Citiți Termenii și condițiile precum și Politica de confidențialitate pentru a înțelege ce informații colectăm, cum le folosim și ce opțiuni sunt disponibile pentru dvs.
     

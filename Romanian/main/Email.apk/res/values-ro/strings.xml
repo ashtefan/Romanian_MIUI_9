@@ -215,8 +215,8 @@ Actualizaţi acum?"</string>
     <string name="auto_advance_help_title">După ștergerea unui mesaj, se vizualizează…</string>
     <string name="auto_advance_label">Ștergere flux de mesaje</string>
     <string name="auto_advance_summary">Alegeți la ce mesaj se derulează după ștergerea unui e-mail</string>
-    <string name="auto_login_fail">Autentificarea automată a eșuat</string>
-    <string name="auto_login_fail_to_retry">Autentificarea automată a eșuat; încercați din nou.</string>
+    <string name="auto_login_fail">"Nu s-a putut autentifica în mod automat"</string>
+    <string name="auto_login_fail_to_retry">"Nu s-a putut autentifica în mod automat, încercați din nou."</string>
     <string name="auto_mail_describe">Configurarea automată a serviciului de e-mail 139 vă poate ajuta să completați datele de conectare ale căsuței de e-mail. Doriți să activați această caracteristică?</string>
     <string name="auto_mail_disable_txt">Dezactivată</string>
     <string name="auto_mail_enable_txt">Setări start</string>
@@ -850,9 +850,9 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="push_wps_confirm_message">Încercaţi să utilizaţi WPS Office pentru a deschide acest atașament.</string>
     <string name="push_wps_confirm_title">Încercaţi WPS Office</string>
     <string name="push_wps_no_response_app">Nu a fost găsită nicio aplicație pentru a gestiona această acţiune</string>
-    <string name="qq_auto_login_failed_cpy_pass_success">Copiat cu succes; reveniți la pagina de autentificare și lipiți în câmpul parolă</string>
-    <string name="qq_auto_login_failed_dialog_message">Copiați codul de autorizare apoi reveniți la pagina de autentificare și apăsați \"Introduceți numele de utilizator și parola pentru autentificare\"; lipiți pentru a completa câmpul parolă și autentificare manuală</string>
-    <string name="qq_auto_login_failed_dialog_positive_label">Copiați codul de autorizare</string>
+    <string name="qq_auto_login_failed_cpy_pass_success">Copiat cu succes. Reveniți la pagina de autentificare și lipiți codul în câmpul parolă</string>
+    <string name="qq_auto_login_failed_dialog_message">Copiați codul de verificare, apăsați \"Introduceți numele de utilizator și parola pentru autentificare\" în pagina de autentificare și lipiți codul în câmpul parolă.</string>
+    <string name="qq_auto_login_failed_dialog_positive_label">Copiați codul</string>
     <string name="qq_bar_open_imap">Ajutor</string>
     <string name="qq_bar_send_message">Trimiteți SMS</string>
     <string name="qq_login_basecode">Conectare la QQ Email din browser. Introduceți parola independentă.</string>
@@ -863,7 +863,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="qq_login_webview">Conectare la QQ Email din browser, atingeți conectare cu parolă.</string>
     <string name="qq_next_generation_auth_toast">Activați protecția prin parolă din browser</string>
     <string name="qq_uthentication_failed">"Nu s-a putut verifica contul; vă rugăm conectați-vă din nou"</string>
-    <string name="qq_webview_loading">Doar o secundă...</string>
+    <string name="qq_webview_loading">Doar o secundă…</string>
     <string name="questionnair_body_invisibility">"Mesajele nu sunt afișate"</string>
     <string name="questionnair_confirm_delete">Ștergeți contul?</string>
     <string name="questionnair_instability">Aplicație instabilă, se blochează în mod frecvent</string>
@@ -952,7 +952,7 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="request_entity_large">Fișierul este prea mare</string>
     <string name="request_permission_activity">Solicitare permisiune</string>
     <string name="respond_inline">"    Răspundeţi inline"</string>
-    <string name="retry_login">vă rugăm să vă autentificați din nou</string>
+    <string name="retry_login">Autentificați-vă din nou</string>
     <string name="save_action">Salvaţi</string>
     <string name="save_attachment">Salvaţi</string>
     <string name="save_draft_failed">Salvare mesaj nefinalizat eşuată</string>
