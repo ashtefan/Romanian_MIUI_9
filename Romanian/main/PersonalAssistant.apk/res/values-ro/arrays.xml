@@ -52,11 +52,6 @@
         <item>Pe drum</item>
         <item>În livrare</item>
     </string-array>
-    <string-array name="payment_chooser">
-        <item>SMS (carduri de debit și de credit)</item>
-        <item>WeChat</item>
-        <item>Alipay</item>
-    </string-array>
     <string-array name="stock_color_schema">
         <item>Roșu - sus, verde - jos</item>
         <item>Verde - sus, roșu - jos</item>

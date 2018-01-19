@@ -12,7 +12,7 @@
     <string name="bugreport_dialog_submit_content">Comentariul poate conține informații personale și date despre locație.</string>
     <string name="bugreport_dump_complete_notification_summary">Apăsaţi pentru a vizualiza.</string>
     <string name="bugreport_dump_complete_notification_title">Raport de probleme creat</string>
-    <string name="bugreport_dump_start_notification_summary">Durează câteva minute.</string>
+    <string name="bugreport_dump_start_notification_summary">Acest lucru poate dura câteva minute.</string>
     <string name="bugreport_dump_start_notification_title">Creare raport…</string>
     <string name="bugreport_tool_log_dumping_desc">Durează aproximativ un minut</string>
     <string name="bugreport_tool_log_dumping_title">Se crează raportul cu erori</string>

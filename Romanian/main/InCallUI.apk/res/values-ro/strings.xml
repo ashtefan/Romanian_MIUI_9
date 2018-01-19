@@ -194,7 +194,7 @@
     <string name="onscreen_note_calls_text">Notă</string>
     <string name="onscreen_swap_calls_text">Schimbare</string>
     <string name="onscreen_switch_camera">Comutați</string>
-    <string name="package_not_available">\"%s\" nu este disponibil</string>
+    <string name="package_not_available">"\"%s\" nu este disponibil"</string>
     <string name="pause_prompt_no">Nu</string>
     <string name="pause_prompt_yes">Da</string>
     <string name="payphone">Telefon public</string>

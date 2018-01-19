@@ -785,7 +785,7 @@ Verificați numărul de urmărire."</string>
     <string name="payment_upload_data_fail">Încărcarea datelor a eșuat</string>
     <string name="payment_upload_data_no_data">Nimic de încărcat</string>
     <string name="payment_upload_data_success">Date încărcate cu succes</string>
-    <string name="payment_user_notice_bar_text">Despre \"Plățile mele\"</string>
+    <string name="payment_user_notice_bar_text">Despre \"Plățile automate\"</string>
     <string name="personalAssistant_mainpage">Pagina Acasă</string>
     <string name="pie_chart_label_atm">Retrageri de la ATM:</string>
     <string name="pie_chart_label_catering">Mâncare:</string>

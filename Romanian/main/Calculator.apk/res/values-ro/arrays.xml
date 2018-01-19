@@ -42,6 +42,43 @@
         <item>Rate egale</item>
         <item>Rate descrescătoare</item>
     </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>CNY</item>
+    </string-array>
+    <string-array name="unit_data_order_length_">
+        <item>km</item>
+        <item>m</item>
+        <item>dm</item>
+        <item>cm</item>
+        <item>mm</item>
+        <item>um</item>
+        <item>nm</item>
+        <item>pm</item>
+        <item>dm</item>
+        <item>nmi</item>
+        <item>mi</item>
+        <item>fur</item>
+        <item>fm</item>
+        <item>yd</item>
+        <item>ft</item>
+        <item>in</item>
+        <item>gongli</item>
+        <item>li</item>
+        <item>zhang</item>
+        <item>chi</item>
+        <item>cun</item>
+        <item>fen</item>
+        <item>lii</item>
+        <item>hao</item>
+        <item>pc</item>
+        <item>ld</item>
+        <item>au</item>
+        <item>ly</item>
+    </string-array>
     <string-array name="unit_data_order_area_">
         <item>km pătrat</item>
         <item>ha</item>
@@ -88,7 +125,7 @@
         <item>fps</item>
         <item>ips</item>
     </string-array>
-     <string-array name="unit_data_order_weight_">
+    <string-array name="unit_data_order_weight_">
         <item>t</item>
         <item>kg</item>
         <item>g</item>
@@ -110,6 +147,13 @@
         <item>qian</item>
         <item>liang</item>
         <item>taijin</item>
+    </string-array>
+    <string-array name="unit_data_order_temperature_">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+        <item>R</item>
+        <item>Re</item>
     </string-array>
     <string-array name="unit_data_order_time_">
         <item>an</item>

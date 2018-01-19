@@ -13,8 +13,12 @@
     <string name="address">Adresă</string>
     <string name="afternoon">PM</string>
     <string name="am">AM</string>
+    <string name="angle">deg</string>
     <string name="app_name">Calculator</string>
     <string name="app_name_danfa">Calculator Mi</string>
+    <string name="arccos">arccos</string>
+    <string name="arcsin">arcsin</string>
+    <string name="arctan">arctan</string>
     <string name="birthday">Zi de naștere</string>
     <string name="cal_convert_to_word_figure">Convertiți în caractere financiare</string>
     <string name="cal_copy">Copiați</string>
@@ -22,6 +26,7 @@
     <string name="cal_paste">Lipiți</string>
     <string name="cal_result_format">= %s</string>
     <string name="cal_text_copied">Text copiat</string>
+    <string name="cancel">Renunțați</string>
     <string name="check_phone_error_title">Sincronizarea este oprită</string>
     <string name="check_phone_io_error">"Nu s-a putut conecta la rețea"</string>
     <string name="choose_currency">Selectați moneda</string>
@@ -56,6 +61,7 @@
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="dateformat">dd/MM/yyyy</string>
     <string name="day">zi</string>
+    <string name="degDesc">Unghi</string>
     <string name="del">DEL</string>
     <string name="deleteDesc">ștergeți</string>
     <string name="description_content">Înafară de caracteristicile de bază, aplicația Calculator funcționează ca și convertor multifuncțional, calculator de taxe și dobânzi. Asigurați-vă că vă puteți descurca fără aceste caracteristici înainte de a dezinstala aplicația.</string>
@@ -175,6 +181,9 @@
     <string name="im">IM</string>
     <string name="immersion_button_close_description">închideți</string>
     <string name="income_type"/>
+    <string name="install">Instalați</string>
+    <string name="install_scanner_to_continued_use">Aplicația Scaner este dezinstalată. O instalați din nou?</string>
+
     <string name="instruction">Instrucțiuni</string>
  <string name="item_title_aa_payment">Defalcare factură</string>
     <string name="item_title_area_conversion">Arie</string>
@@ -211,6 +220,7 @@
     <string name="midnight">AM</string>
     <string name="minus">−</string>
     <string name="minusDesc">minus</string>
+    <string name="minusOne">-1</string>
     <string name="monday">Luni</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">L</string>
@@ -330,16 +340,25 @@
     <string name="preference_settings">Setări</string>
     <string name="preference_use_degress_summary">Înlocuiți radianii cu unghiuri în funcțiile trigonometrice</string>
     <string name="preference_use_degress_title">Utilizați unghiuri</string>
+    <string name="radDesc">Radian</string>
+    <string name="radian">rad</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
     <string name="rate_data_provider">Ratele dobânzilor sunt furnizate de către hexun.com</string>
+    <string name="reciprocal">1/X</string>
+    <string name="reciprocalDesc">Inversul</string>
+    <string name="reverceDesc">arc</string>
     <string name="rightParen">)</string>
     <string name="rightParenDesc">paranteză dreapta</string>
     <string name="sar">Informații despre expunerea la radiații</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">S</string>
+    <string name="scannerDesc">Scaner</string>
+    <string name="scanner_had_been_uninstalled">Aplicația Scaner este dezinstalată</string>
     <string name="search_input_description">căutați</string>
     <string name="search_mode_button_back_description">înapoi</string>
+    <string name="secondFunction">a 2a</string>
+    <string name="secondFunctionDesc">Comutați la a doua funcție</string>
     <string name="select_all">Selectați tot</string>
     <string name="select_item">Selectați elementele</string>
     <string name="send">Trimiteți</string>
@@ -393,6 +412,7 @@
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">D</string>
+    <string name="switchDesc">Comutați</string>
     <string name="sync_one_time_sync">Atingeți pentru a sincroniza ( %1$s )</string>
     <string name="tan">tan</string>
     <string name="tanDesc">tangentă</string>

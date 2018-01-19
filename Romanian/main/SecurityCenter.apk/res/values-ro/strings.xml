@@ -158,7 +158,7 @@
     <string name="app_manager_default_close_summary">Nicio valoare predefinită setată.</string>
     <string name="app_manager_default_open_summary">Ați ales să lansați această aplicație în mod implicit pentru anumite acțiuni.</string>
     <string name="app_manager_default_open_title">Ștergeți valorile implicite</string>
-    <string name="app_manager_defaults_setting">Implicite</string>
+    <string name="app_manager_defaults_setting">Aplicații implicite</string>
     <string name="app_manager_details_electric_title">Acumulator</string>
     <string name="app_manager_details_storage_title">Stocare</string>
     <string name="app_manager_details_traffic_title">Utilizare date</string>
@@ -792,7 +792,7 @@
     <string name="gs_game_net_priority">Prioritate conexiune</string>
     <string name="gs_game_net_priority_detail">Limitați viteza de descărcare pentru a avea lățime de bandă disponibilă pentru jocuri</string>
     <string name="gs_game_performance">Performanță</string>
-    <string name="gs_game_shortcut">Bucurați-vă de o experiență de joc mai fluidă</string>
+    <string name="gs_game_shortcut">Îmbunătățiți experiența de joc</string>
     <string name="gs_only_self_start_for_list">Restricționați procesele din fundal pentru a economisi acumulatorul pentru jocuri</string>
     <string name="gs_open_game_booster">Creștere viteză</string>
     <string name="gs_performance_mode">Mod performanță</string>
@@ -1367,7 +1367,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="power_btn_analyze">Analizare utilizare acumulator</string>
     <string name="power_cell">Semnal mobil</string>
     <string name="power_center_auto_shutdown">Planificare pornire/oprire</string>
-  <string name="power_center_back">Energie?Back power</string>
+  <string name="power_center_back">Energie?Back to Power</string>
     <string name="power_center_charge_time">%1$s până la încărcarea completă</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="power_center_ontime_boot">Ora de pornire</string>

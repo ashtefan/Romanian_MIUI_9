@@ -1657,7 +1657,7 @@ Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul s
     <string name="force_hw_ui_summary">Forţaţi utilizarea GPU pentru desenarea 2D</string>
     <string name="force_immersive_compatibility_dont_hide">"Nu ascunde"</string>
     <string name="force_immersive_compatibility_hide">Ascunde</string>
-    <string name="force_immersive_compatibility_hint_message">Unele aplicații pot funcționa incorect dacă alegeți să ascundeți butoanele virtuale.</string>
+    <string name="force_immersive_compatibility_hint_message">Unele aplicații pot funcționa incorect dacă alegeți să ascundeți butoanele de pe ecran.</string>
     <string name="force_immersive_compatibility_hint_title">Probleme de compatibilitate</string>
     <string name="force_msaa">Forţaţi MSAA 4x</string>
     <string name="force_msaa_summary">Activaţi MSAA 4x în aplicaţiile OpenGL ES 2.0</string>
@@ -3927,7 +3927,7 @@ Codul PIN poate fi incorect."</string>
     <string name="spellchecker_security_warning">Acest instrument de verificare a ortografiei poate, de asemenea, să culeagă în întregime textul pe care îl introduceţi, inclusiv datele personale, cum ar fi parolele şi numerele cardurilor de credit. Instrumentul provine de la aplicaţia %1$s. Utilizaţi acest instrument de verificare ortografică?</string>
     <string name="spellchecker_switch_title">Activați corectorul ortografic</string>
     <string name="spellcheckers_settings_title">Corector ortografic</string>
-    <string name="split_screen">Accesați Ecran scindat</string>
+    <string name="split_screen">Deschideți Ecran scindat</string>
     <string name="ssid_label">SSID:</string>
     <string name="ssl_ca_cert_warning">Rețeaua poate fi monitorizată</string>
     <string name="ssl_ca_cert_warning_message">"O terță parte vă poate monitoriza activitatea în rețea, inclusiv e-mailurile, aplicațiile și site-urile securizate.
@@ -3948,8 +3948,8 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_app_enable_message">Insigne pictograme</string>
     <string name="status_bar_key_position_custom">Modificați pozițiile butoanelor</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="status_bar_screen_button_force_immersive_desc">Glisați în sus de la marginea de jos a ecranului pentru a afișa butoanele virtuale</string>
-    <string name="status_bar_screen_button_key_force_immersive">Ascundeți butoanele virtuale</string>
+    <string name="status_bar_screen_button_force_immersive_desc">Glisați în sus de la marginea de jos a ecranului pentru a afișa butoanele de pe ecran</string>
+    <string name="status_bar_screen_button_key_force_immersive">Ascundeți butoanele de pe ecran</string>
     <string name="status_bar_screen_key_back">Butonul Înapoi</string>
     <string name="status_bar_screen_key_home">Butonul Acasă</string>
     <string name="status_bar_screen_key_menu">Butonul Meniu</string>
@@ -4875,6 +4875,7 @@ Asistent Wi-Fi"</string>
     <string name="wifi_calling_suggestion_title">Activați apelarea prin Wi-Fi</string>
     <string name="wifi_cancel">Anulaţi</string>
     <string name="wifi_certificate">Certificat</string>
+    <string name="wifi_click_login_wlan">Necesită conectarea/autorizarea</string>
     <string name="wifi_click_share_wlan">Atingeți pentru a distribui parola</string>
     <string name="wifi_config_info">Configurare Wi-Fi</string>
     <string name="wifi_configure_titlebar">Configurare Wi-Fi</string>
