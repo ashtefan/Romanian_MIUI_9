@@ -2502,6 +2502,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, căşti şi alte setări audio</string>
     <string name="music_audio_effect_settings">Setări efecte</string>
     <string name="music_dirac_control">Optimizare calitate audio</string>
+    <string name="music_dirac_mode_cancelling">Reducere zgomot Mi (3.5mm)</string>
   <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
     <string name="music_dirac_mode_general">General</string>
@@ -2520,7 +2521,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_dirac_mode_piston_color">Color Edition</string>
     <string name="music_dirac_mode_piston_standard">Ediţie Standard</string>
     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-    <string name="music_dirac_mode_reduction_noise">Reducere zgomot (USB-C)</string>
+    <string name="music_dirac_mode_reduction_noise">Reducere zgomot Mi (Tip C)</string>
     <string name="music_dolby_mode_movie">Video</string>
     <string name="music_dolby_mode_music">Muzică</string>
     <string name="music_dolby_mode_off">Dezactivat</string>
@@ -2557,6 +2558,8 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="my_device">Telefonul meu</string>
     <string name="my_device_disclaimer">Notă: Informațiile hardware, incluzând procesorul, capacitatea acumulatorului, dimensiunea și rezoluția ecranului precum și caracteristicile camerei foto sunt furnizate de către laboratoarele, designerii și furnizorii Xiaomi.</string>
     <string name="n_cacrts">%d certificate CA</string>
+    <string name="navigation_guide_app_summary">Glisați spre stânga sau spre dreapta de la marginea ecranului din partea superioară a acestuia</string>
+    <string name="navigation_guide_app_title">"Declanșează acțiunea aplicației"</string>
     <string name="navigation_guide_back_anim_summary">"Afișează animația când glisați de la marginea ecranului"</string>
     <string name="navigation_guide_back_anim_title">Animați gestul \"Înapoi\"</string>
     <string name="navigation_guide_back_summary">Glisați spre stânga sau spre dreapta de la marginea ecranului</string>
@@ -4875,7 +4878,7 @@ Asistent Wi-Fi"</string>
     <string name="wifi_calling_suggestion_title">Activați apelarea prin Wi-Fi</string>
     <string name="wifi_cancel">Anulaţi</string>
     <string name="wifi_certificate">Certificat</string>
-    <string name="wifi_click_login_wlan">Necesită conectarea/autorizarea</string>
+    <string name="wifi_click_login_wlan">Conectat. Este necesară verificarea.</string>
     <string name="wifi_click_share_wlan">Atingeți pentru a distribui parola</string>
     <string name="wifi_config_info">Configurare Wi-Fi</string>
     <string name="wifi_configure_titlebar">Configurare Wi-Fi</string>

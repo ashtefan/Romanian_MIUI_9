@@ -23,6 +23,7 @@
     <string name="send_sms">Trimiteţi mesaj</string>
     <string name="sharedUserLabel">Android Core Apps</string>
     <string name="third_party_delete_contact_info">\"%s\" şterge contactele dvs. Xiaomi. Utilizaţi aplicaţia Contacte</string>
+    <string name="update_accounts_changed">Conturile s-au schimbat</string>
     <string name="upgrade_msg">Se actualizează baza de date a Agendei.</string>
     <string name="upgrade_out_of_memory_notification_text">Atingeţi pentru a finaliza actualizarea.</string>
     <string name="upgrade_out_of_memory_notification_ticker">Actualizarea agendei necesită mai multă memorie.</string>

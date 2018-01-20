@@ -134,9 +134,9 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="ks_download_success">Descărcat cu succes</string>
     <string name="ks_fingerprint_payment">Plăți prin amprentă</string>
     <string name="ks_fingerprint_status">Stare plată</string>
-    <string name="ks_name_alipay">Alipay</string>
+    <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
-    <string name="ks_name_soter">WeChat Pay</string>
+    <string name="ks_name_soter">Soter</string>
     <string name="ks_status_available">Disponibil</string>
     <string name="ks_status_unavailable">Indisponibil</string>
     <string name="ks_update_certificate">Certificat</string>
@@ -413,8 +413,7 @@ Utilizați alt cont"</string>
     <string name="micloud_sync_alert_dialog_title">Utilizare Mi Cloud</string>
     <string name="micloud_sync_off">Sincronizarea cu Mi Cloud este oprită</string>
     <string name="micloud_sync_prompt_for_no_gallery_sync">Contactele, Calendarul și Notele sunt sincronizate în mod automat. Pentru a sincroniza mai multe elemente accesați setările Mi Cloud.</string>
-    <string name="micloud_title_dspt" formatted="false">"Total %s
- utilizat %s | rămas %s"</string>
+    <string name="micloud_title_dspt" formatted="false">Utilizat %s/Spațiu total %s,</string>
     <string name="micloud_title_dspt_remain">Rămas: %s</string>
     <string name="micloud_title_full_dspt">Ați atins limita de stocare</string>
     <string name="micloud_unlogin_for_time_summary" />
@@ -520,7 +519,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="sub_sync_item_sms_title_wifi_only">Utilizaţi doar Wi-Fi pentru sincronizarea MMS</string>
     <string name="success_upgraded_space">%s adăugat</string>
     <string name="sync_dspt">Sincronizare</string>
-    <string name="sync_dspt_entrance_provision">Mi Cloud vă ajută să sincronizaţi fotografiile, contactele și multe alte elemente între dispozitive. Puteți accesa conţinutul sincronizat oricând la adresa %s.</string>
+    <string name="sync_dspt_entrance_provision">"Sincronizaţi fotografiile, contactele, istoricul apelurilor și mesajele între dispozitivele dumneavoastră. Puteți accesa conţinutul sincronizat oricând la adresa %s."</string>
     <string name="sync_dspt_entrance_provision_2">Aflaţi mai multe</string>
     <string name="sync_dspt_entrance_provision_confirm_close">Nu se utilizează</string>
     <string name="sync_dspt_entrance_provision_confirm_content">Aplicațiile MIUI au nevoie de Mi Cloud pentru a rezerva fotografiile, contactele, notele, etc. Mi Cloud este gratuit și gata de utilizare.</string>
@@ -573,7 +572,7 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="virtual_sim_desc">Activați Mi SIM pentru a vă localiza telefonul fără a utiliza o cartelă SIM</string>
     <string name="voip_choose_sim">Selectaţi numărul de telefon pentru a activa Mi Voice</string>
     <string name="wipe_data_dialog_button_check_sync">Verificați dacă s-au sincronizat</string>
-    <string name="wipe_data_dialog_msg">"%s nu s-au sincronizat și vor rămâne în telefon."</string>
+    <string name="wipe_data_dialog_msg">"Unele elemente %s nu s-au sincronizat. Acestea vor fi salvate în telefon și nu vor fi șterse."</string>
     <string name="wipe_data_dialog_msg_and_on">, și alte elemente</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">"Unele elemente nu s-au sincronizat"</string>

@@ -47,6 +47,7 @@
     <string name="accessibility_display_daltonizer_preference_subtitle">Această caracteristică este experimentală și poate afecta performanța.</string>
     <string name="accessibility_display_daltonizer_preference_title">Corecție de culoare</string>
     <string name="accessibility_divider">Delimitare ecran scindat</string>
+    <string name="accessibility_drag_hint_message">Trageți elemente în partea de sus a ecranului</string>
     <string name="accessibility_home">Ecranul de pornire</string>
     <string name="accessibility_ime_switch_button">Buton comutare metodă de introducere.</string>
     <string name="accessibility_managed_profile">Profil Serviciu</string>
@@ -63,8 +64,10 @@
     <string name="accessibility_recent">Aplicaţii recente.</string>
     <string name="accessibility_recent_task_exit">S-a închis Recente</string>
     <string name="accessibility_recent_task_locked">Blocată în memorie, glisați în jos pentru a debloca.</string>
+    <string name="accessibility_recent_task_locked_state">Blocat</string>
     <string name="accessibility_recent_task_memory_info">Total RAM: %2$s | Memorie RAM disponibilă: %1$s. Apăsați de 2 ori pentru a goli.</string>
     <string name="accessibility_recent_task_unlocked">Deblocată</string>
+    <string name="accessibility_recent_task_unlocked_state">Deblocat</string>
     <string name="accessibility_recents_all_items_dismissed">Toate aplicațiile recente au fost eliminate</string>
     <string name="accessibility_recents_item_dismissed">%s a fost eliminată</string>
     <string name="accessibility_recents_item_launched">Pornire %s…</string>
