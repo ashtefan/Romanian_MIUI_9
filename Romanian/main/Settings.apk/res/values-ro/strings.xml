@@ -934,7 +934,7 @@ Conexiunea utilizează semnale Bluetooth de putere redusă."</string>
     <string name="close_sdcard_optimization_warning_message">Telefonul va reporni pentru a se aplica această modificare.</string>
     <string name="cloud_backup_section_title">Copie de rezervă Mi Cloud</string>
     <string name="cloud_backup_settings_section_title">Setări copie de rezervă</string>
-    <string name="cloud_restore_section_summary">Restaurați aplicații, dispunerea Ecranului principal și setările de sistem</string>
+    <string name="cloud_restore_section_summary">Restaurați setările de sistem, dispunerea Ecranului principal și aplicațiile</string>
     <string name="cloud_restore_section_title">Restaurați din Mi Cloud</string>
     <string name="cmcc_hardware_version">Versiune hardware</string>
     <string name="collect_diagnostics_summary">Colectare date de diagnosticare pentru depanare</string>

@@ -509,6 +509,7 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
     <string name="picture_color_mode">Mod culoare fotografie</string>
     <string name="picture_color_mode_desc">Utilizați sRGB</string>
+    <string name="please_slide_agian">Vă rugăm glisați din nou</string>
     <string name="pointer_location">Localizare indicator</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
