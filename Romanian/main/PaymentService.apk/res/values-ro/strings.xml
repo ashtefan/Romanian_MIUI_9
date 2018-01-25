@@ -326,9 +326,6 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_title_password_threshold">Limita zilnică = ￥%1$s</string>
     <string name="mibi_title_sms_code">Vă rugăm introduceți codul de verificare de pe telefonul mobil</string>
     <string name="mibi_unit">Mi Credit</string>
-    <string name="mibi_unit_value">%1$s credite Mi</string>
-    <string name="mibi_unit_value_redeemed">%1$s credite Mi răscumpărate</string>
-    <string name="mibi_unit_value_remained">%1$s credite Mi rămase</string>
     <string name="mibi_voucher_card_text">Vă rugăm să răzuiți talonul</string>
     <string name="mibi_voucher_error_password">Cod invalid.</string>
     <string name="mibi_voucher_input_password_prompt">Introduceți codul</string>
