@@ -921,6 +921,8 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Prea multe încercări nereușite!</string>
     <string name="lockpattern_tutorial_cancel_label">Renunțați</string>
     <string name="lockpattern_tutorial_continue_label">Următorul</string>
+    <string name="lockpattern_tutorial_continue_label_confirm">Apăsați OK</string>
+    <string name="lockpattern_tutorial_continue_label_next">Apăsați următorul</string>
     <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
     <string name="lockscreen_access_pattern_cleared">Model eliminat</string>
     <string name="lockscreen_access_pattern_detected">Model completat</string>

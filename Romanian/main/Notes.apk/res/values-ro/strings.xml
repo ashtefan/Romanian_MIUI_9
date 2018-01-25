@@ -115,8 +115,8 @@
     <string name="pref_title_skip_confirm_for_quick_delete">Ștergere rapidă</string>
     <string name="recover_notes_hint">A apărut o eroare; recuperați notițele accesând i.mi.com</string>
     <string name="redo">Repetaţi</string>
+    <string name="refuse_to_open_as_pic_because_of_loading">Așteptați încărcarea notiței și reîncercați.</string>
     <string name="refuse_to_share_as_pic_because_of_content">Această notiță este prea mare pentru a putea fi partajată.</string>
-    <string name="refuse_to_share_as_pic_because_of_loading">Așteptați încărcarea notiței și încercați din nou.</string>
     <string name="rename_folder_dialog_tile">Redenumiți dosarul</string>
     <string name="root_folder_name">Notițe rapide</string>
     <string name="search">Note</string>
@@ -167,6 +167,7 @@
     <string name="theme_title_yellow">Galben</string>
     <string name="theme_white_description">Alb</string>
     <string name="theme_yellow_description">Galben</string>
+    <string name="toast_cancel_to_insert_image">Renunțați la inserarea imaginilor.</string>
     <string name="toast_message_add_image_fail">Adăugarea imaginii a eşuat</string>
     <string name="toast_notes_delete_success">Eliminată cu succces</string>
     <string name="toast_notes_hidden">Ascunsă cu succes</string>
