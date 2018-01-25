@@ -189,7 +189,8 @@
     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
     <string name="common_use_phrase_bottom_bar_text_next">Înainte</string>
     <string name="common_use_phrase_bottom_bar_text_previous">Înapoi</string>
-    <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
+    <string name="context_menu_add_to_desk_id">Adăugați la Ecranul principal</string>
+    <string name="context_menu_orientation_portrait_swap_id">Ecran V/O</string>
     <string name="contextmenu_add_contact">Adăugaţi o persoană în agendă</string>
     <string name="contextmenu_copy">Copiaţi</string>
     <string name="contextmenu_copylink">Copiaţi adresa URL a linkului</string>

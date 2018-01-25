@@ -167,7 +167,7 @@
     <string name="theme_title_yellow">Galben</string>
     <string name="theme_white_description">Alb</string>
     <string name="theme_yellow_description">Galben</string>
-    <string name="toast_cancel_to_insert_image">Renunțați la inserarea imaginilor.</string>
+    <string name="toast_cancel_to_insert_image">"Nu s-a putut adăuga imaginea."</string>
     <string name="toast_message_add_image_fail">Adăugarea imaginii a eşuat</string>
     <string name="toast_notes_delete_success">Eliminată cu succces</string>
     <string name="toast_notes_hidden">Ascunsă cu succes</string>

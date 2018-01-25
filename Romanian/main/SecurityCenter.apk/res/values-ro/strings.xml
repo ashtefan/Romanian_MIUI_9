@@ -470,7 +470,7 @@
     <string name="cancel">Anulaţi</string>
     <string name="cancel_button">Anulaţi</string>
     <string name="card_main_applock_action">Activați</string>
-    <string name="card_main_applock_summary">Protejați aplicațiile selectate cu o parolă. Ascundeți mesaje, fotografii, notițe și multe altele.</string>
+    <string name="card_main_applock_summary">Protejați aplicațiile, fotografiile și alte elemente cu o parolă.</string>
     <string name="card_main_applock_title">Blocare aplicații</string>
     <string name="card_main_deepclean_action">Goliți</string>
     <string name="card_main_deepclean_qq_title">Curățare QQ</string>
@@ -921,8 +921,8 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Prea multe încercări nereușite!</string>
     <string name="lockpattern_tutorial_cancel_label">Renunțați</string>
     <string name="lockpattern_tutorial_continue_label">Următorul</string>
-    <string name="lockpattern_tutorial_continue_label_confirm">Apăsați OK</string>
-    <string name="lockpattern_tutorial_continue_label_next">Apăsați următorul</string>
+    <string name="lockpattern_tutorial_continue_label_confirm">Apăsați \"OK\"</string>
+    <string name="lockpattern_tutorial_continue_label_next">Apăsați \"Următorul\"</string>
     <string name="lockscreen_access_pattern_cell_added">Celulă adăugată</string>
     <string name="lockscreen_access_pattern_cleared">Model eliminat</string>
     <string name="lockscreen_access_pattern_detected">Model completat</string>
@@ -1370,7 +1370,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="power_btn_analyze">Analizare utilizare acumulator</string>
     <string name="power_cell">Semnal mobil</string>
     <string name="power_center_auto_shutdown">Planificare pornire/oprire</string>
-  <string name="power_center_back">Energie?Back to Power</string>
+    <string name="power_center_back">Înapoi la Utilizarea acumulatorului</string>
     <string name="power_center_charge_time">%1$s până la încărcarea completă</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="power_center_ontime_boot">Ora de pornire</string>
@@ -1380,7 +1380,7 @@ Această activitate scade durata de viață a acumulatorului."</string>
     <string name="power_center_state_on">Activat</string>
     <string name="power_center_time_to_boot">Ora de pornire</string>
     <string name="power_center_time_to_shutdown">Ora de oprire</string>
-    <string name="power_center_title">Energie</string>
+    <string name="power_center_title">Utilizare acumulator</string>
     <string name="power_consume_hardware_total_format">Hardware: %s</string>
     <string name="power_consume_other">Alte aplicaţii</string>
     <string name="power_consume_rank_hardware">Hardware</string>

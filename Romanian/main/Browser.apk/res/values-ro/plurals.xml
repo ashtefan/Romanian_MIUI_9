@@ -8,14 +8,6 @@
         <item quantity="other">%d potriviri</item>
         <item quantity="one">%d potrivire</item>
     </plurals>
-    <plurals name="last_num_days">
-        <item quantity="other">Ultimele %d zile</item>
-        <item quantity="one">În ultima zi</item>
-    </plurals>
-    <plurals name="matches_found">
-        <item quantity="other">%1$d din %2$d</item>
-        <item quantity="one">1 potrivire</item>
-    </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">După %d secunde se va crea în mod automat o nouă pagină</item>
         <item quantity="one">După %d secundă se va crea în mod automat o nouă pagină</item>
@@ -47,5 +39,12 @@
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%d minute rămase</item>
         <item quantity="one">%d minut rămas</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">Ultimele %d zile</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d din %2$d</item>
+        <item quantity="one">1 potrivire</item>
     </plurals>
 </resources>

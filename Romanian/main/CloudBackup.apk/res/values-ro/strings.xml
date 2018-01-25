@@ -98,7 +98,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Mi Cloud!"</string>
     <string name="dialog_cancel_backup_msg">Glisarea comutatorului va termina copiile de rezervă în curs.</string>
     <string name="dialog_cancel_backup_title">Renunțați la crearea copiilor de rezervă în curs?</string>
     <string name="dialog_msg_restore_require_wlan">Restaurarea copiilor de rezervă necesită conectarea la Wi-Fi.</string>
-    <string name="dialog_title_require_wlan">Este necesară conectarea la Wi-Fi</string>
+    <string name="dialog_title_require_wlan">Conectați-vă la Wi-Fi</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_restore_home">Restaurare Ecran principal și setări…</string>
     <string name="done_remove">Eliminat cu succes</string>
