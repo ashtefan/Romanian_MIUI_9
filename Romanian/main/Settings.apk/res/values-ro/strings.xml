@@ -2625,6 +2625,10 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_se_route_title">Poziția elementului de siguranţă</string>
     <string name="nfc_se_wallet_title">Portofel implicit</string>
+    <string name="night_light">Iluminare nocturnă</string>
+    <string name="night_light_brightness">Iluminare nocturnă ecran</string>
+    <string name="night_light_color">Culoare iluminare nocturnă</string>
+    <string name="night_light_summary">Reduceți iluminarea în mediu cu lumină redusă pentru a intra în modul Iluminare nocturnă</string>
     <string name="no">Nu</string>
     <string name="no_account_found">"Nu s-a găsit nicio aplicație care suportă adăugarea de conturi"</string>
     <string name="no_application">Niciuna</string>
@@ -2835,6 +2839,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="paper_mode_get_location_dlg_negative_btn_text">Renunțați</string>
     <string name="paper_mode_get_location_dlg_positive_btn_text">Mergeți la Setări</string>
     <string name="paper_mode_get_location_dlg_title">Setați locația</string>
+    <string name="paper_mode_side_effect_hint">Intensitatea ridicată poate afecta modul în care este afișat conținutul.</string>
     <string name="paper_mode_start_time_title">Activați</string>
     <string name="passpoint_content">%1$s credențiale</string>
     <string name="passpoint_label">Salvat prin</string>

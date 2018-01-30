@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="abrupt_weather_settings_summary_type_a">Comutator Avertizare Vreme Neobișnuită</string>
+    <string name="abrupt_weather_settings_summary_type_b">Comutator Avertizare Vreme Neobișnuită</string>
+    <string name="abrupt_weather_settings_title">Avertizare Vreme Neobișnuită</string>
     <string name="act_find_city_hint">Introduceţi locaţia</string>
     <string name="act_find_city_hot_attractions_title">Locații populare</string>
     <string name="act_find_city_hot_city_title">Orașe populare</string>
@@ -81,9 +84,12 @@
     <string name="commercial">Reclamă</string>
     <string name="common_loading_text">Doar o secundă…</string>
     <string name="connect_fail">"Nu s-a putut conecta la rețea; încercați din nou"</string>
-  <string name="content_desc_activity_main_add_city">Adăugați orașul</string>
-  <string name="content_desc_activity_main_add_city_manage">Gestionare orașe</string>
-  <string name="content_desc_activity_main_more_settings">Mai multe setări</string>
+    <string name="content_desc_activity_main_add_city">Adăugați orașul</string>
+    <string name="content_desc_activity_main_add_city_manage">Gestionare orașe</string>
+    <string name="content_desc_activity_main_more_settings">Mai multe setări</string>
+    <string name="content_desc_back_button">Înapoi</string>
+    <string name="content_desc_close_button">Închideți</string>
+    <string name="content_desc_edit_city_manage">Gestionați locațiile</string>
     <string name="daily_forcast_drawer_on_bottom">Ascunde</string>
     <string name="daily_forcast_no_stable_direction">Adiere</string>
     <string name="daily_forcast_no_wind">0</string>
@@ -143,12 +149,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="indices_title_sport">Sport</string>
     <string name="indices_title_uv">Indice UV</string>
     <string name="indices_title_visibility">Vizibilitate</string>
-    <string name="information_manager_default_weather_bg">Fundal implicit Meteo</string>
     <string name="information_manager_extension">Extensie meteo</string>
-    <string name="information_manager_information">Informații despre vreme</string>
-    <string name="information_manager_wlan">Actualizați în Wi-Fi</string>
-    <string name="information_menu_title"/>
-    <string name="information_set">Alte setări</string>
     <string name="information_views"/>
     <string name="install">Instalați</string>
     <string name="international_detail_menu_title">Detalii</string>
@@ -164,9 +165,9 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="lunar_calendar"/>
     <string name="menu_add_city">Editați locațiile</string>
     <string name="menu_location">Locaţii</string>
-    <string name="menu_minute_rain">Prognoza de precipitații pentru două ore</string>
-    <string name="menu_speeker">Suport vocal</string>
+    <string name="menu_speaker">Suport vocal</string>
     <string name="mi_pad2">latte</string>
+    <string name="minute_rain">Prognoza pe minute</string>
     <string name="minute_rain_after_an_hour">Într-o oră</string>
     <string name="minute_rain_after_two_hour">În două ore</string>
     <string name="minute_rain_feedback_subtitle">Spuneți-ne cum este vremea.</string>
@@ -178,6 +179,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="minute_rain_progress_indicator_original_time">- -</string>
     <string name="minute_rain_pull_down_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="minute_rain_refreshing_now">Reîmprospătare…</string>
+    <string name="missing_required_permission">Ați dezactivat o permisiune necesară.</string>
     <string name="more_details">Mai multe detalii</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="network_unavailable">"Nu se poate conecta la rețea."</string>
@@ -236,6 +238,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="sunset">Apus</string>
     <string name="temperature_unit_C">%1$s℃</string>
     <string name="temperature_unit_F">%1$s℉</string>
+    <string name="temperature_unit_default">0</string>
     <string name="title_share_link">Partajați linkul</string>
     <string name="top_pollution_co">CO</string>
     <string name="top_pollution_no2">NO2</string>
@@ -276,6 +279,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="weather_alert">Atenționări meteo</string>
     <string name="wind_direction_no_data">Viteza vântului</string>
     <string name="wind_miles_unit">%1$s mph</string>
+    <string name="wind_power_unit_default">0</string>
     <string name="wind_unit">%1$s km/h</string>
     <string name="xiaomi_weather_description_content">"Aplicația Meteo vă furnizează date meteo precise. Fără această aplicație bara de stare și widgetul meteo de pe ecranul principal nu vor mai funcționa corect. Asigurați-vă că puteți trăi fără aceste caracteristici înainte de a dezinstala aplicația."</string>
     <string name="xiaomi_weather_description_title">Despre aplicația Meteo</string>

@@ -1109,6 +1109,8 @@ răspunsul operatorului"</string>
     <string name="network_blocked_connected_open_wifi">Conectat la rețea publică</string>
     <string name="network_blocked_notification_summary">Testare reţea</string>
     <string name="network_blocked_switch_wifi">Comutare reţele</string>
+    <string name="network_changed_noti_summary">Se utilizează datele mobile</string>
+    <string name="network_changed_noti_title">Deconectat de la Wi-Fi</string>
     <string name="network_connected_exception_title">Testare reţea</string>
     <string name="network_control">Setările aplicaţiei</string>
     <string name="network_diagnostics">Testare reţea</string>

@@ -326,7 +326,7 @@ pentru a accesa Spațiul secundar din Blocarea ecranului"</string>
 
 Unele aplicații clonate necesită suportul Google Services Framework. În aceste cazuri, se crează două aplicații Google Services Framework."</string>
     <string name="xspace_guide_des">Utilizați 2 conturi fără a comuta</string>
-    <string name="xspace_guide_title">Creați o clonă pentru %s</string>
+    <string name="xspace_guide_title">Creați o aplicație clonată</string>
     <string name="xspace_header">Aplicații clonate</string>
     <string name="xspace_install_completed">Pictograma adăugată în Ecranul principal</string>
     <string name="xspace_install_failed">"Nu s-a putut crea"</string>
