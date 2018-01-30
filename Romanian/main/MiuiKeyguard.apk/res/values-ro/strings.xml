@@ -38,7 +38,7 @@
     <string name="face_unlock_close_screen">Apropiați-vă de ecran</string>
     <string name="face_unlock_down">Ridicați capul</string>
     <string name="face_unlock_identify_error">A apărut o eroare de recunoaștere</string>
-    <string name="face_unlock_not_found">"v-am putut recunoaște"</string>
+    <string name="face_unlock_not_found">"Nu v-am putut recunoaște"</string>
     <string name="face_unlock_offset_bottom">Lăsați telefonul un pic mai jos</string>
     <string name="face_unlock_offset_left">Mișcați-vă spre dreapta</string>
     <string name="face_unlock_offset_right">Mișcați-vă spre stânga</string>
