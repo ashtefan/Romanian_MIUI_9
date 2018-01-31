@@ -39,8 +39,8 @@
     <string name="multisim_settings_category">Setări cartelă SIM</string>
     <string name="multisim_settings_title">2 cartele SIM detectate</string>
     <string name="navigation_picker_gesture_guide">Ghidare prin gesturi</string>
-    <string name="navigation_picker_radio_text_full_screen">Mod Ecran complet</string>
-    <string name="navigation_picker_radio_text_virtual_key">Mod tastatură virtuală</string>
+    <string name="navigation_picker_radio_text_full_screen">Gesturi Ecran complet</string>
+    <string name="navigation_picker_radio_text_virtual_key">Butoane</string>
     <string name="next">Înainte</string>
     <string name="next_fingerprint">Următoarea</string>
     <string name="other_settings">Setări adiţionale</string>

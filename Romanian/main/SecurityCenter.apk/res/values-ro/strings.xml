@@ -470,7 +470,7 @@
     <string name="cancel">Anulaţi</string>
     <string name="cancel_button">Anulaţi</string>
     <string name="card_main_applock_action">Activați</string>
-    <string name="card_main_applock_summary">Protejați aplicațiile, fotografiile și alte elemente cu o parolă.</string>
+    <string name="card_main_applock_summary">Protejați aplicațiile selectate printr-o parolă.</string>
     <string name="card_main_applock_title">Blocare aplicații</string>
     <string name="card_main_deepclean_action">Goliți</string>
     <string name="card_main_deepclean_qq_title">Curățare QQ</string>

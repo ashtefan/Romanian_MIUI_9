@@ -268,7 +268,8 @@
     <string name="submit_dialog_cancel">Anulaţi</string>
     <string name="submit_dialog_confirm">Trimiteţi</string>
     <string name="submit_dialog_content">"Feedback-ul dvs., împreună cu jurnalele cu erori și imagini atașate, vor fi încărcate pe serverele MIUI. Acestea pot conține informații personale și date despre locația dumneavoastră."</string>
-    <string name="submit_dialog_title">Trimiteţi raportul cu probleme</string>
+    <string name="submit_dialog_content_global">"Feedback-ul dumneavoastră, împreună cu atașamentele și raportul cu erori, va fi încărcat pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Puteți alege să nu trimiteți rapoartele cu erori debifând căsuța corespunzătoare."</string>
+    <string name="submit_dialog_title">Trimiteţi raportul cu erori</string>
     <string name="submit_feedback_info_failed">"Nu s-a putut trimite raportul"</string>
     <string name="suggestion_description">Adăugaţi descrierea aici</string>
     <string name="system_app_select">Aplicații încorporate</string>
