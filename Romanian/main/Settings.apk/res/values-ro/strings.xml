@@ -2495,7 +2495,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="mtp_ptp_mode_summary">Funcţia MTP sau PTP este activă</string>
     <string name="multi_touch_points_category_title">Puncte multi-touch</string>
     <string name="multi_touch_points_preference">Reporniţi pentru a activa</string>
-    <string name="music_app_unavailable">În funcție de aplicația pentru muzică utilizată, asigurați-vă că este disponibilă</string>
+    <string name="music_app_unavailable">Asigurați-vă că aplicația Muzică este disponibilă.</string>
     <string name="music_audio_effect_optimize">Setări audio</string>
     <string name="music_audio_effect_optimize_summary">Dirac, căşti şi alte setări audio</string>
     <string name="music_audio_effect_optimize_summary_with_hd">Dirac, Hi-Fi, căști și alte setări audio</string>
@@ -2521,7 +2521,7 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="music_dirac_mode_piston_color">Color Edition</string>
     <string name="music_dirac_mode_piston_standard">Ediţie Standard</string>
     <string name="music_dirac_mode_piston_youth">Youth Edition</string>
-    <string name="music_dirac_mode_reduction_noise">Reducere zgomot Mi (Tip C)</string>
+    <string name="music_dirac_mode_reduction_noise">Reducere zgomot Mi (Tip-C)</string>
     <string name="music_dolby_mode_movie">Video</string>
     <string name="music_dolby_mode_music">Muzică</string>
     <string name="music_dolby_mode_off">Dezactivat</string>

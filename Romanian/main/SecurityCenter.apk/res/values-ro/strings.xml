@@ -1076,7 +1076,7 @@ răspunsul operatorului"</string>
     <string name="menu_text_power_percent_title">Acumulator %s</string>
     <string name="menu_text_power_percent_title_default">Acumulator</string>
     <string name="menu_wh_remove">Eliminați din lista excepțiilor</string>
-    <string name="menu_white">Exceptați</string>
+    <string name="menu_white">Adăugați în lista excepțiilor</string>
     <string name="mi_service_app_detail">Detalii utilizare date</string>
     <string name="mi_service_traffic_detail">Detalii Framework</string>
     <string name="mian_page_primary_txt">Roaming internaţional</string>

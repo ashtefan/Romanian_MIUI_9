@@ -177,7 +177,7 @@ Altfel nu veți putea accesa Spațiul secundar din Blocarea ecranului."</string>
     <string name="private_sms_show_title">Mesajele private sunt vizibile în Spațiul Secundar</string>
     <string name="private_space_setting">Gestionare</string>
     <string name="public_app">Ambele spații de lucru</string>
-    <string name="qq_send">Trimiteți prietenilor/dispozitivelor QQ</string>
+    <string name="qq_send">Trimiteți prietenilor QQ/pe computer</string>
     <string name="removeSuccess">Șters cu succes</string>
     <string name="remove_second_space_msg">Toate datele aplicațiilor din Spațiul Secundar vor fi șterse după ce veți elimina Spațiul Secundar. Continuați?</string>
     <string name="remove_user_click_message">"*Dacă nu aveți elemente importante în Spațiul secundar, %s"</string>

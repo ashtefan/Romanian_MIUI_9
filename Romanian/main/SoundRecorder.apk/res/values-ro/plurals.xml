@@ -17,8 +17,8 @@
         <item quantity="one">%d nu este sincronizat</item>
     </plurals>
     <plurals name="btn_clear_records">
-        <item quantity="other">Ștergeți înregistrările (%d elemente)</item>
-        <item quantity="one">Ștergeți înregistrările (%d element)</item>
+        <item quantity="other">Ștergeți %d înregistrări</item>
+        <item quantity="one">Ștergeți %d înregistrare</item>
     </plurals>
     <plurals name="choose_call_records_count">
         <item quantity="other">%d elemente</item>

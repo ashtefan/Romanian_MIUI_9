@@ -447,6 +447,17 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="family_member_invitation_text">Alt membru al familiei</string>
     <string name="fast_share_auto_render">Înfrumusețare</string>
     <string name="fast_share_auto_render_finish">Înfrumusețată</string>
+    <string name="filter_bi_memory">Memorie</string>
+    <string name="filter_bi_mono">Mono</string>
+    <string name="filter_bi_pink">Roz</string>
+    <string name="filter_bi_portrait">Portret</string>
+    <string name="filter_bi_retro">Retro</string>
+    <string name="filter_bi_romantic">Romantic</string>
+    <string name="filter_bi_strong">Puternic</string>
+    <string name="filter_bi_sunny">Însorit</string>
+    <string name="filter_bi_sweet">Dulce</string>
+    <string name="filter_bi_warm">Cald</string>
+    <string name="filter_bi_young">Tânăr</string>
     <string name="filter_category_film">Film</string>
     <string name="filter_category_food">Mâncare</string>
     <string name="filter_category_portrait">Portret</string>
@@ -582,6 +593,14 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="main_discard_negative_btn">Renunțați</string>
     <string name="main_discard_positive_btn">Salvați și ieșiți</string>
     <string name="main_save_error_msg">"Nu s-au putut salva modificările datorită unei erori apărute"</string>
+    <string name="mark_myself_default_name">Eu</string>
+    <string name="mark_myself_suggestion_load_more">"Nu sunt eu"</string>
+    <string name="mark_myself_suggestion_title">"Selectați fotografiile cu dumneavoastră
+pentru a personaliza Galeria"</string>
+    <string name="mark_operation_failed">"Nu s-a putut adăuga"</string>
+    <string name="mark_operation_processing">Procesare…</string>
+    <string name="mark_operation_succeeded">Adăugat cu succes</string>
+    <string name="mark_people_ignore_info_message">Atingeți și mențineți apăsate fotografiile persoanelor pentru a le grupa</string>
     <string name="megabyteShort">MB</string>
     <string name="menu_album_new_album">Album nou</string>
     <string name="menu_item_sort_date">Dată</string>

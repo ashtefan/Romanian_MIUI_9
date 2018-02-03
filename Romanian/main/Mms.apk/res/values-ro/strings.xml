@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="about_smart_sms_title">Partener mesagerie inteligentă</string>
     <string name="action_firewall_setting">Listă blocări</string>
     <string name="activity_not_found">Nu a fost găsită nicio aplicaţie pentru a îndeplini această acţiune</string>
     <string name="activity_not_found_uri">Nu a fost găsită nicio aplicaţie pentru a îndeplini această acţiune</string>
@@ -362,7 +361,6 @@
     <string name="open_url_with_web">Deschideţi acest URL în Browser?</string>
     <string name="over_max_mms_size">MMS prea mare.</string>
     <string name="overwrite_edited_content">Conținutul editat va fi suprascris</string>
-    <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
     <string name="phrase_confirm_delete_message">Acest răspuns va fi şters.</string>
     <string name="phrase_empty">Niciun răspuns</string>
     <string name="phrase_from">De la %1s</string>
@@ -410,7 +408,6 @@
     <string name="pref_summary_wake_up_screen">Trezirea ecranului atunci când este recepţionat un mesaj nou</string>
     <string name="pref_switch_sdk_setting">Înlocuiți furnizorul de mesagerie inteligentă</string>
     <string name="pref_system_title">Sistem</string>
-    <string name="pref_title_about_smart_sms">Despre partenerul Mesagerie inteligentă</string>
     <string name="pref_title_allow_si_sl_push">Permiteţi mesaje WAP Push(SI/SL)</string>
     <string name="pref_title_allow_upload_message_info">Încărcați mesajele nedorite</string>
     <string name="pref_title_auto_delete">Șterge mesajele vechi</string>

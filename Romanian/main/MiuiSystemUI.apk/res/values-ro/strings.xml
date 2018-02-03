@@ -294,7 +294,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="ext_media_badremoval_notification_title">Stocarea USB a fost eliminată în mod neaşteptat</string>
     <string name="ext_media_checking_notification_message">Verificare erori</string>
     <string name="ext_media_checking_notification_title">Pregătire stocare USB</string>
-    <string name="ext_media_mountable_notification_message">Atingeţi pentru deschiderea în Exploratorul de fișiere</string>
+    <string name="ext_media_mountable_notification_message">Atingeţi pentru deschiderea în Exploratorul de fișiere Mi</string>
     <string name="ext_media_mountable_notification_title">Dispozitiv de stocare USB conectat</string>
     <string name="ext_media_nofs_notification_message">Stocare USB goală sau cu un sistem de fișiere neacceptat.</string>
     <string name="ext_media_nofs_notification_title">Stocare USB goală</string>
@@ -392,7 +392,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="keyboard_shortcut_group_system_home">Acasă</string>
     <string name="keyboard_shortcut_group_system_notifications">Notificări</string>
     <string name="keyboard_shortcut_group_system_recents">Recente</string>
-    <string name="keyboard_shortcut_group_system_shortcuts_helper">Scurtături Tastatură</string>
+    <string name="keyboard_shortcut_group_system_shortcuts_helper">Scurtături tastatură</string>
     <string name="keyboard_shortcut_group_system_switch_input">Schimbați metoda de introducere</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="label_view">Afişaţi</string>
@@ -436,7 +436,7 @@ Utilizați doar încărcătorul furnizat de producător."</string>
     <string name="mock_location_app">Selectați aplicația cu locație fictivă</string>
     <string name="mock_location_app_not_set">Nicio aplicație cu locație fictivă setată</string>
     <string name="mock_location_app_set">Aplicația cu locație fictivă: %1$s</string>
-    <string name="monitoring_button_view_policies">Vedeți Politicile</string>
+    <string name="monitoring_button_view_policies">Vedeți politicile</string>
     <string name="monitoring_description_ca_certificate">O autoritate certificată este instalată pe acest dispozitiv. Traficul în rețea poate fi monitorizat sau modificat.</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Organizația dumneavoastră a instalat o autoritate certificată în profilul de servici. Traficul în rețea poate fi monitorizat sau modificat.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Profilul dvs. de servici este conectat la %1$s, care poate monitoriza activitatea în rețea, inclusiv e-mailurile, aplicațiile și site-urile web.</string>
@@ -509,7 +509,7 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
     <string name="picture_color_mode">Mod culoare fotografie</string>
     <string name="picture_color_mode_desc">Utilizați sRGB</string>
-    <string name="please_slide_agian">Vă rugăm glisați din nou</string>
+    <string name="please_slide_agian">Glisați din nou</string>
     <string name="pointer_location">Localizare indicator</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
