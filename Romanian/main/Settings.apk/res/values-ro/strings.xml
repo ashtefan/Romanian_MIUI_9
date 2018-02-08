@@ -3955,7 +3955,6 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_app_enable_keyguard">Blocarea ecranului</string>
     <string name="status_bar_app_enable_message">Insigne pictograme</string>
     <string name="status_bar_key_position_custom">Modificați pozițiile butoanelor</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_screen_button_force_immersive_desc">Glisați în sus de la marginea de jos a ecranului pentru a afișa butoanele de pe ecran</string>
     <string name="status_bar_screen_button_key_force_immersive">Ascundeți butoanele de pe ecran</string>
     <string name="status_bar_screen_key_back">Butonul Înapoi</string>

@@ -374,7 +374,6 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="show_touches">Arată punctele atinse</string>
     <string name="show_touches_summary">Afișați feedback vizual pentru atingerile ecranului</string>
     <string name="simulate_color_space">Simulați spațiul de culori</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="strict_mode">Modul Strict activat</string>
     <string name="strict_mode_summary">Iluminare intermitentă a ecranului la operațiuni lungi pe firul principal</string>
     <string name="system_warning">Dacă refuzați această permisiune, este posibil ca funcțiile de bază ale dispozitivului să nu mai funcționeze corespunzător.</string>
