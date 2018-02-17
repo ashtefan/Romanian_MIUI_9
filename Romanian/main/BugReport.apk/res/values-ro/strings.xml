@@ -82,9 +82,17 @@
     <string name="feedback_retest_label">Pașii pentru reproducerea problemei</string>
     <string name="feedback_select_images">Adăugați imagini</string>
     <string name="feedback_select_modem_log">Adăugați rapoartele modem-ului</string>
+    <string name="feedback_select_modem_log_not_select_desc">"Nu a fost selectat \"Adăugați jurnale modem\""</string>
+    <string name="feedback_select_modem_log_select_desc">Selectat \"Adăugați jurnale modem\"</string>
     <string name="feedback_select_problem">Probleme</string>
+    <string name="feedback_select_problem_not_select_desc">"Nu a fost selectat \"Probleme\""</string>
+    <string name="feedback_select_problem_select_desc">Selectat \"Probleme\"</string>
     <string name="feedback_select_suggestion">Sugestii</string>
+    <string name="feedback_select_suggestion_not_select_desc">"Nu a fost selectat \"Sugestii\""</string>
+    <string name="feedback_select_suggestion_select_desc">Selectat \"Sugestii\"</string>
     <string name="feedback_select_upload_log">Adăugați rapoarte de eroare</string>
+    <string name="feedback_select_upload_log_not_select_desc">"Nu a fost selectat \"Adăugați jurnale\""</string>
+    <string name="feedback_select_upload_log_select_desc">Selectat \"Adăugați jurnale\"</string>
     <string name="feedback_status_answered">Răspuns</string>
     <string name="feedback_status_change_notification_title">"Progresul raportului dumneavoastră a fost actualizat"</string>
     <string name="feedback_status_commit_failed_title">"Nu s-a putut trimite raportul"</string>

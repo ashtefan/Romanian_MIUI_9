@@ -150,6 +150,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="indices_title_uv">Indice UV</string>
     <string name="indices_title_visibility">Vizibilitate</string>
     <string name="information_manager_extension">Extensie meteo</string>
+    <string name="information_settings_title">Informații meteo</string>
     <string name="information_views"/>
     <string name="install">Instalați</string>
     <string name="international_detail_menu_title">Detalii</string>
@@ -192,6 +193,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="open_browser">Deschideți în browser</string>
     <string name="open_now">Deschideți</string>
     <string name="other">Altele</string>
+    <string name="other_settings">Alte setări</string>
     <string name="other_warning_settings">Alte avertizări</string>
     <string name="particulate_matter_exceeded">Înalt</string>
     <string name="particulate_matter_not_exceeded">Normal</string>

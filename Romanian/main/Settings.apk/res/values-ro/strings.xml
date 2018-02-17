@@ -764,7 +764,7 @@ Ultima rulare pe %2$s"</string>
     <string name="bluetooth_pairing_pin_error_message">Nu s-a putut împerechea cu %1$s din cauza unui cod PIN sau al unei chei de acces incorecte.</string>
     <string name="bluetooth_pairing_rejected_error_message">Asociere respinsă de %1$s.</string>
     <string name="bluetooth_pairing_request">Solicitare de asociere prin Bluetooth</string>
-    <string name="bluetooth_pairing_shares_phonebook">Permiteți %1$s să acceseze agenda și istoricul de apelare</string>
+    <string name="bluetooth_pairing_shares_phonebook">Permiteți accesul la agendă și la istoricul de apelare</string>
     <string name="bluetooth_pairing_will_share_phonebook">Asocierea permite accesul la Agendă și la istoricul de apelare.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Se perm. disp. acces la internet local</string>
     <string name="bluetooth_pan_profile_summary_use_for">Utilizaţi pentru acces la Internet</string>
@@ -1902,6 +1902,8 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="free_xiaomi_wifi_connect_summary">Apăsați pentru a vă conecta la %1$s.</string>
     <string name="frequently_fragment_delete">Eliminaţi</string>
     <string name="frequently_fragment_tempty">Aplicaţiile utilizate frecvent vor fi enumerate aici</string>
+    <string name="fsg_mistake_touch_summary">În unele situații, cum ar fi jocuri sau videoclipuri în ecran complet, gesturile trebuie dublate pentru a avea efect</string>
+    <string name="fsg_mistake_touch_title">Verificare dublă pentru gesturi</string>
     <string name="full_transparent_smarrcover_title">Husă transparentă pentru ecran</string>
     <string name="fullbackup_data_summary">"Crează în mod automat o copie de rezervă pentru datele dispozitivului (cum ar fi parole Wi-Fi și istoricul de apelare) și a datelor aplicațiilor (cum ar fi setările și fișierele stocate de către aplicații) de la distanță.
 

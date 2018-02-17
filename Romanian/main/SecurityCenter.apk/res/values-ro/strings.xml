@@ -14,6 +14,12 @@
     <string name="ac_firstUseApplock_subTitle">Utilizați unelte de securitate mai eficiente la nivel de sistem</string>
     <string name="ac_firstUseApplock_title">Setați o parolă pentru a vă proteja aplicațiile</string>
     <string name="ac_mask_all_apps">Ascundeți pentru toate aplicațiile</string>
+    <string name="ac_notification_contentText">Atingeți pentru a activa</string>
+    <string name="ac_notification_contentTitle">Protejați aplicațiile cu Blocarea aplicațiilor</string>
+    <string name="ac_post_notification_contentText">Obțineți protecție la nivel de sistem</string>
+    <string name="ac_post_notification_contentTitle">Activați Blocarea aplicațiilor</string>
+    <string name="ac_pre_notification_contentText">Protejați-vă informațiile personale</string>
+    <string name="ac_pre_notification_contentTitle">Încercați Blocarea Aplicațiilor</string>
     <string name="ac_summaryOff">Dacă este dezactivată nu este necesară parola pentru accesarea aplicațiilor</string>
     <string name="ac_summaryOn">Dacă este activată se va solicita parola de deblocare pentru accesarea aplicațiilor</string>
     <string name="ac_unmask_all_apps">Afișați pentru toate aplicațiile</string>
@@ -1170,12 +1176,10 @@ C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la
     <string name="notification_battery_consume_abnormal_title">Acumulatorul se descărcă foarte rapid</string>
     <string name="notification_exit_power_save_mode">Economisirea acumulatorului este dezactivată</string>
     <string name="notification_exit_power_save_mode_subtitle">Acumulator încărcat %s.</string>
-    <string name="notification_item">Protejați aplicațiile cu Blocarea aplicațiilor</string>
     <string name="notification_mask_summary">Ascunde conținutul notificărilor din Blocarea ecranului și din Perdeaua de notificări</string>
     <string name="notification_mask_title">Ascundeți conținutul</string>
     <string name="notification_masked_item">Ascunde notificările</string>
     <string name="notification_masked_subtitle">Ascunde notificările din aplicațiile protejate cu Blocarea aplicațiilor</string>
-    <string name="notification_subtitle">Apăsați pentru a activa</string>
     <string name="notification_summary_cmcc_app_check">Atingeți pentru a vizualiza detalii.</string>
     <string name="notify_daily_data_usage_body">Pentru a limita în mod automat utilizarea datelor, configuraţi planul lunar de date.</string>
     <string name="notify_daily_limit_body">Apăsați pentru a seta limita datelor.</string>

@@ -234,6 +234,7 @@ trebuie să creați o copie de rezervă în iCloud mai întâi."</string>
     <string name="notif_icloud_need_wifi_summary">Se așteaptă conectarea la Wi-Fi</string>
     <string name="notif_icloud_saved_summary">Import finalizat cu succes</string>
     <string name="notif_icloud_saving_summary">Restaurare date…</string>
+    <string name="notif_miasist_try_to_connect">Mi PC Suite încearcă să se conecteze la dispozitivul dumneavoastră</string>
     <string name="notif_parse_select_descript_error">"Nu s-a putut sincroniza lista elementelor pentru care a fost creată o copie de rezervă."</string>
     <string name="notif_receiving_transingsd">Primire %1$s (%2$s)…</string>
     <string name="notif_restore_complete_title">Restabilire reuşită</string>

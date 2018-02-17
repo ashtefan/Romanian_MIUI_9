@@ -81,7 +81,7 @@
     <string name="change_password">Schimbați parola</string>
     <string name="change_phone_number">Schimbaţi numărul de telefon</string>
     <string name="cloud_service">Mi Cloud</string>
-    <string name="completed">Finalizat</string>
+    <string name="completed">Finalizat!</string>
     <string name="confirm_activate_email">Verificată</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmați numărul de telefon asociat</string>
     <string name="confirm_delete_app_message">"După ce veți elimina această aplicație, va trebui să vă verificați numărul de telefon când vă veți conecta din nou la contul Mi din aplicație."</string>
@@ -95,8 +95,8 @@
     <string name="current_location_title">Locația curentă</string>
     <string name="delete_action">Ştergeţi</string>
     <string name="delete_app">Ștergeți aplicația</string>
-    <string name="delete_bank_card_message">Din motive de securitate, vom șterge datele cardului bancar după ce vă veți deconecta</string>
-    <string name="delete_bank_card_title">Ștergerea datelor cardului bancar</string>
+    <string name="delete_bank_card_message">Cardurile Mi Pay bank și NFC vor fi șterse după ce vă veți deconecta</string>
+    <string name="delete_bank_card_title">Atenție</string>
     <string name="delete_browser">Eliminați browser-ul</string>
     <string name="delete_device">Eliminați dispozitivul</string>
     <string name="delete_device_btn">Eliminaţi</string>
@@ -119,7 +119,6 @@
     <string name="find_device_account_error">"Nu s-a putut obține starea datorită unei erori de cont"</string>
     <string name="find_device_activate_account">Activați contul</string>
     <string name="find_device_bad_response_error">A apărut o eroare de server; așteptați un minut sau două și încercați din nou</string>
-    <string name="find_device_display_id">Cod de deblocare: %s</string>
     <string name="find_device_error_password_not_confirmed">"Nu s-a putut dezactiva Localizarea dispozitivului. Introduceți parola contului Mi din nou."</string>
     <string name="find_device_error_password_recently_changed">"Ați modificat parola în ultimele 3 zile. Nu se poate dezactiva acum Localizarea dispozitivului din motive de siguranță."</string>
     <string name="find_device_interrupted">Acțiunea a fost întreruptă; așteptați un minut sau două și încercați din nou</string>
@@ -269,6 +268,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_input_password_hint">Introduceți parola</string>
     <string name="passport_input_phone_hint">Introduceţi numărul de telefon</string>
     <string name="passport_input_vcode_hint">Introduceți codul de verificare</string>
+    <string name="passport_input_voice_captcha_hint">Introduceți codul de verificare vocală</string>
     <string name="passport_license_host_unreachable">Nu se poate conecta la rețea. Puteți vizualiza această pagină la %s.</string>
     <string name="passport_loading">Doar o secundă…</string>
     <string name="passport_login">Conectaţi-vă</string>
@@ -438,6 +438,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="trusted_browsers">Browsere de încredere</string>
     <string name="trusted_browsers_prompt">Acest browser nu va mai fi considerat de încredere dacă veți șterge cookie-urile.</string>
     <string name="turn_off_find_device_failed_title">"Nu se poate dezactiva Localizarea dispozitivului"</string>
+    <string name="turning_off_find_device">Se dezactivează Localizarea dispozitivului…</string>
     <string name="unbind_sns_description">"După ce vă veți deconecta de la acest cont, nu veți putea utiliza %s pentru a vă accesa contul dvs. Mi."</string>
     <string name="unlock_help_notice">"Ajutor:
 · Dacă v-ați uitat parola, accesați id.mi.com pentru a o reseta.
