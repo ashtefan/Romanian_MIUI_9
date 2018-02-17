@@ -98,7 +98,7 @@
     <string-array name="color_mode_descriptions">
         <item>Culori accentuate</item>
         <item>Culori naturale, așa cum sunt percepute de ochiul uman</item>
-        <item>Culori optimizate pentru conținut digital<
+        <item>Culori optimizate pentru conținut digital</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>Vibrant (implicit)</item>
