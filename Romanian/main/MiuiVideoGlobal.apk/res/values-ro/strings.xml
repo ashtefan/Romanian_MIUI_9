@@ -54,7 +54,6 @@
     <string name="screenrecord_slience">"Videoclipul înregistrat nu are sunet deoarece versiunea curentă MIUI nu suportă înregistrarea audio."</string>
     <string name="screenrecord_success">Înregistrat cu succes. Puteți partaja acest videoclip acum.</string>
     <string name="share_tips">Captură de ecran realizată cu succes. Atingeți pentru a o partaja.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Stocare externă</string>
     <string name="storage_internal_sdcard">Stocare internă</string>
     <string name="storage_root_dir">"Sunteți deja în dosarul rădăcină"</string>

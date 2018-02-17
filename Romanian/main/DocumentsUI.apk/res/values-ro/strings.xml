@@ -100,7 +100,6 @@
     <string name="sort_date">După data modificării</string>
     <string name="sort_name">După nume</string>
     <string name="sort_size">După dimensiune</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="title_open">Deschideți din</string>
     <string name="title_save">Salvați în</string>
     <string name="toast_failed_delete">Unele documente nu au putut fi șterse</string>
