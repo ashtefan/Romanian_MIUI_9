@@ -264,7 +264,6 @@ Economisirea acumulatorului se va dezactiva în mod automat atunci când veți c
      <string name="config_helpIntentExtraKey"/>
      <string name="config_helpIntentNameKey"/>
      <string name="config_helpPackageNameKey"/>
-     <string name="config_helpPackageNameValue"/>
      <string name="contentServiceSync">Sincronizare</string>
      <string name="contentServiceSyncNotificationTitle">Sincronizare</string>
      <string name="contentServiceTooManyDeletesNotificationDesc">Prea multe ştergeri %s.</string>

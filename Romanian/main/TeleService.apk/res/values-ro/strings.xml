@@ -577,7 +577,6 @@ Sample Rate"</string>
     <string name="default_preference_summary_domain_address">&lt;Nesetat&gt;</string>
     <string name="default_preference_summary_password">&lt;Nesetat&gt;</string>
     <string name="default_preference_summary_username">&lt;Nesetat&gt;</string>
-    <string name="default_transport">UDP</string>
     <string name="delete">Eliminați</string>
     <string name="delete_fdn_contact">Ștergeţi numărul cu apelări restricţionate</string>
     <string name="deleting_fdn_contact">Se şterge numărul cu apelări restricţionate…</string>
@@ -1192,9 +1191,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="pointer_location">Locația indicatorului</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
     <string name="port_title">Numărul portului</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
-    <string name="power_charging_duration_short">%1$s - %2$s</string>
     <string name="power_discharging_duration">%1$s - aprox. %2$s rămas</string>
     <string name="power_discharging_duration_short">%1$s - %2$s rămas</string>
     <string name="power_remaining_charging_duration_only">%1$s rămas până la încărcarea completă</string>

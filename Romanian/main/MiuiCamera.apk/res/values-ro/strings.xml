@@ -165,7 +165,6 @@ dacă rotiți telefonul"</string>
     <string name="portrait_mode_use_hint">"Modul Portret estompează fundalul
 pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_advance_settings">Setări adiţionale</string>
-    <string name="pref_audio_focus_default">normal</string>
     <string name="pref_audio_focus_entry_front">Pe frunte</string>
     <string name="pref_audio_focus_entry_general">Normal</string>
     <string name="pref_audio_focus_entry_rear">În spate</string>
@@ -173,8 +172,6 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_burst_shoot_title">Fotografiere în serie</string>
     <string name="pref_camcorder_settings">Video</string>
     <string name="pref_camcorder_settings_category">Setări cameră</string>
-    <string name="pref_camera_antibanding_60">60 Hz</string>
-    <string name="pref_camera_antibanding_default">50 Hz</string>
     <string name="pref_camera_antibanding_entry_0">Dezactivată</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -387,12 +384,9 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_camera_zoom_mode_entry_standard">STANDARD</string>
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
     <string name="pref_camera_zoom_mode_entry_wide">LARG</string>
-    <string name="pref_camera_zoom_mode_entryvalue_tele">tele</string>
-    <string name="pref_camera_zoom_mode_entryvalue_wide">wide</string>
     <string name="pref_camera_zoom_mode_title">LENTILĂ</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
-    <string name="pref_camera_zoom_value_title">Zoom</string>
     <string name="pref_camera_zsl_entry_off">Activat</string>
     <string name="pref_camera_zsl_entry_on">Dezactivat</string>
     <string name="pref_capture_settings">Camera</string>
