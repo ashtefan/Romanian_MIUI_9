@@ -25,6 +25,7 @@
     <string name="sim_type_uim_name">Unelte UIM</string>
     <string name="sim_type_usim_name">Unelte USIM</string>
     <string name="stk_app_state">Starea aplicației</string>
+    <string name="stk_channel_name">Mesaje serviciu mobil</string>
     <string name="stk_dialog_accept">DA</string>
     <string name="stk_dialog_reject">NU</string>
     <string name="stk_dialog_title">Unelte SIM</string>

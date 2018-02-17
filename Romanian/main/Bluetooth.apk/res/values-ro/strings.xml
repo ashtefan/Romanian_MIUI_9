@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="ErrorTooManyRequests">Există prea multe solicitări în curs de procesare. Încercaţi din nou mai târziu.</string>
+    <string name="a2dp_sink_mbs_label">Bluetooth Audio</string>
     <string name="ack_record">Înregistrare Ack</string>
-    <string name="airplane_can_not_share">"Nu se poate utiliza partajarea Bluetooth în modul Avion"</string>
     <string name="airplane_error_msg">"Nu puteţi utiliza Bluetooth-ul în modul Avion."</string>
     <string name="airplane_error_title">Mod Avion</string>
-    <string name="app_name">Distribuire prin Bluetooth</string>
+    <string name="app_name">Bluetooth</string>
     <string name="auth_notif_message">Introduceţi cheia de sesiune pentru %1$s</string>
     <string name="auth_notif_ticker">Cerere de autentificare pentru protocolul OBEX</string>
     <string name="auth_notif_title">Cheia sesiunii</string>
     <string name="bluetooth_connected">Bluetooth audio conectat</string>
     <string name="bluetooth_disconnected">Bluetooth audio deconectat</string>
-    <string name="bluetooth_in_airplane_mode">În modul Avion</string>
     <string name="bluetooth_map_settings_app_icon">Miniatura aplicației</string>
     <string name="bluetooth_map_settings_cancel">Revocare</string>
     <string name="bluetooth_map_settings_count">Încercări rămase:</string>
@@ -60,15 +59,12 @@
     <string name="download_succ_ok">Deschideţi</string>
     <string name="download_success">Primire finalizată: %1$s.</string>
     <string name="download_title">Transfer de fişier</string>
-    <string name="empty_file_notification_sent">Partajare Bluetooth: Destinatarul a respins fișierul cu lungime zero %1$s</string>
     <string name="enabling_progress_content">Se activează Bluetooth…</string>
     <string name="enabling_progress_title">Aşteptaţi…</string>
-    <string name="hello">Bună ziua tuturor! Test de activitate!</string>
     <string name="inbound_history_title">Transferuri primite</string>
     <string name="inbound_noti_title">Bluetooth: fișiere primite</string>
-    <string name="incoming_file_confirm_Notification_caption">Doriţi să primiţi acest fişier?</string>
     <string name="incoming_file_confirm_Notification_content">%1$s este gata să trimită %2$s</string>
-    <string name="incoming_file_confirm_Notification_title">Partajare Bluetooth: Se primeşte fişierul</string>
+    <string name="incoming_file_confirm_Notification_title">Se primeşte fişierul</string>
     <string name="incoming_file_confirm_cancel">Refuzaţi</string>
     <string name="incoming_file_confirm_content">Acceptați fișierul?</string>
     <string name="incoming_file_confirm_ok">Acceptaţi</string>
@@ -88,7 +84,6 @@
     <string name="not_exist_file">Niciun fişier</string>
     <string name="not_exist_file_desc">"Fişierul nu există.
 "</string>
-    <string name="noti_caption">%1$s reuşite, %2$s eşuate.</string>
     <string name="notification_received">Distribuire prin Bluetooth: s-a primit %1$s</string>
     <string name="notification_received_fail">Distribuire prin Bluetooth: fişierul %1$s nu s-a primit</string>
     <string name="notification_receiving">Distribuire prin Bluetooth: se primeşte %1$s</string>
@@ -98,17 +93,17 @@
     <string name="notification_sent_fail">Distribuire prin Bluetooth: fişierul %1$s nu a fost trimis</string>
     <string name="notify_server">Notificaţi serverul TCP</string>
     <string name="ok_button">OK</string>
+    <string name="opp_notification_group">Partajare prin Bluetooth</string>
     <string name="outbound_history_title">Transferuri expediate</string>
     <string name="outbound_noti_title">Distribuire prin Bluetooth: fişiere trimise</string>
     <string name="pbap_acceptance_timeout_message">A expirat timpul pentru acceptarea conexiunii cu %1$s</string>
     <string name="pbap_authentication_timeout_message">A expirat timpul de introducere a cheii de sesiune cu %1$s</string>
+    <string name="pbap_notification_group">Partajare contacte prin Bluetooth</string>
     <string name="pbap_session_key_dialog_header">Cheie de sesiune Bluetooth solicitată</string>
     <string name="pbap_session_key_dialog_title">Introduceţi cheia de sesiune pentru %1$s</string>
-    <string name="permdesc_bluetoothAvrcpDataManager">Permite aplicației să acceseze managerul BluetoothAvrcpData și să-l folosească pentru afișarea pe UI.</string>
     <string name="permdesc_bluetoothShareManager">Permite aplicaţiilor să acceseze managerul Distribuire prin Bluetooth şi să-l utilizeze la transferul fişierelor.</string>
     <string name="permdesc_bluetoothWhitelist">Permite aplicaţiei să treacă temporar pe lista albă un dispozitiv Bluetooth, permiţându-i să trimită fişiere la acest dispozitiv fără confirmare din partea utilizatorului.</string>
     <string name="permdesc_handoverStatus">Permite primirea informațiilor despre preluarea transferului de la Bluetooth.</string>
-    <string name="permlab_bluetoothAvrcpDataManager">Accesați metadatele avrcp.</string>
     <string name="permlab_bluetoothShareManager">Accesaţi managerul de descărcare.</string>
     <string name="permlab_bluetoothWhitelist">Acces la dispozitivele Bluetooth din lista albă.</string>
     <string name="permlab_handoverStatus">Primire informații despre preluarea transferului prin BT.</string>

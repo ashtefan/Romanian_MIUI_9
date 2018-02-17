@@ -24,8 +24,6 @@
     <string name="one_cacrt">un certificat CA</string>
     <string name="one_usercrt">un certificat pentru utilizator</string>
     <string name="one_userkey">o cheie pentru utilizator</string>
-    <string name="one_wapi_ascrt">un certificat WAPI AS</string>
-    <string name="one_wapi_usercrt">un certificat WAPI pentru utilizator</string>
     <string name="only_primary_user_allowed">Numai proprietarul acestui dispozitiv poate instala certificate.</string>
     <string name="p12_description">Certificate în depozitul de chei PKCS12.</string>
     <string name="password_empty_error">Introduceţi parola.</string>

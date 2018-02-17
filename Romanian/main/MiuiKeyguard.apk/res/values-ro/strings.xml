@@ -7,8 +7,10 @@
     <string name="custom_lock_wallpaper_enter">Intrați</string>
     <string name="default_lockscreen_unlock_hint_text">Glisați în sus pentru a debloca</string>
     <string name="delete">Ştergeţi</string>
+    <string name="digital_clock_dot">:</string>
     <string name="do_disclosure_generic">Acest dispozitiv este gestionat de către organizația dumneavoastră</string>
     <string name="do_disclosure_with_name">Acest dispozitiv este gestionat de către %s</string>
+    <string name="doze_pickup_subtype_performs_proximity_check"/>
     <string name="emergency_call_string">Apel de urgenţă</string>
     <string name="face_data_input_camera_fail">"Nu s-a putut încărca Camera"</string>
     <string name="face_data_input_camera_ok">Încărcare cameră…</string>
@@ -17,6 +19,8 @@
     <string name="face_data_input_msg">Plasați-vă chipul în interiorul cadrului</string>
     <string name="face_data_input_ok">Finalizat</string>
     <string name="face_data_input_ok_msg">Activați ecranul pentru a debloca telefonul utilizând datele faciale.</string>
+    <string name="face_data_input_ok_msg_angle">"Deblocați telefonul cu datele faciale când ecranul este activ.
+(Înregistrați-vă datele faciale incluzând toate particularitățile necesare.)​"</string>
     <string name="face_data_input_ok_title">Adăugată cu succes</string>
     <string name="face_data_input_title">Adăugați datele faciale</string>
     <string name="face_data_introduction_msg">Datele faciale pot fi utilizate pentru a debloca telefonul sau pentru a vă verifica identitatea. Adăugați parola de blocare a ecranului înainte de a adăuga datele faciale.</string>
@@ -28,7 +32,9 @@
     <string name="face_data_manage_delete_title">Date faciale</string>
     <string name="face_data_manage_unlock_msg">Deblocați telefonul utilizând datele faciale</string>
     <string name="face_data_manage_unlock_title">Deblocare utilizând datele faciale</string>
-    <string name="face_data_suggesstion_first">Deblocarea cu ajutorul datelor faciale este mai puțin sigură decât utilizarea unei parole pentru Blocarea ecranului. Telefonul poate fi deblocat de persoanele care seamănă cu dvs.</string>
+    <string name="face_data_siggesstion_next">Următorul</string>
+    <string name="face_data_siggesstion_next_time">Următorul (%ds)</string>
+    <string name="face_data_suggesstion_first">Vulnerabilitate de securitate: Deblocarea cu ajutorul datelor faciale este mai puțin sigură decât utilizarea unei parole, a unui cod PIN sau a unui model pentru Blocarea ecranului. Telefonul poate fi deblocat de persoanele care seamănă cu dvs.</string>
     <string name="face_data_suggesstion_second">"Asigurați-vă că fața nu vă este acoperită de alte obiecte și că este ușor vizibilă. Fața ar trebui să fie bine iluminată, de asemenea."</string>
     <string name="face_unlock_adjust_distance">Asigurați-vă că distanța dintre fața dumneavoastră și ecran este cea optimă.</string>
     <string name="face_unlock_be_on_the_screen">Țineți telefonul în fața dumneavoastră</string>
@@ -47,6 +53,8 @@
     <string name="face_unlock_passwork">Utilizați parola</string>
     <string name="face_unlock_passwork_and_fingerprint">Utilizați parola sau datele faciale</string>
     <string name="face_unlock_quality">"Nu v-am putut vedea fața foarte clar"</string>
+    <string name="face_unlock_reenter_content">Algoritmul de deblocare facială este actualizat. Atingeți pentru a vă înregistra datele faciale din nou.</string>
+    <string name="face_unlock_reenter_title">Înregistrați datele faciale din nou.</string>
     <string name="face_unlock_reveal_eye">Faceți ochii vizibili</string>
     <string name="face_unlock_reveal_mouth">Faceți buzele vizibile</string>
     <string name="face_unlock_rise">Lăsați capul mai jos</string>
@@ -60,6 +68,7 @@
     <string name="fingerprint_enter_second_psw_msg_oldman">"Nu se poate accesa Spațiul Secundar în modul Lite"</string>
     <string name="fingerprint_enter_second_psw_title">Introduceți parola pentru Spațiul Secundar</string>
     <string name="fingerprint_not_identified_msg">Prea multe încercări nereușite. Introduceți parola acum sau încercați să utilizați amprenta în câteva secunde.</string>
+    <string name="fingerprint_not_identified_msg_lock">Prea multe încercări nereușite. Introduceți parola acum.</string>
     <string name="fingerprint_not_identified_title">Introduceți parola</string>
     <string name="fingerprint_try_again_msg">"Nu s-a putut verifica amprenta; încercați din nou."</string>
     <string name="fingerprint_try_again_text">Încercați din nou</string>
@@ -100,6 +109,7 @@
     <string name="keyguard_left_buscard">Notițe</string>
     <string name="keyguard_left_remotecentral">Calendar</string>
     <string name="keyguard_left_smarthome">Contacte</string>
+    <string name="keyguard_left_view_lock_wallpaper">Carusel imagini de fundal</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Încărcare rapidă. Atingeți pentru a vedea detaliile.</string>
     <string name="keyguard_quickly_charging_info_charging_text">Încărcare rapidă…</string>
     <string name="keyguard_torch_cover_text">Pentru a păstra lanterna pornită, țineți apăsat butonul de alimentare</string>

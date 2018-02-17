@@ -13,6 +13,8 @@
     <string name="bugreport_info_dialog_title">Detalii despre raportul de erori #%d</string>
     <string name="bugreport_info_name">Nume fișier</string>
     <string name="bugreport_info_title">Titlu raport</string>
+    <string name="bugreport_intent_chooser_title">Partajați Raportul cu erori</string>
+    <string name="bugreport_notification_channel">Rapoarte cu erori</string>
     <string name="bugreport_screenshot_action">Captură de ecran</string>
     <string name="bugreport_screenshot_failed">Nu s-a putut realiza captura de ecran.</string>
     <string name="bugreport_screenshot_taken">Captură de ecran realizată cu succes.</string>

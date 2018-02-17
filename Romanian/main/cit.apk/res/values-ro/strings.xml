@@ -96,6 +96,11 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
     <string name="cit_blue_tooth_scan_check_title">Scanare Bluetooth</string>
     <string name="cit_blue_torch_on">Porniți lumina albastră a blițului</string>
     <string name="cit_bluetooth_address_open_error">"Nu s-a putut obține adresa Bluetooth. A apărut o eroare în timpul activării Bluetooth."</string>
+    <string name="cit_bluetooth_logging_confirm_info">acest Jurnal Bluetooth va colecta datele protocolului Bluetooth ale dispozitivului și va înregistra doar operațiile Bluetooth curente. Vor fi înregistrate și informații posibil confidențiale: Accesul la agenda telefonică prin Bluetooth/Istoricul de apelare/SMS/MMS/Fișierele Exchanged/Metadatele Muzică etc. Aceste date vor fi utilizate doar intern de către Xiaomi și nu vor fi folosite în alte scopuri.</string>
+    <string name="cit_bluetooth_logging_confirm_ng">Respingeți</string>
+    <string name="cit_bluetooth_logging_confirm_notify">Sunteți de acord să activați colectarea jurnalelor?</string>
+    <string name="cit_bluetooth_logging_confirm_ok">De acord</string>
+    <string name="cit_bluetooth_logging_confirm_title">Avertisment Confidențialitate jurnal Bluetooth</string>
     <string name="cit_bluetooth_not_support">"Acest dispozitiv nu suportă Bluetooth"</string>
     <string name="cit_bluetooth_scan_retry">Scanați din nou</string>
     <string name="cit_bluetooth_scanning">Se scanează dispozitivele Bluetooth din apropiere (acest lucru ar trebui să dureze cca 4 secunde)…</string>

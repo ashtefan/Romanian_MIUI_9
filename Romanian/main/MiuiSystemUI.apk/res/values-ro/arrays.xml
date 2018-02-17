@@ -38,6 +38,79 @@
         <item>Utilizează verificarea HDCP doar pentru conținutul DRM</item>
         <item>Utilizează întotdeauna verificarea HDCP</item>
     </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Implicit)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Activați Codecurile opționale</item>
+        <item>Dezactivați Codecurile opționale</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Activați Codecurile opționale</item>
+        <item>Dezactivați Codecurile opționale</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>16 biți/eșantion</item>
+        <item>24 biți/eșantion</item>
+        <item>32 biți/eșantion</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>16 biți/eșantion</item>
+        <item>24 biți/eșantion</item>
+        <item>32 biți/eșantion</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimizat pentru Calitate Audio (990kbps/909kbps)</item>
+        <item>Calitate echilibrată între Audio și Conexiune (660kbps/606kbps)</item>
+        <item>Optimizat pentru Calitate Conexiune (330kbps/303kbps)</item>
+        <item>Cea mai bună opțiune (Bit Rate adaptiv)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimizat pentru Calitate Audio</item>
+        <item>Calitate echilibrată între Audio și Conexiune</item>
+        <item>Optimizat pentru Calitate Conexiune</item>
+        <item>Cea mai bună opțiune (Bit Rate adaptiv)</item>
+    </string-array>
     <string-array name="select_logd_size_titles">
         <item>Oprit</item>
         <item>64 KB</item>
@@ -59,6 +132,18 @@
         <item>1 MB per jurnal tampon</item>
         <item>4 MB per jurnal tampon</item>
         <item>16 MB per jurnal tampon</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Oprit</item>
+        <item>Tot</item>
+        <item>Tot doar radio</item>
+        <item>Doar kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Oprit</item>
+        <item>Tot</item>
+        <item>Tot doar radio</item>
+        <item>Doar kernel</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animație oprită</item>
@@ -115,12 +200,16 @@
     <string-array name="track_frame_time_entries">
         <item>Oprit</item>
         <item>Pe ecran, ca bare</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>În adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Oprit</item>
-        <item>Show overdraw areas</item>
-        <item>Arată zonele cu deuteranomalie</item>
+        <item>Arată zonele suprascrise</item>
+        <item>Arată zonele cu Deuteranomalie</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (Implicit)</item>
+        <item>OpenGL (Skia)</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limita standard</item>
@@ -167,11 +256,11 @@
     <string-array name="carrier_name">
         <item>Digi Mobil</item>
         <item>Digi Mobil 3G</item>
-     </string-array>
+    </string-array>
     <string-array name="carrier_simple_name">
         <item>Digi</item>
         <item>Digi 3G</item>
-     </string-array>
+    </string-array>
     <string-array name="aqi_title_prefix">
         <item>ICA %1$s</item>
         <item>ICA %1$s</item>

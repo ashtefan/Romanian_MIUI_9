@@ -41,16 +41,51 @@
         <item>Încearcă să activeze Wi-Fi-ul</item>
         <item>Încearcă să activeze BT</item>
     </string-array>
-
-    <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Pentru a apela și a trimite mesaje prin Wi-Fi, cereți mai întâi operatorului activarea serviciului. Apoi reactivați apelarea prin Wi-Fi din Setări.</item>
+   
+    <string-array name="config_globalActionsList">
+        <item>pornire</item>
+        <item>repornire</item>
+        <item>raportare erori</item>
+        <item>utilizatori</item>
     </string-array>
-    <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Înregistrați-vă cu operatorul dvs.</item>
+    <string-array name="config_statusBarIcons">
+        <item>căști</item>
+        <item>Mi key</item>
+        <item>call_record</item>
+        <item>privacy_mode</item>
+        <item>ble_unlock_mode</item>
+        <item>quiet</item>
+        <item>gps</item>
+        <item>missed_call</item>
+        <item>managed_profile</item>
+        <item>ime</item>
+        <item>sync_failing</item>
+        <item>sync_active</item>
+        <item>cast</item>
+        <item>location</item>
+        <item>bluetooth</item>
+        <item>bluetooth_handsfree_battery</item>
+        <item>nfc</item>
+        <item>tty</item>
+        <item>speakerphone</item>
+        <item>zen</item>
+        <item>mute</item>
+        <item>volume</item>
+        <item>wifi</item>
+        <item>wimax</item>
+        <item>cdma_eri</item>
+        <item>data_connection</item>
+        <item>phone_evdo_signal</item>
+        <item>phone_signal</item>
+        <item>battery</item>
+        <item>alarm_clock</item>
+        <item>secure</item>
+        <item>clock</item>
     </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>%s apelare prin Wi-Fi</item>
+    <string-array name="config_system_condition_providers">
+        <item>countdown</item>
+        <item>program</item>
+        <item>eveniment</item>
     </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item>Încercați din nou</item>
@@ -86,5 +121,22 @@
         <item>Serviciu</item>
         <item>Altele</item>
         <item>Personalizat</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>date mobile</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Pentru a apela și a trimite mesaje prin Wi-Fi, cereți mai întâi operatorului să configureze acest serviciu. Apoi activați apelarea prin Wi-Fi din nou din Setări.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Înregistrați-vă cu operatorul dumneavoastră</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s apelare prin Wi-Fi</item>
     </string-array>
 </resources>

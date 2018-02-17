@@ -1127,20 +1127,21 @@ răspunsul operatorului"</string>
     <string name="network_roaming_exception_tips">Nu se pot utiliza datele mobile în roaming pentru conectare la rețea</string>
     <string name="network_route_exception_detail">"Este posibil să existe o problemă cu router-ul la care sunteţi conectat:
 
- "&lt;b&gt;1. Probleme de rețea publică Wi-Fi&lt;/b&gt;"
-Dacă sunteți conectat la o rețea publică Wi-Fi, numărul utilizatorilor conectați la acea rețea pot reduce viteza sau crea probleme de conectivitate. Conectați-vă la altă rețea și încercați din nou.
+ "&lt;b&gt;"1. Probleme de rețea publică Wi-Fi
+"&lt;/b&gt;"Dacă sunteți conectat la o rețea publică Wi-Fi, numărul utilizatorilor conectați la acea rețea pot reduce viteza sau crea probleme de conectivitate. Conectați-vă la altă rețea și încercați din nou.
 
- "&lt;b&gt;2. Probleme de furnizor servicii internet&lt;/b&gt;"
-Asigurați-vă că nu aveţi contul suspendat de către furnizorul de servicii de internet.
+ 2."&lt;b&gt;" Probleme de furnizor servicii internet
+A"&lt;/b&gt;"sigurați-vă că nu aveţi contul suspendat de către furnizorul de servicii de internet.
 
- "&lt;b&gt;3. Probleme hardware router&lt;/b&gt;"
-Încercați repornirea router-ului sau verificarea setărilor admin pentru router.
+ 3."&lt;b&gt;" Probleme hardware router
 
- "&lt;b&gt;4. Alte probleme legate de router&lt;/b&gt;"
-Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurarea din fabrică.
+Î"&lt;/b&gt;"ncercați repornirea router-ului sau verificarea setărilor admin pentru router.
+ 4."&lt;b&gt;" Alte probleme legate de router
+C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurarea din fabrică.
 
- "&lt;b&gt;5. Asigurați-vă că routerul este conectat corect&lt;/b&gt;"
-Încercați să utilizaţi un alt cablu Ethernet pentru a conecta router-ul. Dacă bănuiți că este o problemă cu conexiunea reţelei din locaţia dvs., contactați furnizorul de servicii de internet. "</string>
+
+ 5."&lt;b&gt;" Asigurați-vă că routerul este conectat corect
+Î"&lt;/b&gt;"ncercați să utilizaţi un alt cablu Ethernet pentru a conecta router-ul. Dacă bănuiți că este o problemă cu conexiunea reţelei din locaţia dvs., contactați furnizorul de servicii de internet."</string>
     <string name="network_sim_exception_detail">"Este posibil să existe o problemă cu cartela SIM:
 
 1. Asigurați-vă că nu aveţi contul suspendat de către furnizorul de servicii de internet. Încercați să utilizaţi cartela SIM a unui prieten pentru a vedea dacă telefonul se conectează în mod normal.

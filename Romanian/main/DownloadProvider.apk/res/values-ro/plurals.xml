@@ -2,10 +2,10 @@
 <resources>
     <plurals name="notif_summary_active">
         <item quantity="other">Se descarcă %d fişiere</item>
-        <item quantity="one">Se descarcă un fişier</item>
+        <item quantity="one">Se descarcă %d fişier</item>
     </plurals>
     <plurals name="notif_summary_waiting">
         <item quantity="other">%d fişiere în aşteptare</item>
-        <item quantity="one">Un fişier în aşteptare</item>
+        <item quantity="one">%d fişier în aşteptare</item>
     </plurals>
 </resources>

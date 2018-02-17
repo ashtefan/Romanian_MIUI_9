@@ -3,4 +3,5 @@
     <string name="app_label">Stocare externă</string>
     <string name="root_documents">Documente</string>
     <string name="root_internal_storage">Stocare internă</string>
+    <string name="storage_description">Stocare locală</string>
 </resources>
