@@ -156,7 +156,7 @@
         <item>256 KB per jurnal tampon</item>
         <item>1 MB per jurnal tampon</item>
         <item>4 MB per jurnal tampon</item>
-        <item>16 MB per jurnal tampon</item
+        <item>16 MB per jurnal tampon</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Oprit</item>
