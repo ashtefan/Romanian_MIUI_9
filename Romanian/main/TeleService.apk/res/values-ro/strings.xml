@@ -1608,6 +1608,9 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="verify_apps_over_usb_title">Verifică aplicațiile instalate prin USB</string>
     <string name="vibrate_after_connected_summary">Vibrează când răspunde</string>
     <string name="vibrate_after_connected_title">Vibrează după conectare</string>
+    <string name="vice_slot_volte_data_switch_prompt">Dispozitivul dumneavoastră se va conecta la o rețea de date mobile utilizând al doilea SIM pe durata apelurilor VoLTE efectuate. Acest lucru poate genera costuri suplimentare. Contactați operatorul local pentru a afla detalii despre planul dumneavoastră de date.</string>
+    <string name="vice_slot_volte_data_switch_summary">În timpul apelurilor VoLTE, telefonul se va conecta la o rețea de date mobile utilizând al doilea SIM</string>
+    <string name="vice_slot_volte_data_switch_title">Utilizați datele mobile de pe al doilea SIM pe durata apelurilor VoLTE</string>
     <string name="vm_change_failed">"Nu s-a putut schimba numărul de mesagerie vocală.
 Contactaţi operatorul în cazul în care această problemă persistă."</string>
     <string name="vm_change_pin_error_invalid">Noul cod PIN conține caractere nevalide.</string>

@@ -277,7 +277,7 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_progress_warning_waiting">"Plata nu a ajuns în contul dvs. încă."</string>
     <string name="mibi_prompt_info_button_hint">Atenție(%d)</string>
     <string name="mibi_prompt_info_button_text">OK</string>
-    <string name="mibi_prompt_info_for_first_use">"Creditele Mi nu pot fi utilizate pentru a achiziționa produse hardware de pe mi.com."</string>
+    <string name="mibi_prompt_info_for_first_use">&lt;Data&gt;"&amp;lt;font color=#ff7700&amp;gt;Creditele Mi nu pot fi utilizate pentru a achiziționa produse hardware de pe mi.com.&amp;lt;/font&amp;gt;"&lt;/Data&gt;</string>
     <string name="mibi_prompt_info_title">Ponturi</string>
     <string name="mibi_push_register_fail">Înregistrare push eșuată.</string>
     <string name="mibi_push_register_success">Înregistrare push cu succes.</string>
@@ -297,6 +297,9 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_recharge_other">Vedeți celelalte metode</string>
     <string name="mibi_recharge_push_notification_prime_title">%1$d a adăugat %2$s Credite Mi în contul dvs.</string>
     <string name="mibi_recharge_push_notification_sub_title">Reîncărcare completă.</string>
+    <string name="mibi_recharge_value_money">Achiziționați credite Mi în valoare de %s CNY</string>
+    <string name="mibi_recharge_value_money_special_unit">Achiziționați credite Mi în valoare de %1$s %2$s</string>
+    <string name="mibi_recharge_warn_text">"Nu puteți achiziționa bunuri utilizând creditele Mi."</string>
     <string name="mibi_scan_prompt_number">Scanați numărul cardului preplătit %1$s</string>
     <string name="mibi_scan_prompt_password">Scanați parola cardului preplătit %1$s</string>
     <string name="mibi_scan_prompt_voucher">Scanați parola Mi Credit</string>

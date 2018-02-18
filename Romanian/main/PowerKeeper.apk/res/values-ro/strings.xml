@@ -188,6 +188,8 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="screen_off">Ecranul este oprit</string>
     <string name="screen_off_10_min">Ecranul este oprit de peste 10 minute</string>
     <string name="screen_on">Ecranul este pornit</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+    <string name="search_result_text">"Nu s-a găsit nicio aplicație"</string>
     <string name="set_brightness">Luminozitate maximă a ecranului</string>
     <string name="set_cpu_powermode">Utilizare procesor</string>
     <string name="set_cpufreq_max">Frecvenţă maximă a procesorului</string>

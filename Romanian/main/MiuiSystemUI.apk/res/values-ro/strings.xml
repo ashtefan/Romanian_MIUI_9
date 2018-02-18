@@ -365,6 +365,8 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="how_to_back_home">Reveniți la pagina Acasă</string>
     <string name="how_to_switch_recents">Comutați la Recente</string>
+    <string name="how_to_use_drawer">Cum să utilizați funcția de glisare a aplicației</string>
+    <string name="how_to_use_drawer_summary">Glisați din partea de stânga sus</string>
     <string name="how_to_use_fsg">Puteți realiza următoarele acțiuni utilizând gesturi:</string>
     <string name="ime_security_warning">Această metodă de introducere poate colecta textul introdus, inclusiv parolele și datele cardurilor de credit. Provine de la aplicația %1$s. Use this input method?</string>
     <string name="immediately_destroy_activities">Nu păstra activitățile</string>

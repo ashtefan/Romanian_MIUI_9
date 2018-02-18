@@ -87,14 +87,12 @@
     <string name="invalid_sim_pin_hint">Codul PIN trebuie să conțină între 4 și 8 cifre</string>
     <string name="invalid_sim_puk_hint">Codul PUK trebuie să conțină cel puțin 8 cifre</string>
     <string name="keyguard_charging_info_battery_used_time_text">Pe acumulator</string>
-    <string name="keyguard_charging_info_charging_text">Încărcare</string>
     <string name="keyguard_charging_info_click_to_detail">Vizualizați detaliile</string>
     <string name="keyguard_charging_info_data_c">%s℃</string>
     <string name="keyguard_charging_info_data_ma">%smA</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
     <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Descărcat</string>
-    <string name="keyguard_charging_info_finished_charging_text">Încărcat complet</string>
     <string name="keyguard_charging_info_last_charge_time">dd/MM H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Astăzi %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Ieri %s</string>
@@ -111,7 +109,6 @@
     <string name="keyguard_left_smarthome">Contacte</string>
     <string name="keyguard_left_view_lock_wallpaper">Carusel imagini de fundal</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Încărcare rapidă. Atingeți pentru a vedea detaliile.</string>
-    <string name="keyguard_quickly_charging_info_charging_text">Încărcare rapidă…</string>
     <string name="keyguard_torch_cover_text">Pentru a păstra lanterna pornită, țineți apăsat butonul de alimentare</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
