@@ -498,6 +498,7 @@ Mențineți telefoanele apropiate unul de celălalt."</string>
     <string name="trans_show_qr_code_tips">Scanați codul QR utilizând vechiul dispozitiv</string>
     <string name="trans_start_failed_message">"Nu s-a putut porni transferul; reîncercați sau reporniți telefonul"</string>
     <string name="trans_start_failed_title">"Nu s-a putut porni transferul"</string>
+    <string name="trans_switching_5g">Se comută la rețeaua Wi-Fi de 5GHz…</string>
     <string name="trans_time_format_second">Mai puțin de un minut</string>
     <string name="trans_time_spent">"
 Durată: %s"</string>
