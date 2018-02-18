@@ -297,8 +297,6 @@ Centrul de relații clienți： 400-100-3399"</string>
     <string name="mibi_recharge_other">Vedeți celelalte metode</string>
     <string name="mibi_recharge_push_notification_prime_title">%1$d a adăugat %2$s Credite Mi în contul dvs.</string>
     <string name="mibi_recharge_push_notification_sub_title">Reîncărcare completă.</string>
-    <string name="mibi_recharge_value_money">Achiziționați credite Mi în valoare de %s CNY</string>
-    <string name="mibi_recharge_value_money_special_unit">Achiziționați credite Mi în valoare de %1$s %2$s</string>
     <string name="mibi_recharge_warn_text">"Nu puteți achiziționa bunuri utilizând creditele Mi."</string>
     <string name="mibi_scan_prompt_number">Scanați numărul cardului preplătit %1$s</string>
     <string name="mibi_scan_prompt_password">Scanați parola cardului preplătit %1$s</string>
