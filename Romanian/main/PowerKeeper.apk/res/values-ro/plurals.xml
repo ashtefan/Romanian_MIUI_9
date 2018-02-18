@@ -3,6 +3,7 @@
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Căutați %d aplicații</item>
         <item quantity="one">Căutați %d aplicație</item>
+    </plurals>        
     <plurals name="select_items">
         <item quantity="other">%1$d selectate</item>
         <item quantity="one">%1$d selectat</item>
