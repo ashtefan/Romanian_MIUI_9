@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="accessibility_enter_lock_wallpaper">Atingeți pentru a deschide Caruselul de imagini de fundal</string>
+    <string name="accessibility_enter_lock_wallpaper">Atingeți pentru a deschide aplicația de Muzică</string>
     <string name="btn_camera">Introduceți chipul dumneavoastră</string>
     <string name="click_to_enter_text">Apăsaţi pentru a vizualiza</string>
     <string name="confirm_pin_msg">Reintroduceţi codul PIN</string>
@@ -107,7 +107,7 @@
     <string name="keyguard_left_buscard">Notițe</string>
     <string name="keyguard_left_remotecentral">Calendar</string>
     <string name="keyguard_left_smarthome">Contacte</string>
-    <string name="keyguard_left_view_lock_wallpaper">Carusel imagini de fundal</string>
+    <string name="keyguard_left_view_lock_wallpaper">Muzică</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Încărcare rapidă. Atingeți pentru a vedea detaliile.</string>
     <string name="keyguard_torch_cover_text">Pentru a păstra lanterna pornită, țineți apăsat butonul de alimentare</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>

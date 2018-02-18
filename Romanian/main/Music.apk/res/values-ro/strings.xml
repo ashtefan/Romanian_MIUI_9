@@ -774,7 +774,7 @@ este oferit în principal de către Ultimate Inc."</string>
     <string name="privacy_tip_title">Utilizați acceleratorul Xunlei?</string>
     <string name="project_device">Telefon Mi</string>
     <string name="project_device_mobile">Dispozitiv mobil</string>
-    <string name="prompt_grant_write_settings_permission">Setări solicitare permisiune</string>
+    <string name="prompt_grant_write_settings_permission">Permiteți modificarea setărilor de sistem</string>
     <string name="pulluprefreshrecyclerview_loading_error">"Nu s-a putut încărca"</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Încărcată cu succes</string>
     <string name="pulluprefreshrecyclerview_loading_running">Se încarcă…</string>
