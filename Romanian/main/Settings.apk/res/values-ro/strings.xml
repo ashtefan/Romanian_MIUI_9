@@ -3954,7 +3954,6 @@ Pentru a utiliza fixarea ecranului:
     <string name="security_encryption_attention_3">"Va trebui să setați o nouă parolă de deblocare a ecranului."</string>
     <string name="security_encryption_attention_4">"Asigurați-vă că nu uitați parola de deblocare a ecranului, altfel va trebui să resetați complet telefonul și veți pierde toate datele din telefon."</string>
     <string name="security_encryption_attention_info">Puteți cripta conturi, setări, aplicații descărcate și datele acestora, fișiere multimedia precum și alte fișiere.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Important</string>
     <string name="security_encryption_close_dialog_info">Dacă nu criptați telefonul cu parola de deblocare a ecranului, unele servicii Google ar putea deveni indisponibile.</string>
     <string name="security_encryption_close_dialog_title">Mergeți înapoi la protecția implicită cu parolă</string>
