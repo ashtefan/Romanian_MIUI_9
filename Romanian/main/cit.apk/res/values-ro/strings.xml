@@ -249,7 +249,6 @@ When calibrating, make sure there's nothing between the sensor and your hand (e.
   <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
   <string name="cit_reset_check_title">Reboot test</string>
   <string name="cit_reset_test">Test</string>
-    <string name="cit_sar_sensor_check_summary">Valorile pentru canalele senzorilor sar ar trebui să apară mai jos; acoperiți butonul telefonului. Dacă datele se modifică, funcția este în regulă, nu calibrați cu USB-ul conectat!</string>
   <string name="cit_sd_fail">An error occurred.</string>
   <string name="cit_sd_mount">Mount SD card</string>
   <string name="cit_sd_mount_sucess">SD card mounted</string>

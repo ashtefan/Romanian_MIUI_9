@@ -9,7 +9,7 @@
     <string name="app_search">Căutați aplicații</string>
     <string name="btn_send">Trimiteţi</string>
     <string name="bugreport_dialog_not_show_again">"Nu arăta din nou"</string>
-    <string name="bugreport_dialog_submit_content">Comentariul poate conține informații personale și date despre locație.</string>
+    <string name="bugreport_dialog_submit_content">"În prezent salvați jurnale software pe acest dispozitiv. Jurnalele pot conține informații personale și date despre locație. Nu partajați cu nimeni jurnalele dacă nu doriți ca aceste informații să fie expuse."</string>
     <string name="bugreport_dump_complete_notification_summary">Apăsaţi pentru a vizualiza.</string>
     <string name="bugreport_dump_complete_notification_title">Raport de probleme creat</string>
     <string name="bugreport_dump_start_notification_summary">Acest lucru poate dura câteva minute.</string>
@@ -276,7 +276,7 @@
     <string name="submit_dialog_cancel">Anulaţi</string>
     <string name="submit_dialog_confirm">Trimiteţi</string>
     <string name="submit_dialog_content">"Feedback-ul dvs., împreună cu jurnalele cu erori și imagini atașate, vor fi încărcate pe serverele MIUI. Acestea pot conține informații personale și date despre locația dumneavoastră."</string>
-    <string name="submit_dialog_content_global">"Feedback-ul dumneavoastră, împreună cu atașamentele și raportul cu erori, va fi încărcat pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Puteți alege să nu trimiteți rapoartele cu erori debifând căsuța corespunzătoare."</string>
+    <string name="submit_dialog_content_global">"Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și raportul cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), va fi încărcat pe serverele MIUI și pe o secțiune restricționată a forumului MIUI pentru dezvoltatori. Informațiile despre subiectele dvs. și activitatea pe forum vor fi de asemenea colectate pentru analiză și comunicări ulterioare. Rapoartele cu erori pot conține informații personale și despre locație."</string>
     <string name="submit_dialog_title">Trimiteţi raportul cu erori</string>
     <string name="submit_feedback_info_failed">"Nu s-a putut trimite raportul"</string>
     <string name="suggestion_description">Adăugaţi descrierea aici</string>

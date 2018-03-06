@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="access_sd_fail">Nu se poate accesa stocarea USB</string>
+    <string name="access_sd_fail">"Nu se poate accesa stocarea USB."</string>
     <string name="accessibility_audio_shutter_bg">Fundal audio la declanșare</string>
     <string name="accessibility_camera_picker">Comutați între camera frontală și cea posterioară</string>
     <string name="accessibility_effect_mode_button">Buton efecte</string>
@@ -30,7 +30,7 @@
     <string name="button_normal_video_title">Înregistrați un videoclip</string>
     <string name="camera_disabled">Camera a fost dezactivată din motive de securitate.</string>
     <string name="camera_error_title">Eroare Cameră foto</string>
-    <string name="camera_facedetection_sub_option_hint">Opțiunea experimentală este acum disponibilă</string>
+    <string name="camera_facedetection_sub_option_hint">Caracteristică experimentală</string>
     <string name="camera_label">Cameră</string>
     <string name="camera_mode_options">Moduri</string>
     <string name="camera_setting">Cameră</string>
@@ -39,7 +39,7 @@
     <string name="camera_snap_mode_title_detail">Apăsați pentru a vizualiza detaliile</string>
     <string name="cannot_connect_camera_once">Nu se poate conecta la camera foto</string>
     <string name="cannot_connect_camera_twice">Încă nu se poate conecta la camera foto. Încercați să reporniți telefonul.</string>
-    <string name="cannot_connect_camera_volte_call">Apel video în curs; încercați din nou mai târziu.</string>
+    <string name="cannot_connect_camera_volte_call">Apelul video este în desfășurare; încercați din nou mai târziu.</string>
     <string name="cannot_move_warning_message">Fotografiere, țineți dispozitivul nemişcat</string>
     <string name="color_effect_entry_berry">Fructe de padure</string>
     <string name="color_effect_entry_blackwhite">Alb-negru</string>
@@ -61,6 +61,7 @@
     <string name="config_name_setting">Setări</string>
     <string name="config_name_sound">Audio</string>
     <string name="config_name_straighten">Îndreptare</string>
+    <string name="config_name_super_resolution">Super rezoluție</string>
     <string name="config_name_tilt">Tilt-shift</string>
     <string name="config_name_timer">Temporizator</string>
     <string name="confirm_install_scanner_message">"Aplicația Scaner vă permite să scanați coduri QR, coduri de bare și altele. Nu trebuie să vă conectați la internet pentru a o instala."</string>
@@ -120,7 +121,7 @@ dacă rotiți telefonul"</string>
     <string name="front_camera_hint_text_rotate">Rotiți telefonul</string>
     <string name="hine_hht">"În lumină redusă, camera va face mai multe fotografii
 și apoi va crea una cu minim de zgomot."</string>
-    <string name="hint_device_water_mark">Amprenta dispozitivului va fi adăugată în mod automat.</string>
+    <string name="hint_device_water_mark">Amprenta va fi adăugată în mod automat în fotografie.</string>
     <string name="hint_fast_motion">Videoclipul înregistrat va fi redat la viteză mai mare.</string>
     <string name="hint_groupshot">"Camera va face mai multe fotografii
 și apoi va crea una în care fiecare arată cel mai bine."</string>
@@ -145,7 +146,7 @@ dacă rotiți telefonul"</string>
     <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Aliniați săgeata cu linia de referință</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Continuaţi…</string>
-    <string name="pano_how_to_use_prompt_slow_down">Mutați telefonul mai încet</string>
+    <string name="pano_how_to_use_prompt_slow_down">Mutați telefonul mai încet…</string>
     <string name="pano_how_to_use_prompt_start">Atingeți săgeata pentru a comuta direcția și începeți să mișcați telefonul încet.</string>
     <string name="pano_how_to_use_prompt_to_move">Mutați dispozitivul încet</string>
     <string name="path_settings">Aplicații de sistem/Cameră/Setări</string>
@@ -165,6 +166,7 @@ dacă rotiți telefonul"</string>
     <string name="portrait_mode_use_hint">"Modul Portret estompează fundalul
 pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_advance_settings">Setări adiţionale</string>
+    <string name="pref_ai_detect">Detecție AI</string>
     <string name="pref_audio_focus_entry_front">Pe frunte</string>
     <string name="pref_audio_focus_entry_general">Normal</string>
     <string name="pref_audio_focus_entry_rear">În spate</string>
@@ -172,6 +174,7 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_burst_shoot_title">Fotografiere în serie</string>
     <string name="pref_camcorder_settings">Video</string>
     <string name="pref_camcorder_settings_category">Setări cameră</string>
+    <string name="pref_camera_ai_scene_title">Scenariu AI</string>
     <string name="pref_camera_antibanding_entry_0">Dezactivată</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -222,7 +225,9 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_camera_delay_capture_entry_5s">Întârziere 5s</string>
     <string name="pref_camera_delay_capture_entry_audio">Audio</string>
     <string name="pref_camera_delay_capture_title">Temporizator</string>
-    <string name="pref_camera_device_watermark_title">Amprenta dispozitivului</string>
+    <string name="pref_camera_device_watermark_title">Amprentă pe fotografie</string>
+    <string name="pref_camera_dual_enable_title">Activați camera duală</string>
+    <string name="pref_camera_dual_sat_enable_title">Activați camera duală SAT</string>
     <string name="pref_camera_exposuretime_entry_0_5">2s</string>
     <string name="pref_camera_exposuretime_entry_1">1s</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -241,7 +246,7 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_camera_exposuretime_entry_8s">8s</string>
     <string name="pref_camera_exposuretime_entry_auto">AUTO</string>
     <string name="pref_camera_face_info_watermark_title">Adaugă informațiile despre vârstă în fotografii</string>
-    <string name="pref_camera_facedetection_auto_hidden_title">Ascundere automată a detectării chipului</string>
+    <string name="pref_camera_facedetection_auto_hidden_title">Ascunde în mod automat rama de detectare a chipului</string>
     <string name="pref_camera_facedetection_title">Detectare faţă</string>
     <string name="pref_camera_flashmode_entry_auto">Automat</string>
     <string name="pref_camera_flashmode_entry_off">Dezactivat</string>
@@ -256,6 +261,8 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_camera_focusmode_entry_manual">Manual</string>
     <string name="pref_camera_focusmode_entry_normal">Standard</string>
     <string name="pref_camera_focusmode_title">Mod focus</string>
+    <string name="pref_camera_front_ai_scene_entry_off">AI scene dezactivat</string>
+    <string name="pref_camera_front_ai_scene_entry_on">AI scene</string>
     <string name="pref_camera_front_bokeh_entry_off">Oprit</string>
     <string name="pref_camera_front_bokeh_entry_on">Pornit</string>
     <string name="pref_camera_gradienter_title">Îndreptare</string>
@@ -290,6 +297,7 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_camera_long_pressing_shutter_title">Apăsați și țineți apăsat butonul de declanșare pentru a bloca AE/AF/AWB</string>
     <string name="pref_camera_magic_mirror_title">Oglindă magică</string>
     <string name="pref_camera_manual_mode_title">Manual</string>
+    <string name="pref_camera_mfnr_sat_enable_title">Activați MFNR</string>
     <string name="pref_camera_movie_solid_title">Stabilizare imagine</string>
     <string name="pref_camera_multilevel_entry_high">Ridicat</string>
     <string name="pref_camera_multilevel_entry_higher">Superior</string>
@@ -299,8 +307,9 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_camera_multilevel_entry_lowest">Cel mai mic</string>
     <string name="pref_camera_multilevel_entry_middle">Mediu (prestabilit)</string>
     <string name="pref_camera_multilevel_entry_normal">Normal</string>
+    <string name="pref_camera_optimized_flash_enable_title">Lumină optimizată bliț</string>
     <string name="pref_camera_panoramamode_title">Panoramă</string>
-    <string name="pref_camera_parallel_process_enable_title">Activați procesul fotografiere în paralel</string>
+    <string name="pref_camera_parallel_process_enable_title">Activați procesarea în paralel</string>
     <string name="pref_camera_peak_entry_off">Dezactivată</string>
     <string name="pref_camera_peak_entry_on">Activată</string>
     <string name="pref_camera_peak_title">Focusare maximă</string>
@@ -353,6 +362,9 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_camera_snap_label_take_movie">Videoclip</string>
     <string name="pref_camera_snap_label_take_picture">Fotografie</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Nu se poate utiliza modul captură instantanee în timp  ce  \"Utilizarea butoanelor de volum pentru trezire\" este activă."</string>
+    <string name="pref_camera_snap_value_off">Oprit</string>
+    <string name="pref_camera_snap_value_take_movie">Film</string>
+    <string name="pref_camera_snap_value_take_picture">Fotografie</string>
     <string name="pref_camera_sound_title">Sunete cameră</string>
     <string name="pref_camera_square_mode_title">Pătrat</string>
     <string name="pref_camera_stereo_mode_title">Ajustare focalizare</string>
@@ -411,7 +423,7 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_retain_camera_mode_summary">Comută camera la modul utilizat anterior când deschideți aplicația.</string>
     <string name="pref_retain_camera_mode_title">Salvează modul anterior</string>
-    <string name="pref_scan_qrcode_summary">Camera posterioară poate scana coduri QR doar în modul \"Fotografiere\".</string>
+    <string name="pref_scan_qrcode_summary">Doar camera posterioară poate scana coduri QR în modul \"Fotografiere\".</string>
     <string name="pref_scan_qrcode_title">Scanare coduri QR</string>
     <string name="pref_setting_title">Setări</string>
     <string name="pref_simple_hdr_entry_off">Oprit</string>
@@ -421,6 +433,10 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_skin_beautify_intelligent_title">Inteligent</string>
     <string name="pref_skin_beautify_slim_title">Zvelt</string>
     <string name="pref_skin_beautify_smooth_title">Skin</string>
+    <string name="pref_video_focusmode_entry_auto">Atingere</string>
+    <string name="pref_video_focusmode_entry_continuous">CAF</string>
+    <string name="pref_video_focusmode_title">Mod focalizare</string>
+    <string name="pref_video_hfr_title">Video HFR</string>
     <string name="pref_video_quality_entry_1080p">FULL HD</string>
     <string name="pref_video_quality_entry_480p">SD</string>
     <string name="pref_video_quality_entry_4kuhd">4K</string>

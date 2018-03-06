@@ -370,6 +370,7 @@ Sample Rate"</string>
     <string name="callFailed_userBusy">Linie ocupată</string>
     <string name="callFailed_user_not_member_of_CUG">Utilizatorul nu este membru CUG</string>
     <string name="callFailed_video_call_tty_enabled">Nu se pot efectua apeluri video cât timp TTY este activat.</string>
+    <string name="callFailed_wifi_lost">Conexiunea Wi-Fi a fost pierdută. Apelul s-a încheiat.</string>
     <string name="callUnanswered_forwarded">Apel la care nu s-a răspuns și redirecționat</string>
     <string name="call_advanced_setting_title">Setări avansate</string>
     <string name="call_background_default">Implicit</string>
@@ -477,6 +478,13 @@ Sample Rate"</string>
     <string name="cfb_title">Se redirecţionează atunci când este ocupat</string>
     <string name="cfnrc_title">Se redirecţionează atunci când este inaccesibil</string>
     <string name="cfnrc_title_cta">Se redirecţionează atunci când este inaccesibil</string>
+    <string name="cfnry_time_fifteen_sec">15 sec</string>
+    <string name="cfnry_time_five_sec">5 sec</string>
+    <string name="cfnry_time_setting_title">Setați timpul de așteptare</string>
+    <string name="cfnry_time_ten_sec">10 sec</string>
+    <string name="cfnry_time_thirty_sec">30 sec</string>
+    <string name="cfnry_time_twenty_five_sec">25 sec</string>
+    <string name="cfnry_time_twenty_sec">20 sec</string>
     <string name="cfnry_title">Se redirecţionează atunci când nu răspunde</string>
     <string name="cfu_title">Se redirecţionează mereu</string>
     <string name="change_data_preference_4g_only_prompt">Se pare că aveți o cartelă SIM care suportă doar 4G. O setați ca și implicită pentru datele mobile?</string>
@@ -504,6 +512,7 @@ Sample Rate"</string>
     <string name="clir_choices_hide_number">Ascundeţi numărul</string>
     <string name="clir_choices_network_default">Prestabilit de rețea</string>
     <string name="clir_choices_show_number">Se afişează numărul</string>
+    <string name="close">Dezactivați</string>
     <string name="close_dialog">OK</string>
     <string name="close_profile">Închideţi</string>
     <string name="cloud_antispam_title">Identificare numere necunoscute</string>
@@ -1105,6 +1114,7 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
     <string name="other_settings_category">Altele</string>
     <string name="overlay_display_devices_title">Simulare ecran secundar</string>
     <string name="overseas_roaming_setting">Date mobile în roaming</string>
+    <string name="password">Parolă</string>
     <string name="password_changed">Parolă modificată cu succes</string>
     <string name="password_title">Parolă</string>
     <string name="path_answer_state_setting_title">Aplicații de sistem/Telefon/Setările apelurilor primite</string>
@@ -1271,6 +1281,9 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="private_num">Număr privat</string>
     <string name="process_kernel_label">S. O. Android</string>
     <string name="progress_dialog_exiting_ecm">Se iese din modul Apelare inversă de urgenţă</string>
+    <string name="prompt_to_turnoff_volte_when_failed">"Serviciile VoLTE nu sunt disponibile. Dezactivați VoLTE pentru a apela."</string>
+    <string name="prompt_to_turnoff_volte_when_supp_service">"Serviciul nu este disponibil. Dezactivați VoLTE din Setări."</string>
+    <string name="prompt_when_turnon_volte_without_lte">"Rețelele LTE nu sunt disponibile acum. Activarea VoLTE poate împiedica apelarea obișnuită."</string>
     <string name="proxy_address">Adresă proxy</string>
     <string name="proxy_address_title">Adresă proxy de ieşire</string>
     <string name="pstn_connection_service_label">Cartele SIM incorporate</string>
@@ -1650,7 +1663,9 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
     <string name="volte_switch_not_support_summary">"Apelurile VoLTE nu sunt suportate de către datele mobile ale cartelei SIM."</string>
     <string name="volte_switch_not_support_summary2">"Apelurile VoLTE nu sunt suportate de către operator."</string>
     <string name="volte_switch_summary">Utilizați VoLTE pentru îmbunătățirea calității apelurilor video și vocale</string>
+    <string name="volte_switch_summary2">Confirmați că operatorul dumneavoastră suportă această caracteristică înainte de a o activa. Altfel, apelurile obișnuite pot fi afectate.</string>
     <string name="volte_switch_title">VoLTE activat</string>
+    <string name="volte_tips_when_turn_on">Serviciile VoLTE China Telecom sunt oferite doar în zonele cu acoperire LTE.</string>
     <string name="vpn_settings_not_available">Setările VPN nu sunt disponibile pentru acest utilizator</string>
     <string name="vvm_unsupported_message_format">Tip de mesaj nesuportat, apelați %s pentru a-l asculta.</string>
     <string name="wait_for_debugger">Așteaptă depanarea</string>

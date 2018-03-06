@@ -280,7 +280,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="passport_login_recycle_account_no">Nu</string>
     <string name="passport_login_recycle_account_yes">Da</string>
     <string name="passport_login_title">Conectaţi-vă la un cont existent</string>
-    <string name="passport_login_using_other_ways"><u>Alte modalități de conectare</u></string>
+    <string name="passport_login_using_other_ways">Alte modalități de conectare</string>
     <string name="passport_message_dialog_title">SMS cu coduri de verificare</string>
     <string name="passport_next">Înainte</string>
     <string name="passport_no">Nu</string>
@@ -443,7 +443,7 @@ link-ul din e-mailul pe care vi l-am trimis."</string>
     <string name="unlock_help_notice">"Ajutor:
 · Dacă v-ați uitat parola, accesați id.mi.com pentru a o reseta.
 · Dacă nu vă puteți debloca telefonul, accesați i.mi.com pentru a dezactiva Localizarea telefonului.
-· Furnizați acest cod Serviciului Clienți: %s"</string>
+· Codul dumneavoastră de deblocare: %s"</string>
     <string name="update_contacts">Actualizaţi contactele</string>
     <string name="update_email_address_dialog_message">Trebuie să vă verificați identitatea înainte de a actualiza e-mailul.</string>
     <string name="update_email_address_dialog_title">Actualizare adresă de e-mail</string>

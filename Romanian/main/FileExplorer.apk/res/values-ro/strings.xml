@@ -13,7 +13,7 @@
     <string name="album_name">Selecția zilnică: %s</string>
     <string name="all_topic">Toate subiectele</string>
     <string name="already_liked">"Ați adăugat deja la favorite"</string>
-    <string name="app_name">Explorator fişiere Mi</string>
+    <string name="app_name">Explorator fişiere</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Cameră</string>
     <string name="app_name_downloadedrom">Pachete</string>
@@ -124,7 +124,7 @@
     <string name="data_consumption_checkbox_hint">"Nu se afişează din nou"</string>
     <string name="data_consumption_confirm">OK</string>
     <string name="data_consumption_message">Această aplicație necesită o conexiune la internet prin Wi-Fi pentru a funcţiona în mod normal.</string>
-    <string name="data_consumption_message1">Exploratorul de fișiere Mi trebuie să se conecteze la internet pentru a putea vedea stickerele și videoclipurile populare.</string>
+    <string name="data_consumption_message1">Exploratorul de fișiere trebuie să se conecteze la internet pentru a putea vedea stickerele și videoclipurile populare.</string>
     <string name="data_consumption_title">Conexiune internet</string>
     <string name="decompress_cancel">Anulaţi</string>
     <string name="decompress_confirm">Dezarhivaţi</string>
@@ -178,7 +178,7 @@
     <string name="encrypt_error">"Nu s-au putut ascunde fișierele; vă rog reîncercați"</string>
     <string name="encrypt_prefix">ASCUNS</string>
     <string name="encrypt_success">Toate fișierele au fost ascunse</string>
-    <string name="encrypt_success_first_five">"Criptare efectuată. Glisați în jos în pagina de pornire a Exploratorului de fișiere Mi pentru a vizualiza fișierele."</string>
+    <string name="encrypt_success_first_five">"Criptare efectuată și fișier ascuns. Glisați în jos în pagina de pornire a Exploratorului de fișiere pentru a vedea fișierele ascunse."</string>
     <string name="encrypting">Criptare…</string>
     <string name="error_contains_sharer_path">"Nu se pot cripta fișierele din dosarul /MIUI/Gallery/cloud/sharer. Mutați fișierele în alt dosar și reîncercați."</string>
     <string name="error_create_dir">"Nu s-a putut crea dosarul"</string>
@@ -325,7 +325,7 @@
     <string name="mobile_network_dialog_title">Avertizare utilizare date mobile</string>
     <string name="month_day_format">dd MMMM</string>
     <string name="move_failed">"Mutare eşuată"</string>
-    <string name="move_icon_to_desktop_hint">Creați un widget pe ecranul principal pentru ca Exploratorul de fișiere Mi să administreze fișierele mai eficient.</string>
+    <string name="move_icon_to_desktop_hint">Creați un widget pe ecranul principal pentru ca Exploratorul de fișiere să administreze fișierele mai eficient.</string>
     <string name="move_icon_to_desktop_success">Acum veți putea găsi widgetul Explorator fișiere pe ecranul principal.</string>
     <string name="move_to">Mutaţi în…</string>
     <string name="msg_notify_setting">Setări notificare</string>
@@ -347,7 +347,7 @@
     <string name="no_apk">Apăsați pentru a vedea cele mai populare aplicații.</string>
     <string name="no_app_tags">Gol</string>
     <string name="no_comment">Niciun comentariu</string>
-    <string name="no_content">Deschideți din nou Exploratorul de fișiere Mi pentru a vedea videoclipurile populare</string>
+    <string name="no_content">Deschideți din nou Exploratorul de fișiere pentru a vedea videoclipurile populare</string>
     <string name="no_daren_tip">Nimic aici deocamdată</string>
     <string name="no_downloaded_sticker_tip">"Nu s-au putut găsi stickerele descărcate. Verificați stickerele partajate de către fanii Mi."</string>
     <string name="no_enough_storage_indication">Stocarea dispozitivului este plină</string>
@@ -428,8 +428,8 @@
     <string name="path_hot_video">Vedeți videoclipuri populare în mod gratuit</string>
     <string name="path_kuai_chuan">Transferuri de fișiere între dispozitive</string>
     <string name="path_recent_file">Gestionați fișierele de pe telefon</string>
-    <string name="permission_denial">"Nu s-au putut accesa fișierele. Permiteți Exploratorului de fișiere Mi să acceseze fișiere din Setări."</string>
-    <string name="permission_required">"Nu s-au putut accesa fișierele. Permiteți Exploratorului de fișiere Mi să acceseze fișiere din Setări.​"</string>
+    <string name="permission_denial">"Nu s-au putut accesa fișierele. Permiteți Exploratorului de fișiere să acceseze fișiere din Setări."</string>
+    <string name="permission_required">"Nu s-au putut accesa fișierele. Permiteți Exploratorului de fișiere să acceseze fișiere din Setări.​"</string>
     <string name="petabyteShort">PB</string>
     <string name="phone">Stocare internă</string>
     <string name="phone_bind_skip">Omiteți</string>
@@ -457,7 +457,7 @@
     <string name="phone_storage_image_title">Imagini: </string>
     <string name="phone_storage_info_str">%1$s din %2$s disponibil</string>
     <string name="phone_storage_other_title">Altele: </string>
-    <string name="phone_storage_size_tip">"Contabilizarea spațiului disponibil realizată de către Exploratorul de fișiere Mi diferi de cel raportat de către alte aplicații"</string>
+    <string name="phone_storage_size_tip">"Contabilizarea spațiului disponibil realizată de către Exploratorul de fișiere poate diferi de cea raportată de către alte aplicații"</string>
     <string name="phone_storage_video_title">Videoclipuri: </string>
     <string name="phone_storage_zip_title">Arhive: </string>
     <string name="phone_valid_code_tip">Codul de verificare a fost introdus de prea multe ori. Obțineți un nou cod</string>
@@ -647,6 +647,7 @@
     <string name="topic_title">Subiecte</string>
     <string name="transfer_done">Fișierele au fost mutate.</string>
     <string name="transfer_private_data">Se transferă dosarele ascunse de pe cardul SD…</string>
+    <string name="transition_image">imagine de tranziție</string>
     <string name="type_not_support">"Acest format de fișier nu este suportat. Dezarhivați fișierul și reîncercați."</string>
     <string name="ui_main_toast_favorite_added">Adăugat la favorite</string>
     <string name="ui_main_toast_favorite_removed">Eliminat din favorite</string>

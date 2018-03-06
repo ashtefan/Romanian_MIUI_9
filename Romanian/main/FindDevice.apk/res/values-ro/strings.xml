@@ -37,6 +37,7 @@ Dacă schimbați cartela SIM, un alt SMS va fi trimis în mod automat pentru a r
     <string name="lock_msg_phone">Informații de contact: %s</string>
     <string name="login_extra_steps">Verificarea autentificării</string>
     <string name="login_failed">"Nu s-a putut autentifica. %s."</string>
+    <string name="open_wifi_settings">Deschideți setările Wi-Fi</string>
     <string name="passport_checking_vcode">Se verifică parola…</string>
     <string name="passport_error_empty_vcode">Introduceți codul de verificare</string>
     <string name="passport_notification_need_unlock_again">Reîncercați deblocarea</string>

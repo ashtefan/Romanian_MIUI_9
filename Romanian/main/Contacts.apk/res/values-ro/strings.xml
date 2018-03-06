@@ -215,6 +215,8 @@
     <string name="contact_detail_calllog_call_note_tips">Note</string>
     <string name="contact_detail_calllog_call_record_tips">Apel înregistrat</string>
     <string name="contact_detail_calllog_empty">Nu există un istoric de apelare</string>
+    <string name="contact_detail_entry_pay">Plătiți</string>
+    <string name="contact_detail_entry_pay_dialog_title">Selectați numărul de telefon</string>
     <string name="contact_detail_menu_delete_miprofile">Ştergere cartelă</string>
     <string name="contact_detail_miprofile_accept">Schimb cartele de contact</string>
     <string name="contact_detail_miprofile_accept_fail_toast">Nu s-au putut schimba cartelele de contact</string>
@@ -822,7 +824,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="path_key_rebuild_t9_index_title">Aplicații de sistem/Contacte/Organizare contacte/Refacere index date</string>
     <string name="path_key_sim_manage">Aplicații de sistem/Contacte/Organizare contacte/Cartele SIM</string>
     <string name="path_preference_contacts_filter">Aplicații de sistem/Contacte/Afișare contacte/Configurare liste de contacte</string>
-    <string name="path_quick_dial_setting">Aplicații de sistem/Contacte/Apelare rapidă</string>
+    <string name="path_quick_dial_setting">Aplicații de sistem/Telefon/Setări avansate/Apelare rapidă</string>
     <string name="path_remove_duplicate">Aplicații de sistem/Contacte/Organizare contacte/Îmbinare contacte dublate</string>
     <string name="path_share_visible_contacts">Aplicații de sistem/Contacte/Import și export/Partajare contacte vizibile</string>
     <string name="path_sim_capacity">Aplicații de sistem/Contacte/Stocare cartelă SIM</string>
@@ -881,6 +883,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="preference_contacts_display">Preferinţe de afişare</string>
     <string name="preference_contacts_filter">Configuraţi listele contactelor</string>
     <string name="preference_contacts_more">Aranjarea contactelor</string>
+    <string name="preference_contacts_moresetting">Mai multe</string>
     <string name="preference_dial_pad_touch_tone_default">Prestabilit</string>
     <string name="preference_dial_pad_touch_tone_human">Voce</string>
     <string name="preference_dial_pad_touch_tone_piano">Pian</string>
@@ -888,6 +891,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="preference_dial_pad_touch_tone_title">Tonuri la atingerea tastelor numerice</string>
     <string name="preference_display">Afişare</string>
     <string name="preference_displayOptions">Opţiuni de afişare</string>
+    <string name="preference_display_contact">Opţiuni de afişare</string>
     <string name="preference_export">Export</string>
     <string name="preference_import">Import</string>
     <string name="preference_import_export">Import/Export</string>
@@ -1006,7 +1010,7 @@ Apăsaţi pictograma Îmbinare de mai jos pentru a începe.</string>
     <string name="search_key_rebuild_t9_index_title">Organizare;Contacte;t9</string>
     <string name="search_key_sim_manage">Organizare;Contacte</string>
     <string name="search_preference_contacts_filter">Contacte;Afișare</string>
-    <string name="search_quick_dial_setting">Contacte</string>
+    <string name="search_quick_dial_setting">Telefon</string>
     <string name="search_remove_duplicate">Organizare;Contacte</string>
     <string name="search_results_searching">Se caută…</string>
     <string name="search_settings_description">Numele contactelor din agenda dvs.</string>

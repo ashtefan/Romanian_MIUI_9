@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="announce_for_drag">
-        <item quantity="other">se mută %1$d elemente</item>
-        <item quantity="one">se mută %1$d element</item>
+        <item quantity="other">Se mută %1$d elemente</item>
+        <item quantity="one">Se mută %1$d element</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">Ștergeți %1$d imagini de fundal?</item>

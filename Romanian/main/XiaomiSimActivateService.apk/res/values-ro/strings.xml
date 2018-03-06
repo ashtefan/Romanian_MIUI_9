@@ -115,5 +115,7 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="phone_verify_processing">Verificare…</string>
     <string name="phone_verify_text">"%1$s nu va obține numărul dvs. de telefon，Doar se verifică dacă numărul de telefon este valid. Sunteți de acord?"</string>
     <string name="phone_verify_title">Permiteți ca %1$s să vă verifice numărul de telefon</string>
+    <string name="privacy_revoke_failed_msg">confidențialitate revocată，nu se poate obține numărul de telefon，activarea a eșuat</string>
+    <string name="privacy_revoke_tips">Dacă revocați, nu veți mai putea utiliza sincronizarea SMS-urilor</string>
     <string name="sim_unactivated_title">"Cartela SIM nu este activată"</string>
 </resources>

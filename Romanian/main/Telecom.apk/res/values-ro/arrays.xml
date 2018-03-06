@@ -38,7 +38,7 @@
         <item>Utilizează verificarea HDCP doar pentru conținutul DRM</item>
         <item>Utilizează întotdeauna verificarea HDCP</item>
     </string-array>
-<string-array name="bluetooth_avrcp_versions">
+    <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Implicit)</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>

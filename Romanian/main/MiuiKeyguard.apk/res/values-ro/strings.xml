@@ -2,6 +2,7 @@
 <resources>
     <string name="accessibility_enter_lock_wallpaper">Atingeți pentru a deschide aplicația de Muzică</string>
     <string name="btn_camera">Introduceți chipul dumneavoastră</string>
+    <string name="change_to_ac_charging">Comutat la încărcarea fără fir</string>
     <string name="click_to_enter_text">Apăsaţi pentru a vizualiza</string>
     <string name="confirm_pin_msg">Reintroduceţi codul PIN</string>
     <string name="custom_lock_wallpaper_enter">Intrați</string>
@@ -34,7 +35,7 @@
     <string name="face_data_manage_unlock_title">Deblocare utilizând datele faciale</string>
     <string name="face_data_siggesstion_next">Următorul</string>
     <string name="face_data_siggesstion_next_time">Următorul (%ds)</string>
-    <string name="face_data_suggesstion_first">Vulnerabilitate de securitate: Deblocarea cu ajutorul datelor faciale este mai puțin sigură decât utilizarea unei parole, a unui cod PIN sau a unui model pentru Blocarea ecranului. Telefonul poate fi deblocat de persoanele care seamănă cu dvs.</string>
+    <string name="face_data_suggesstion_first">Vulnerabilitate de securitate: Deblocarea cu ajutorul datelor faciale este mai puțin sigură decât utilizarea unei parole, a unui cod PIN sau a unui model de deblocare a ecranului. Telefonul poate fi deblocat cu o fotografie de-a dumneavoastră sau de către persoanele care seamănă cu dvs.</string>
     <string name="face_data_suggesstion_second">"Asigurați-vă că fața nu vă este acoperită de alte obiecte și că este ușor vizibilă. Fața ar trebui să fie bine iluminată, de asemenea."</string>
     <string name="face_unlock_adjust_distance">Asigurați-vă că distanța dintre fața dumneavoastră și ecran este cea optimă.</string>
     <string name="face_unlock_be_on_the_screen">Țineți telefonul în fața dumneavoastră</string>
@@ -64,7 +65,7 @@
     <string name="fingerprint_add_text">Interfața de recunoaștere a amprentei a fost actualizată. Adăugați amprenta din nou.</string>
     <string name="fingerprint_add_title">Adăugați amprenta</string>
     <string name="fingerprint_again_identified_msg">Amprenta este activă acum. Utilizați-o pentru a debloca telefonul sau introduceți parola.</string>
-    <string name="fingerprint_enter_second_psw_msg">Introduceți parola pentru Spațiul Secundar după repornirea telefonului pentru a putea utiliza deblocarea cu amprentă</string>
+    <string name="fingerprint_enter_second_psw_msg">Introduceți parola pentru Spațiul Secundar pentru a putea utiliza recunoașterea amprentei</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">"Nu se poate accesa Spațiul Secundar în modul Lite"</string>
     <string name="fingerprint_enter_second_psw_title">Introduceți parola pentru Spațiul Secundar</string>
     <string name="fingerprint_not_identified_msg">Prea multe încercări nereușite. Introduceți parola acum sau încercați să utilizați amprenta în câteva secunde.</string>
@@ -138,6 +139,8 @@
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selectați &amp;lt;font color=#a5220e&amp;gt;\"Ștergeți &amp;amp;amp; Resetare\"&amp;lt;/font&amp;gt; și așteptați până ce telefonul repornește.&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">Cum să ștergeți datele?</string>
     <string name="phone_locked_string">Telefonul a fost blocat</string>
+    <string name="reset_device_detail_tip">Încărcare fără fir; vă rugăm aliniați baza telefonului, pentru a asigura viteza de încărcare.</string>
+    <string name="reset_device_tip">Se încarcă lent; vă rugăm repoziționați telefonul</string>
     <string name="symbol_colon">:</string>
     <string name="unlock_camera_steady">Vă rugăm stați nemișcat</string>
     <string name="unlock_failed">Eroare internă</string>
@@ -148,5 +151,8 @@
     <string name="unlockscreen_recharge_completed">Încărcare finalizată</string>
     <string name="unlockscreen_recharging_message">Încărcat: %d%%</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Eliberați pentru a vedea detaliile</string>
+    <string name="wireless_charge_dialog_cancel">Renunțați</string>
+    <string name="wireless_charge_dialog_title">Poziție incorectă; vă rugăm repoziționați</string>
+    <string name="wireless_charge_stop">Încărcarea wireless s-a oprit</string>
     <string name="wrong_password">Parolă incorectă</string>
 </resources>

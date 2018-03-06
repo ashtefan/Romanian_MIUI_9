@@ -19,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">Partajați cu</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="mibi_all_license_message">"Sunteți pe cale să utilizați Mi Credit, un serviciu furnizat de către Xiaomi Inc. Înainte de a putea utiliza acest serviciu, trebuie să acceptați Termenii Serviciului din %1$s. Atingeți butonul OK dacă sunteți de acord cu termenii și condițiile descrise în %1$s și %1$s. Trebuie să vă conectați la internet și să permiteți localizarea dispozitivului pentru a utiliza Mi Credit."</string>
     <string name="mibi_app_name">Mi Credit</string>
     <string name="mibi_applock_config">"Nu se poate seta Blocarea aplicațiilor când se utilizează modul Ecran Scindat."</string>
     <string name="mibi_applock_dialog_cancel">Nu acum</string>
@@ -163,7 +164,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_label_balance">Balanță</string>
     <string name="mibi_label_giftcard">Card cadou</string>
     <string name="mibi_label_pay_remain">Sold: %1$s Credite Mi</string>
-    <string name="mibi_license_message">"Sunteți pe cale să utilizați serviciul Mi Credit, furnizat de către Xiaomi Inc. Înainte de a putea utiliza acest serviciu, trebuie să fiți de acord cu Termenii Serviciului prezentați în %1$s. Atingeți OK dacă sunteți de acord cu termenii și condițiile descrise în %1$s. Trebuie să vă conectați la internet și să permiteți localizarea telefonului pentru a utiliza Mi Credit."</string>
+    <string name="mibi_license_message">"Sunteți pe cale să utilizați serviciul Mi Credit, furnizat de către Xiaomi Inc. Înainte de a putea utiliza acest serviciu, trebuie să fiți de acord cu Termenii Serviciului prezentați în %1$s. Atingeți OK dacă sunteți de acord cu termenii și condițiile descrise în %1$s . Trebuie să vă conectați la internet și să permiteți localizarea telefonului pentru a utiliza Mi Credit."</string>
     <string name="mibi_license_message_span">Acordul utilizatorului Mi Credit</string>
     <string name="mibi_license_title">Termenii și condițiile</string>
     <string name="mibi_list_item_bottom_hint">"Ați ajuns la capătul listei"</string>
@@ -200,6 +201,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_msg_telecom_picker_hint_2_1">Operatorul de rețea a fost contactat!</string>
     <string name="mibi_msg_telecom_picker_hint_2_2">Veți primi un SMS de confirmare în curând.</string>
     <string name="mibi_msg_telecom_sending">Se contactează furnizorul de servicii…</string>
+    <string name="mibi_normal_license_name">Termeni și condiții</string>
     <string name="mibi_order_balance_lable">Credite Mi</string>
     <string name="mibi_order_balance_lable_append">Credite Mi + cupon</string>
     <string name="mibi_order_balance_title">Creditele mele Mi</string>
@@ -249,6 +251,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">Dacă valoarea nominală a cardului preplătit nu este &lt;font color=red&gt;￥%1$s&lt;/font&gt;, cardul va fi anulat. Xiaomi nu este responsabil pentru nicio daună materială ce apare ca urmare a unei erori de utilizator.</string>
     <string name="mibi_prepaid_picker_title_default">Selectați suma</string>
     <string name="mibi_prepaid_picker_title_selected">suma</string>
+    <string name="mibi_privacy_license_name">Politica de Confidențialitate</string>
     <string name="mibi_process_expired">"Unde ați plecat? Această operațiune a expirat."</string>
     <string name="mibi_progress_creating">Obținere informații despre comandă…</string>
     <string name="mibi_progress_deduct_creating">Se activează protocolul de plată automată %1$s​…</string>

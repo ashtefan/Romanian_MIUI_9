@@ -190,7 +190,7 @@
     <string name="current_version_pc">Desktop</string>
     <string name="current_version_phone">Telefon</string>
     <string name="custom_head_card_text">Crede întotdeauna că ceva minunat urmează să se întâmple</string>
-    <string name="data_monitor">Monitorizare date</string>
+    <string name="data_monitor">Monitorizare utilizare date</string>
     <string name="data_monitor_dialog_message">Se pare că ceva utilizează datele mobile. Deschideți pagina de pornire pentru a opri acest lucru.</string>
     <string name="data_traffic_prompt_message">"Utilizarea conexiunii de date mobile pentru a căuta videoclipuri va creşte utilizarea datelor. Dacă treceţi peste limita utilizării datelor din planul dvs., operatorul vă poate taxa suplimentar."</string>
     <string name="data_traffic_prompt_title">Avertisment de utilizare a datelor</string>
@@ -585,6 +585,7 @@ Sunteți sigur că doriți să părăsiți această pagină?"</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Conexiunea a fost întreruptă când dispozitivul a intrat în hibernare.</string>
     <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Conexiunea a fost întreruptă datorită unei modificări a rețelei.</string>
     <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">"Nu s-a găsit fișierul. Este posibil să fi fost mutat sau șters."</string>
+    <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"Nu s-a putut citi fișierul. Este posibil ca permisiunile fișierului să împiedice accesul."</string>
     <string name="mw_miuichromium_error_page_problem_gateway_timed_out">S-a așteptat prea mult pentru ca %s0 să răspundă.</string>
     <string name="mw_miuichromium_error_page_problem_network_access_denied">Accesul la rețea este restricționat.</string>
     <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"Nu s-a putut conecta la Internet. Ceva nu este în regulă cu serverul proxy, sau adresa proxy este incorectă."</string>
@@ -795,7 +796,7 @@ Sunteți sigur că doriți să părăsiți această pagină?"</string>
     <string name="nav_screen_incognito_message">"Istoricul de navigare și al căutărilor nu va fi salvat în modul Incognito.
 Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși salvate."</string>
     <string name="nav_screen_incognito_title">Mod Incognito</string>
-    <string name="navigation_delete_all">glisați spre stânga și spre dreapta pentru a închide toate filele</string>
+    <string name="navigation_delete_all">Glisați spre stânga și spre dreapta pentru a închide toate filele</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Renunță</string>
     <string name="navigationbar_rightbutton_actiontext_go">Accesați</string>
     <string name="navigationbar_rightbutton_actiontext_search">Căutați</string>
@@ -834,7 +835,6 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="popup_window_attempt">Permiteţi acestui site să deschidă o fereastră de tip pop-up?</string>
     <string name="positive_confirm_message">Opriți oricum</string>
     <string name="pref_accept_quicklink_push">Flux de știri</string>
-    <string name="pref_accessibility">Accesibilitate</string>
     <string name="pref_accessibility_title">Accesibilitate</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">Combinații de litere comune pot fi introduse printr-o singură apăsare în bara de adrese</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Introducere rapidă URL</string>
@@ -1090,7 +1090,7 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="suggest_access_btn_play">Redaţi</string>
     <string name="suggest_access_btn_view">Vizualizaţi</string>
     <string name="suggest_access_item_album_songs">%d melodii</string>
-    <string name="suggest_access_item_app_mark">APP</string>
+    <string name="suggest_access_item_app_mark">APLICAȚII</string>
     <string name="suggest_access_item_app_size">%.2fMB</string>
     <string name="suggest_access_item_app_update">Actualizare: %s</string>
     <string name="suggest_access_item_book_mark">CĂRȚI</string>
@@ -1105,11 +1105,11 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="suggest_access_music">Muzică Mi</string>
     <string name="suggest_item_delete_text">Ștergeți</string>
     <string name="suggest_open_app_failed">"Nu s-a putut deschide această aplicație"</string>
-    <string name="suggestion_lottery_detail_pour">%sNOTĂ</string>
-    <string name="suggestion_lottery_detail_price">FIECARE NOTĂ%sYUAN</string>
-    <string name="suggestion_lottery_detail_text">ACEASTĂ%s</string>
-    <string name="suggestion_lottery_period">NR.%s</string>
-    <string name="suggestion_translation_more">MOD TRADUCERE</string>
+    <string name="suggestion_lottery_detail_pour">%s NOTĂ</string>
+    <string name="suggestion_lottery_detail_price">FIECARE NOTĂ VALOREAZĂ %s YUANI</string>
+    <string name="suggestion_lottery_detail_text">ACEASTĂ RUNDĂ %s</string>
+    <string name="suggestion_lottery_period">RUNDA %s</string>
+    <string name="suggestion_translation_more">VEDEȚI MAI MULTE</string>
     <string name="switchText">DA</string>
     <string name="switch_proxy_dialog_msg">"Fraudare rețea detectată. Utilizați aplicația de securitate MIUI încorporată sau raportați atacul către operatorul dumneavoastră."</string>
     <string name="switch_proxy_dialog_title">Fraudare rețea</string>
@@ -1131,10 +1131,10 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="transfer_prompt_0">Redă videoclipul</string>
     <string name="transfer_restart">Reporniți</string>
     <string name="translation_copy">Copiați</string>
-    <string name="translation_more">Mai multe traduceri</string>
-    <string name="translation_query_error">Niciun înțeles</string>
-    <string name="translation_query_error_network">Solicitarea e eșuat; verificați conexiunea la rețea</string>
-    <string name="translation_result_copy">Rezultatul traducerii a fost replicat</string>
+    <string name="translation_more">Vedeți mai multe</string>
+    <string name="translation_query_error">"Nu s-a putut traduce"</string>
+    <string name="translation_query_error_network">"Nu s-au putut obține informații. Conectați-vă la rețea și încercați din nou."</string>
+    <string name="translation_result_copy">Copiat în clipboard</string>
     <string name="unSwitchText">NU</string>
     <string name="undo">Anulează acțiunea</string>
     <string name="unknown_title">Necunoscut</string>

@@ -33,6 +33,7 @@
     <string name="attach_sound">Audio</string>
     <string name="attach_subject">Subiect</string>
     <string name="attach_take_photo">Realizaţi o fotografie</string>
+    <string name="attach_transaction">Trimiteți bani</string>
     <string name="attach_video">Videoclip</string>
     <string name="audio_download_failed">Nu se poate descărca conţinutul audio</string>
     <string name="audio_message_expired">Acest mesaj vocal a expirat.</string>
@@ -517,6 +518,7 @@
     <string name="select_local_audio">Selectaţi un fişier audio</string>
     <string name="select_local_video">Selectaţi un fişier video</string>
     <string name="select_message_send_sim">Selectați cartela SIM</string>
+    <string name="select_phone_number">Selectați numărul de telefon</string>
     <string name="select_recipient">Selectaţi destinatari</string>
     <string name="select_sim">Selectați cartela SIM</string>
     <string name="select_top_text">Text în partea de sus</string>

@@ -689,7 +689,7 @@
     <string name="finger_remind_message">Adăugați mai întâi amprenta. Atingeți pentru a merge la Setări.</string>
     <string name="fingerprint_identify_msg">Activați deblocarea cu amprentă</string>
     <string name="fingerprint_not_identified_msg">Pentru a debloca dispozitivul, introduceți parola.</string>
-    <string name="fingerprint_not_remind">"Nu arăta din nou"</string>
+    <string name="fingerprint_not_remind">"Nu întreba din nou"</string>
     <string name="fingerprint_remind_dialog_title">Deblocare cu amprentă</string>
     <string name="fingerprint_to_lock">Deblocați utilizând amprenta</string>
     <string name="fingerprint_verify_failed">"Nu s-a putut verifica amprenta"</string>
@@ -723,7 +723,6 @@
     <string name="five_percent_total_pkg">%s (5%% din datele lunare)</string>
     <string name="forbid_autobright_summary">"Iluminarea ecranului va rămâne constantă când vă jucați"</string>
     <string name="forbid_autobright_title">Depanați iluminarea ecranului</string>
-
     <string name="foreground_traffic">În prim plan: %s</string>
     <string name="forget_password_button_text"><u>Am uitat parola</u></string>
     <string name="forget_password_button_text_normal">Am uitat parola</string>
@@ -1615,7 +1614,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="safepay_alert_dialog_button_fix">Reparați</string>
     <string name="save_energy_text">"Restricționați pornirea automată și sincronizarea pentru aplicațiile din fundal pentru a obține cea mai bună performanță din acumulatorul telefonului"</string>
     <string name="save_energy_title">Optimizați utilizarea acumulatorului</string>
-    <string name="sc_allow_network_dialog_message">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
+    <string name="sc_allow_network_dialog_message">Ați restricționat conexiunea la rețea și accesul la locație din Securitate. Acordați aplicației Securitate permisiunile necesare pentru a utiliza această caracteristică.</string>
     <string name="sc_allow_network_dialog_tiltle">Nu se poate utiliza această caracteristică</string>
     <string name="sc_system_risk_fix_info_xspace">"Nu se poate rezolva din Spațiul secundar. Încercați din nou în Spațiul principal."</string>
     <string name="sc_warning_updater_not_found">"Aplicația de actualizare nu a fost găsită."</string>
@@ -1863,19 +1862,19 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="summary_mifi_insurance">Achiziționați o asigurare de înlocuire de un an care poate acoperi daunele hardware</string>
     <string name="summary_miui_update">Actualizare disponibilă pentru %s.</string>
     <string name="summary_mms">Filtrare mesaje nedorite (vânzări, anunțuri, etc.)</string>
-    <string name="summary_network_switch">Permiteţi aplicației de securitate să se conecteze la internet</string>
-    <string name="summary_never_flow_verify">Acest număr nu a fost verificat de operatorul dvs.</string>
+    <string name="summary_network_switch">Permiteţi aplicației de Securitate să se conecteze la internet</string>
+    <string name="summary_never_flow_verify">"Acest număr nu a fost verificat de operatorul dvs."</string>
     <string name="summary_payment_risk">"Se pare că mediul de plată nu este sigur"</string>
     <string name="summary_permission">Protejează-mi confidențialitatea faţă de aplicații terțe potențial periculoase</string>
     <string name="summary_permission_root">Se pare că aveți activat accesul la root. Acest lucru poate duce la scăderea gradului de siguranță.</string>
-    <string name="summary_power_optimizer">Se reduce performanța dispozitivului atunci când acumulatorul este descărcat</string>
+    <string name="summary_power_optimizer">"Se reduce performanța dispozitivului atunci când acumulatorul este descărcat"</string>
     <string name="summary_realname_verify">Verificați-vă identitatea pentru a spori gradul de securitate a plăților.</string>
     <string name="summary_show_notification">Goliți cache-ul, vedeți starea acumulatorului și blocați elemente în Panoul de notificări</string>
     <string name="summary_telecom_operator">Obțineți statisticile lunare de utilizare a datelor de la operatorul dvs.</string>
     <string name="summary_usb">Evitați raspândirea viruşilor de la alte dispozitive</string>
-    <string name="summary_virus">Au fost găsiţi %2$d viruşi</string>
+    <string name="summary_virus">Eliminați virușii pentru a vă păstra telefonul în siguranță</string>
     <string name="summary_virus_cloudscan">Încărcaţi numele aplicaţiilor și detaliile și scanaţi utilizând definiții de viruși on-line</string>
-    <string name="summary_virus_update">Actualizare automată a definițiilor de viruși atunci când este conectat la Wi-Fi</string>
+    <string name="summary_virus_update">Obțineți ultimele definiții pentru viruși în mod automat</string>
     <string name="summary_xiaomi_roaming">0.01 RON/MB pentru traficul de date în roaming.</string>
     <string name="support_game_booster_tips">Creștere viteză de reacție și îmbunătățire experiență în jocuri</string>
     <string name="sys_app_prot_cracked_confirm">Am înțeles</string>
