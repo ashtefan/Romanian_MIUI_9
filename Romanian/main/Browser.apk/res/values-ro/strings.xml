@@ -772,10 +772,7 @@ Sunteți sigur că doriți să părăsiți această pagină?"</string>
     <string name="mw_search_menu_title">Căutați</string>
     <string name="mw_snippets_disabled_generic_prompt">Obțineți conținut personalizat</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Pentru a primi conținut personalizat sugerat de către Google, conectați-vă la Chrome.</string>
-    <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Setați ora</string>

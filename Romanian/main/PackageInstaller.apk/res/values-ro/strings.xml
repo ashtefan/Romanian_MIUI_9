@@ -310,7 +310,6 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="lb_search_bar_hint_speech">Rostiți pentru a căuta</string>
     <string name="lb_search_bar_hint_with_title">Căutați %1$s</string>
     <string name="lb_search_bar_hint_with_title_speech">Rostiți pentru a căuta %1$s</string>
-    <string name="lb_time_separator">:</string>
     <string name="loading">Încărcare…</string>
     <string name="local_backup_password_summary_change">Atingeți pentru a modifica sau elimina parola pentru copiile complete de rezervă</string>
     <string name="local_backup_password_summary_none">Copiile de rezervă complete nu sunt protejate în prezent</string>

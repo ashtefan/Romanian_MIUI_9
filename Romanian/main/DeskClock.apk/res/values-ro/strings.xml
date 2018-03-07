@@ -138,7 +138,6 @@
   <string name="stat_repeat_weekends">În weekend</string>
     <string name="stopwatch_lap_empty_text">Niciun circuit</string>
     <string name="stopwatch_title">Cronometru</string>
-    <string name="symbol_colon">:</string>
     <string name="system_time_setting">Setări</string>
     <string name="system_time_settings_category_title">Setări pentru oră</string>
     <string name="temperature_unit">%1$s°C</string>
