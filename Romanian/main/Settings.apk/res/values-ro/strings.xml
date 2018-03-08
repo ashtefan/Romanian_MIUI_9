@@ -3158,9 +3158,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="power_cell">Rețea mobilă în așteptare</string>
     <string name="power_center">Energie</string>
     <string name="power_charge_remaining">%1$s până la încărcare</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
-    <string name="power_charging_duration_short">%1$s - %2$s</string>
     <string name="power_checker">Verificare energie</string>
     <string name="power_discharge_remaining">%1$s rămas</string>
     <string name="power_discharging_duration">%1$s - aprox. %2$s rămas</string>
