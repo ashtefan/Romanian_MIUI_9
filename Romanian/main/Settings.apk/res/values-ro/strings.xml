@@ -3266,7 +3266,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="privacy_authorize_cloud_msg">"Pentru a asigura securitatea contului, conectați-vă la i.mi.com dacă doriți să revocați autorizarea pentru serviciile Mi Cloud (inclusiv sincronizarea și copiile de rezervă)."</string>
     <string name="privacy_authorize_dialog_agree">De acord</string>
     <string name="privacy_authorize_dialog_exit">Ieșiți</string>
-    <string name="privacy_authorize_dialog_message">%1$s necesită ca dumneavoastră să citiți și să fiți de acord cu %2$s. Aplicația trebuie să se conecteze la rețea pentru a funcționa în mod normal. Sunteți de acord?</string>
+    <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Pentru a putea utiliza caracteristicile de bază ale serviciilor Mi Cloud, trebuie să fiți de acord ca Xiaomi să poată colecta, procesa și utiliza datele dvs. personale. Citiți Politica noastră de Confidențialitate pentru a afla cum colectăm și cum procesăm datele personale. Selectând \"De acord\" înseamnă că ați citit și că sunteți de acord cu &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Politica de Confidențialitate&amp;lt;/a&amp;gt; și &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Acordul utilizatorului&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt; ale Xiaomi</string>
     <string name="privacy_authorize_network_error">Conectați-vă la rețea și încercați din nou.</string>
     <string name="privacy_authorize_privacy_policy">Politica de Confidențialitate</string>
     <string name="privacy_authorize_revoke">Revocați</string>

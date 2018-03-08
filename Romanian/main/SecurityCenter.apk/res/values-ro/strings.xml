@@ -572,10 +572,16 @@
     <string name="data_usage_leisure_warning_body">Atingeți pentru a vizualiza detaliile despre utilizarea datelor.</string>
     <string name="data_usage_leisure_warning_title">Limita utilizării datelor în afara orelor de vârf</string>
     <string name="data_usage_limit_body">Atingeți pentru a activa datele mobile.</string>
+    <string name="data_usage_mobile_dialog_title">"Ați utilizat deja 5 GB date mobile. MIUI a oprit conexiunea de date mobile."</string>
     <string name="data_usage_mobile_limit_title">Limita de utilizare a datelor a fost atinsă</string>
     <string name="data_usage_no_total_package_body">Apăsați pentru a seta limita de date</string>
     <string name="data_usage_no_total_package_body_dual">Nicio limită de date setată pentru %s</string>
     <string name="data_usage_no_total_package_title">Setaţi o limită a utilizării datelor</string>
+    <string name="data_usage_protected_dialog_message">"MIUI a dezactivat conexiunea de date mobile pentru a preveni taxarea suplimentară de către operator.
+
+Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</string>
+    <string name="data_usage_protected_notify_message">MIUI a dezactivat conexiunea de date mobile pentru a preveni taxarea suplimentară de către operator.</string>
+    <string name="data_usage_protected_notify_title">"Ați utilizat deja 5 GB date mobile"</string>
     <string name="data_usage_warning_body">Atingeți pentru a vizualiza detaliile despre utilizarea datelor.</string>
     <string name="data_usage_warning_body_notify">Atingeți pentru a vedea detalii</string>
     <string name="data_usage_warning_title">Avertizare utilizare date</string>
@@ -605,6 +611,12 @@
     <string name="dialog_remobe_luckymoney_cancle">Vechi</string>
     <string name="dialog_remobe_luckymoney_ok">Nou</string>
     <string name="dialog_remove_luckymoney">Puteți utiliza noul asistent Plicuri roșii intern sau îl puteți folosi pe cel deja instalat. Pe care îl preferați?</string>
+    <string name="dialog_restrict_all_mobile_summary">Conexiunea de date mobile %s va fi restricționată pentru toate aplicațiile după aceasta.</string>
+    <string name="dialog_restrict_all_mobile_title">Restricționați conexiunea de date mobile %s</string>
+    <string name="dialog_restrict_all_wlan_summary">Conexiunea Wi-Fi va fi restricționată pentru toate aplicațiile după aceasta.</string>
+    <string name="dialog_restrict_all_wlan_title">Restricționați conexiunea Wi-Fi</string>
+    <string name="dialog_restrict_negative">Restricționați</string>
+    <string name="dialog_restrict_positive">Renunțați</string>
     <string name="dialog_roaming_message">Permiteți acestei aplicații să utilizeze datele mobile în roaming internațional?</string>
     <string name="dialog_roaming_title">Roaming internaţional</string>
     <string name="dialog_text">Creați o scurtătură pe Ecranul principal pentru Creșterea vitezei în jocuri</string>
@@ -773,6 +785,7 @@
     <string name="gb_description_image_button_reject">Respingeți</string>
     <string name="gb_description_image_button_video_answer">Apel video</string>
     <string name="gb_new_feature">Caracteristică nouă</string>
+    <string name="gdpr_msg">&lt;Data&gt;"Pentru a utiliza caracteristicile de bază ale aplicației de Securitate, trebuie să fiți de acord ca Xiaomi să colecteze, să proceseze și să utilizeze datele dvs. personale, inclusiv informații despre modul în care utilizați caracteristicile aplicației(e.g., utilizarea datelor, informații despre viruși, ca și informațiile de bază despre dispozitivul dvs.) și alte tipuri de informații stipulate în &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
     <string name="gmscore_support_remind">Activați această caracteristică dacă întâmpinați probleme în utilizarea Gmail, Hărți Google și în alte aplicații Google. Acest lucru va reduce durata de viață a acumulatorului.</string>

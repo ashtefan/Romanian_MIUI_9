@@ -24,6 +24,7 @@
     <string name="db_downgrade_clear_date_reminder">"Schimbarea versiunii MIUI necesită ștergerea datelor aplicației Note. Înainte de a face acest lucru, asigurați-vă că ați sincronizat notițele în Mi Cloud."</string>
     <string name="default_folder_name">Dosar fără nume</string>
     <string name="delete_folder_dialog_tile">Ștergeți dosarul</string>
+    <string name="dialog_privacy_revoke_tips">"După ce veți revoca autorizarea, aplicația nu va mai colecta date, iar toate datele vor fi șterse de pe servere. Acest lucru poate face aplicația virtual inutilizabilă. Revocați autorizarea oricum? Pentru a asigura securitatea contului dvs., conectați-vă la i.mi.com înainte de a revoca autorizarea pentru serviciile Mi Cloud."</string>
     <string name="dialog_share_as_pic">Partajați nota ca și fotografie</string>
     <string name="dialog_share_as_text"> Partajați nota catext</string>
     <string name="dialog_share_title">Partajați nota</string>

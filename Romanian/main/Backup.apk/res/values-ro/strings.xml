@@ -128,6 +128,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="err_bakfile_broken">"Nu se poate utiliza această copie de rezervă."</string>
     <string name="err_filesystem_mount">Nu se poate accesa stocarea router-ului</string>
     <string name="err_low_storage">Spaţiu insuficient</string>
+    <string name="err_not_allow">Nesuportat</string>
     <string name="err_router_disconnected">"Verificați conexiunea router-ului și încercați din nou."</string>
     <string name="err_router_files_delete">"Nu s-au putut șterge fișierele de rezervă de pe router"</string>
     <string name="err_unknown">Eroare necunoscută</string>
