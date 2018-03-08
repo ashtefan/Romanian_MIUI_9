@@ -66,7 +66,7 @@
     <string name="dialog_file_missing_body">"Nu se poate găsi fişierul descărcat."</string>
     <string name="dialog_file_missing_title">"Nu s-a putut deschide fişierul"</string>
     <string name="dialog_insufficient_space_on_cache">"Nu se poate finaliza descărcarea. Nu există suficient spaţiu în stocarea internă."</string>
-    <string name="dialog_insufficient_space_on_external">"Nu se poate finaliza descărcarea. Nu există suficient spaţiu în stocarea extern."</string>
+    <string name="dialog_insufficient_space_on_external">"Nu se poate finaliza descărcarea. Nu există suficient spaţiu în stocarea externă."</string>
     <string name="dialog_media_not_found">"Nu se poate descărca. Nu este disponibil un mediu de stocare extern."</string>
     <string name="dialog_msg_disabled_net">%1$s descărcări restricționate în rețeaua curentă. Atingeți butonul Setările rețelei pentru a deschide aplicația Securitate.</string>
     <string name="dialog_msg_recommend">"Nu veți mai putea vedea sursele recomandate după ce veți dezactiva."</string>

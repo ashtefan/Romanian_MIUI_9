@@ -3158,7 +3158,9 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="power_cell">Rețea mobilă în așteptare</string>
     <string name="power_center">Energie</string>
     <string name="power_charge_remaining">%1$s până la încărcare</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
+    <string name="power_charging_duration_short">%1$s - %2$s</string>
     <string name="power_checker">Verificare energie</string>
     <string name="power_discharge_remaining">%1$s rămas</string>
     <string name="power_discharging_duration">%1$s - aprox. %2$s rămas</string>
@@ -3261,6 +3263,7 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="priority_storage_settings_summary">Dacă nu este detectat niciun card SD, datele de utilizator vor fi salvate în memoria internă a dispozitivului</string>
     <string name="priority_storage_summary">Selectaţi locaţia prestabilită pentru salvarea datelor de utilizator</string>
     <string name="priority_storage_title">Setări stocare</string>
+    <string name="privacy_authorize_cloud_msg">"Pentru a asigura securitatea contului, conectați-vă la i.mi.com dacă doriți să revocați autorizarea pentru serviciile Mi Cloud (inclusiv sincronizarea și copiile de rezervă)."</string>
     <string name="privacy_authorize_dialog_agree">De acord</string>
     <string name="privacy_authorize_dialog_exit">Ieșiți</string>
     <string name="privacy_authorize_dialog_message">%1$s necesită ca dumneavoastră să citiți și să fiți de acord cu %2$s. Aplicația trebuie să se conecteze la rețea pentru a funcționa în mod normal. Sunteți de acord?</string>
@@ -3502,7 +3505,7 @@ Interfață UT: %5$s"</string>
 "&lt;li&gt; Aplicaţii prestabilite pentru acţiuni&lt;/li&gt;"
 "&lt;li&gt; Restricţii privind datele de fundal pentru aplicaţii&lt;/li&gt;"
 "&lt;li&gt; Orice restricţii pentru permisiuni&lt;/li&gt;"
- Nu veţi pierde nimic din datele aplicaţiilor.."</string>
+ Nu veţi pierde nimic din datele aplicaţiilor."</string>
     <string name="reset_app_preferences_title">Resetaţi preferințele aplicațiilor?</string>
     <string name="reset_dashboard_title">Resetați</string>
     <string name="reset_legacy_password_settings_preface_text">Trebuie să resetaţi parola de blocare a ecranului.</string>
@@ -3935,6 +3938,8 @@ Pentru a utiliza fixarea ecranului:
     <string name="search_xiaomi_account">Cont Mi</string>
     <string name="search_xspace">Aplicații clonate;Aplicație clonată;Aplicație dublată;Aplicații dublate;Aplicație duală;Aplicații duale;Clonă aplicație;Clone aplicații;Două conturi;2 conturi</string>
     <string name="second_space">Spațiul secundar</string>
+    <string name="secondspace_category">Spațiul secundar</string>
+    <string name="secondspace_delete_space_title">Ștergeți Spațiul secundar</string>
     <string name="secure_keyguard_business_title">Setați metoda de blocare a ecranului</string>
     <string name="secure_lock_encryption_warning">"Deoarece ați activat un serviciu de accesibilitate, dispozitivul nu va utiliza parola de blocare a ecranului pentru criptarea datelor."</string>
     <string name="security_dashboard_summary">Blocare ecran, amprentă</string>
@@ -5254,6 +5259,9 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="wfd_menu_teardown">Opriţi</string>
     <string name="wfd_settings_description">Conectare la ecran prin Wi-Fi</string>
     <string name="wfd_settings_title">Ecran wireless</string>
+    <string name="wfd_status_dialog_disconnect">Deconectați</string>
+    <string name="wfd_status_dialog_message">Conținutul de pe ecran se afișează pe un alt dispozitiv printr-o conexiune fără fir</string>
+    <string name="wfd_status_dialog_title">Afișaj wireless</string>
     <string name="wfd_wps_keypad">Utilizați tastatura</string>
     <string name="wfd_wps_pbc">Introduceți codul PIN</string>
     <string name="whetstone_level_reboot">Această setare va avea efect după ce reporniți dispozitivul.</string>

@@ -221,8 +221,8 @@
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Încărcare</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
+        <item>MTP (Protocol Transfer Media)</item>
+        <item>PTP (Protocol Transfer Fotografii)</item>
         <item>RNDIS (USB Ethernet)</item>
         <item>Sursă audio</item>
         <item>MIDI</item>

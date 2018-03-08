@@ -249,7 +249,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="install_failed_blocked">Pachetul a fost blocat de la instalare.</string>
     <string name="install_failed_conflict">Aplicația nu a fost instalată deoarece intră în conflict cu un pachet existent.</string>
     <string name="install_failed_incompatible">"Aplicația nu a fost instalată deoarece nu este compatibilă cu telefonul dvs."</string>
-    <string name="install_failed_invalid_apk">Aplicația nu a fost instalată deoarece pachetul pare să fie invalid.</string>
+    <string name="install_failed_invalid_apk">Aplicația nu a fost instalată deoarece pachetul pare să fie nevalid.</string>
     <string name="install_failed_msg">"%1$s nu a putut fi instalată pe telefonul dvs."</string>
     <string name="install_other_apps">Instalați aplicații necunoscute</string>
     <string name="installing">Se instalează…</string>
@@ -353,7 +353,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
     <string name="permdesc_togglePermissions">Permite proprietarului să lanseze interfața pentru comutarea permisiunilor aplicațiilor. Nu ar trebui să fie necesară pentru aplicațiile obișnuite.</string>
     <string name="permission_request_title">Solicitare de permisiune</string>
-    <string name="permission_review_title_template_install">Selectați ce anume doriți ca &lt;b&gt;%1$s&lt;/b&gt; să acceseze</string>
+    <string name="permission_review_title_template_install">Selectați ce anume doriți ca &lt;b&gt;%1$s&lt;/b&gt; să poată accesa</string>
     <string name="permission_review_title_template_update">&lt;b&gt;%1$s&lt;/b&gt; a fost actualizată. Selectați ce anume doriți ca această aplicație să poată accesa.</string>
     <string name="permission_review_warning_title_template_update">%1$s a fost actualizată. Permiteți %1$s să acceseze următoarele?</string>
     <string name="permission_revoked_all">toate dezactivate</string>
@@ -467,7 +467,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="uninstall_activity_text">" %1$s face parte din următoarea aplicaţie: "</string>
     <string name="uninstall_all_blocked_profile_owner">Această aplicație este necesară pentru unii utilizatori și profiluri și a fost dezinstalată pentru alții</string>
     <string name="uninstall_application_text">Această aplicaţie va fi dezinstalată</string>
-    <string name="uninstall_application_text_all_users">Doriți să dezinstalați această aplicație pentru &lt;b&gt; toți&lt;/b&gt; utilizatorii? Aplicația și datele vor fi eliminate pentru&lt;b&gt; toți&lt;/b&gt; utilizatorii de pe telefon.</string>
+    <string name="uninstall_application_text_all_users">Doriți să dezinstalați această aplicație pentru&lt;b&gt; toți&lt;/b&gt; utilizatorii? Aplicația și datele vor fi eliminate pentru&lt;b&gt; toți&lt;/b&gt; utilizatorii de pe telefon.</string>
     <string name="uninstall_application_text_user">Doriți să dezinstalați această aplicație pentru utilizatorul %1$s?</string>
     <string name="uninstall_application_title">Dezinstalaţi aplicaţia</string>
     <string name="uninstall_blocked_device_owner">"Această aplicație este necesară administratorului dispozitivului și nu poate fi dezinstalată."</string>

@@ -8,6 +8,7 @@
     <string-array name="date_of_traffic">
         <item>"Ieri "</item>
         <item>"Astăzi "</item>
+        <item>"Luna trecută "</item>
         <item>"În această lună "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
@@ -18,14 +19,17 @@
     <string-array name="date_of_traffic_prefix">
         <item>"Ieri: "</item>
         <item>"Astăzi: "</item>
+        <item>"Luna trecută: "</item>
         <item>"Această lună: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Ieri (date)</item>
         <item>Astăzi (date)</item>
+        <item>Luna trecută (date)</item>
         <item>Această lună (date)</item>
         <item>Ieri (Wi-Fi)</item>
         <item>Astăzi (Wi-Fi)</item>
+        <item>Luna trecută (Wi-Fi)</item>
         <item>Această lună (Wi-Fi)</item>
     </string-array>
     <string-array name="traffic_type">

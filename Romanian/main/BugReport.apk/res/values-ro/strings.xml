@@ -273,10 +273,10 @@
     <string name="section_err_type">Tip de eroare</string>
     <string name="section_screenshot">Captură de ecran</string>
     <string name="select_system_app_tag">Selectați o problemă</string>
-    <string name="submit_dialog_cancel">Anulaţi</string>
-    <string name="submit_dialog_confirm">Trimiteţi</string>
+    <string name="submit_dialog_cancel">"Nu sunt de acord"</string>
+    <string name="submit_dialog_confirm">De acord</string>
     <string name="submit_dialog_content">"Feedback-ul dvs., împreună cu jurnalele cu erori și imagini atașate, vor fi încărcate pe serverele MIUI. Acestea pot conține informații personale și date despre locația dumneavoastră."</string>
-    <string name="submit_dialog_content_global">"Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și raportul cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), va fi încărcat pe serverele MIUI și pe o secțiune restricționată a forumului MIUI pentru dezvoltatori. Informațiile despre subiectele dvs. și activitatea pe forum vor fi de asemenea colectate pentru analiză și comunicări ulterioare. Rapoartele cu erori pot conține informații personale și despre locație."</string>
+    <string name="submit_dialog_content_global">"Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI și pe o secțiune restricționată a forumului MIUI pentru dezvoltatori. Informațiile despre subiectele dvs. și activitatea pe forum vor fi de asemenea colectate pentru analiză și comunicări ulterioare. Rapoartele cu erori pot conține informații personale și despre locație."</string>
     <string name="submit_dialog_title">Trimiteţi raportul cu erori</string>
     <string name="submit_feedback_info_failed">"Nu s-a putut trimite raportul"</string>
     <string name="suggestion_description">Adăugaţi descrierea aici</string>

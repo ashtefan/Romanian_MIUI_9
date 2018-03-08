@@ -80,6 +80,7 @@
     <string name="button_sure_abandon">Renunțați la modificări?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Verificați conexiunea la rețea și reîncercați</string>
+    <string name="china_version_first_start_network_msg">"Utilizând acest produs, sunteți de acord cu %1$s și %2$s ale Xiaomi.Această aplicație trebuie să se conecteze la internet și să vă acceseze locația pentru a funcționa în mod normal."</string>
     <string name="city_exceeded_warning">Puteți adăuga până la 10 orașe</string>
     <string name="commercial">Reclamă</string>
     <string name="common_loading_text">Doar o secundă…</string>
@@ -159,6 +160,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="international_details_title">Detalii</string>
     <string name="international_details_uv_index_title">INDICE UV</string>
     <string name="international_details_wind_title">VÂNT</string>
+    <string name="international_version_first_start_network_msg">"Utilizând acest produs, sunteți de acord cu %1$s Xiaomi. Această aplicație trebuie să se conecteze la rețea, să încarce informațiile despre oraș pe care le-ați introdus pentru a obține datele despre vreme corespunzătoare. Atingeți De acord pentru a continua."</string>
     <string name="it_is_going_to_rain">"Va ploua"</string>
     <string name="locate_fail_detail_err">"Nu se poate obține locația.
 Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</string>
@@ -168,7 +170,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="menu_location">Locaţii</string>
     <string name="menu_speaker">Suport vocal</string>
     <string name="mi_pad2">latte</string>
-    <string name="minute_rain">Prognoza pe minute</string>
+    <string name="minute_rain">Prognoza precipitațiilor</string>
     <string name="minute_rain_after_an_hour">Într-o oră</string>
     <string name="minute_rain_after_two_hour">În două ore</string>
     <string name="minute_rain_feedback_subtitle">Spuneți-ne cum este vremea.</string>

@@ -138,7 +138,7 @@
     <string name="bluetooth_disable_absolute_volume_summary">Dezactivează caracteristica de volum absolut Bluetooth în cazul unor probleme cu dispozitivele de la distanță cum ar fi sunet inacceptabil de tare sau pierderea controlului.</string>
     <string name="bluetooth_disconnected">Deconectat</string>
     <string name="bluetooth_disconnecting">Deconectare…</string>
-    <string name="bluetooth_dun_profile_summary_connected">Conectat la serverul DUN</string>
+    <string name="bluetooth_dun_profile_summary_connected">Conectat la serverul Dun</string>
     <string name="bluetooth_dun_profile_summary_use_for">Utilizat pentru acces în rețelele de tip Dial-up</string>
     <string name="bluetooth_enable_inband_ringing">Activați sunetul in-band</string>
     <string name="bluetooth_enable_inband_ringing_summary">Permite redarea sunetelor de apel din telefon pe dispozitivele Bluetooth conectate</string>
