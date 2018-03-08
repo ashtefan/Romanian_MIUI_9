@@ -8,7 +8,6 @@
     <string name="custom_lock_wallpaper_enter">Intrați</string>
     <string name="default_lockscreen_unlock_hint_text">Glisați în sus pentru a debloca</string>
     <string name="delete">Ştergeţi</string>
-    <string name="digital_clock_dot">:</string>
     <string name="do_disclosure_generic">Acest dispozitiv este gestionat de către organizația dumneavoastră</string>
     <string name="do_disclosure_with_name">Acest dispozitiv este gestionat de către %s</string>
     <string name="doze_pickup_subtype_performs_proximity_check"/>
@@ -141,7 +140,6 @@
     <string name="phone_locked_string">Telefonul a fost blocat</string>
     <string name="reset_device_detail_tip">Încărcare fără fir; vă rugăm aliniați baza telefonului, pentru a asigura viteza de încărcare.</string>
     <string name="reset_device_tip">Se încarcă lent; vă rugăm repoziționați telefonul</string>
-    <string name="symbol_colon">:</string>
     <string name="unlock_camera_steady">Vă rugăm stați nemișcat</string>
     <string name="unlock_failed">Eroare internă</string>
     <string name="unlock_failed_face_not_found">Detectare</string>

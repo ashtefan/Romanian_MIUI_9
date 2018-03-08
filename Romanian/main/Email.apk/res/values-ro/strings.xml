@@ -273,7 +273,6 @@ Actualizaţi acum?"</string>
     <string name="click_to_reload">Atingeți ecranul pentru a încărca din nou</string>
     <string name="close">Închideți</string>
     <string name="collapse_recipient_details">Restrângeţi detaliile destinatarului</string>
-    <string name="colon">:</string>
     <string name="compose">Compuneţi</string>
     <string name="compose_attachment_number_limit">Numărul maxim de atașări este 10!</string>
     <string name="compose_paste_address_oob">Prea multe caractere</string>
@@ -988,7 +987,6 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="send_feed_back_keywords">trimiteţi feedback</string>
     <string name="send_mail">Trimiteți</string>
     <string name="sender_whitelist_cleared">Imaginile nu vor fi afișate în mod automat.</string>
-    <string name="senders_elided">..</string>
     <string name="senders_split_token">, </string>
     <string name="sending">Se trimite…</string>
     <string name="sending_message">Se trimite mesajul…</string>
@@ -1032,9 +1030,6 @@ pentru a primi notificări despre plăți și călătorii"</string>
     <string name="special_text_3">Redactare:</string>
     <string name="special_text_4">Redactare：</string>
     <string name="special_text_5">a scris:</string>
-    <string name="special_text_colon_en">:</string>
-    <string name="special_text_colon_zh">：</string>
-    <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
     <string name="special_text_sender_en">expeditor</string>
     <string name="special_text_sender_zh">expeditor</string>
     <string name="storage">Stocare</string>

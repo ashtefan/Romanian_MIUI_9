@@ -1550,7 +1550,6 @@ Perioada următoare începe în %2$d zile (%3$s)"</string>
     <string name="time_end_minute">minutul de sfârșit</string>
     <string name="time_formate_am">AM</string>
     <string name="time_formate_pm">PM</string>
-    <string name="time_interval_char">:</string>
     <string name="time_next_day">" ziua următoare "</string>
     <string name="time_start">"  De la  "</string>
     <string name="time_start_hour">ora de început</string>
