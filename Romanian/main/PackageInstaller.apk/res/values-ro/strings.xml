@@ -373,7 +373,6 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="power_remaining_duration_only">Aprox. %1$s rămas</string>
     <string name="power_remaining_duration_only_short">%1$s rămas</string>
     <string name="privacyPerms">Confidențialitate</string>
-    <string name="process_kernel_label">S. O. Android</string>
     <string name="remaining_length_format">%1$s rămas</string>
     <string name="retail_demo_reset_message">Introduceți parola pentru a readuce la setările din fabrică în modul Demo</string>
     <string name="retail_demo_reset_next">Următorul</string>

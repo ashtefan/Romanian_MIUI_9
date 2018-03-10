@@ -572,7 +572,6 @@ Motivul: \"%s\""</string>
     <string name="keep_local">Nu se sincronizează</string>
     <string name="keep_local_btn">Utilizaţi stocarea internă a telefonului</string>
     <string name="label_custom_type">Personalizat</string>
-    <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">Niciun contact duplicat</string>
     <string name="label_notes">Note</string>
     <string name="label_sip_address">Apel prin internet</string>
@@ -834,7 +833,6 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="payphone">Telefon public</string>
     <string name="people">Contacte</string>
     <string name="phoneLabelsGroup">Telefon</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Numărul este prea lung</string>
     <string name="phone_primary">Principal</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă în telefon</string>

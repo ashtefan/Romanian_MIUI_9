@@ -1533,7 +1533,6 @@ Această activitate scade durata de viață a acumulatorului."</string>
     
 Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obține șablonul de calibrare."</string>
     <string name="privacy_prompt_upload">Încărcare</string>
-    <string name="process_kernel_label">Sistem de operare Android</string>
     <string name="process_mediaserver_label">Server media</string>
     <string name="promotion">Reclamă</string>
     <string name="prompt_all">Cereți pentru toate</string>

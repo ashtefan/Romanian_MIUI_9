@@ -3339,7 +3339,6 @@ Acest lucru va permite aplicației să comute modul Nu deranjați și să modifi
     <string name="private_sms_recording_intro_header">Desenaţi un model de deblocare</string>
     <string name="private_sms_reset_by_account">Pentru a reseta parola, conectați-vă la contul dvs. Mi</string>
     <string name="process_dex2oat_label">Adăugați optimizarea</string>
-    <string name="process_kernel_label">Sistem de operare Android</string>
     <string name="process_mediaserver_label">Server media</string>
     <string name="process_provider_in_use_description">Furnizorul %1$s se află în uz.</string>
     <string name="process_service_in_use_description">Serviciul %1$s se află în uz.</string>

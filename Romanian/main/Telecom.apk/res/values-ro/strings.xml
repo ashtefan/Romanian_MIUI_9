@@ -282,7 +282,6 @@ Sample Rate"</string>
     <string name="power_remaining_charging_duration_only">%1$s rămas până la încărcarea completă</string>
     <string name="power_remaining_duration_only">Approx. %1$s rămas</string>
     <string name="power_remaining_duration_only_short">%1$s rămas</string>
-    <string name="process_kernel_label">Sistem de operare Android</string>
     <string name="remaining_length_format">%1$s rămas</string>
     <string name="respond_via_sms_canned_response_1">"Nu pot vorbi acum. Este urgent?"</string>
     <string name="respond_via_sms_canned_response_2">"Sun eu înapoi imediat."</string>

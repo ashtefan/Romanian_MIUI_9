@@ -22,7 +22,6 @@
     <string name="dont_bore">"Evitați ca butoanele și notificările să vă distragă atenția"</string>
     <string name="dont_bore_text">Reduceți la tăcere notificările și dezactivați butoanele pentru a nu distrage atenția de la joc</string>
     <string name="dont_bore_title">Mod Nu deranjați</string>
-    <string name="empty">" "</string>
     <string name="fastboot_locked_answer_1">Fastboot este metoda tradițională de actualizare a dispozitivelor Mi. Când telefonul este în modul Fastboot, Toate datele stocate pot fi accesate și șterse în mod direct. Am blocat modul Fastboot pentru a ne asigura că datele dumneavoastră sunt în siguranță în caz că pierdeți telefonul, dar și că funcția de Localizare telefon lucrează corect.</string>
     <string name="fastboot_locked_answer_2">"În cazul în care vă pierdeți telefonul, Fastboot garantează securitatea elementelor stocate pe acesta. Dacă deblocați Fastboot, nu veți mai putea bloca telefonul de la distanță sau să ștergeți datele utilizând Localizarea telefonului. De aceea nu recomandăm deblocarea modului Fastboot pe telefonul dumneavoastră."</string>
     <string name="fastboot_locked_answer_3">"Ar trebui să utilizați unealta de deblocare de pe site-ul MIUI. Pentru a debloca telefonul, trebuie să ne asigurăm că acesta este al dumneavoastră. Acesta este motivul pentru care trebuie să vă conectați la Contul Mi și să activați Localizarea telefonului."</string>

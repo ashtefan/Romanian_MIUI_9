@@ -558,7 +558,6 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="power_remaining_charging_duration_only">%1$s rămas până la încărcarea completă</string>
     <string name="power_remaining_duration_only">Approx. %1$s rămas</string>
     <string name="power_remaining_duration_only_short">%1$s rămas</string>
-    <string name="process_kernel_label">Sistem de operare Android</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Niciun dispozitiv asociat disponibil</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_connect_success">Conectat</string>

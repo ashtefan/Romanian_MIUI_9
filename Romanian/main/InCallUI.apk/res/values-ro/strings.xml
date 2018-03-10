@@ -198,7 +198,6 @@
     <string name="pause_prompt_no">Nu</string>
     <string name="pause_prompt_yes">Da</string>
     <string name="payphone">Telefon public</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="picking_participant">Se obțin informațiile despre contact…</string>
     <string name="private_num">Număr privat</string>
     <string name="remind_unlock_message">Telefonul dumneavoastră este blocat acum. \"%s\" va fi disponibilă după ce veți debloca telefonul. Îl deblocați acum?</string>

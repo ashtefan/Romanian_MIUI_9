@@ -376,7 +376,6 @@ Verificați numărul de urmărire."</string>
     <string name="payment_unknown_status_title">"Nu s-a putut confirma starea plății"</string>
     <string name="phone_event_setting_notice_text">"Utilizând acest serviciu, sunteți de acord cu %1$s și %2$s."</string>
     <string name="phone_event_setting_notice_text_with_contacts_permission">"Prin utilizarea acestei caracterisitici acceptați %1$s și %2$s. Pentru a reverse phone lookup, trebuie să activați permisiunea de accesare a contactelor."</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="photo_count">%d în total</string>
     <string name="pull_to_refresh_pull_label">Glisați pentru actualizare…</string>
     <string name="pull_to_refresh_refreshing_label">Doar o secundă…</string>

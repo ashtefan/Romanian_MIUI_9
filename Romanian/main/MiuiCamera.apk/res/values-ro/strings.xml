@@ -85,7 +85,6 @@
     <string name="edit_face_slender">Subţire</string>
     <string name="edit_skin_smooth">Neted</string>
     <string name="edit_skin_white">Ton</string>
-    <string name="empty">" "</string>
     <string name="error_fail_to_start_audio_capture">Nu se poate porni înregistrarea vocală. Microfonul poate fi utilizat de o altă aplicaţie.</string>
     <string name="face_age_info">Vârsta: %d</string>
     <string name="face_analyze_info_female">Femeie</string>
