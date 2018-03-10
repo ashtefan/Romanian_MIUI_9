@@ -317,7 +317,7 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="ext_media_badremoval_notification_title">Stocarea USB a fost eliminată în mod neaşteptat</string>
     <string name="ext_media_checking_notification_message">Verificare erori</string>
     <string name="ext_media_checking_notification_title">Pregătire stocare USB</string>
-    <string name="ext_media_mountable_notification_message">Atingeţi pentru deschiderea în Exploratorul de fișiere Mi</string>
+    <string name="ext_media_mountable_notification_message">Atingeţi pentru deschiderea în Exploratorul de fișiere</string>
     <string name="ext_media_mountable_notification_title">Dispozitiv de stocare USB conectat</string>
     <string name="ext_media_nofs_notification_message">Stocare USB goală sau cu un sistem de fișiere neacceptat.</string>
     <string name="ext_media_nofs_notification_title">Stocare USB goală</string>
@@ -365,8 +365,8 @@ Dacă reactivaţi datele, puteţi fi taxat de către operator.</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="how_to_back_home">Reveniți la pagina Acasă</string>
     <string name="how_to_switch_recents">Comutați la Recente</string>
-    <string name="how_to_use_drawer">Cum să utilizați funcția de glisare a aplicației</string>
-    <string name="how_to_use_drawer_summary">Glisați din partea de stânga sus</string>
+    <string name="how_to_use_drawer">Cum să accesați meniul de glisare</string>
+    <string name="how_to_use_drawer_summary">Glisați spre dreapta din partea de sus a ecranului</string>
     <string name="how_to_use_fsg">Puteți realiza următoarele acțiuni utilizând gesturi:</string>
     <string name="ime_security_warning">Această metodă de introducere poate colecta textul introdus, inclusiv parolele și datele cardurilor de credit. Provine de la aplicația %1$s. Use this input method?</string>
     <string name="immediately_destroy_activities">Nu păstra activitățile</string>
@@ -583,6 +583,7 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="quick_settings_wifi_detail_empty_text">Nicio rețea Wi-Fi disponibilă</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Selectați o rețea din apropiere</string>
+    <string name="recent_cannot_dock">"nu se poate accesa Modul Ferestre Multiple din Spațiul secundar"</string>
     <string name="recent_dock_tip">Atingeți pentru a selecta aplicațiile</string>
     <string name="recent_task_app_info_text">Informații</string>
     <string name="recent_task_cleaning">Eliminare aplicații…</string>

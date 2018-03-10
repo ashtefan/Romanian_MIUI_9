@@ -138,8 +138,8 @@
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Selectați &amp;lt;font color=#a5220e&amp;gt;\"Ștergeți &amp;amp;amp; Resetare\"&amp;lt;/font&amp;gt; și așteptați până ce telefonul repornește.&lt;/Data&gt;</string>
     <string name="phone_locked_forget_password_suggesstions_title">Cum să ștergeți datele?</string>
     <string name="phone_locked_string">Telefonul a fost blocat</string>
-    <string name="reset_device_detail_tip">Încărcare fără fir; vă rugăm aliniați baza telefonului, pentru a asigura viteza de încărcare.</string>
-    <string name="reset_device_tip">Se încarcă lent; vă rugăm repoziționați telefonul</string>
+    <string name="reset_device_detail_tip">Plasați telefonul corect în încărcător pentru a asigura o viteză optimă de încărcare.</string>
+    <string name="reset_device_tip">Încărcarea este lentă. Vă rugăm repoziționați telefonul</string>
     <string name="unlock_camera_steady">Vă rugăm stați nemișcat</string>
     <string name="unlock_failed">Eroare internă</string>
     <string name="unlock_failed_face_not_found">Detectare</string>
@@ -150,7 +150,8 @@
     <string name="unlockscreen_recharging_message">Încărcat: %d%%</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Eliberați pentru a vedea detaliile</string>
     <string name="wireless_charge_dialog_cancel">Renunțați</string>
-    <string name="wireless_charge_dialog_title">Poziție incorectă; vă rugăm repoziționați</string>
+    <string name="wireless_charge_dialog_title">Vă rugăm repoziționați telefonul în încărcătorul fără fir</string>
     <string name="wireless_charge_stop">Încărcarea wireless s-a oprit</string>
+    <string name="wireless_current_charge">Încărcarea curentă</string>
     <string name="wrong_password">Parolă incorectă</string>
 </resources>

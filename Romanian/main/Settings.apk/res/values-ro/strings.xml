@@ -2344,10 +2344,6 @@ Puteți modifica acest lucru mai târziu în Setări &gt; Aplicații și notific
     <string name="lock_screen_notifications_summary_show">Afișează toate notificările și conținutul acestora</string>
     <string name="lock_screen_notifications_summary_show_profile">Afișează toate notificările de Servici</string>
     <string name="lock_screen_notifications_title">Când dispozitivul este blocat</string>
-    <string name="lock_screen_secure_after_timeout_immediately_never">Nu solicita parola niciodată</string>
-    <string name="lock_screen_secure_after_timeout_immediately_summary">Solicită parola imediat</string>
-    <string name="lock_screen_secure_after_timeout_summary">Solicită parola: %1$s</string>
-    <string name="lock_screen_secure_after_timeout_title">Solicită parola</string>
     <string name="lock_screen_signature_summary">Acest mesaj va fi afișat în Blocarea ecranului</string>
     <string name="lock_screen_signature_title">Informații proprietar în Blocarea ecranului</string>
     <string name="lock_screen_unlock_show">Salt peste Blocarea ecranului</string>

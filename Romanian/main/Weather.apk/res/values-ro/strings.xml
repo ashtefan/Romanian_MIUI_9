@@ -74,9 +74,13 @@
     <string name="button_abandon">Renunțați la modificări</string>
     <string name="button_add_city">Adăugați o locație</string>
     <string name="button_allow">OK</string>
-    <string name="button_confirm">Permiteţi</string>
-    <string name="button_exit">Ieşire</string>
+    <string name="button_confirm">De acord</string>
+    <string name="button_exit">"Nu sunt de acord"</string>
     <string name="button_not_allow">Renunţaţi</string>
+    <string name="button_settings_cancel">Renunțați</string>
+    <string name="button_settings_confirm">Revocați</string>
+    <string name="button_settings_confirm_to_revoke_msg">"Nu veți mai putea utiliza aplicația Meteo după ce veți revoca autorizarea."</string>
+    <string name="button_settings_confirm_to_revoke_title">Revocați autorizarea?</string>
     <string name="button_sure_abandon">Renunțați la modificări?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Verificați conexiunea la rețea și reîncercați</string>
@@ -110,6 +114,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
      <string name="data_provided_by">Date furnizate de</string>
     <string name="edit_alert_city_title">Gestionați alertele</string>
     <string name="edit_city">Gestionați locațiile</string>
+    <string name="eu_region_version_first_start_network_msg">"Utilizând acest produs, sunteți de acord ca Xiaomi să colecteze, să proceseze și să utilizeze informațiile personale, inclusiv coordonatele orașelor pe care le căutați și alte tipuri de date specificate în Politica noastră de Confidențialitate. Consultați Politica de Confidențialitate pentru a afla cum colectăm și procesăm informațiile. Apăsând \"Sunt de acord\", acceptați %1$s și %2$s Xiaomi."</string>
     <string name="feedback_heavy_rain">Ploaie torențială</string>
     <string name="feedback_heavy_snow">Ninsoare</string>
     <string name="feedback_light_rain">Ploaie ușoară</string>
@@ -159,7 +164,6 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="international_details_title">Detalii</string>
     <string name="international_details_uv_index_title">INDICE UV</string>
     <string name="international_details_wind_title">VÂNT</string>
-    <string name="international_version_first_start_network_msg">"Utilizând acest produs, sunteți de acord cu %1$s Xiaomi. Această aplicație trebuie să se conecteze la rețea, să încarce informațiile despre oraș pe care le-ați introdus pentru a obține datele despre vreme corespunzătoare. Atingeți De acord pentru a continua."</string>
     <string name="it_is_going_to_rain">"Va ploua"</string>
     <string name="locate_fail_detail_err">"Nu se poate obține locația.
 Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</string>
@@ -199,12 +203,19 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="particulate_matter_exceeded">Înalt</string>
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Prea înalt</string>
+    <string name="policy_settings">Termeni și condiții</string>
     <string name="precipitation_degree_five">Torențială</string>
     <string name="precipitation_degree_four">Puternică</string>
     <string name="precipitation_degree_one">Niciuna</string>
     <string name="precipitation_degree_three">Moderată</string>
     <string name="precipitation_degree_two">Ușoară</string>
     <string name="pressure_connect">%1$s mb</string>
+    <string name="privacy_grant_failed">"Nu s-a putut acorda permisiunea. Așteptați un minut sau două și încercați din nou."</string>
+    <string name="privacy_grant_or_revoke_settings">Acordare și revocare autorizare</string>
+    <string name="privacy_grant_success">Autorizare acordată cu succes</string>
+    <string name="privacy_revoke_failed">"Nu s-a putut revoca autorizarea. Așteptați un minut sau două și încercați din nou."</string>
+    <string name="privacy_revoke_success">Autorizare revocată cu succes</string>
+    <string name="privacy_settings">Politica de Confidențialitate</string>
     <string name="pull_fresh_updated">Actualizată cu succes</string>
     <string name="pull_fresh_updating">Actualizare…</string>
     <string name="radar_cloud_image_title">Hartă radar</string>
