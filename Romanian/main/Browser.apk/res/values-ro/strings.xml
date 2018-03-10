@@ -13,6 +13,7 @@
     <string name="action_menu_account_not_login_hint">Conectați-vă pentru a sincroniza cu Mi Cloud</string>
     <string name="action_menu_bookshelf">Raftul cu cărți</string>
     <string name="action_menu_current_version">Versiune curentă</string>
+    <string name="action_menu_download">Descărcați</string>
     <string name="action_menu_request_desktop_site">Acces site desktop</string>
     <string name="action_menu_request_desktop_site_off">Versiunea desktop este oprită</string>
     <string name="action_menu_request_desktop_site_on">Versiunea desktop este pornită</string>
@@ -33,6 +34,7 @@
     <string name="action_menu_text_nightmode">Mod nocturn</string>
     <string name="action_menu_text_nightmode_off">Mod nocturn</string>
     <string name="action_menu_text_nightmode_on">Mod nocturn</string>
+    <string name="action_menu_text_readmode">Mod citire</string>
     <string name="action_menu_text_refresh">Reîmprospătaţi</string>
     <string name="action_menu_text_setting">Setări</string>
     <string name="action_menu_text_share">Partajaţi</string>
@@ -138,6 +140,7 @@
     <string name="clear_search_history">Ştergeţi istoricul</string>
     <string name="clear_video_download">Eliminați videoclipurile</string>
     <string name="clip_dialog_title">Deschideţi URL-ul copiat?</string>
+    <string name="close">Închideți</string>
     <string name="close_ads_choice_no">Permiteţi</string>
     <string name="close_ads_choice_yes">Blocaţi</string>
     <string name="close_ads_message">"Blocaţi conținutul de pe acest site? Puteți vizualiza site-urile pe care le-ați blocat în Setări > Avansat > Site-uri blocate."</string>
@@ -275,6 +278,9 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="enable_geolocation_confirm_message">Oprirea serviciilor de localizare va afecta recomandările pe care le primiți.</string>
     <string name="enter_developer_mode">Intraţi în modul dezvoltator</string>
     <string name="enter_incongnito_mode">Intraţi în modul incognito</string>
+    <string name="enter_the_group_name">Vă rugăm introduceți numele grupului</string>
+    <string name="enter_the_password">Vă rugăm introduceți parola</string>
+    <string name="enter_the_user_name">Vă rugăm introduceți numele de utilizator</string>
     <string name="error_console_eval_button_text">Evaluaţi</string>
     <string name="error_console_eval_text_hint">Evaluaţi JavaScript</string>
     <string name="error_console_header_text_maximized">Consolă JavaScript</string>
@@ -999,6 +1005,7 @@ Rețineți că fișierele pe care le descărcați și marcajele vor fi totuși s
     <string name="save_image_success">Imagine salvată</string>
     <string name="save_page_capture_tip">Deschideţi panoul notificărilor pentru a vizualiza captura de ecran.</string>
     <string name="save_page_capture_to_camera">Captură de ecran salvată</string>
+    <string name="save_to_bookmark">Salvați la semne de carte</string>
     <string name="save_to_camera">Salvaţi în Galerie</string>
     <string name="save_to_camera_failed">"Nu se poate salva imaginea"</string>
     <string name="save_to_camera_success">Salvată în Galerie</string>
@@ -1077,7 +1084,9 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="ssl_untrusted">Acest certificat nu provine de la o autoritate de încredere</string>
     <string name="ssl_warnings_header">Există unele probleme legate de certificatul de securitate al acestui site.</string>
     <string name="start_save_page_capture">Se salvează captura de ecran…</string>
+    <string name="storage_close">Închideți</string>
     <string name="storage_internal">Stocare internă</string>
+    <string name="storage_open">Deschideți</string>
     <string name="storage_permission_request_toast">"Aplicația de descărcare solicită accesul la stocarea dispozitivului"</string>
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>

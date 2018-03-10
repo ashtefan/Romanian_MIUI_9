@@ -662,7 +662,13 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="dlg_remove_whitelist">Eliminați aceste numere din lista excepțiilor?</string>
     <string name="dlg_remove_whitelist_ing">Eliminare…</string>
     <string name="dlg_remove_whitelist_title">Eliminați</string>
+    <string name="dlg_sec_network_unavailable">"Aplicația de Securitate nu s-a putut actualiza deoarece ați restricționat conexiunea la internet. Permiteți accesul la internet pentru aplicația de Securitate?"</string>
     <string name="dlg_title_not_open_stranger_identify">Identificare număr de telefon</string>
+    <string name="dlg_update_btn_contiue">Continuați</string>
+    <string name="dlg_update_btn_open">Permiteți</string>
+    <string name="dlg_update_data_content">"Nu sunteți conectat la Wi-Fi. Utilizarea datelor mobile poate genera costuri suplimentare. Continuați oricum?"</string>
+    <string name="dlg_update_date_title">Avertisment</string>
+    <string name="dlg_update_updating">Se actualizează…</string>
     <string name="dlg_white_address_antispam_message">Adăugați această locație în lista excepțiilor?</string>
     <string name="dlg_white_antispam_hint">Excepții</string>
     <string name="dlg_white_antispam_message">Adăugați acest număr în lista excepțiilor?</string>
@@ -1692,6 +1698,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sms_prefix">Blocare după prefix</string>
     <string name="sms_service">Blocare serviciu SMS</string>
     <string name="sms_smart_engine_update">Actualizare automată a filtrului pentru mesaje</string>
+    <string name="sms_smart_engine_update_now">Actualizați</string>
     <string name="sms_stranger_block">Blocare SMS-uri de la persoane necunoscute</string>
     <string name="sorted_dialog_title">Sortaţi după</string>
     <string name="sp_background_risk_dialog_summary">, analizați și remediați problemele referitoare la plăți.</string>
@@ -2073,6 +2080,10 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="toast_root_apply_reject">Acces root refuzat pentru %s</string>
     <string name="toast_set_success">Activat cu succes</string>
     <string name="toast_show_notification">Lipit în perdeaua de notificări</string>
+    <string name="toast_update_fail">"Nu s-a putut actualiza"</string>
+    <string name="toast_update_nonetwork">"Nu s-a putut conecta la rețea"</string>
+    <string name="toast_update_notneed">Actualizat</string>
+    <string name="toast_update_success">Actualizat cu succes</string>
     <string name="top_game">Jocuri de top</string>
     <string name="top_load_fail_detail">"Nu s-a putut încărca; atingeți pentru a încerca din nou"</string>
     <string name="top_no_network_detial">"Nu s-a putut încărca; verificați conexiunea de rețea și reîncercați"</string>
