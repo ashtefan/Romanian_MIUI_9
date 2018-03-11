@@ -443,10 +443,9 @@ Utilizați alt cont"</string>
     <string name="micloud_warn_full_title">Spaţiu epuizat</string>
     <string name="micloud_warn_low_sum">Mi Cloud este 90% plin.</string>
     <string name="micloud_warn_low_title">Spaţiu aproape epuizat</string>
-    <string name="micloud_web_discription">Vizitaţi i.mi.com</string>
     <string name="micloud_web_discription_01">Conectaţi-vă la i.mi.com</string>
     <string name="micloud_web_discription_02">pentru a stoca și accesa fișierele de oriunde</string>
-    <string name="micloud_web_discription_international">Vizitaţi www.mi.com/micloud</string>
+    <string name="micloud_web_discription_place_holder">Vizitați %1$s</string>
     <string name="micloud_website">Elemente în Mi Cloud</string>
     <string name="micloud_wipe_data_confirm_label">Ștergeți datele din Mi Cloud</string>
     <string name="micloud_wipe_data_confirm_title">Eliminați de pe telefon elementele sincronizate din Mi Cloud după ce vă deconectați?</string>

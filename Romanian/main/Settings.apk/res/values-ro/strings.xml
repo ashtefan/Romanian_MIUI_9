@@ -4848,7 +4848,7 @@ Amprentele salvate vor fi de asemenea eliminate din acest profil și nu veți ma
     <string name="untitled_apn">Fără titlu</string>
     <string name="update_new_version">Este disponibilă o actualizare</string>
     <string name="update_progress_for_updates">Actualizare (%s)</string>
-    <string name="upload_debug_log_summary">Informațiile pe care le colectăm pot include informații personale. Datele vor fi utilizate pentru localizarea și analizarea sistemului și nu vor fi folosite niciodată pentru identificarea dumneavoastră.</string>
+    <string name="upload_debug_log_summary">Statisticile de utilizare care ne ajută să localizăm și să rezolvăm problemele pot include informații personale</string>
     <string name="upload_debug_log_title">Trimiteți date de diagnosticare în mod automat</string>
     <string name="usage">Utilizare</string>
     <string name="usage_access">Acces la utilizare</string>
@@ -5004,7 +5004,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="user_exit_guest_dialog_remove">Eliminați</string>
     <string name="user_exit_guest_title">Eliminați contul vizitator</string>
     <string name="user_experience_program">Program Experiență Utilizator</string>
-    <string name="user_experience_program_summary">Ajutați-ne să îmbunătățim MIUI prin trimiterea datelor anonime de utilizare</string>
+    <string name="user_experience_program_summary">Ajutați-ne să îmbunătățim produsele și serviciile prin trimiterea datelor anonime de utilizare</string>
     <string name="user_experience_program_title">Program Experiență Utilizator</string>
     <string name="user_guest">Vizitator</string>
     <string name="user_image_choose_photo">Alegeți o fotografie din Galerie</string>

@@ -1643,6 +1643,7 @@ Contactaţi operatorul în cazul în care această problemă persistă."</string
     <string name="voicemail_abbreviated">MV:</string>
     <string name="voicemail_change_pin_dialog_title">Schimbați codul PIN</string>
     <string name="voicemail_default">Operatorul dumneavoastră</string>
+    <string name="voicemail_notification_vibrate_when_title">Vibrează</string>
     <string name="voicemail_notifications_preference_title">Notificări</string>
     <string name="voicemail_number_not_set">&lt;Nesetat&gt;</string>
     <string name="voicemail_provider">Servicii</string>

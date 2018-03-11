@@ -578,6 +578,7 @@
     <string name="tuesday_short">Ma</string>
     <string name="tuesday_shortest">M</string>
     <string name="user_agreement">Condiţii de utilizare</string>
+    <string name="user_experience_program">Programul Experiență Utilizator</string>
     <string name="user_manual">Manual de utilizare</string>
     <string name="web_sso_login_fail">Trebuie să vă reconectaţi</string>
     <string name="web_sso_login_message">Conectare…</string>
