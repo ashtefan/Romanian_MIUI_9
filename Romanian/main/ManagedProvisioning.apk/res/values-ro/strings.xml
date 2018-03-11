@@ -4,8 +4,8 @@
     <string name="access_links">Link-uri de acces</string>
     <string name="access_list_of_links">Accesați o listă de link-uri</string>
     <string name="access_terms">Termeni de acces</string>
-    <string name="admin_has_ability_to_monitor_device">"Administratorul dumneavoastră poate monitoriza și modifica setările, accesul la rețeaua corporației, aplicațiile și datele asociate acestui dispozitiv, inclusiv activitatea în rețea și locația dispozitivului."</string>
-    <string name="admin_has_ability_to_monitor_profile">"Administratorul dumneavoastră poate monitoriza și modifica setările, accesul la rețeaua corporației, aplicațiile și datele asociate acestui profil, inclusiv activitatea în rețea și locația dispozitivului."</string>
+    <string name="admin_has_ability_to_monitor_device">"Administratorul dumneavoastră poate monitoriza și gestiona setările, accesul la rețeaua corporației, aplicațiile, permisiunile și datele asociate acestui dispozitiv, inclusiv activitatea în rețea, precum și locația dispozitivului, istoricul de apelare și istoricul de căutare a contactelor.&lt;br&gt;&lt;br&gt;Contactați administratorul pentru mai multe informații, inclusiv politicile de confidențialitate ale companiei."</string>
+    <string name="admin_has_ability_to_monitor_profile">"Administratorul dumneavoastră poate monitoriza și gestiona setările, accesul la rețeaua corporației, aplicațiile, permisiunile și datele asociate acestui profil, inclusiv activitatea în rețea, precum și locația dispozitivului, istoricul de apelare și istoricul de căutare a contactelor.&lt;br&gt;&lt;br&gt;Contactați administratorul pentru mai multe informații, inclusiv politicile de confidențialitate ale companiei."</string>
     <string name="app_label">Setare profil Servici</string>
     <string name="cancel_delete_profile">Renunțare</string>
     <string name="cancel_provisioning">Renunțare</string>

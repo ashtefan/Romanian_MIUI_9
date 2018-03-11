@@ -298,6 +298,7 @@
     <string name="mul">×</string>
     <string name="mulDesc">înmulţire</string>
     <string name="name">Nume</string>
+    <string name="negDesc">Comutați între temperaturi negative și pozitive</string>
     <string name="network_confirm_content">Convertorul valutar și calculatorul de taxe și credite trebuie să se conecteze la internet și să acceseze serviciul de localizare a telefonului pentru a funcționa în mod normal.</string>
     <string name="network_confirm_title">Este necesară acordarea unor permisiuni</string>
     <string name="nickname">Pseudonim</string>

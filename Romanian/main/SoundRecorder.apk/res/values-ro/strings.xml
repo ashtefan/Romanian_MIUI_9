@@ -24,6 +24,7 @@
     <string name="deleting_message">Ştergere…</string>
     <string name="details">Detalii</string>
     <string name="dialog_content_storage_full">"Înregistrarea a fost oprită deoarece nu există spațiu de stocare suficient în memoria telefonului."</string>
+    <string name="dialog_privacy_revoke_tips">"După ce veți revoca autorizarea, aplicația nu va mai colecta date, iar toate datele vor fi șterse de pe servere. Acest lucru poate face aplicația virtual inutilizabilă. Revocați autorizarea oricum? Pentru a vă asigura securitatea contului, conectați-vă la to i.mi.com înainte de a revoca autorizarea pentru serviciile Mi Cloud."</string>
     <string name="dialog_title_storage_full">Spaţiu insuficient</string>
     <string name="duration_format_hour">%s h</string>
     <string name="duration_format_minute">%s m</string>

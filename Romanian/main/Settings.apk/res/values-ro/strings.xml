@@ -487,7 +487,7 @@ Ultima rulare pe %2$s"</string>
     <string name="backup_disabled">Creare copie de rezervă dezactivată</string>
     <string name="backup_erase_dialog_message">Opriţi crearea copiilor de rezervă pentru parolele Wi-Fi, marcaje, alte setări, datele aplicaţiilor şi ştergeţi toate copiile de pe serverele Google?</string>
     <string name="backup_erase_dialog_title" />
-    <string name="backup_inactive_title">"Serviciul de creare copii de rezervă nu este activ."</string>
+    <string name="backup_inactive_title">"Serviciul de creare copii de rezervă nu este activ"</string>
     <string name="backup_pw_cancel_button_text">Anulaţi</string>
     <string name="backup_pw_set_button_text">Setaţi parola pentru copia de rezervă</string>
     <string name="backup_section_title">Creaţi şi restabiliţi copii de rezervă</string>
@@ -994,6 +994,8 @@ Sample Rate"</string>
     <string name="carrier_enabled">Activaţi/dezactivaţi APN</string>
     <string name="carrier_enabled_summaryOff">APN dezactivat</string>
     <string name="carrier_enabled_summaryOn">APN activat</string>
+    <string name="carrier_show_in_lock_screen">Afișează doar în blocarea ecranului</string>
+    <string name="carrier_show_none">Nu afișa niciodată numele operatorului</string>
     <string name="category_personal">Personal</string>
     <string name="category_work">Servici</string>
     <string name="cdma_security_settings_summary">Setaţi Locaţia mea, deblocarea ecranului, blocarea stocării acreditărilor</string>
@@ -2595,7 +2597,9 @@ Sunt alți utilizatori pe acest dispozitiv.
     <string name="memory_settings_title">Memorie</string>
     <string name="memory_size">Spaţiu total</string>
     <string name="memory_summary">În medie %1$s din %2$s memorie utilizată</string>
-    <string name="memory_title">Disponibil %1$s\t\tTotal %2$s</string>
+    <string name="memory_system_rom">Stocare de sistem</string>
+    <string name="memory_system_space">Stocare de sistem</string>
+    <string name="memory_title">Disponibil: %1$s\u0009\u0009Total: %2$s</string>
     <string name="memory_usage">Utilizare memorie</string>
     <string name="memory_usage_apps">Memorie utilizată de către aplicații</string>
     <string name="memory_use_summary">%1$s memorie utilizată în medie în ultimele 3 ore</string>

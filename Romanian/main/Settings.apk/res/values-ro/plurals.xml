@@ -95,27 +95,27 @@
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Parola trebuie să conţină cel puţin %d litere.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin 1 literă.</item>
-     </plurals>
+    </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">Parola trebuie să conţină cel puţin %d minuscule.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin o minusculă.</item>
-     </plurals>
+    </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">Parola trebuie să conţină cel puţin %d caractere care să nu fie litere.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin 1 caracter care să nu fie o literă.</item>
-     </plurals>
+    </plurals>
     <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">Parola trebuie să conţină cel puţin %d cifre.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin 1 cifră.</item>
-     </plurals>
+    </plurals>
     <plurals name="lockpassword_password_requires_symbols">
         <item quantity="other">Parola trebuie să conţină cel puţin %d simboluri speciale.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin 1 simbol special.</item>
-     </plurals>
+    </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
         <item quantity="other">Parola trebuie să conţină cel puţin %d majuscule.</item>
         <item quantity="one">Parola trebuie să conţină cel puţin o majusculă.</item>
-     </plurals>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">Codul PIN trebuie să conțină %d cifre</item>
         <item quantity="one">Codul PIN trebuie să conțină %d cifră</item>
@@ -143,7 +143,7 @@
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d aplicații pot citi notificările</item>
         <item quantity="one">%d aplicație poate citi notificările</item>
-     </plurals>
+    </plurals>
     <plurals name="manage_trust_agents_summary_on">
         <item quantity="other">%d agenți de încredere activi</item>
         <item quantity="one">1 agent de încredere activ</item>
@@ -283,7 +283,7 @@ Pentru mai multe informații despre acest certificat, contactați administratoru
     <plurals name="zen_mode_summary_alarms_only_by_hour">
         <item quantity="other">Modifică la alarme pentru doar %1$d ore până la %2$s</item>
         <item quantity="one">la alarme pentru doar o oră până la %2$s</item>
-    </plurals>    
+    </plurals>
     <plurals name="zen_mode_summary_alarms_only_by_minute">
         <item quantity="other">Modifică la alarme pentru doar %1$d minute (până la %2$s)</item>
         <item quantity="one">Modifică la alarme pentru doar un minut până la %2$s</item>
