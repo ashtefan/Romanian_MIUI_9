@@ -394,9 +394,6 @@ pentru a scoate în evidență chipul persoanei."</string>
     <string name="pref_camera_snap_label_take_movie">Videoclip</string>
     <string name="pref_camera_snap_label_take_picture">Fotografie</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Nu se poate utiliza modul captură instantanee în timp  ce  \"Utilizarea butoanelor de volum pentru trezire\" este activă."</string>
-    <string name="pref_camera_snap_value_off">Oprit</string>
-    <string name="pref_camera_snap_value_take_movie">Film</string>
-    <string name="pref_camera_snap_value_take_picture">Fotografie</string>
     <string name="pref_camera_sound_title">Sunete cameră</string>
     <string name="pref_camera_square_mode_title">Pătrat</string>
     <string name="pref_camera_stereo_mode_title">Ajustare focalizare</string>
