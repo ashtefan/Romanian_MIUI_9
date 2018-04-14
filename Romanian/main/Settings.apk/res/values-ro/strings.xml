@@ -2908,7 +2908,6 @@ Selectaţi sistemul de operare de mai jos:"</string>
     <string name="notification_channels_other">Altele</string>
     <string name="notification_content_block_summary">Nu arăta niciodată notificări în umbră sau pe dispozitivele periferice</string>
     <string name="notification_content_block_title">Arată notificări</string>
-    <string name="notification_header_divider_symbol_with_spaces">" • "</string>
     <string name="notification_importance_blocked">Nu arăta niciodată notificări</string>
     <string name="notification_importance_default">Redă un sunet</string>
     <string name="notification_importance_default_title">Ridicată</string>
