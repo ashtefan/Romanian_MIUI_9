@@ -565,12 +565,8 @@ Pentru mai multe informații, contactați administratorul."</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
     <string name="power_charging_duration_ac">%1$s - %2$s până la încărcarea completă la CA</string>
-    <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-    <string name="power_charging_duration_short">%1$s - %2$s</string>
     <string name="power_charging_duration_usb">%1$s - %2$s până la încărcarea completă prin USB</string>
-    <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
     <string name="power_charging_duration_wireless">%1$s - %2$s până la încărcarea completă fără fir</string>
-    <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
     <string name="power_discharging_duration">%1$s - aprox. %2$s rămas</string>
     <string name="power_discharging_duration_short">%1$s - %2$s rămas</string>
     <string name="power_remaining_charging_duration_only">%1$s rămas până la încărcarea completă</string>
