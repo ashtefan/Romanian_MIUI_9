@@ -212,7 +212,6 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="enabled_by_admin">Activat de către admin</string>
     <string name="enable_webview_multiprocess">Multiprocess WebView</string>
     <string name="enable_webview_multiprocess_desc">Rulează randările WebView separat</string>
-    <string name="enabled_by_admin">Activat de către administrator</string>
     <string name="failed_to_open_app_settings_toast">Nu s-au putut accesa setările pentru %1$s</string>
     <string name="force_allow_on_external">Permiteți forțat scrierea aplicaților în memoria externă</string>
     <string name="force_allow_on_external_summary">Face posibilă scrierea oricărei aplicații în memoria externă, indiferent de valorile manifestate</string>
