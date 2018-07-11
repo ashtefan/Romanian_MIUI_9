@@ -325,6 +325,7 @@ pentru a vedea filele deschise pe alte dispozitive"</string>
     <string name="go_supermarket_title">Mai multe aplicații, viteză crescută și trafic de date mai redus în Magazinul Play</string>
     <string name="gold_medals">Medalii de aur</string>
     <string name="google_bookmarks">Google</string>
+    <string name="green_kid_block_request">Site-ul a fost reclamat de către părinții care l-au vizitat.</string>
     <string name="have_sent_bookmark_to_home_screen">Plasat pe ecranul de pornire</string>
     <string name="hint">Indiciu</string>
     <string name="history">Istoric</string>
@@ -1230,6 +1231,9 @@ Aplicația Browser trebuie să se conecteze la internet pentru a funcționa în 
     <string name="voice_connect_network">"Nu s-a putut conecta la rețea."</string>
     <string name="voice_description">Căutare vocală</string>
     <string name="voice_network_connection">Căutarea vocală trebuie să se conecteze la internet pentru a funcționa în mod normal.</string>
+    <string name="voice_open_permission_baidu">Mergeți la Setări și activați permisiunea de voce pentru Setările Recunoașterii vocale</string>
+    <string name="voice_open_permission_xiaoai">Mergeți la Setări și activați permisiunea de voce pentru Motorul Vocal Xiaoai</string>
+    <string name="voice_open_permission_xunfei">Mergeți la Setări și activați permisiunea de voce pentru Setările Vocale</string>
     <string name="voice_search_permission">Căutarea vocală trebuie să acceseze microfonul pentru a funcționa în mod normal.</string>
     <string name="voice_semantic_analysis">Browser-ul va putea analiza semantica după ce îi veți permite conectarea.</string>
     <string name="voice_start_description">Start</string>

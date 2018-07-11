@@ -60,7 +60,6 @@
          <item>Frecvența utilizării</item>
          <item>Spațiul utilizat</item>
          <item>Data instalării</item>
-         <item>Aplicații care nu pot fi dezinstalate</item>
     </string-array>
     <string-array name="sort_title">
         <item>Sortare după stare</item>
@@ -68,7 +67,6 @@
         <item>Sortare după frecvența utilizării</item>
         <item>Sortare după spațiul utilizat</item>
         <item>Sortare după data instalării</item>
-        <item>Arată aplicațiile care pot fi dezinstalate mai întâi</item>
     </string-array>
     <string-array name="title_app_info">
         <item>Sursa instalării</item>

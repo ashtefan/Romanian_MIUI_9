@@ -51,7 +51,12 @@
     <string name="app_process_limit_title">Limita proceselor în fundal</string>
     <string name="available_via_passpoint">Disponibil prin %1$s</string>
     <string name="battery_info_status_charging">Încărcare</string>
-    <string name="battery_info_status_charging_lower">se încarcă</string>
+    <string name="battery_info_status_charging_ac">Se încarcă la CA</string>
+    <string name="battery_info_status_charging_ac_short">Se încarcă</string>
+    <string name="battery_info_status_charging_usb">Se încarcă prin USB</string>
+    <string name="battery_info_status_charging_usb_short">Se încarcă</string>
+    <string name="battery_info_status_charging_wireless">Încărcare fără fir</string>
+    <string name="battery_info_status_charging_wireless_short">Se încarcă</string>
     <string name="battery_info_status_discharging">Nu se încarcă</string>
     <string name="battery_info_status_full">Complet</string>
     <string name="battery_info_status_not_charging">Nu se încarcă</string>
@@ -132,14 +137,14 @@ Sample Rate"</string>
     <string name="category_personal">Personal</string>
     <string name="category_work">Servici</string>
     <string name="charge_length_format">%1$s în urmă</string>
-    <string name="choose_profile">Selectați profilul</string>
+    <string name="choose_profile">Selectați Profilul</string>
     <string name="clear_adb_keys">Revocați autorizările de depanare USB</string>
     <string name="confirm_enable_oem_unlock_text">ATENȚIE: Caracteristicile de protecție a dispozitivului nu vor fi disponibile cât timp această setare este activă.</string>
     <string name="confirm_enable_oem_unlock_title">Permiteți deblocarea OEM?</string>
     <string name="connected_via_network_scorer">Conectat în mod automat via %1$s</string>
     <string name="connected_via_network_scorer_default">Conectat în mod automat via rețea furnizor</string>
     <string name="connected_via_passpoint">Conectat prin %1$s</string>
-    <string name="content_description_menu_button">Meniu</string>
+    <string name="connected_via_wfa">Conectat prin asistentul Wi-Fi</string>
     <string name="convert_to_fbe_warning">"Convertiți partiția de date la criptarea pe bază de fișier.
  !!Atenție!! Acest lucru va șterge toate datele.
  Această caracteristică este experimentală și poate funcționa incorect.
@@ -205,9 +210,9 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="enable_terminal_summary">Activați aplicația terminal care oferă acces la procesele locale</string>
     <string name="enable_terminal_title">Terminal local</string>
     <string name="enabled_by_admin">Activat de către admin</string>
-    <string name="external_source_trusted">Permis</string>
-    <string name="external_source_untrusted">Nepermis</string>
-    <string name="external_sources_settings">Setări</string>
+    <string name="enable_webview_multiprocess">Multiprocess WebView</string>
+    <string name="enable_webview_multiprocess_desc">Rulează randările WebView separat</string>
+    <string name="enabled_by_admin">Activat de către administrator</string>
     <string name="failed_to_open_app_settings_toast">Nu s-au putut accesa setările pentru %1$s</string>
     <string name="force_allow_on_external">Permiteți forțat scrierea aplicaților în memoria externă</string>
     <string name="force_allow_on_external_summary">Face posibilă scrierea oricărei aplicații în memoria externă, indiferent de valorile manifestate</string>
@@ -247,9 +252,9 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="install_done">Aplicaţie instalată</string>
     <string name="install_failed">Instalare eşuată</string>
     <string name="install_failed_blocked">Pachetul a fost blocat de la instalare.</string>
-    <string name="install_failed_conflict">Aplicația nu a fost instalată deoarece intră în conflict cu un pachet existent.</string>
-    <string name="install_failed_incompatible">"Aplicația nu a fost instalată deoarece nu este compatibilă cu telefonul dvs."</string>
-    <string name="install_failed_invalid_apk">Aplicația nu a fost instalată deoarece pachetul pare să fie nevalid.</string>
+    <string name="install_failed_conflict">Pachetul intră în conflict cu un pachet existent cu același nume.</string>
+    <string name="install_failed_incompatible">"Această aplicație nu este compatibilă cu telefonul dvs."</string>
+    <string name="install_failed_invalid_apk">Pachetul pare să fie corupt.</string>
     <string name="install_failed_msg">"%1$s nu a putut fi instalată pe telefonul dvs."</string>
     <string name="install_other_apps">Instalați aplicații necunoscute</string>
     <string name="installing">Se instalează…</string>
@@ -270,8 +275,8 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="lb_guidedactions_item_enabled_chevron_alpha">1,0</string>
     <string name="lb_guidedactions_item_unselected_description_text_alpha">0,5</string>
     <string name="lb_guidedactions_item_unselected_text_alpha">1,0</string>
-    <string name="lb_guidedactions_width_weight">0.71428573</string>
-    <string name="lb_guidedactions_width_weight_two_panels">1.1917808</string>
+    <string name="lb_guidedactions_width_weight">0.6666667</string>
+    <string name="lb_guidedactions_width_weight_two_panels">1.0</string>
     <string name="lb_guidedbuttonactions_width_weight">0.45</string>
     <string name="lb_guidedstep_height_weight">2,0</string>
     <string name="lb_guidedstep_height_weight_translucent">1,0</string>
@@ -310,6 +315,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="lb_search_bar_hint_speech">Rostiți pentru a căuta</string>
     <string name="lb_search_bar_hint_with_title">Căutați %1$s</string>
     <string name="lb_search_bar_hint_with_title_speech">Rostiți pentru a căuta %1$s</string>
+    <string name="legacy_dhcp_client_summary">Utilizați clientul DHCP din Lollipop în locul noului client Android DHCP.</string>
     <string name="loading">Încărcare…</string>
     <string name="local_backup_password_summary_change">Atingeți pentru a modifica sau elimina parola pentru copiile complete de rezervă</string>
     <string name="local_backup_password_summary_none">Copiile de rezervă complete nu sunt protejate în prezent</string>
@@ -320,7 +326,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="location_settings">Setări privind locația</string>
     <string name="location_warning">%1$s este un furnizor de servicii de localizare pentru acest dispozitiv. Accesul la locație poate fi modificat din setările privind locația.</string>
     <string name="manage_applications">Gestionaţi aplicaţiile</string>
-    <string name="manage_device_administrators">Gestionaţi aplicațiile administratori de dispozitiv</string>
+    <string name="manage_device_administrators">Gestionaţi administratorii dispozitivului</string>
     <string name="manage_users">Gestionați utilizatorii</string>
     <string name="managed_user_title">Toate aplicațiile de servici</string>
     <string name="media_category">Multimedia</string>
@@ -352,8 +358,8 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="overlay_display_devices_title">Simulare ecrane secundare</string>
     <string name="permdesc_togglePermissions">Permite proprietarului să lanseze interfața pentru comutarea permisiunilor aplicațiilor. Nu ar trebui să fie necesară pentru aplicațiile obișnuite.</string>
     <string name="permission_request_title">Solicitare de permisiune</string>
-    <string name="permission_review_title_template_install">Selectați ce anume doriți ca &lt;b&gt;%1$s&lt;/b&gt; să poată accesa</string>
-    <string name="permission_review_title_template_update">&lt;b&gt;%1$s&lt;/b&gt; a fost actualizată. Selectați ce anume doriți ca această aplicație să poată accesa.</string>
+    <string name="permission_review_title_template_install">Selectați ce anume doriți ca %1$s să poată accesa</string>
+    <string name="permission_review_title_template_update">%1$s a fost actualizată. Selectați ce anume doriți ca această aplicație să poată accesa.</string>
     <string name="permission_review_warning_title_template_update">%1$s a fost actualizată. Permiteți %1$s să acceseze următoarele?</string>
     <string name="permission_revoked_all">toate dezactivate</string>
     <string name="permission_revoked_count">%1$d dezactivată</string>
@@ -367,6 +373,9 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="pointer_location">Locația indicatorului</string>
     <string name="pointer_location_summary">Evidențiază atingerile ecranului</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
+    <string name="power_charging_duration_ac">%1$s - %2$s până la încărcarea completă de la CA</string>
+    <string name="power_charging_duration_usb">%1$s - %2$s până la încărcarea prin USB</string>
+    <string name="power_charging_duration_wireless">%1$s - %2$s până la încărcarea completă fără fir</string>
     <string name="power_discharging_duration">%1$s - aproximativ %2$s rămas</string>
     <string name="power_discharging_duration_short">%1$s - %2$s rămas</string>
     <string name="power_remaining_charging_duration_only">%1$s rămas până la încărcarea completă</string>
@@ -407,6 +416,8 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="settings">Setări</string>
     <string name="show_all_anrs">Afișați toate ANR-urile</string>
     <string name="show_all_anrs_summary">Afișează o fereastră de dialog pentru toate aplicațiile din fundal care nu răspund</string>
+    <string name="show_cpu_usage">Afișează utilizarea CPU</string>
+    <string name="show_cpu_usage_summary">Suprascrie pe ecran utilizarea curentă a CPU</string>
     <string name="show_hw_layers_updates">Afișează actualizarea straturilor hardware</string>
     <string name="show_hw_layers_updates_summary">Straturile hardware clipesc în verde la actualizare</string>
     <string name="show_hw_screen_updates">Afișează actualizările GPU</string>
@@ -465,7 +476,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="uninstall_activity_text">" %1$s face parte din următoarea aplicaţie: "</string>
     <string name="uninstall_all_blocked_profile_owner">Această aplicație este necesară pentru unii utilizatori și profiluri și a fost dezinstalată pentru alții</string>
     <string name="uninstall_application_text">Această aplicaţie va fi dezinstalată</string>
-    <string name="uninstall_application_text_all_users">Doriți să dezinstalați această aplicație pentru&lt;b&gt; toți&lt;/b&gt; utilizatorii? Aplicația și datele vor fi eliminate pentru&lt;b&gt; toți&lt;/b&gt; utilizatorii de pe telefon.</string>
+    <string name="uninstall_application_text_all_users">Doriți să dezinstalați această aplicație pentru &lt;b&gt;toți&lt;/b&gt; utilizatorii? Aplicația și datele vor fi eliminate pentru &lt;b&gt;toți&lt;/b&gt; utilizatorii de pe telefon.</string>
     <string name="uninstall_application_text_user">Doriți să dezinstalați această aplicație pentru utilizatorul %1$s?</string>
     <string name="uninstall_application_title">Dezinstalaţi aplicaţia</string>
     <string name="uninstall_blocked_device_owner">"Această aplicație este necesară administratorului dispozitivului și nu poate fi dezinstalată."</string>
@@ -474,8 +485,8 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="uninstall_done_app">S-a dezinstalat %1$s</string>
     <string name="uninstall_failed">Dezinstalare eşuată</string>
     <string name="uninstall_failed_app">Nu s-a putut dezinstala %1$s.</string>
-    <string name="uninstall_failed_device_policy_manager">"Nu se poate dezinstala aplicația activă de gestionare dispozitiv"</string>
-    <string name="uninstall_failed_device_policy_manager_of_user">"Nu se poate dezinstala aplicația activă de gestionare dispozitiv pentru %1$s"</string>
+    <string name="uninstall_failed_device_policy_manager">"Nu se poate dezinstala deoarece aest pachet este un administrator activ al dispozitivului"</string>
+    <string name="uninstall_failed_device_policy_manager_of_user">"Nu se poate dezinstala deoarece acest pachet este un administrator activ pentru utilizatorul %1$s"</string>
     <string name="uninstall_failed_msg">"%1$s nu a putut fi dezinstalată."</string>
     <string name="uninstall_failure_notification_channel">Dezinstalarea a eșuat</string>
     <string name="uninstall_update_text">Această aplicaţie va fi înlocuită cu versiunea MIUI</string>
@@ -486,6 +497,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="uninstalling_notification_channel">Dezinstalarea rulează</string>
     <string name="unknown">Necunoscut</string>
     <string name="unknown_apps_admin_dlg_text">"Administratorul nu permite instalarea aplicațiilor obținute din surse necunoscute."</string>
+    <string name="unknown_apps_dlg_text">Din motive de securitate, telefonul este configurat să blocheze instalarea aplicațiilor obținute din surse necunoscute.</string>
     <string name="unknown_apps_user_restriction_dlg_text">"Aplicațiile necunoscute nu pot fi instalate de către acest utilizator"</string>
     <string name="untrusted_external_source_warning">Pentru siguranța dumneavoastră, nu se pot instala aplicații necunoscute din această sursă pe telefon.</string>
     <string name="usb_audio_disable_routing">Dezactivați rutarea audio USB</string>
@@ -522,7 +534,7 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_network_prefix_length_hint">24</string>
-    <string name="wifi_no_internet">Fără acces la Internet</string>
+    <string name="wifi_no_internet">"Fără acces la Internet; nu se va reconecta în mod automat."</string>
     <string name="wifi_no_internet_no_reconnect">"Nu se va conecta în mod automat"</string>
     <string name="wifi_not_in_range">Nu este în raza de acțiune</string>
     <string name="wifi_remembered">Salvată</string>

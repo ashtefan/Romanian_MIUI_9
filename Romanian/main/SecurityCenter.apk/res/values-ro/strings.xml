@@ -236,6 +236,7 @@
     <string name="app_manager_system_mobile_disable">Opriți datele mobile</string>
     <string name="app_manager_title">Gestionare aplicații</string>
     <string name="app_manager_total_size">Total</string>
+    <string name="app_manager_uninstall">Dezinstalați</string>
     <string name="app_manager_uninstall_protected_dlg_msg">Dezinstalarea aplicațiilor de sistem poate împiedica buna funcționare a unor componente MIUI. Dezinstalați oricum?</string>
     <string name="app_manager_uninstall_protected_dlg_title">Dezinstalare aplicații de sistem</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Aplicațiile clonate corespunzătoare vor fi eliminate împreună cu datele aplicației.</string>
@@ -790,7 +791,20 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="gb_description_image_button_answer">Răspundeți</string>
     <string name="gb_description_image_button_reject">Respingeți</string>
     <string name="gb_description_image_button_video_answer">Apel video</string>
+    <string name="gb_get_gift_right_now">Verificați acum</string>
+    <string name="gb_have_signed">Verificat astăzi</string>
+    <string name="gb_network_status_bad">A apărut o eroare de conexiune.</string>
     <string name="gb_new_feature">Caracteristică nouă</string>
+    <string name="gb_sign_gift">Verificați pentru a primi recompense</string>
+    <string name="gb_sign_gift_button_text">Primiți</string>
+    <string name="gb_sign_notification_summary">Verificați zilnic pentru a obține creștere Xunyou</string>
+    <string name="gb_sign_notification_title">Creșteți viteza rețelei pentru jocuri</string>
+    <string name="gb_signed_gift_loading_fail">"Nu s-a putut încărca"</string>
+    <string name="gb_signed_gift_loading_summary">Doar o secundă…</string>
+    <string name="gb_signed_title">Verificat luna aceasta</string>
+    <string name="gb_xunyou_gift_type_one">O zi de accelerare Xunyou</string>
+    <string name="gb_xunyou_gift_type_three">3 zile de accelerare Xunyou</string>
+    <string name="gb_xunyou_gift_type_two">2 zile de accelerare Xunyou</string>
     <string name="gdpr_msg">&lt;Data&gt;"Pentru a utiliza caracteristicile de bază ale aplicației de Securitate, trebuie să fiți de acord ca Xiaomi să colecteze, să proceseze și să utilizeze datele dvs. personale, inclusiv informații despre modul în care utilizați caracteristicile aplicației(e.g., utilizarea datelor, informații despre viruși, ca și informațiile de bază despre dispozitivul dvs.) și alte tipuri de informații stipulate în &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
@@ -819,8 +833,10 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="gs_game_shortcut">Îmbunătățiți experiența de joc</string>
     <string name="gs_only_self_start_for_list">Restricționați procesele din fundal pentru a economisi acumulatorul pentru jocuri</string>
     <string name="gs_open_game_booster">Creștere viteză</string>
+    <string name="gs_open_game_booster_summary">Creșteți viteza rețelei pentru jocuri</string>
     <string name="gs_performance_mode">Mod performanță</string>
     <string name="gs_performance_mode_detail">Creșteți utilizarea procesorului pentru a asigura o performanță sporită</string>
+    <string name="gs_sign_notification">Amintește-mi să verific în fiecare zi la ora 20.00</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operator eronat?&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="guide_operator_text">"Operatorul dvs. curent este: "</string>
     <string name="guide_quck_open">Activați</string>
@@ -1151,21 +1167,21 @@ răspunsul operatorului"</string>
     <string name="network_roaming_exception_tips">Nu se pot utiliza datele mobile în roaming pentru conectare la rețea</string>
     <string name="network_route_exception_detail">"Este posibil să existe o problemă cu router-ul la care sunteţi conectat:
 
- "&lt;b&gt;"1. Probleme de rețea publică Wi-Fi
-"&lt;/b&gt;"Dacă sunteți conectat la o rețea publică Wi-Fi, numărul utilizatorilor conectați la acea rețea pot reduce viteza sau crea probleme de conectivitate. Conectați-vă la altă rețea și încercați din nou.
+ "&lt;b&gt;1. Probleme de rețea publică Wi-Fi&lt;/b&gt;"
+Dacă sunteți conectat la o rețea publică Wi-Fi, numărul utilizatorilor conectați la acea rețea pot reduce viteza sau crea probleme de conectivitate. Conectați-vă la altă rețea și încercați din nou.
 
- 2."&lt;b&gt;" Probleme de furnizor servicii internet
-A"&lt;/b&gt;"sigurați-vă că nu aveţi contul suspendat de către furnizorul de servicii de internet.
+ "&lt;b&gt;2. Probleme de furnizor servicii internet&lt;/b&gt;"
+Asigurați-vă că nu aveţi contul suspendat de către furnizorul de servicii de internet.
 
- 3."&lt;b&gt;" Probleme hardware router
+ "&lt;b&gt;3.  Probleme hardware router&lt;/b&gt;"
 
-Î"&lt;/b&gt;"ncercați repornirea router-ului sau verificarea setărilor admin pentru router.
- 4."&lt;b&gt;" Alte probleme legate de router
-C"&lt;/b&gt;"itiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurarea din fabrică.
+Încercați repornirea router-ului sau verificarea setărilor admin pentru router.
+ "&lt;b&gt;4. Alte probleme legate de router&lt;/b&gt;"
+Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurarea din fabrică.
 
 
- 5."&lt;b&gt;" Asigurați-vă că routerul este conectat corect
-Î"&lt;/b&gt;"ncercați să utilizaţi un alt cablu Ethernet pentru a conecta router-ul. Dacă bănuiți că este o problemă cu conexiunea reţelei din locaţia dvs., contactați furnizorul de servicii de internet."</string>
+ "&lt;b&gt;5. Asigurați-vă că routerul este conectat corect&lt;/b&gt;"
+Încercați să utilizaţi un alt cablu Ethernet pentru a conecta router-ul. Dacă bănuiți că este o problemă cu conexiunea reţelei din locaţia dvs., contactați furnizorul de servicii de internet."</string>
     <string name="network_sim_exception_detail">"Este posibil să existe o problemă cu cartela SIM:
 
 1. Asigurați-vă că nu aveţi contul suspendat de către furnizorul de servicii de internet. Încercați să utilizaţi cartela SIM a unui prieten pentru a vedea dacă telefonul se conectează în mod normal.
@@ -1675,6 +1691,10 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="shutdown_cancel_reminder_detail2">"Se pare că jucați un joc acum. Oprirea automată este anulată."</string>
     <string name="signal_exception_summary">Nu se poate conecta la rețea în această zonă.</string>
     <string name="signal_exception_title">Testare putere semnal</string>
+    <string name="signed_rule">Reguli</string>
+    <string name="signed_rule_one">1. Verificați câte 10, 20 sau 28 zile la rând într-o lună pentru a primi o accelerare Xunyou pentru 1, 2, respectiv 3 zile.</string>
+    <string name="signed_rule_three">"3. Zilele în care verificați se vor anula la începutul fiecărei luni. Zilele rămase nu se reportează."</string>
+    <string name="signed_rule_two">2. Puteți obține doar o accelerare Xunyou per lună.</string>
     <string name="sim_location_diagnostic">Diagnosticare locație</string>
     <string name="sim_location_error_dialog_message">"Cartela SIM pe care o utilizați este din %1$s. Aceasta este diferită de locația setată manual(%2$s). Schimbați locația SIM-ului la %3$s?"</string>
     <string name="sim_location_error_notify_message">Apăsați pentru a schimba locația cartelei SIM.</string>

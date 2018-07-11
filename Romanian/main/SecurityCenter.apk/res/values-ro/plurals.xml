@@ -83,15 +83,15 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d zile "</item>
         <item quantity="one">"%d zi "</item>
-     </plurals>
+    </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ore "</item>
         <item quantity="one">"%d oră "</item>
-     </plurals>
+    </plurals>
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d minute "</item>
         <item quantity="one">"%d minut "</item>
-     </plurals>
+    </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">În %1$d minute</item>
         <item quantity="one">În %1$d minut</item>
@@ -173,27 +173,27 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d aplicații pot să pornească automat</item>
         <item quantity="one">%d aplicație poate să pornească automat</item>
-     </plurals>
+    </plurals>
     <plurals name="hints_auto_start_disable_title">
         <item quantity="other">%d aplicații nu au voie să pornească automat</item>
         <item quantity="one">%d aplicație nu are voie să pornească automat</item>
-     </plurals>
+    </plurals>
     <plurals name="hints_apps_perm_count">
         <item quantity="other">%d permisiuni</item>
         <item quantity="one">%d permisiune</item>
-     </plurals>
+    </plurals>
     <plurals name="hints_permission_apps_count">
         <item quantity="other">%d aplicaţii</item>
         <item quantity="one">%d aplicaţie</item>
-     </plurals>
+    </plurals>
     <plurals name="hints_get_root_enable_title">
         <item quantity="other">%d aplicații au acces root</item>
         <item quantity="one">%d aplicație are acces root</item>
-     </plurals>
+    </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">%d aplicații nu au acces root</item>
         <item quantity="one">%d aplicație nu are acces root</item>
-     </plurals>
+    </plurals>
     <plurals name="manual_white_list_header">
         <item quantity="other">%d excepții</item>
         <item quantity="one">%d excepție</item>
@@ -205,7 +205,7 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="summary_app_update">
         <item quantity="other">Actualizări disponibile pentru %d aplicaţii.</item>
         <item quantity="one">Actualizare disponibilă pentru %d aplicaţie.</item>
-     </plurals>
+    </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d zile de la ultima verificare</item>
         <item quantity="one">%d zi de la ultima verificare</item>
@@ -310,5 +310,9 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d zile rămase până când expiră sesiunea de Creștere a vitezei rețelei. Reînnoiți sesiunea pentru a evita problemele legate de viteza rețelei.</item>
         <item quantity="one">%d zi rămasă până când expiră sesiunea de Creștere a vitezei rețelei. Reînnoiți sesiunea pentru a evita problemele legate de viteza rețelei.</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">Verificat %d zile la rând</item>
+        <item quantity="one">Verificat %d dată</item>
     </plurals>
 </resources>

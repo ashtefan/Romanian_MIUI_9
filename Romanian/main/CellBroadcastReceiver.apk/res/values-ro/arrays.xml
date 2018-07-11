@@ -3,7 +3,6 @@
     <string-array name="alert_reminder_interval_entries">
         <item>O dată</item>
         <item>La fiecare 2 minute</item>
-        <item>La fiecare 5 minute</item>
         <item>La fiecare 15 minute</item>
         <item>Dezactivat</item>
     </string-array>

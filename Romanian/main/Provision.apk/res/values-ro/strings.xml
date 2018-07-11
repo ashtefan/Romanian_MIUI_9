@@ -50,10 +50,11 @@
     <string name="other_settings_auto_update_summary">MIUI va selecta ora cea mai potrivită pentru instalarea actualizărilor.</string>
     <string name="other_settings_location">Locaţie</string>
     <string name="other_settings_location_summary">Permiteți aplicațiilor să vă acceseze locația.</string>
-    <string name="other_settings_upload_debug_log_summary">Informațiile colectate vor fi utilizate pentru localizarea și analizarea problemelor de sistem și pot conține date personale. Aceste date nu vor fi folosite pentru a vă identifica.</string>
+    <string name="other_settings_upload_debug_log_summary">Statisticile de utilizare care ne ajută să localizăm și să rezolvăm problemele apărute pot conține informații personale</string>
     <string name="other_settings_upload_debug_log_title">Trimiteți date de diagnosticare în mod automat</string>
     <string name="other_settings_user_experience">Programul Experiență Utilizator</string>
-    <string name="other_settings_user_experience_summary">Ajutați la îmbunătățirea produselor și a serviciilor pe care vi le oferim prin trimiterea datelor de utilizare anonime.</string>
+    <string name="other_settings_user_experience_summary">Ajutați la îmbunătățirea produselor și a serviciilor pe care vi le oferim prin trimiterea datelor de utilizare anonime. Detalii</string>
+    <string name="other_settings_user_experience_summary_index">Detalii</string>
     <string name="pref_title_data_slot">Cartela SIM preferată pentru date</string>
     <string name="pref_title_voice_slot">Cartela SIM preferată pentru voce</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
