@@ -6,7 +6,6 @@
     <string name="activity_parse_video_title">Lipiți link-ul videoclipului</string>
     <string name="ad_download">Descărcare</string>
     <string name="ad_downloading">Încărcare…</string>
-    <string name="add_one">+1</string>
     <string name="add_private">Adăugaţi fișiere în dosare secrete</string>
     <string name="add_private_files">Adăugaţi fișiere</string>
     <string name="album_creator">Creat de %s</string>
@@ -769,9 +768,7 @@
     <string name="video_publish_watchable_tag">Urmăriți-mă pentru a putea vedea acest videoclip</string>
     <string name="video_status_reject">Respins</string>
     <string name="video_status_review">În curs de revizuire</string>
-    <string name="video_tag">\# %s #</string>
     <string name="video_tag_search_hint">Personalizați conținutul</string>
-    <string name="video_tag_search_lead">\#</string>
     <string name="video_tag_search_title">Selectați conținutul</string>
     <string name="video_topic_hint">Căutați persoane sau subiecte</string>
     <string name="video_upload_btn">Următorul</string>

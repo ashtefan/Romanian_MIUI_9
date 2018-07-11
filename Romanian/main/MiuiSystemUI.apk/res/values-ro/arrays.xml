@@ -261,15 +261,6 @@
         <item>Digi</item>
         <item>Digi 3G</item>
     </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>ICA %1$s</item>
-        <item>ICA %1$s</item>
-        <item>ICA %1$s</item>
-        <item>ICA %1$s</item>
-        <item>ICA %1$s</item>
-        <item>ICA %1$s</item>
-        <item>ICA %1$s</item>
-    </string-array>
     <string-array name="weather_type">
         <item>Însorit</item>
         <item>Înnorat</item>
